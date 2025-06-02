@@ -23,7 +23,6 @@ const countries = [
 
 // URLs for M3U playlist lists from GitHub
 const GITHUB_URL_SOURCES = [
-    'https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/fullLink.txt',
     'https://raw.githubusercontent.com/patr0nq/link/refs/heads/main/randomurl.txt'
 ];
 
