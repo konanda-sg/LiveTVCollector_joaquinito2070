@@ -262,6 +262,10 @@ def main():
         "https://raw.githubusercontent.com/gambiarras/legal-iptv/refs/heads/main/playlist.m3u",
         "https://raw.githubusercontent.com/Novantama/IPTV/refs/heads/Main/Playlist/AllWorld.m3u",
         "https://raw.githubusercontent.com/altn2025/iptv/refs/heads/main/international.m3u",
+        "https://github.com/Free-TV/IPTV/raw/refs/heads/master/playlist.m3u8",
+        "http://transponder.petervanderlaan.nl/tv.m3u",
+        "http://transponder.petervanderlaan.nl/radio.m3u",
+        "https://iptv-org.github.io/iptv/index.m3u",
     ]
 
     # Set check_links=False for super speed, True for accuracy
