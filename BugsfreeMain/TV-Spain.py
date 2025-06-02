@@ -260,6 +260,12 @@ def main():
         "https://raw.githubusercontent.com/ahmedkassem2004/M3U-player/refs/heads/main/playlist.m3u",
         "https://raw.githubusercontent.com/Sunstar16/FULL-IPTV-CHANNEL-PLAYLIST/refs/heads/main/Main%20Necessary%20Channels.m3u",
         "https://iptv-org.github.io/iptv/countries/es.m3u",
+        "https://www.tdtchannels.com/lists/tvradio_mpd.m3u8",
+        "https://github.com/Free-TV/IPTV/raw/refs/heads/master/playlists/playlist_spain.m3u8",
+        "https://github.com/Free-TV/IPTV/raw/refs/heads/master/playlists/playlist_spain_vod.m3u8",
+        "https://github.com/Free-TV/IPTV/raw/refs/heads/master/playlist.m3u8",
+        "http://transponder.petervanderlaan.nl/tv.m3u",
+        "http://transponder.petervanderlaan.nl/radio.m3u",
     ]
 
     # Set check_links=False for super speed, True for accuracy
