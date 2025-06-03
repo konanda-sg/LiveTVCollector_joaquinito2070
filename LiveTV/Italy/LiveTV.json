@@ -1,5 +1,5 @@
 {
-  "date": "2025-06-03 15:58:01",
+  "date": "2025-06-03 18:07:09",
   "channels": {
     "Music": [
       {
@@ -2908,6 +2908,97 @@
         "group": "Rai",
         "source": "https://raw.githubusercontent.com/gRullo/italym3u/refs/heads/main/italy.m3u",
         "url": "http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=16"
+      },
+      {
+        "name": "Rai 1",
+        "logo": "https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai1.png",
+        "group": "Rai",
+        "source": "https://github.com/Tundrak/IPTV-Italia/raw/refs/heads/main/iptvitaplus.m3u",
+        "url": "http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=7&forceUserAgent=raiplayappletv"
+      },
+      {
+        "name": "Rai 2",
+        "logo": "https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai2.png",
+        "group": "Rai",
+        "source": "https://github.com/Tundrak/IPTV-Italia/raw/refs/heads/main/iptvitaplus.m3u",
+        "url": "http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718&output=7&forceUserAgent=raiplayappletv"
+      },
+      {
+        "name": "Rai 3",
+        "logo": "https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai3.png",
+        "group": "Rai",
+        "source": "https://github.com/Tundrak/IPTV-Italia/raw/refs/heads/main/iptvitaplus.m3u",
+        "url": "http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709&output=7&forceUserAgent=raiplayappletv"
+      },
+      {
+        "name": "Rai 4",
+        "logo": "https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai4.png",
+        "group": "Rai",
+        "source": "https://github.com/Tundrak/IPTV-Italia/raw/refs/heads/main/iptvitaplus.m3u",
+        "url": "http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966&output=7&forceUserAgent=raiplayappletv"
+      },
+      {
+        "name": "Rai 5",
+        "logo": "https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rai5.png",
+        "group": "Rai",
+        "source": "https://github.com/Tundrak/IPTV-Italia/raw/refs/heads/main/iptvitaplus.m3u",
+        "url": "http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276&output=7&forceUserAgent=raiplayappletv"
+      },
+      {
+        "name": "Rai Movie",
+        "logo": "https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/raimovie.png",
+        "group": "Rai",
+        "source": "https://github.com/Tundrak/IPTV-Italia/raw/refs/heads/main/iptvitaplus.m3u",
+        "url": "http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002&output=7&forceUserAgent=raiplayappletv"
+      },
+      {
+        "name": "Rai Premium",
+        "logo": "https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/raipremium.png",
+        "group": "Rai",
+        "source": "https://github.com/Tundrak/IPTV-Italia/raw/refs/heads/main/iptvitaplus.m3u",
+        "url": "http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992&output=7&forceUserAgent=raiplayappletv"
+      },
+      {
+        "name": "Rai Gulp",
+        "logo": "https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/raigulp.png",
+        "group": "Rai",
+        "source": "https://github.com/Tundrak/IPTV-Italia/raw/refs/heads/main/iptvitaplus.m3u",
+        "url": "http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953&output=7&forceUserAgent=raiplayappletv"
+      },
+      {
+        "name": "Rai Yoyo",
+        "logo": "https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/raiyoyo.png",
+        "group": "Rai",
+        "source": "https://github.com/Tundrak/IPTV-Italia/raw/refs/heads/main/iptvitaplus.m3u",
+        "url": "http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899&output=7&forceUserAgent=raiplayappletv"
+      },
+      {
+        "name": "Rai News 24",
+        "logo": "https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rainews24.png",
+        "group": "Rai",
+        "source": "https://github.com/Tundrak/IPTV-Italia/raw/refs/heads/main/iptvitaplus.m3u",
+        "url": "http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1&output=7&forceUserAgent=raiplayappletv"
+      },
+      {
+        "name": "Rai Storia",
+        "logo": "https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/raistoria.png",
+        "group": "Rai",
+        "source": "https://github.com/Tundrak/IPTV-Italia/raw/refs/heads/main/iptvitaplus.m3u",
+        "url": "http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990&output=7&forceUserAgent=raiplayappletv"
+      },
+      {
+        "name": "Rai Scuola",
+        "logo": "https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/raiscuola.png",
+        "group": "Rai",
+        "source": "https://github.com/Tundrak/IPTV-Italia/raw/refs/heads/main/iptvitaplus.m3u",
+        "url": "http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011&output=7&forceUserAgent=raiplayappletv"
+      },
+      {
+        "name": "Rai Sport + HD",
+        "logo": "https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/raisport+hd.png",
+        "group": "Rai",
+        "source": "https://github.com/Tundrak/IPTV-Italia/raw/refs/heads/main/iptvitaplus.m3u",
+        "url": "http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=7&forceUserAgent=raiplayappletv"
       }
     ],
     "Mediaset": [
@@ -3275,6 +3366,41 @@
         "group": "Radio",
         "source": "https://raw.githubusercontent.com/gRullo/italym3u/refs/heads/main/italy.m3u",
         "url": "https://stream.radioseriea.com/50773f0d0070476a8612d9984c6059d8/index.m3u8"
+      },
+      {
+        "name": "Radio 105 TV",
+        "logo": "https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/radio105tv.png",
+        "group": "Radio",
+        "source": "https://github.com/Tundrak/IPTV-Italia/raw/refs/heads/main/iptvitaplus.m3u",
+        "url": "https://live03-col.msr.cdn.mediaset.net/live/ch-ec/ec-clr.isml/manifest.mpd"
+      },
+      {
+        "name": "R101 TV",
+        "logo": "https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/r101tv.png",
+        "group": "Radio",
+        "source": "https://github.com/Tundrak/IPTV-Italia/raw/refs/heads/main/iptvitaplus.m3u",
+        "url": "https://live03-col.msr.cdn.mediaset.net/live/ch-er/er-clr.isml/manifest.mpd"
+      },
+      {
+        "name": "Rai Radio 2 Visual",
+        "logo": "https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/rairadio2visual.png",
+        "group": "Radio",
+        "source": "https://github.com/Tundrak/IPTV-Italia/raw/refs/heads/main/iptvitaplus.m3u",
+        "url": "http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=5674080&output=7&forceUserAgent=raiplayappletv"
+      },
+      {
+        "name": "VIRGIN RADIO",
+        "logo": "https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/virginradiotv.png",
+        "group": "Radio",
+        "source": "https://github.com/Tundrak/IPTV-Italia/raw/refs/heads/main/iptvitaplus.m3u",
+        "url": "https://live03-col.msr.cdn.mediaset.net/live/ch-ew/ew-clr.isml/manifest.mpd"
+      },
+      {
+        "name": "Radio Montecarlo TV",
+        "logo": "https://cdn.jsdelivr.net/gh/Tundrak/IPTV-Italia/logos/radiomontecarlotv.png",
+        "group": "Radio",
+        "source": "https://github.com/Tundrak/IPTV-Italia/raw/refs/heads/main/iptvitaplus.m3u",
+        "url": "https://live03-col.msr.cdn.mediaset.net/live/ch-bb/bb-clr.isml/manifest.mpd"
       }
     ],
     "film": [
@@ -6369,6 +6495,561 @@
         "group": "Italy",
         "source": "https://github.com/Free-TV/IPTV/raw/refs/heads/master/playlists/playlist_italy.m3u8",
         "url": "https://www.twitch.tv/teleradiostereo"
+      }
+    ],
+    "Uncategorized": [
+      {
+        "name": "Rai Radio 1",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://github.com/Tundrak/IPTV-Italia/raw/refs/heads/main/ipradioita.m3u",
+        "url": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=162834&output=16"
+      },
+      {
+        "name": "Rai Radio 2",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://github.com/Tundrak/IPTV-Italia/raw/refs/heads/main/ipradioita.m3u",
+        "url": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=162063&output=16"
+      },
+      {
+        "name": "Rai Radio 3",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://github.com/Tundrak/IPTV-Italia/raw/refs/heads/main/ipradioita.m3u",
+        "url": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=162841&output=16"
+      },
+      {
+        "name": "Rai Isoradio",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://github.com/Tundrak/IPTV-Italia/raw/refs/heads/main/ipradioita.m3u",
+        "url": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=173875&output=16"
+      },
+      {
+        "name": "[DAB] Rai Radio 1 Sport",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://github.com/Tundrak/IPTV-Italia/raw/refs/heads/main/ipradioita.m3u",
+        "url": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=8842124&output=16"
+      },
+      {
+        "name": "[DAB] Rai Radio 3 Classica",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://github.com/Tundrak/IPTV-Italia/raw/refs/heads/main/ipradioita.m3u",
+        "url": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=173832&output=16"
+      },
+      {
+        "name": "[DAB] No Name Radio",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://github.com/Tundrak/IPTV-Italia/raw/refs/heads/main/ipradioita.m3u",
+        "url": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=8842169&output=16"
+      },
+      {
+        "name": "[DAB] Rai Radio Kids",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://github.com/Tundrak/IPTV-Italia/raw/refs/heads/main/ipradioita.m3u",
+        "url": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=174086&output=16"
+      },
+      {
+        "name": "[DAB] Rai Radio Live Napoli",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://github.com/Tundrak/IPTV-Italia/raw/refs/heads/main/ipradioita.m3u",
+        "url": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=174083&output=16"
+      },
+      {
+        "name": "[DAB] Rai Radio Techetè",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://github.com/Tundrak/IPTV-Italia/raw/refs/heads/main/ipradioita.m3u",
+        "url": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=174078&output=16"
+      },
+      {
+        "name": "[DAB] Rai Radio Tutta Italiana",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://github.com/Tundrak/IPTV-Italia/raw/refs/heads/main/ipradioita.m3u",
+        "url": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=173799&output=16"
+      },
+      {
+        "name": "[DAB] Rai GRParlamento",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://github.com/Tundrak/IPTV-Italia/raw/refs/heads/main/ipradioita.m3u",
+        "url": "https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=173879&output=16"
+      },
+      {
+        "name": "Radio Sportiva",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://github.com/Tundrak/IPTV-Italia/raw/refs/heads/main/ipradioita.m3u",
+        "url": "https://sportiva.inmystream.it/stream/sportiva"
+      },
+      {
+        "name": "RTL 102.5",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://github.com/Tundrak/IPTV-Italia/raw/refs/heads/main/ipradioita.m3u",
+        "url": "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_audio.m3u8"
+      },
+      {
+        "name": "Radio Freccia",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://github.com/Tundrak/IPTV-Italia/raw/refs/heads/main/ipradioita.m3u",
+        "url": "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist_audio.m3u8"
+      },
+      {
+        "name": "Radio Zeta",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://github.com/Tundrak/IPTV-Italia/raw/refs/heads/main/ipradioita.m3u",
+        "url": "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist_audio.m3u8"
+      },
+      {
+        "name": "[DAB] RTL 102.5 Best",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://github.com/Tundrak/IPTV-Italia/raw/refs/heads/main/ipradioita.m3u",
+        "url": "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S76960628/OEPHRUIctA0M/playlist_audio.m3u8"
+      },
+      {
+        "name": "[DAB] RTL 102.5 Bro&Sis",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://github.com/Tundrak/IPTV-Italia/raw/refs/heads/main/ipradioita.m3u",
+        "url": "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S75007890/MUGHuxc9dQ3b/playlist_audio.m3u8"
+      },
+      {
+        "name": "[DAB] RTL 102.5 Romeo&Juliet",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://github.com/Tundrak/IPTV-Italia/raw/refs/heads/main/ipradioita.m3u",
+        "url": "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S8448465/zTYa1Z5Op9ue/playlist_audio.m3u8"
+      },
+      {
+        "name": "[DAB] RTL 102.5 Napulè",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://github.com/Tundrak/IPTV-Italia/raw/refs/heads/main/ipradioita.m3u",
+        "url": "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S27134503/0f9AhuwKlhnZ/playlist_audio.m3u8"
+      },
+      {
+        "name": "[DAB] RTL 102.5 Doc",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://github.com/Tundrak/IPTV-Italia/raw/refs/heads/main/ipradioita.m3u",
+        "url": "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S51100361/0Fb4R3k82b5Z/playlist_audio.m3u8"
+      },
+      {
+        "name": "[DAB] RTL 102.5 News",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://github.com/Tundrak/IPTV-Italia/raw/refs/heads/main/ipradioita.m3u",
+        "url": "https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/playlist_audio.m3u8"
+      },
+      {
+        "name": "Virgin Radio",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://github.com/Tundrak/IPTV-Italia/raw/refs/heads/main/ipradioita.m3u",
+        "url": "https://icy.unitedradio.it/Virgin.mp3"
+      },
+      {
+        "name": "[Web] Virgin Radio Classic Rock",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://github.com/Tundrak/IPTV-Italia/raw/refs/heads/main/ipradioita.m3u",
+        "url": "https://icy.unitedradio.it/VirginRockClassics.mp3"
+      },
+      {
+        "name": "[Web] Virgin Radio Rock Hits",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://github.com/Tundrak/IPTV-Italia/raw/refs/heads/main/ipradioita.m3u",
+        "url": "https://icy.unitedradio.it/VirginRockHits.mp3"
+      },
+      {
+        "name": "[Web] Virgin Radio Rock Ballads",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://github.com/Tundrak/IPTV-Italia/raw/refs/heads/main/ipradioita.m3u",
+        "url": "https://icy.unitedradio.it/Virgin_06.mp3"
+      },
+      {
+        "name": "[Web] Virgin Radio Rock '70",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://github.com/Tundrak/IPTV-Italia/raw/refs/heads/main/ipradioita.m3u",
+        "url": "https://icy.unitedradio.it/VirginRock70.mp3"
+      },
+      {
+        "name": "[Web] Virgin Radio Rock '80",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://github.com/Tundrak/IPTV-Italia/raw/refs/heads/main/ipradioita.m3u",
+        "url": "https://icy.unitedradio.it/VirginRock80.mp3"
+      },
+      {
+        "name": "[Web] Virgin Radio Rock '90",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://github.com/Tundrak/IPTV-Italia/raw/refs/heads/main/ipradioita.m3u",
+        "url": "https://icy.unitedradio.it/Virgin_03.mp3"
+      },
+      {
+        "name": "[Web] Virgin Radio Rock 2K",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://github.com/Tundrak/IPTV-Italia/raw/refs/heads/main/ipradioita.m3u",
+        "url": "https://icy.unitedradio.it/Virgin_02.mp3"
+      },
+      {
+        "name": "[Web] Virgin Radio Hard Rock",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://github.com/Tundrak/IPTV-Italia/raw/refs/heads/main/ipradioita.m3u",
+        "url": "https://icy.unitedradio.it/VirginHardRock.mp3"
+      },
+      {
+        "name": "[Web] Virgin Radio Rock Party",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://github.com/Tundrak/IPTV-Italia/raw/refs/heads/main/ipradioita.m3u",
+        "url": "https://icy.unitedradio.it/VirginRockParty.mp3"
+      },
+      {
+        "name": "[Web] Virgin Radio Alternative Rock",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://github.com/Tundrak/IPTV-Italia/raw/refs/heads/main/ipradioita.m3u",
+        "url": "https://icy.unitedradio.it/VirginRockAlternative.mp3"
+      },
+      {
+        "name": "[Web] Rockstar: AC/DC",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://github.com/Tundrak/IPTV-Italia/raw/refs/heads/main/ipradioita.m3u",
+        "url": "https://icy.unitedradio.it/um1026.mp3"
+      },
+      {
+        "name": "[Web] Rockstar: Guns N'Roses",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://github.com/Tundrak/IPTV-Italia/raw/refs/heads/main/ipradioita.m3u",
+        "url": "https://icy.unitedradio.it/um1029.mp3"
+      },
+      {
+        "name": "[Web] Rockstar: Rolling Stones",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://github.com/Tundrak/IPTV-Italia/raw/refs/heads/main/ipradioita.m3u",
+        "url": "https://icy.unitedradio.it/VirginSpecialEvent.mp3"
+      },
+      {
+        "name": "[Web] Rockstar: Pink Floyd",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://github.com/Tundrak/IPTV-Italia/raw/refs/heads/main/ipradioita.m3u",
+        "url": "https://icy.unitedradio.it/VirginRogerWaters.mp3"
+      },
+      {
+        "name": "[Web] Rockstar: Queen",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://github.com/Tundrak/IPTV-Italia/raw/refs/heads/main/ipradioita.m3u",
+        "url": "https://icecast.unitedradio.it/Virgin_05.mp3"
+      },
+      {
+        "name": "[Web] Rockstar: Aerosmith",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://github.com/Tundrak/IPTV-Italia/raw/refs/heads/main/ipradioita.m3u",
+        "url": "https://icy.unitedradio.it/um1028.mp3"
+      },
+      {
+        "name": "[Web] Rockstar: Bon Jovi",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://github.com/Tundrak/IPTV-Italia/raw/refs/heads/main/ipradioita.m3u",
+        "url": "https://icy.unitedradio.it/um1027.mp3"
+      },
+      {
+        "name": "[Web] Rockstar: Oasis",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://github.com/Tundrak/IPTV-Italia/raw/refs/heads/main/ipradioita.m3u",
+        "url": "https://icy.unitedradio.it/um1030.mp3"
+      },
+      {
+        "name": "Radio Kisskiss",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://github.com/Tundrak/IPTV-Italia/raw/refs/heads/main/ipradioita.m3u",
+        "url": "https://ice08.fluidstream.net/KissKiss.aac"
+      },
+      {
+        "name": "Radio Italia",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://github.com/Tundrak/IPTV-Italia/raw/refs/heads/main/ipradioita.m3u",
+        "url": "https://radioitaliasmi.akamaized.net/hls/live/2093120/RISMI/master.m3u8"
+      },
+      {
+        "name": "[DAB] Radio Italia Trend",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://github.com/Tundrak/IPTV-Italia/raw/refs/heads/main/ipradioita.m3u",
+        "url": "https://stream4.xdevel.com/audio0s976608-1379/stream/icecast.audio"
+      },
+      {
+        "name": "[Web] Radio Italia Sanremo",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://github.com/Tundrak/IPTV-Italia/raw/refs/heads/main/ipradioita.m3u",
+        "url": "https://stream4.xdevel.com/audio2s976608-1381/stream/icecast.audio"
+      },
+      {
+        "name": "Radio Montecarlo",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://github.com/Tundrak/IPTV-Italia/raw/refs/heads/main/ipradioita.m3u",
+        "url": "https://edge.radiomontecarlo.net/RMC.mp3"
+      },
+      {
+        "name": "R101",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://github.com/Tundrak/IPTV-Italia/raw/refs/heads/main/ipradioita.m3u",
+        "url": "https://icy.unitedradio.it/r101"
+      },
+      {
+        "name": "Radio Capital",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://github.com/Tundrak/IPTV-Italia/raw/refs/heads/main/ipradioita.m3u",
+        "url": "https://4c4b867c89244861ac216426883d1ad0.msvdn.net/radiocapital/radiocapital/master_ma.m3u8"
+      },
+      {
+        "name": "[Web] Radio Capital Music",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://github.com/Tundrak/IPTV-Italia/raw/refs/heads/main/ipradioita.m3u",
+        "url": "https://4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/capitalmusic/playlist.m3u8"
+      },
+      {
+        "name": "[Web] Radio Capital Classic Rock",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://github.com/Tundrak/IPTV-Italia/raw/refs/heads/main/ipradioita.m3u",
+        "url": "https://4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/capitalclassicrock/playlist.m3u8"
+      },
+      {
+        "name": "[DAB] Radio Capital Funky Town",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://github.com/Tundrak/IPTV-Italia/raw/refs/heads/main/ipradioita.m3u",
+        "url": "https://4c4b867c89244861ac216426883d1ad0.msvdn.net/radiocapitalfunkytown/radiocapitalfunkytown/master_ma.m3u8"
+      },
+      {
+        "name": "[Web] Radio Capital W L'Italia",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://github.com/Tundrak/IPTV-Italia/raw/refs/heads/main/ipradioita.m3u",
+        "url": "https://4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/capitalwitalia/playlist.m3u8"
+      },
+      {
+        "name": "[Web] Radio Capital Soft",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://github.com/Tundrak/IPTV-Italia/raw/refs/heads/main/ipradioita.m3u",
+        "url": "https://4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/capitalsoft/playlist.m3u8"
+      },
+      {
+        "name": "Radio Deejay",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://github.com/Tundrak/IPTV-Italia/raw/refs/heads/main/ipradioita.m3u",
+        "url": "https://4c4b867c89244861ac216426883d1ad0.msvdn.net/radiodeejay/radiodeejay/master_ma.m3u8"
+      },
+      {
+        "name": "[DAB] Deejay 30 Songs",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://github.com/Tundrak/IPTV-Italia/raw/refs/heads/main/ipradioita.m3u",
+        "url": "https://4c4b867c89244861ac216426883d1ad0.msvdn.net/radiodeejay30songs/radiodeejay30songs/master_ma.m3u8"
+      },
+      {
+        "name": "[Web] Deejay 80",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://github.com/Tundrak/IPTV-Italia/raw/refs/heads/main/ipradioita.m3u",
+        "url": "https://4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/deejay80/playlist.m3u8"
+      },
+      {
+        "name": "[Web] Deejay Time",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://github.com/Tundrak/IPTV-Italia/raw/refs/heads/main/ipradioita.m3u",
+        "url": "https://4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/deejaytime/playlist.m3u8"
+      },
+      {
+        "name": "[Web] Deejay Tropical Pizza",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://github.com/Tundrak/IPTV-Italia/raw/refs/heads/main/ipradioita.m3u",
+        "url": "https://4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/deejaytropicalpizza/playlist.m3u8"
+      },
+      {
+        "name": "[Web] Deejay One Two One Two",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://github.com/Tundrak/IPTV-Italia/raw/refs/heads/main/ipradioita.m3u",
+        "url": "https://4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/deejayonetwoonetwo/playlist.m3u8"
+      },
+      {
+        "name": "[Web] Radio Linetti",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://github.com/Tundrak/IPTV-Italia/raw/refs/heads/main/ipradioita.m3u",
+        "url": "https://4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/deejaywfmlinus/playlist.m3u8"
+      },
+      {
+        "name": "[Web] Deejay Suona Italia",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://github.com/Tundrak/IPTV-Italia/raw/refs/heads/main/ipradioita.m3u",
+        "url": "https://4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/deejaysuonaitalia/playlist.m3u8"
+      },
+      {
+        "name": "[Web] Deejay Gasolina",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://github.com/Tundrak/IPTV-Italia/raw/refs/heads/main/ipradioita.m3u",
+        "url": "https://4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/deejaygasolina/playlist.m3u8"
+      },
+      {
+        "name": "[Web] Deejay On The Road",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://github.com/Tundrak/IPTV-Italia/raw/refs/heads/main/ipradioita.m3u",
+        "url": "https://4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/deejayontheroad/playlist.m3u8"
+      },
+      {
+        "name": "[Web] Deejay One Love",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://github.com/Tundrak/IPTV-Italia/raw/refs/heads/main/ipradioita.m3u",
+        "url": "https://4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/deejayonelove/playlist.m3u8"
+      },
+      {
+        "name": "Radio 105",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://github.com/Tundrak/IPTV-Italia/raw/refs/heads/main/ipradioita.m3u",
+        "url": "https://icy.unitedradio.it/Radio105.mp3"
+      },
+      {
+        "name": "Radio Subasio",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://github.com/Tundrak/IPTV-Italia/raw/refs/heads/main/ipradioita.m3u",
+        "url": "https://icy.unitedradio.it/Subasio.mp3"
+      },
+      {
+        "name": "[Web] Radio Subasio +",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://github.com/Tundrak/IPTV-Italia/raw/refs/heads/main/ipradioita.m3u",
+        "url": "https://icy.unitedradio.it/SubasioPiu.mp3"
+      },
+      {
+        "name": "[Web] Radio Suby",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://github.com/Tundrak/IPTV-Italia/raw/refs/heads/main/ipradioita.m3u",
+        "url": "https://icy.unitedradio.it/Suby.mp3"
+      },
+      {
+        "name": "[Web] Radio Subasio Collection",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://github.com/Tundrak/IPTV-Italia/raw/refs/heads/main/ipradioita.m3u",
+        "url": "https://icy.unitedradio.it/SubasioCollection.mp3"
+      },
+      {
+        "name": "[Web] Radio Subasio Per un'ora d'Amore",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://github.com/Tundrak/IPTV-Italia/raw/refs/heads/main/ipradioita.m3u",
+        "url": "https://icy.unitedradio.it/SubasioPerUnOraDAmore.mp3"
+      },
+      {
+        "name": "Radio Radicale",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://github.com/Tundrak/IPTV-Italia/raw/refs/heads/main/ipradioita.m3u",
+        "url": "https://live.radioradicale.it/live.mp3"
+      },
+      {
+        "name": "RDS",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://github.com/Tundrak/IPTV-Italia/raw/refs/heads/main/ipradioita.m3u",
+        "url": "https://stream.rds.radio/audio/rds.stream_aac/playlist.m3u8"
+      },
+      {
+        "name": "Radio 24",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://github.com/Tundrak/IPTV-Italia/raw/refs/heads/main/ipradioita.m3u",
+        "url": "https://ilsole24ore-radio.akamaized.net/hls/live/2035301/radio24/playlist.m3u8"
+      },
+      {
+        "name": "[DAB] ACI Radio",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://github.com/Tundrak/IPTV-Italia/raw/refs/heads/main/ipradioita.m3u",
+        "url": "https://nr7.newradio.it:18003/stream"
+      },
+      {
+        "name": "[DAB] Canale Italia +",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://github.com/Tundrak/IPTV-Italia/raw/refs/heads/main/ipradioita.m3u",
+        "url": "https://rci.canaleitalia.tv:8007"
+      },
+      {
+        "name": "m2o",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://github.com/Tundrak/IPTV-Italia/raw/refs/heads/main/ipradioita.m3u",
+        "url": "https://4c4b867c89244861ac216426883d1ad0.msvdn.net/radiom2o/radiom2o/master_ma.m3u8"
+      },
+      {
+        "name": "Radio inBlu2000",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://github.com/Tundrak/IPTV-Italia/raw/refs/heads/main/ipradioita.m3u",
+        "url": "https://www.radioinblu.it/live-stream/inblu2000-playlist.m3u8"
+      },
+      {
+        "name": "Radio Maria",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://github.com/Tundrak/IPTV-Italia/raw/refs/heads/main/ipradioita.m3u",
+        "url": "https://dreamsiteradiocp5.com/proxy/rmitalia"
+      },
+      {
+        "name": "[DAB] Radio Vaticana (Ita)",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Uncategorized",
+        "source": "https://github.com/Tundrak/IPTV-Italia/raw/refs/heads/main/ipradioita.m3u",
+        "url": "https://radio.vaticannews.va/stream-it"
       }
     ]
   }
