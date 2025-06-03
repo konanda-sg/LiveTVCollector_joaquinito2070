@@ -37,7 +37,7 @@ jobs:
         # Assuming your modified Python script is named radio_collector.py 
         # and is in a directory like 'BugsfreeMain' or the root.
         # Adjust the path if your script is located elsewhere.
-        run: python radio_collector.py # Example: python BugsfreeMain/radio_collector.py
+        run: python BusfreeMain/RadioStations-Worldwide.py # Example: python BugsfreeMain/radio_collector.py
 
       - name: Commit and push changes
         run: |
