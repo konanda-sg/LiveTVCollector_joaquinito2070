@@ -266,6 +266,7 @@ def main():
         "http://transponder.petervanderlaan.nl/tv.m3u",
         "http://transponder.petervanderlaan.nl/radio.m3u",
         "https://iptv-org.github.io/iptv/index.m3u",
+        "https://www.corgol.com/television/Corgol_IPTV_Playlist.m3u",
     ]
 
     # Set check_links=False for super speed, True for accuracy
