@@ -262,6 +262,7 @@ def main():
         "https://raw.githubusercontent.com/kiekostui/IPTV/refs/heads/main/playlist.m3u8",
         "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/heads/master/output/rakuten.m3u",
         "https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_IT.m3u",
+        "https://github.com/Free-TV/IPTV/raw/refs/heads/master/playlists/playlist_italy.m3u8",
     ]
 
     # Set check_links=False for super speed, True for accuracy
