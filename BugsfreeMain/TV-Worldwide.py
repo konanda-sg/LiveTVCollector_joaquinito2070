@@ -267,6 +267,12 @@ def main():
         "http://transponder.petervanderlaan.nl/radio.m3u",
         "https://iptv-org.github.io/iptv/index.m3u",
         "https://www.corgol.com/television/Corgol_IPTV_Playlist.m3u",
+        "https://github.com/ipstreet312/freeiptv/raw/refs/heads/master/all.m3u",
+        "https://raw.githubusercontent.com/Paradise-91/ParaTV/refs/heads/main/playlists/samsungtvplus/main/samsungtvplus.m3u",
+        "https://github.com/HelmerLuzo/FreeLiveSportsTV_HL/raw/refs/heads/main/tv/m3u/FreeLiveSportsTV_tv.m3u",
+        "https://github.com/HelmerLuzo/RakutenTV_HL/raw/refs/heads/main/tv/m3u/RakutenTV_tv.m3u",
+        "https://github.com/HelmerLuzo/RuntimeTV_HL/raw/refs/heads/main/tv/m3u/RuntimeTV_tv.m3u",
+        "https://github.com/HelmerLuzo/CanelaTV_HL/raw/refs/heads/main/tv/m3u/CanelaTV_tv.m3u",
     ]
 
     # Set check_links=False for super speed, True for accuracy
