@@ -310,7 +310,7 @@ class M3UCollector:
 def main():
     # Specific M3U source for Radio Worldwide
     source_urls = [
-        "https://github.com/junguler/m3u-radio-music-playlists/raw/refs/heads/main/---everything-full-repo.m3u"
+        "https://github.com/junguler/m3u-radio-music-playlists/raw/refs/heads/main/---everything-full-repo.m3u",
     ]
     
     country_name = "Radio Worldwide"
