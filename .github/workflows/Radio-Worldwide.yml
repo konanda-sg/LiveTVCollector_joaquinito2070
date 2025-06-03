@@ -2,29 +2,29 @@ name: Radio Worldwide Update Files
 
 on:
   schedule:
-    - cron: '0 1,9,17 * * *'  # Runs at 01:00, 09:00, 17:00 UTC daily (shifted by 1h for example)
-  workflow_dispatch:  # Allows manual triggering
+    - cron: '0 1,9,17 * * *'  # Ejecuta a la 01:00, 09:00, 17:00 UTC diariamente
+  workflow_dispatch:  # Permite la activación manual
 
 permissions:
-  contents: write
+  contents: write # Necesario para hacer commit y push de los cambios
 
 concurrency:
   group: ${{ github.workflow }}-${{ github.ref }}
   cancel-in-progress: true
 
 jobs:
-  update-radio-files: # Changed job name for clarity
+  update-radio-files:
     runs-on: ubuntu-latest
-    timeout-minutes: 45 # Increased timeout slightly as radio list might be large
+    timeout-minutes: 45 # Tiempo máximo para el job
 
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v4 # Updated to v4
+        uses: actions/checkout@v4
         with:
-          token: ${{ secrets.GITHUB_TOKEN }} # Using default GITHUB_TOKEN for checkout
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Set up Python
-        uses: actions/setup-python@v5 # Updated to v5
+        uses: actions/setup-python@v5
         with:
           python-version: '3.x'
 
@@ -34,40 +34,73 @@ jobs:
           pip install requests pytz beautifulsoup4
 
       - name: Run Radio Worldwide M3U collector script
-        # Assuming your modified Python script is named radio_collector.py 
-        # and is in a directory like 'BugsfreeMain' or the root.
-        # Adjust the path if your script is located elsewhere.
-        run: python BugsfreeMain/RadioStations-Worldwide.py # Example: python BugsfreeMain/radio_collector.py
+        # IMPORTANTE: Ajusta la siguiente línea si tu script está en una ubicación diferente o tiene otro nombre.
+        # Basado en errores previos, se asume "BugsfreeMain/RadioStations-Worldwide.py"
+        run: python BugsfreeMain/RadioStations-Worldwide.py
 
-      - name: Commit and push changes
+      - name: Commit and push changes (with Gzip max compression)
         run: |
           git config --global user.name "GitHub Action"
           git config --global user.email "action@github.com"
+
+          # Define el directorio y el nombre base de los archivos generados por tu script Python
+          FILE_DIR="Radio_Collections/Radio_Worldwide" # Ajusta si tu script Python guarda archivos en otro lugar
+          BASE_FILENAME="Radio_Worldwide"             # Ajusta si tu script Python usa otro nombre base
+
+          # Lista de archivos a procesar (la cadena vacía en la extensión es para el archivo sin extensión)
+          declare -a FILES_TO_PROCESS=(
+            "${FILE_DIR}/${BASE_FILENAME}.txt"
+            "${FILE_DIR}/${BASE_FILENAME}.json"
+            "${FILE_DIR}/${BASE_FILENAME}.m3u"
+            "${FILE_DIR}/${BASE_FILENAME}"  # Este es el archivo personalizado sin extensión
+          )
+
+          echo "Starting compression and git add process for specified files..."
+
+          # --- Paso de Compresión y adición a Git ---
+          for FILE_ORIGINAL in "${FILES_TO_PROCESS[@]}"; do
+            if [ -f "$FILE_ORIGINAL" ]; then
+              echo "Processing file: $FILE_ORIGINAL"
+              # Comprimir con máxima compresión (-9). 
+              # gzip reemplaza el archivo original con el archivo .gz por defecto.
+              # -f asegura que si existe un .gz previo, se sobrescriba.
+              gzip -9 -f "$FILE_ORIGINAL" 
+              COMPRESSED_FILE="${FILE_ORIGINAL}.gz" # El nuevo nombre del archivo será original.gz
+              
+              if [ -f "$COMPRESSED_FILE" ]; then
+                echo "Successfully compressed to $COMPRESSED_FILE. Adding to Git."
+                git add "$COMPRESSED_FILE"
+              else
+                # Este caso es improbable si gzip tuvo éxito, pero es una verificación.
+                echo "ERROR: Compressed file $COMPRESSED_FILE not found after gzip operation on $FILE_ORIGINAL."
+              fi
+            else
+              echo "File $FILE_ORIGINAL not found, skipping."
+            fi
+          done
           
-          # Add the new paths for Radio Worldwide files
-          # Based on the Python script, output_dir = "Radio_Collections/Radio_Worldwide"
-          # and filenames are "Radio_Worldwide.m3u", "Radio_Worldwide.txt", etc.
-          git add Radio_Collections/Radio_Worldwide/Radio_Worldwide.m3u \
-                  Radio_Collections/Radio_Worldwide/Radio_Worldwide.txt \
-                  Radio_Collections/Radio_Worldwide/Radio_Worldwide.json \
-                  Radio_Collections/Radio_Worldwide/Radio_Worldwide
-          
-          # Check if there are changes to commit
+          echo "Finished compression and git add process."
+
+          # --- Commit y Push ---
+          # Verifica si hay cambios en el staging area para hacer commit
           if git diff --staged --quiet; then
-            echo "No changes to commit for Radio Worldwide files."
+            echo "No changes to commit."
           else
-            git commit -m "Radio Worldwide Update files - $(date -u '+%Y-%m-%d %H:%M:%S UTC')"
-            # It's generally safer to push to the specific branch, e.g., main or master
-            # Assuming 'main' is your default branch.
+            # Mensaje de commit actualizado para reflejar la compresión de múltiples archivos
+            COMMIT_MESSAGE="Radio Worldwide: Update data files (Gzipped with max compression) - $(date -u '+%Y-%m-%d %H:%M:%S UTC')"
+            echo "Committing changes with message: $COMMIT_MESSAGE"
+            git commit -m "$COMMIT_MESSAGE"
+            
+            echo "Attempting to pull (rebase) and push changes to ${{ github.ref_name }}..."
             git pull --rebase origin ${{ github.ref_name }} 
             git push origin ${{ github.ref_name }}
+            echo "Pull and push complete."
           fi
-          
-  update-indexes: # This job's name can also be updated if desired, e.g., update-radio-indexes
-    needs: update-radio-files
-    # This reusable workflow might need adjustments or parameters if it's
-    # tightly coupled to the "LiveTV" structure.
-    # For now, keeping it as per your original file, but be aware it might need review.
+
+  update-indexes:
+    needs: update-radio-files # Este job se ejecuta después de update-radio-files
+    # Este es el workflow reutilizable que tenías.
+    # Podría necesitar ajustes si espera los archivos sin comprimir o una estructura diferente.
     uses: bugsfreeweb/LiveTVCollector/.github/workflows/update-indexes.yml@main
     permissions:
-      contents: write  # Required for the called workflow to push changes
+      contents: write  # Requerido para que el workflow llamado pueda hacer push
