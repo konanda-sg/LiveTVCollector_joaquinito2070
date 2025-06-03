@@ -263,6 +263,8 @@ def main():
         "https://www.tdtchannels.com/lists/tvradio_mpd.m3u8",
         "https://github.com/Free-TV/IPTV/raw/refs/heads/master/playlists/playlist_spain.m3u8",
         "https://github.com/Free-TV/IPTV/raw/refs/heads/master/playlists/playlist_spain_vod.m3u8",
+        "https://github.com/HelmerLuzo/PlutoTV_HL/raw/refs/heads/main/tv/m3u/PlutoTV_tv_ES.m3u",
+        "https://github.com/HelmerLuzo/SamsungTVPlus_HL/raw/refs/heads/main/tv/m3u/SamsungTVPlus_tv_ES.m3u",
     ]
 
     # Set check_links=False for super speed, True for accuracy
