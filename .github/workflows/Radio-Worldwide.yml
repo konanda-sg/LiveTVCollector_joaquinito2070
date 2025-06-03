@@ -1,0 +1,73 @@
+name: Radio Worldwide Update Files
+
+on:
+  schedule:
+    - cron: '0 1,9,17 * * *'  # Runs at 01:00, 09:00, 17:00 UTC daily (shifted by 1h for example)
+  workflow_dispatch:  # Allows manual triggering
+
+permissions:
+  contents: write
+
+concurrency:
+  group: ${{ github.workflow }}-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  update-radio-files: # Changed job name for clarity
+    runs-on: ubuntu-latest
+    timeout-minutes: 45 # Increased timeout slightly as radio list might be large
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4 # Updated to v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }} # Using default GITHUB_TOKEN for checkout
+
+      - name: Set up Python
+        uses: actions/setup-python@v5 # Updated to v5
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests pytz beautifulsoup4
+
+      - name: Run Radio Worldwide M3U collector script
+        # Assuming your modified Python script is named radio_collector.py 
+        # and is in a directory like 'BugsfreeMain' or the root.
+        # Adjust the path if your script is located elsewhere.
+        run: python radio_collector.py # Example: python BugsfreeMain/radio_collector.py
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "GitHub Action"
+          git config --global user.email "action@github.com"
+          
+          # Add the new paths for Radio Worldwide files
+          # Based on the Python script, output_dir = "Radio_Collections/Radio_Worldwide"
+          # and filenames are "Radio_Worldwide.m3u", "Radio_Worldwide.txt", etc.
+          git add Radio_Collections/Radio_Worldwide/Radio_Worldwide.m3u \
+                  Radio_Collections/Radio_Worldwide/Radio_Worldwide.txt \
+                  Radio_Collections/Radio_Worldwide/Radio_Worldwide.json \
+                  Radio_Collections/Radio_Worldwide/Radio_Worldwide
+          
+          # Check if there are changes to commit
+          if git diff --staged --quiet; then
+            echo "No changes to commit for Radio Worldwide files."
+          else
+            git commit -m "Radio Worldwide Update files - $(date -u '+%Y-%m-%d %H:%M:%S UTC')"
+            # It's generally safer to push to the specific branch, e.g., main or master
+            # Assuming 'main' is your default branch.
+            git pull --rebase origin ${{ github.ref_name }} 
+            git push origin ${{ github.ref_name }}
+          fi
+          
+  update-indexes: # This job's name can also be updated if desired, e.g., update-radio-indexes
+    needs: update-radio-files
+    # This reusable workflow might need adjustments or parameters if it's
+    # tightly coupled to the "LiveTV" structure.
+    # For now, keeping it as per your original file, but be aware it might need review.
+    uses: bugsfreeweb/LiveTVCollector/.github/workflows/update-indexes.yml@main
+    permissions:
+      contents: write  # Required for the called workflow to push changes
