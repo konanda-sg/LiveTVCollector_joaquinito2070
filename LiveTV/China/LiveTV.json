@@ -1,5 +1,5 @@
 {
-  "date": "2025-06-04 13:57:48",
+  "date": "2025-06-04 21:51:35",
   "channels": {
     "Uncategorized": [
       {
@@ -5947,11 +5947,18 @@
         "url": "http://home.wwang.pw:35455/itv/1000000002000004097.m3u8?cdn=ystenlive"
       },
       {
-        "name": "三沙卫视",
+        "name": "河北卫视",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "卫视频道",
         "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8"
+        "url": "https://jwplay.hebyun.com.cn/live/hbwstv/1500k/tzwj_video.m3u8"
+      },
+      {
+        "name": "浙江卫视",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "卫视频道",
+        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
+        "url": "https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8"
       },
       {
         "name": "山东教育",
@@ -7225,6 +7232,20 @@
         "group": "港澳台频道",
         "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
         "url": "https://smart.pendy.dpdns.org/Smart.php?id=eltasport3_twn"
+      },
+      {
+        "name": "韩国电影1",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "港澳台频道",
+        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
+        "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=595"
+      },
+      {
+        "name": "韩国电影2",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "港澳台频道",
+        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
+        "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=743"
       }
     ],
     "港澳台AKTV": [
@@ -8865,6 +8886,13 @@
         "url": "https://cdn8.163189.xyz/live/lhdy/stream.m3u8"
       },
       {
+        "name": "浙江影视",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "电影频道",
+        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
+        "url": "https://ali-m-l.cztv.com/channels/lantian/channel005/1080p.m3u8"
+      },
+      {
         "name": "美亚电影",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "电影频道",
@@ -8877,20 +8905,6 @@
         "group": "电影频道",
         "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
         "url": "https://live.tvfix.org/live/cmc/index.m3u8"
-      },
-      {
-        "name": "韩国电影1",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "电影频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=595"
-      },
-      {
-        "name": "韩国电影2",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "电影频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=743"
       }
     ],
     "电视剧频道": [
@@ -10380,6 +10394,13 @@
         "url": "https://p2.vzan.com/slowlive/596867413819827251/live.m3u8?zbid=1725814272&amp;tpid=1516989100&amp;type=0"
       },
       {
+        "name": "宁夏公共",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "地方频道",
+        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
+        "url": "https://livepgc.cmc.ningxiahuangheyun.com/tv/nxgg.m3u8"
+      },
+      {
         "name": "宁夏经济",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "地方频道",
@@ -10436,11 +10457,11 @@
         "url": "https://hlscdn.liangtv.cn/live/0234c48e0bc24fe1b41b9999a253e581/1075ee38e04f490690f6a36a16e09c79.m3u8"
       },
       {
-        "name": "延边2",
+        "name": "延边1",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "地方频道",
         "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://live.ybtvyun.com/video/s10006-1c8f0ebfee9f/index.m3u8"
+        "url": "https://live.ybtvyun.com/video/s10006-9ccd00054351/index.m3u8"
       },
       {
         "name": "怀仁综合",
@@ -10469,6 +10490,13 @@
         "group": "地方频道",
         "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
         "url": "https://stream.thmz.com/wxtv4/playlist.m3u8"
+      },
+      {
+        "name": "无锡经济",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "地方频道",
+        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
+        "url": "https://stream.thmz.com/wxtv5/playlist.m3u8"
       },
       {
         "name": "昌黎综合",
@@ -10527,6 +10555,13 @@
         "url": "https://ls.qingting.fm/live/20198/64k.m3u8"
       },
       {
+        "name": "武清综合",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "地方频道",
+        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
+        "url": "https://tvpull.smartwq.cn/wqlive/convergencemedia/playlist.m3u8?ztianjd"
+      },
+      {
         "name": "永昌综合",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "地方频道",
@@ -10569,13 +10604,6 @@
         "url": "https://wshlslive.migucloud.com/live/6AL7GTQX_C0/playlist.m3u8"
       },
       {
-        "name": "济南综合",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "地方频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://quehuamtyoutlive.ijntv.cn/qsrog5/0szz7q.m3u8"
-      },
-      {
         "name": "海南新闻",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "地方频道",
@@ -10616,6 +10644,20 @@
         "group": "地方频道",
         "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
         "url": "https://play.kankanlive.com/live/1711955176432990.m3u8"
+      },
+      {
+        "name": "湖州文化娱乐",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "地方频道",
+        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
+        "url": "https://hzcm-live.media.hugd.com/613c47f0ab0d4eaa98b21378d0db6ded/0051d31c9dd543a7825eea4e49675b2a.m3u8?auth_key=2277598059-0a5ebfa1c0dc4671b42a60810fc37039-0-fa625b7d1feab612062453c12e3c8887"
+      },
+      {
+        "name": "湖州新闻综合",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "地方频道",
+        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
+        "url": "https://hzcm-live.media.hugd.com/3f5fa7d64c7c46a38c6bd8ad35e836cc/65128273761b4731ae53729ea6dcf932.m3u8?auth_key=2277598215-9d21c15111244bea8d298c361d31a72e-0-d031198f58d44b0e91ba2e3f3b188865"
       },
       {
         "name": "灌阳新闻综合",
@@ -10707,13 +10749,6 @@
         "group": "地方频道",
         "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
         "url": "https://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8"
-      },
-      {
-        "name": "贵南综合",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "地方频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://livecdn.dmqhyadmin.com/hls/xjguinan.m3u8"
       },
       {
         "name": "赣州公共",
@@ -11534,6 +11569,13 @@
         "url": "http://fl3.moveonjoy.com/CBS_News/index.m3u8"
       },
       {
+        "name": "CTV News",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "国际",
+        "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
+        "url": "https://jmp2.uk/sam-CA1400004AE.m3u8"
+      },
+      {
         "name": "CNBC",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "国际",
@@ -11576,13 +11618,6 @@
         "url": "https://nhkworld-tv.akamaized.net/hls/live/2115640/nhkworld-tv/index_1M.m3u8"
       },
       {
-        "name": "Newsmax 2",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "国际",
-        "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
-        "url": "https://amg00217-newsmax-newsmax-zeasn-022k9.amagi.tv/playlist.m3u8"
-      },
-      {
         "name": "FOX Soul",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "国际",
@@ -11602,13 +11637,6 @@
         "group": "国际",
         "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
         "url": "http://fl3.moveonjoy.com/Start_Tv/index.m3u8"
-      },
-      {
-        "name": "UP TV",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "国际",
-        "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
-        "url": "http://fl3.moveonjoy.com/Up_Tv/index.m3u8"
       },
       {
         "name": "TBS",
@@ -11695,13 +11723,6 @@
         "url": "http://fl3.moveonjoy.com/Buzzr/index.m3u8"
       },
       {
-        "name": "Cleo TV",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "国际",
-        "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
-        "url": "http://fl3.moveonjoy.com/Cleo_TV/index.m3u8"
-      },
-      {
         "name": "CMT",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "国际",
@@ -11751,20 +11772,6 @@
         "url": "http://143.244.60.30/ION_TV/index.m3u8"
       },
       {
-        "name": "Vice TV",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "国际",
-        "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
-        "url": "http://23.237.104.106:8080/USA_VICETV/index.m3u8"
-      },
-      {
-        "name": "MSG",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "国际",
-        "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
-        "url": "http://fl3.moveonjoy.com/MSG/index.m3u8"
-      },
-      {
         "name": "TLC",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "国际",
@@ -11786,6 +11793,13 @@
         "url": "http://fl5.moveonjoy.com/NBA_TV/index.m3u8"
       },
       {
+        "name": "FIFA+",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "国际",
+        "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
+        "url": "https://jmp2.uk/sam-CABD1200008JG.m3u8"
+      },
+      {
         "name": "Sky Sports Mix",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "国际",
@@ -11800,18 +11814,11 @@
         "url": "http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8"
       },
       {
-        "name": "Discovery Science",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "国际",
-        "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
-        "url": "http://fl3.moveonjoy.com/Discovery_Science/index.m3u8"
-      },
-      {
         "name": "Lifetime",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "国际",
         "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
-        "url": "https://wikinew.newkso.ru/wiki/ustvlifetime/mono.m3u8"
+        "url": "http://143.244.60.30/LIFETIME/index.m3u8"
       },
       {
         "name": "Sony Movie",
@@ -11828,20 +11835,6 @@
         "url": "https://lovestoriestv-lovestoriestv-1-eu.xiaomi.wurl.tv/playlist.m3u8"
       },
       {
-        "name": "MTV Live",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "国际",
-        "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
-        "url": "http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8"
-      },
-      {
-        "name": "MTV East",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "国际",
-        "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
-        "url": "http://23.237.104.106:8080/USA_MTV/index.m3u8"
-      },
-      {
         "name": "VH1",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "国际",
@@ -11854,13 +11847,6 @@
         "group": "国际",
         "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
         "url": "https://brandusa-gousa-1-nl.samsung.wurl.tv/playlist.m3u8"
-      },
-      {
-        "name": "Journy",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "国际",
-        "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
-        "url": "https://linear-291.frequency.stream/dist/ovationtv/291/hls/master/playlist.m3u8"
       },
       {
         "name": "Showtime",
@@ -11905,13 +11891,6 @@
         "url": "http://fl3.moveonjoy.com/TENNIS_CHANNEL/index.m3u8"
       },
       {
-        "name": "Loupe 4K",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "国际",
-        "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
-        "url": "https://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8"
-      },
-      {
         "name": "National Geographic Wild",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "国际",
@@ -11952,13 +11931,6 @@
         "group": "国际",
         "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
         "url": "http://fl3.moveonjoy.com/OUTER_MAX/index.m3u8"
-      },
-      {
-        "name": "MGM+",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "国际",
-        "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
-        "url": "http://fl3.moveonjoy.com/EPIX/index.m3u8"
       },
       {
         "name": "FXM",
@@ -12017,13 +11989,6 @@
         "url": "http://fl3.moveonjoy.com/SMITHSONIAN_CHANNEL/index.m3u8"
       },
       {
-        "name": "Trace Urban",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "国际",
-        "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
-        "url": "https://amg01131-tracetv-traceurban-glewed-g705j.amagi.tv/playlist1080p.m3u8"
-      },
-      {
         "name": "Much",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "国际",
@@ -12073,7 +12038,7 @@
         "url": "http://fl3.moveonjoy.com/ESPN_U/index.m3u8"
       },
       {
-        "name": "SportsNet",
+        "name": "SportsNet New York",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "国际",
         "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
@@ -12087,13 +12052,6 @@
         "url": "https://tastemade-xumo.amagi.tv/playlist.m3u8"
       },
       {
-        "name": "Pop Up",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "国际",
-        "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
-        "url": "https://live-pop-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/narrative-popup-live-frequency/playlist.m3u8"
-      },
-      {
         "name": "World Poker Tour",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "国际",
@@ -12101,25 +12059,18 @@
         "url": "https://dth07jsr8atug.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-Plex/171.m3u8"
       },
       {
+        "name": "MSG",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "国际",
+        "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
+        "url": "http://fl3.moveonjoy.com/MSG/index.m3u8"
+      },
+      {
         "name": "Wild TV",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "国际",
         "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
         "url": "https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8"
-      },
-      {
-        "name": "Nickelodeon",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "国际",
-        "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
-        "url": "http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8"
-      },
-      {
-        "name": "History",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "国际",
-        "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
-        "url": "http://23.237.104.106:8080/USA_HISTORY/index.m3u8"
       },
       {
         "name": "MLB Network",
@@ -12136,116 +12087,11 @@
         "url": "http://143.244.60.30/CARTOON_NETWORK/index.m3u8"
       },
       {
-        "name": "CINEMAX",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "国际",
-        "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
-        "url": "http://23.237.104.106:8080/USA_CINEMAX/index.m3u8"
-      },
-      {
-        "name": "Disney XD",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "国际",
-        "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
-        "url": "http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8"
-      },
-      {
-        "name": "Food Network",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "国际",
-        "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
-        "url": "http://23.237.104.106:8080/USA_FOOD_NETWORK/index.m3u8"
-      },
-      {
-        "name": "HBO",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "国际",
-        "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
-        "url": "http://23.237.104.106:8080/USA_HBO/index.m3u8"
-      },
-      {
-        "name": "HBO Comedy",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "国际",
-        "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
-        "url": "http://23.237.104.106:8080/USA_HBO_COMEDY/index.m3u8"
-      },
-      {
-        "name": "HBO Family",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "国际",
-        "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
-        "url": "http://23.237.104.106:8080/USA_HBO_FAMILY/index.m3u8"
-      },
-      {
-        "name": "HBO Signature",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "国际",
-        "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
-        "url": "http://23.237.104.106:8080/USA_HBO_SIGNATURE/index.m3u8"
-      },
-      {
-        "name": "HBO Zone",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "国际",
-        "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
-        "url": "http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8"
-      },
-      {
-        "name": "HBO2",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "国际",
-        "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
-        "url": "http://23.237.104.106:8080/USA_HBO2/index.m3u8"
-      },
-      {
-        "name": "HGTV",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "国际",
-        "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
-        "url": "http://23.237.104.106:8080/USA_HGTV/index.m3u8"
-      },
-      {
-        "name": "HLN",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "国际",
-        "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
-        "url": "http://143.244.60.30/HLN/index.m3u8"
-      },
-      {
-        "name": "National Geographic",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "国际",
-        "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
-        "url": "http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8"
-      },
-      {
-        "name": "NewsNation",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "国际",
-        "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
-        "url": "http://143.244.60.30/NEWS_NATION/index.m3u8"
-      },
-      {
-        "name": "The Cooking Channel",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "国际",
-        "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
-        "url": "http://23.237.104.106:8080/USA_COOKING/index.m3u8"
-      },
-      {
         "name": "DIY",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "国际",
         "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
         "url": "http://143.244.60.30/DIY/index.m3u8"
-      },
-      {
-        "name": "ESPN 2",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "国际",
-        "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
-        "url": "http://143.244.60.30/ESPN_2/index.m3u8"
       },
       {
         "name": "LMN",
@@ -12262,18 +12108,207 @@
         "url": "http://143.244.60.30/BEIN_SPORTS/index.m3u8"
       },
       {
-        "name": "Fox Sport 1",
+        "name": "GRIT TV",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "国际",
         "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
-        "url": "http://23.237.104.106:8080/USA_FS1/index.m3u8"
+        "url": "http://143.244.60.30/GRIT_TV/index.m3u8"
       },
       {
-        "name": "Fox Sport 2",
+        "name": "Hallmark",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "国际",
         "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
-        "url": "http://23.237.104.106:8080/USA_FS2/index.m3u8"
+        "url": "http://143.244.60.30/HALLMARK_CHANNEL/index.m3u8"
+      },
+      {
+        "name": "Destination America",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "国际",
+        "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
+        "url": "http://143.244.60.30/Destination_America/index.m3u8"
+      },
+      {
+        "name": "Discovery Science",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "国际",
+        "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
+        "url": "http://143.244.60.30/Discovery_Science/index.m3u8"
+      },
+      {
+        "name": "HGTV",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "国际",
+        "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
+        "url": "http://143.244.60.30/HGTV/index.m3u8"
+      },
+      {
+        "name": "INSP TV",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "国际",
+        "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
+        "url": "http://143.244.60.30/INSP/index.m3u8"
+      },
+      {
+        "name": "MTV",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "国际",
+        "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
+        "url": "http://143.244.60.30/MTV/index.m3u8"
+      },
+      {
+        "name": "MTV Live",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "国际",
+        "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
+        "url": "http://143.244.60.30/MTV_LIVE/index.m3u8"
+      },
+      {
+        "name": "NHL Network",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "国际",
+        "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
+        "url": "http://143.244.60.30/NHL_NETWORK/index.m3u8"
+      },
+      {
+        "name": "NickToons",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "国际",
+        "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
+        "url": "http://143.244.60.30/NICKTOONS/index.m3u8"
+      },
+      {
+        "name": "Oprah Winfrey Network",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "国际",
+        "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
+        "url": "http://143.244.60.30/OWN/index.m3u8"
+      },
+      {
+        "name": "OUTSIDE TV",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "国际",
+        "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
+        "url": "http://143.244.60.30/OUTSIDE_TV/index.m3u8"
+      },
+      {
+        "name": "Oxygen",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "国际",
+        "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
+        "url": "http://143.244.60.30/OXYGEN/index.m3u8"
+      },
+      {
+        "name": "Paramount Network",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "国际",
+        "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
+        "url": "http://143.244.60.30/PARAMOUNT_NETWORK/index.m3u8"
+      },
+      {
+        "name": "PopTV",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "国际",
+        "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
+        "url": "http://cdn1host.online:2999/kratorius/opLcbhlXaT/226"
+      },
+      {
+        "name": "Starz Comedy",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "国际",
+        "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
+        "url": "http://143.244.60.30/STARZ_COMEDY/index.m3u8"
+      },
+      {
+        "name": "Starz Edge",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "国际",
+        "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
+        "url": "http://143.244.60.30/STARZ_EDGE/index.m3u8"
+      },
+      {
+        "name": "Starz Encore Action",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "国际",
+        "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
+        "url": "http://143.244.60.30/STARZ_ENCORE_ACTION/index.m3u8"
+      },
+      {
+        "name": "Vice",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "国际",
+        "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
+        "url": "http://143.244.60.30/VICELAND/index.m3u8"
+      },
+      {
+        "name": "WGN",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "国际",
+        "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
+        "url": "http://143.244.60.30/WGN/index.m3u8"
+      },
+      {
+        "name": "TSN 1",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "国际",
+        "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
+        "url": "http://fl5.moveonjoy.com/TSN_1/index.m3u8"
+      },
+      {
+        "name": "TSN 2",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "国际",
+        "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
+        "url": "http://fl5.moveonjoy.com/TSN_2/index.m3u8"
+      },
+      {
+        "name": "TSN 3",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "国际",
+        "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
+        "url": "http://fl5.moveonjoy.com/TSN_3/index.m3u8"
+      },
+      {
+        "name": "TSN 4",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "国际",
+        "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
+        "url": "http://fl5.moveonjoy.com/TSN_4/index.m3u8"
+      },
+      {
+        "name": "TSN 5",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "国际",
+        "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
+        "url": "http://fl5.moveonjoy.com/TSN_5/index.m3u8"
+      },
+      {
+        "name": "FoxBusiness",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "国际",
+        "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
+        "url": "http://41.205.93.154/FOXBUSINESS/index.m3u8"
+      },
+      {
+        "name": "Cooking",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "国际",
+        "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
+        "url": "http://fl3.moveonjoy.com/COOKING_CHANNEL/index.m3u8"
+      },
+      {
+        "name": "MGM+East",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "国际",
+        "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
+        "url": "https://fl3.moveonjoy.com/EPIX/index.m3u8"
+      },
+      {
+        "name": "MGM+Marquee",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "国际",
+        "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
+        "url": "https://fl3.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8"
       }
     ],
     "体育频道": [
@@ -12335,23 +12370,23 @@
     ],
     "直播中国": [
       {
-        "name": "云南丽江印象实景",
+        "name": "丽江古城大研花巷观景",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "直播中国",
         "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://gcalic.v.myalicdn.com/gc/hkylxs01_1/index.m3u8"
+        "url": "https://gcalic.v.myalicdn.com/gc/ljgcdyhxgjt_1/index.m3u8"
       },
       {
-        "name": "云南丽江玉龙雪山",
+        "name": "青岛崂山双福",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "直播中国",
         "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://gcalic.v.myalicdn.com/gc/ylxs11_1/index.m3u8"
+        "url": "https://gcalic.v.myalicdn.com/gc/qdls03_1/index.m3u8"
       }
     ],
     "更新时间": [
       {
-        "name": "2025-06-04 12:40:15",
+        "name": "2025-06-04 19:00:18",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "更新时间",
         "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",

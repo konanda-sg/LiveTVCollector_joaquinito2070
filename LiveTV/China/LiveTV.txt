@@ -4070,8 +4070,13 @@ URL: http://home.wwang.pw:35455/itv/1000000002000004097.m3u8?cdn=ystenlive
 Logo: https://live.fanmingming.cn/tv/山东教育.png
 Source: https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u
 --------------------------------------------------
-Name: 三沙卫视
-URL: https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8
+Name: 河北卫视
+URL: https://jwplay.hebyun.com.cn/live/hbwstv/1500k/tzwj_video.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 浙江卫视
+URL: https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
@@ -4299,6 +4304,11 @@ URL: http://fl3.moveonjoy.com/CBS_News/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u
 --------------------------------------------------
+Name: CTV News
+URL: https://jmp2.uk/sam-CA1400004AE.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u
+--------------------------------------------------
 Name: CNBC
 URL: http://fl5.moveonjoy.com/CNBC/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -4329,11 +4339,6 @@ URL: https://nhkworld-tv.akamaized.net/hls/live/2115640/nhkworld-tv/index_1M.m3u
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u
 --------------------------------------------------
-Name: Newsmax 2
-URL: https://amg00217-newsmax-newsmax-zeasn-022k9.amagi.tv/playlist.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u
---------------------------------------------------
 Name: FOX Soul
 URL: http://fl1.moveonjoy.com/FOX_SOUL/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -4346,11 +4351,6 @@ Source: https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3
 --------------------------------------------------
 Name: Start TV
 URL: http://fl3.moveonjoy.com/Start_Tv/index.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u
---------------------------------------------------
-Name: UP TV
-URL: http://fl3.moveonjoy.com/Up_Tv/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u
 --------------------------------------------------
@@ -4414,11 +4414,6 @@ URL: http://fl3.moveonjoy.com/Buzzr/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u
 --------------------------------------------------
-Name: Cleo TV
-URL: http://fl3.moveonjoy.com/Cleo_TV/index.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u
---------------------------------------------------
 Name: CMT
 URL: http://fl3.moveonjoy.com/CMT/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -4454,16 +4449,6 @@ URL: http://143.244.60.30/ION_TV/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u
 --------------------------------------------------
-Name: Vice TV
-URL: http://23.237.104.106:8080/USA_VICETV/index.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u
---------------------------------------------------
-Name: MSG
-URL: http://fl3.moveonjoy.com/MSG/index.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u
---------------------------------------------------
 Name: TLC
 URL: https://wikinew.newkso.ru/wiki/ustvtlc/mono.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -4479,6 +4464,11 @@ URL: http://fl5.moveonjoy.com/NBA_TV/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u
 --------------------------------------------------
+Name: FIFA+
+URL: https://jmp2.uk/sam-CABD1200008JG.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u
+--------------------------------------------------
 Name: Sky Sports Mix
 URL: https://x4new.newkso.ru/x4/skymix/mono.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -4489,13 +4479,8 @@ URL: http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u
 --------------------------------------------------
-Name: Discovery Science
-URL: http://fl3.moveonjoy.com/Discovery_Science/index.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u
---------------------------------------------------
 Name: Lifetime
-URL: https://wikinew.newkso.ru/wiki/ustvlifetime/mono.m3u8
+URL: http://143.244.60.30/LIFETIME/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u
 --------------------------------------------------
@@ -4509,16 +4494,6 @@ URL: https://lovestoriestv-lovestoriestv-1-eu.xiaomi.wurl.tv/playlist.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u
 --------------------------------------------------
-Name: MTV Live
-URL: http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u
---------------------------------------------------
-Name: MTV East
-URL: http://23.237.104.106:8080/USA_MTV/index.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u
---------------------------------------------------
 Name: VH1
 URL: http://fl3.moveonjoy.com/VH1/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -4526,11 +4501,6 @@ Source: https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3
 --------------------------------------------------
 Name: GoUSA TV
 URL: https://brandusa-gousa-1-nl.samsung.wurl.tv/playlist.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u
---------------------------------------------------
-Name: Journy
-URL: https://linear-291.frequency.stream/dist/ovationtv/291/hls/master/playlist.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u
 --------------------------------------------------
@@ -4564,11 +4534,6 @@ URL: http://fl3.moveonjoy.com/TENNIS_CHANNEL/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u
 --------------------------------------------------
-Name: Loupe 4K
-URL: https://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u
---------------------------------------------------
 Name: National Geographic Wild
 URL: http://fl3.moveonjoy.com/Nat_Geo_Wild/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -4596,11 +4561,6 @@ Source: https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3
 --------------------------------------------------
 Name: OuterMax
 URL: http://fl3.moveonjoy.com/OUTER_MAX/index.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u
---------------------------------------------------
-Name: MGM+
-URL: http://fl3.moveonjoy.com/EPIX/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u
 --------------------------------------------------
@@ -4644,11 +4604,6 @@ URL: http://fl3.moveonjoy.com/SMITHSONIAN_CHANNEL/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u
 --------------------------------------------------
-Name: Trace Urban
-URL: https://amg01131-tracetv-traceurban-glewed-g705j.amagi.tv/playlist1080p.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u
---------------------------------------------------
 Name: Much
 URL: http://fl1.moveonjoy.com/MUCH/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -4684,7 +4639,7 @@ URL: http://fl3.moveonjoy.com/ESPN_U/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u
 --------------------------------------------------
-Name: SportsNet
+Name: SportsNet New York
 URL: http://fl3.moveonjoy.com/SNY/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u
@@ -4694,28 +4649,18 @@ URL: https://tastemade-xumo.amagi.tv/playlist.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u
 --------------------------------------------------
-Name: Pop Up
-URL: https://live-pop-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/narrative-popup-live-frequency/playlist.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u
---------------------------------------------------
 Name: World Poker Tour
 URL: https://dth07jsr8atug.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-Plex/171.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u
 --------------------------------------------------
+Name: MSG
+URL: http://fl3.moveonjoy.com/MSG/index.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u
+--------------------------------------------------
 Name: Wild TV
 URL: https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u
---------------------------------------------------
-Name: Nickelodeon
-URL: http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u
---------------------------------------------------
-Name: History
-URL: http://23.237.104.106:8080/USA_HISTORY/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u
 --------------------------------------------------
@@ -4729,83 +4674,8 @@ URL: http://143.244.60.30/CARTOON_NETWORK/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u
 --------------------------------------------------
-Name: CINEMAX
-URL: http://23.237.104.106:8080/USA_CINEMAX/index.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u
---------------------------------------------------
-Name: Disney XD
-URL: http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u
---------------------------------------------------
-Name: Food Network
-URL: http://23.237.104.106:8080/USA_FOOD_NETWORK/index.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u
---------------------------------------------------
-Name: HBO
-URL: http://23.237.104.106:8080/USA_HBO/index.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u
---------------------------------------------------
-Name: HBO Comedy
-URL: http://23.237.104.106:8080/USA_HBO_COMEDY/index.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u
---------------------------------------------------
-Name: HBO Family
-URL: http://23.237.104.106:8080/USA_HBO_FAMILY/index.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u
---------------------------------------------------
-Name: HBO Signature
-URL: http://23.237.104.106:8080/USA_HBO_SIGNATURE/index.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u
---------------------------------------------------
-Name: HBO Zone
-URL: http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u
---------------------------------------------------
-Name: HBO2
-URL: http://23.237.104.106:8080/USA_HBO2/index.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u
---------------------------------------------------
-Name: HGTV
-URL: http://23.237.104.106:8080/USA_HGTV/index.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u
---------------------------------------------------
-Name: HLN
-URL: http://143.244.60.30/HLN/index.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u
---------------------------------------------------
-Name: National Geographic
-URL: http://23.237.104.106:8080/USA_NAT_GEO/index.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u
---------------------------------------------------
-Name: NewsNation
-URL: http://143.244.60.30/NEWS_NATION/index.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u
---------------------------------------------------
-Name: The Cooking Channel
-URL: http://23.237.104.106:8080/USA_COOKING/index.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u
---------------------------------------------------
 Name: DIY
 URL: http://143.244.60.30/DIY/index.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u
---------------------------------------------------
-Name: ESPN 2
-URL: http://143.244.60.30/ESPN_2/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u
 --------------------------------------------------
@@ -4819,13 +4689,148 @@ URL: http://143.244.60.30/BEIN_SPORTS/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u
 --------------------------------------------------
-Name: Fox Sport 1
-URL: http://23.237.104.106:8080/USA_FS1/index.m3u8
+Name: GRIT TV
+URL: http://143.244.60.30/GRIT_TV/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u
 --------------------------------------------------
-Name: Fox Sport 2
-URL: http://23.237.104.106:8080/USA_FS2/index.m3u8
+Name: Hallmark
+URL: http://143.244.60.30/HALLMARK_CHANNEL/index.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u
+--------------------------------------------------
+Name: Destination America
+URL: http://143.244.60.30/Destination_America/index.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u
+--------------------------------------------------
+Name: Discovery Science
+URL: http://143.244.60.30/Discovery_Science/index.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u
+--------------------------------------------------
+Name: HGTV
+URL: http://143.244.60.30/HGTV/index.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u
+--------------------------------------------------
+Name: INSP TV
+URL: http://143.244.60.30/INSP/index.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u
+--------------------------------------------------
+Name: MTV
+URL: http://143.244.60.30/MTV/index.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u
+--------------------------------------------------
+Name: MTV Live
+URL: http://143.244.60.30/MTV_LIVE/index.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u
+--------------------------------------------------
+Name: NHL Network
+URL: http://143.244.60.30/NHL_NETWORK/index.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u
+--------------------------------------------------
+Name: NickToons
+URL: http://143.244.60.30/NICKTOONS/index.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u
+--------------------------------------------------
+Name: Oprah Winfrey Network
+URL: http://143.244.60.30/OWN/index.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u
+--------------------------------------------------
+Name: OUTSIDE TV
+URL: http://143.244.60.30/OUTSIDE_TV/index.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u
+--------------------------------------------------
+Name: Oxygen
+URL: http://143.244.60.30/OXYGEN/index.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u
+--------------------------------------------------
+Name: Paramount Network
+URL: http://143.244.60.30/PARAMOUNT_NETWORK/index.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u
+--------------------------------------------------
+Name: PopTV
+URL: http://cdn1host.online:2999/kratorius/opLcbhlXaT/226
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u
+--------------------------------------------------
+Name: Starz Comedy
+URL: http://143.244.60.30/STARZ_COMEDY/index.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u
+--------------------------------------------------
+Name: Starz Edge
+URL: http://143.244.60.30/STARZ_EDGE/index.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u
+--------------------------------------------------
+Name: Starz Encore Action
+URL: http://143.244.60.30/STARZ_ENCORE_ACTION/index.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u
+--------------------------------------------------
+Name: Vice
+URL: http://143.244.60.30/VICELAND/index.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u
+--------------------------------------------------
+Name: WGN
+URL: http://143.244.60.30/WGN/index.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u
+--------------------------------------------------
+Name: TSN 1
+URL: http://fl5.moveonjoy.com/TSN_1/index.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u
+--------------------------------------------------
+Name: TSN 2
+URL: http://fl5.moveonjoy.com/TSN_2/index.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u
+--------------------------------------------------
+Name: TSN 3
+URL: http://fl5.moveonjoy.com/TSN_3/index.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u
+--------------------------------------------------
+Name: TSN 4
+URL: http://fl5.moveonjoy.com/TSN_4/index.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u
+--------------------------------------------------
+Name: TSN 5
+URL: http://fl5.moveonjoy.com/TSN_5/index.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u
+--------------------------------------------------
+Name: FoxBusiness
+URL: http://41.205.93.154/FOXBUSINESS/index.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u
+--------------------------------------------------
+Name: Cooking
+URL: http://fl3.moveonjoy.com/COOKING_CHANNEL/index.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u
+--------------------------------------------------
+Name: MGM+East
+URL: https://fl3.moveonjoy.com/EPIX/index.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u
+--------------------------------------------------
+Name: MGM+Marquee
+URL: https://fl3.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u
 --------------------------------------------------
@@ -5683,6 +5688,11 @@ URL: https://p2.vzan.com/slowlive/596867413819827251/live.m3u8?zbid=1725814272&a
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
+Name: 宁夏公共
+URL: https://livepgc.cmc.ningxiahuangheyun.com/tv/nxgg.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
 Name: 宁夏经济
 URL: https://ls.qingting.fm/live/1841/64k.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -5723,8 +5733,8 @@ URL: https://hlscdn.liangtv.cn/live/0234c48e0bc24fe1b41b9999a253e581/1075ee38e04
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
-Name: 延边2
-URL: https://live.ybtvyun.com/video/s10006-1c8f0ebfee9f/index.m3u8
+Name: 延边1
+URL: https://live.ybtvyun.com/video/s10006-9ccd00054351/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
@@ -5745,6 +5755,11 @@ Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtere
 --------------------------------------------------
 Name: 无锡生活
 URL: https://stream.thmz.com/wxtv4/playlist.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 无锡经济
+URL: https://stream.thmz.com/wxtv5/playlist.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
@@ -5788,6 +5803,11 @@ URL: https://ls.qingting.fm/live/20198/64k.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
+Name: 武清综合
+URL: https://tvpull.smartwq.cn/wqlive/convergencemedia/playlist.m3u8?ztianjd
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
 Name: 永昌综合
 URL: https://play.kankanlive.com/live/1652755738635915.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -5818,11 +5838,6 @@ URL: https://wshlslive.migucloud.com/live/6AL7GTQX_C0/playlist.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
-Name: 济南综合
-URL: https://quehuamtyoutlive.ijntv.cn/qsrog5/0szz7q.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
---------------------------------------------------
 Name: 海南新闻
 URL: https://satellitepull.cnr.cn/live/wxhainxwgb/playlist.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -5850,6 +5865,16 @@ Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtere
 --------------------------------------------------
 Name: 渭源新闻
 URL: https://play.kankanlive.com/live/1711955176432990.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 湖州文化娱乐
+URL: https://hzcm-live.media.hugd.com/613c47f0ab0d4eaa98b21378d0db6ded/0051d31c9dd543a7825eea4e49675b2a.m3u8?auth_key=2277598059-0a5ebfa1c0dc4671b42a60810fc37039-0-fa625b7d1feab612062453c12e3c8887
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 湖州新闻综合
+URL: https://hzcm-live.media.hugd.com/3f5fa7d64c7c46a38c6bd8ad35e836cc/65128273761b4731ae53729ea6dcf932.m3u8?auth_key=2277598215-9d21c15111244bea8d298c361d31a72e-0-d031198f58d44b0e91ba2e3f3b188865
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
@@ -5915,11 +5940,6 @@ Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtere
 --------------------------------------------------
 Name: 诸暨新闻综合
 URL: https://l.cztvcloud.com/channels/lantian/SXzhuji3/720p.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
---------------------------------------------------
-Name: 贵南综合
-URL: https://livecdn.dmqhyadmin.com/hls/xjguinan.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
@@ -7519,7 +7539,7 @@ Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtere
 --------------------------------------------------
 
 Group: 更新时间
-Name: 2025-06-04 12:40:15
+Name: 2025-06-04 19:00:18
 URL: https://vd4.bdstatic.com/mda-reiihfhe5xjm4s3e/1080p/cae_h264/1747660062050484190/mda-reiihfhe5xjm4s3e.mp4
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
@@ -8243,6 +8263,16 @@ URL: https://smart.pendy.dpdns.org/Smart.php?id=eltasport3_twn
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
+Name: 韩国电影1
+URL: https://stream.ads.ottera.tv/playlist.m3u8?network_id=595
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
+Name: 韩国电影2
+URL: https://stream.ads.ottera.tv/playlist.m3u8?network_id=743
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
 
 Group: 点播电影
 Name: 倩女幽魂妖魔道
@@ -8452,6 +8482,11 @@ URL: https://cdn8.163189.xyz/live/lhdy/stream.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
+Name: 浙江影视
+URL: https://ali-m-l.cztv.com/channels/lantian/channel005/1080p.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
+--------------------------------------------------
 Name: 美亚电影
 URL: https://live.tvfix.org/live/mydy/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -8459,16 +8494,6 @@ Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtere
 --------------------------------------------------
 Name: 豆瓣电影
 URL: https://live.tvfix.org/live/cmc/index.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
---------------------------------------------------
-Name: 韩国电影1
-URL: https://stream.ads.ottera.tv/playlist.m3u8?network_id=595
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
---------------------------------------------------
-Name: 韩国电影2
-URL: https://stream.ads.ottera.tv/playlist.m3u8?network_id=743
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
@@ -8818,13 +8843,13 @@ Source: https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u
 --------------------------------------------------
 
 Group: 直播中国
-Name: 云南丽江印象实景
-URL: https://gcalic.v.myalicdn.com/gc/hkylxs01_1/index.m3u8
+Name: 丽江古城大研花巷观景
+URL: https://gcalic.v.myalicdn.com/gc/ljgcdyhxgjt_1/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
-Name: 云南丽江玉龙雪山
-URL: https://gcalic.v.myalicdn.com/gc/ylxs11_1/index.m3u8
+Name: 青岛崂山双福
+URL: https://gcalic.v.myalicdn.com/gc/qdls03_1/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u
 --------------------------------------------------
