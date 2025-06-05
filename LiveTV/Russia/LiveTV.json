@@ -1,5 +1,5 @@
 {
-  "date": "2025-06-04 21:42:55",
+  "date": "2025-06-05 06:21:52",
   "channels": {
     "Кино": [
       {
@@ -7042,6 +7042,20 @@
         "url": "https://s7.merlive.am/ktokuda/index.m3u8"
       },
       {
+        "name": "OTR",
+        "logo": "https://i.imgur.com/VaWlnjZ.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
+        "url": "http://178.217.72.66:8080/OTR/index.m3u8"
+      },
+      {
+        "name": "REN TV",
+        "logo": "https://i.imgur.com/0Tu5lte.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
+        "url": "http://178.217.72.66:8080/REN_TV/index.m3u8"
+      },
+      {
         "name": "REN TV International",
         "logo": "https://i.imgur.com/gBjk9oF.png",
         "group": "General",
@@ -7568,6 +7582,13 @@
         "url": "http://45.88.92.3/tr3_MTVHits_SD/index.m3u8?token=test"
       },
       {
+        "name": "Muz-TV",
+        "logo": "https://i.imgur.com/BtqrHmz.png",
+        "group": "Music",
+        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
+        "url": "https://livetv.mylifeisgood.net.ru/channels/muztvhd.m3u8"
+      },
+      {
         "name": "o2tv",
         "logo": "https://i.imgur.com/CM6z7fA.png",
         "group": "Music",
@@ -7608,13 +7629,6 @@
         "group": "Music",
         "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
         "url": "https://public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8"
-      },
-      {
-        "name": "МузТВ",
-        "logo": "https://i.imgur.com/BtqrHmz.png",
-        "group": "Music",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "https://streaming.skynetconnect.online/live/618.m3u8"
       },
       {
         "name": "Музыка Первого",
@@ -7856,30 +7870,14 @@
         "url": "http://31.148.48.15/Avto_Plus/index.m3u8"
       }
     ],
-    "Business": [
-      {
-        "name": "Bloomberg TV EMEA Live Event (720p)",
-        "logo": "https://i.imgur.com/OuogLHx.png",
-        "group": "Business",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "https://bloomberg.com/media-manifest/streams/eu-event.m3u8"
-      },
-      {
-        "name": "Bloomberg TV Europe (720p)",
-        "logo": "https://i.imgur.com/OuogLHx.png",
-        "group": "Business",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "https://bloomberg.com/media-manifest/streams/eu.m3u8"
-      },
-      {
-        "name": "like Gecko) Mobile/15E148\",РБК (480p) [Not 24/7]",
-        "logo": "https://i.imgur.com/CwhmJby.png",
-        "group": "Business",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "http://ott-cdn.ucom.am/s36/index.m3u8"
-      }
-    ],
     "Undefined": [
+      {
+        "name": "Big Planet",
+        "logo": "https://i.imgur.com/wyuqWTR.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
+        "url": "http://178.217.72.66:8080/big_planet/index.m3u8"
+      },
       {
         "name": "Bober",
         "logo": "https://i.imgur.com/clWWhB8.png",
@@ -8385,6 +8383,29 @@
         "url": "https://live-ugratv.cdnvideo.ru/ugratv/ugratv/playlist.m3u8"
       }
     ],
+    "Business": [
+      {
+        "name": "Bloomberg TV EMEA Live Event (720p)",
+        "logo": "https://i.imgur.com/OuogLHx.png",
+        "group": "Business",
+        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
+        "url": "https://bloomberg.com/media-manifest/streams/eu-event.m3u8"
+      },
+      {
+        "name": "Bloomberg TV Europe (720p)",
+        "logo": "https://i.imgur.com/OuogLHx.png",
+        "group": "Business",
+        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
+        "url": "https://bloomberg.com/media-manifest/streams/eu.m3u8"
+      },
+      {
+        "name": "like Gecko) Mobile/15E148\",РБК (480p) [Not 24/7]",
+        "logo": "https://i.imgur.com/CwhmJby.png",
+        "group": "Business",
+        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
+        "url": "http://ott-cdn.ucom.am/s36/index.m3u8"
+      }
+    ],
     "Classic;Music": [
       {
         "name": "BRIDGE Classic",
@@ -8450,6 +8471,13 @@
         "group": "Movies",
         "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
         "url": "https://vod.tuva.ru/kinotv/index.m3u8"
+      },
+      {
+        "name": "Mosfilm Gold Collection",
+        "logo": "https://i.imgur.com/95Y8jb6.png",
+        "group": "Movies",
+        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
+        "url": "http://178.217.72.66:8080/mosfilm/index.m3u8"
       },
       {
         "name": "Muzhskoy",
@@ -8758,6 +8786,13 @@
         "url": "http://194.143.148.28:8080/KHL_HD/index.m3u8"
       },
       {
+        "name": "Match! Arena",
+        "logo": "https://i.imgur.com/udTzwzu.png",
+        "group": "Sports",
+        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
+        "url": "http://194.143.148.28:8080/MatchArena/index.m3u8"
+      },
+      {
         "name": "MMA-TV.com",
         "logo": "https://i.imgur.com/QhdxNsB.png",
         "group": "Sports",
@@ -8993,6 +9028,13 @@
     ],
     "Family": [
       {
+        "name": "STS Love",
+        "logo": "https://i.imgur.com/YBVZoDd.png",
+        "group": "Family",
+        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
+        "url": "http://194.143.148.28:8080/CTC_LOVE/index.m3u8"
+      },
+      {
         "name": "The Pet Collective (720p)",
         "logo": "https://i.imgur.com/yH7n2dF.png",
         "group": "Family",
@@ -9005,13 +9047,6 @@
         "group": "Family",
         "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
         "url": "http://ott-cdn.ucom.am/s52/index.m3u8"
-      },
-      {
-        "name": "СТС Love",
-        "logo": "https://i.imgur.com/YBVZoDd.png",
-        "group": "Family",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "http://31.148.48.15/STS_Love/index.m3u8"
       }
     ],
     "Legislative": [

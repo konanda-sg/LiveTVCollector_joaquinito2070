@@ -6006,6 +6006,18 @@
     "img": "https://ntvplus.tv/files/image/68/79/06/9wn.png"
   },
   {
+    "name": "OTR",
+    "type": "General",
+    "url": "http://178.217.72.66:8080/OTR/index.m3u8",
+    "img": "https://i.imgur.com/VaWlnjZ.png"
+  },
+  {
+    "name": "REN TV",
+    "type": "General",
+    "url": "http://178.217.72.66:8080/REN_TV/index.m3u8",
+    "img": "https://i.imgur.com/0Tu5lte.png"
+  },
+  {
     "name": "REN TV International",
     "type": "General",
     "url": "https://cdn4.skygo.mn/live/disk1/RenTV/HLSv3-FTA/RenTV.m3u8",
@@ -6450,6 +6462,12 @@
     "img": "https://i.imgur.com/zNscEST.png"
   },
   {
+    "name": "Muz-TV",
+    "type": "Music",
+    "url": "https://livetv.mylifeisgood.net.ru/channels/muztvhd.m3u8",
+    "img": "https://i.imgur.com/BtqrHmz.png"
+  },
+  {
     "name": "o2tv",
     "type": "Music",
     "url": "http://31.148.48.15/O2_HD/index.m3u8",
@@ -6484,12 +6502,6 @@
     "type": "Music",
     "url": "https://public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8",
     "img": "https://i.imgur.com/Pg7K7eV.png"
-  },
-  {
-    "name": "МузТВ",
-    "type": "Music",
-    "url": "https://streaming.skynetconnect.online/live/618.m3u8",
-    "img": "https://i.imgur.com/BtqrHmz.png"
   },
   {
     "name": "Музыка Первого",
@@ -6690,22 +6702,10 @@
     "img": "https://i.imgur.com/sVc8cFt.png"
   },
   {
-    "name": "Bloomberg TV EMEA Live Event (720p)",
-    "type": "Business",
-    "url": "https://bloomberg.com/media-manifest/streams/eu-event.m3u8",
-    "img": "https://i.imgur.com/OuogLHx.png"
-  },
-  {
-    "name": "Bloomberg TV Europe (720p)",
-    "type": "Business",
-    "url": "https://bloomberg.com/media-manifest/streams/eu.m3u8",
-    "img": "https://i.imgur.com/OuogLHx.png"
-  },
-  {
-    "name": "like Gecko) Mobile/15E148\",РБК (480p) [Not 24/7]",
-    "type": "Business",
-    "url": "http://ott-cdn.ucom.am/s36/index.m3u8",
-    "img": "https://i.imgur.com/CwhmJby.png"
+    "name": "Big Planet",
+    "type": "Undefined",
+    "url": "http://178.217.72.66:8080/big_planet/index.m3u8",
+    "img": "https://i.imgur.com/wyuqWTR.png"
   },
   {
     "name": "Bober",
@@ -7140,6 +7140,24 @@
     "img": "https://i.imgur.com/561FRwI.png"
   },
   {
+    "name": "Bloomberg TV EMEA Live Event (720p)",
+    "type": "Business",
+    "url": "https://bloomberg.com/media-manifest/streams/eu-event.m3u8",
+    "img": "https://i.imgur.com/OuogLHx.png"
+  },
+  {
+    "name": "Bloomberg TV Europe (720p)",
+    "type": "Business",
+    "url": "https://bloomberg.com/media-manifest/streams/eu.m3u8",
+    "img": "https://i.imgur.com/OuogLHx.png"
+  },
+  {
+    "name": "like Gecko) Mobile/15E148\",РБК (480p) [Not 24/7]",
+    "type": "Business",
+    "url": "http://ott-cdn.ucom.am/s36/index.m3u8",
+    "img": "https://i.imgur.com/CwhmJby.png"
+  },
+  {
     "name": "BRIDGE Classic",
     "type": "Classic;Music",
     "url": "http://31.148.48.15/Bridge_TV_Classic/index.m3u8",
@@ -7192,6 +7210,12 @@
     "type": "Movies",
     "url": "https://vod.tuva.ru/kinotv/index.m3u8",
     "img": "https://i.imgur.com/sMpamNO.png"
+  },
+  {
+    "name": "Mosfilm Gold Collection",
+    "type": "Movies",
+    "url": "http://178.217.72.66:8080/mosfilm/index.m3u8",
+    "img": "https://i.imgur.com/95Y8jb6.png"
   },
   {
     "name": "Muzhskoy",
@@ -7446,6 +7470,12 @@
     "img": "https://i.imgur.com/pwxT0ON.png"
   },
   {
+    "name": "Match! Arena",
+    "type": "Sports",
+    "url": "http://194.143.148.28:8080/MatchArena/index.m3u8",
+    "img": "https://i.imgur.com/udTzwzu.png"
+  },
+  {
     "name": "MMA-TV.com",
     "type": "Sports",
     "url": "https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8",
@@ -7632,6 +7662,12 @@
     "img": "https://i.imgur.com/abh8ZBA.png"
   },
   {
+    "name": "STS Love",
+    "type": "Family",
+    "url": "http://194.143.148.28:8080/CTC_LOVE/index.m3u8",
+    "img": "https://i.imgur.com/YBVZoDd.png"
+  },
+  {
     "name": "The Pet Collective (720p)",
     "type": "Family",
     "url": "https://6ec8627d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1RoZVBldENvbGxlY3RpdmVfSExT/playlist.m3u8",
@@ -7642,12 +7678,6 @@
     "type": "Family",
     "url": "http://ott-cdn.ucom.am/s52/index.m3u8",
     "img": "https://i.imgur.com/ilUzAeb.png"
-  },
-  {
-    "name": "СТС Love",
-    "type": "Family",
-    "url": "http://31.148.48.15/STS_Love/index.m3u8",
-    "img": "https://i.imgur.com/YBVZoDd.png"
   },
   {
     "name": "Дума ТВ",
