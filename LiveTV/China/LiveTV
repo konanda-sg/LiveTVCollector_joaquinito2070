@@ -5088,12 +5088,6 @@
     "img": "https://live.fanmingming.cn/tv/山东教育.png"
   },
   {
-    "name": "浙江卫视",
-    "type": "卫视频道",
-    "url": "https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "山东教育",
     "type": "卫视频道",
     "url": "https://test1.live.sdetv.com.cn/live/dianshizhibo/playlist.m3u8",
@@ -5772,6 +5766,12 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
+    "name": "搜狐剧场",
+    "type": "数字频道",
+    "url": "https://hdl-vip-ws.qf.56.com/live/lc_11730.flv",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
     "name": "凤凰中文",
     "type": "港澳台频道",
     "url": "http://wouu.net:9977/rtp/239.93.0.162:2192?Cf=cfss.cc",
@@ -6114,9 +6114,9 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "中天新闻（备用）",
+    "name": "中天新闻",
     "type": "港澳台频道",
-    "url": "https://smart.pendy.dpdns.org/Smart.php?id=ctinews",
+    "url": "https://ali.hlspull.yximgs.com/live/ztxw001.flv",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -7572,6 +7572,12 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
+    "name": "浙江影视",
+    "type": "电影频道",
+    "url": "https://ali-m-l.cztv.com/channels/lantian/channel005/1080p.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
     "name": "美亚电影",
     "type": "电影频道",
     "url": "https://live.tvfix.org/live/mydy/index.m3u8",
@@ -8706,6 +8712,12 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
+    "name": "广东体育",
+    "type": "地方频道",
+    "url": "https://epg.pw/stream/7b470f9fc5c305db0c8622117b7b25ca00eb35ba3e93e865cf0ff9df5c736681.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
     "name": "七星关电视台",
     "type": "地方频道",
     "url": "https://p8.vzan.com:443/slowlive/147077707554082780/live.m3u8",
@@ -8775,6 +8787,12 @@
     "name": "凉山语",
     "type": "地方频道",
     "url": "https://tvfile.scjgtv.cn/nmip-media/channellive/channel104126/playlist.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "化隆综合",
+    "type": "地方频道",
+    "url": "https://livecdn.dmqhyadmin.com/hls/xjhualong.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -8858,7 +8876,7 @@
   {
     "name": "太谷新闻综合",
     "type": "地方频道",
-    "url": "https://p2.vzan.com/slowlive/596867413819827251/live.m3u8?zbid=1725814272&amp;tpid=1516989100&amp;type=0",
+    "url": "https://p2.vzan.com/slowlive/596867413819827251/live.m3u8?zbid=1725814272&amp;amp;tpid=1516989100&amp;amp;type=0",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -8877,6 +8895,12 @@
     "name": "平泉综合",
     "type": "地方频道",
     "url": "https://jwcdnqx.hebyun.com.cn/live/pqzh/1500k/tzwj_video.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "平遥新闻综合",
+    "type": "地方频道",
+    "url": "https://tntgjhjb.live.sxmty.com/live/hls/3a4585ac11ec4e1bb07b419101b370c3/baf63e2b313440c2a25d7859f9b73b05-1.m3u8?zshanxd",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -9030,9 +9054,9 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "海宁新闻综合",
+    "name": "淮阴综合",
     "type": "地方频道",
-    "url": "https://p2hs.vzan.com/slowlive/317913155078575177/live.m3u8",
+    "url": "https://huaiyin-tv-replay.cm.jstv.com/huaiyin-tv/huaiyinf.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -9051,12 +9075,6 @@
     "name": "渭源新闻",
     "type": "地方频道",
     "url": "https://play.kankanlive.com/live/1711955176432990.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "湖州文化娱乐",
-    "type": "地方频道",
-    "url": "https://hzcm-live.media.hugd.com/613c47f0ab0d4eaa98b21378d0db6ded/0051d31c9dd543a7825eea4e49675b2a.m3u8?auth_key=2277598059-0a5ebfa1c0dc4671b42a60810fc37039-0-fa625b7d1feab612062453c12e3c8887",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -9812,13 +9830,7 @@
   {
     "name": "BBC",
     "type": "国际",
-    "url": "https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "CNN",
-    "type": "国际",
-    "url": "https://d3696l48vwq25d.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-0g2918mubifjw/index.m3u8",
+    "url": "https://jmp2.uk/sam-US4000033L.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -9837,6 +9849,12 @@
     "name": "CTV News",
     "type": "国际",
     "url": "https://jmp2.uk/sam-CA1400004AE.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "CBC News",
+    "type": "国际",
+    "url": "https://jmp2.uk/sam-USBC4400003OU.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -9903,12 +9921,6 @@
     "name": "TCM",
     "type": "国际",
     "url": "http://fl1.moveonjoy.com/TCM/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "TNT",
-    "type": "国际",
-    "url": "http://fl5.moveonjoy.com/NBA_1/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -9984,12 +9996,6 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "Pac-12 Insider",
-    "type": "国际",
-    "url": "https://pac12-samsungus.amagi.tv/playlist.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "COZI TV",
     "type": "国际",
     "url": "http://fl3.moveonjoy.com/COZI_TV/index.m3u8",
@@ -10017,24 +10023,6 @@
     "name": "YES",
     "type": "国际",
     "url": "https://wikinew.newkso.ru/wiki/yesnet/mono.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "NBA TV",
-    "type": "国际",
-    "url": "http://fl5.moveonjoy.com/NBA_TV/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "FIFA+",
-    "type": "国际",
-    "url": "https://jmp2.uk/sam-CABD1200008JG.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Sky Sports Mix",
-    "type": "国际",
-    "url": "https://x4new.newkso.ru/x4/skymix/mono.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -10104,12 +10092,6 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "Tennis Channel",
-    "type": "国际",
-    "url": "http://fl3.moveonjoy.com/TENNIS_CHANNEL/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "National Geographic Wild",
     "type": "国际",
     "url": "http://fl3.moveonjoy.com/Nat_Geo_Wild/index.m3u8",
@@ -10176,12 +10158,6 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "CBS Sports",
-    "type": "国际",
-    "url": "http://fl3.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "Chef Champion",
     "type": "国际",
     "url": "https://bozztv.com/gusa/gusa-chefchampion/index.m3u8",
@@ -10218,30 +10194,6 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "MLB Network",
-    "type": "国际",
-    "url": "http://fl3.moveonjoy.com/MLB_NETWORK/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Sportsman Channel",
-    "type": "国际",
-    "url": "http://fl3.moveonjoy.com/SPORTSMAN_CHANNEL/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "ESPN U",
-    "type": "国际",
-    "url": "http://fl3.moveonjoy.com/ESPN_U/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "SportsNet New York",
-    "type": "国际",
-    "url": "http://fl3.moveonjoy.com/SNY/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "Tastemade",
     "type": "国际",
     "url": "https://tastemade-xumo.amagi.tv/playlist.m3u8",
@@ -10266,12 +10218,6 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "MLB Network",
-    "type": "国际",
-    "url": "https://fl3.moveonjoy.com/MLB_NETWORK/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "Cartoon Network",
     "type": "国际",
     "url": "http://143.244.60.30/CARTOON_NETWORK/index.m3u8",
@@ -10290,12 +10236,6 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "BEIN Sports",
-    "type": "国际",
-    "url": "http://143.244.60.30/BEIN_SPORTS/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "GRIT TV",
     "type": "国际",
     "url": "http://143.244.60.30/GRIT_TV/index.m3u8",
@@ -10305,6 +10245,30 @@
     "name": "Hallmark",
     "type": "国际",
     "url": "http://143.244.60.30/HALLMARK_CHANNEL/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "FoxBusiness",
+    "type": "国际",
+    "url": "http://41.205.93.154/FOXBUSINESS/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Cooking",
+    "type": "国际",
+    "url": "http://fl3.moveonjoy.com/COOKING_CHANNEL/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "MGM+East",
+    "type": "国际",
+    "url": "https://fl3.moveonjoy.com/EPIX/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "MGM+Marquee",
+    "type": "国际",
+    "url": "https://fl3.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -10341,12 +10305,6 @@
     "name": "MTV Live",
     "type": "国际",
     "url": "http://143.244.60.30/MTV_LIVE/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "NHL Network",
-    "type": "国际",
-    "url": "http://143.244.60.30/NHL_NETWORK/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -10416,6 +10374,42 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
+    "name": "TNT",
+    "type": "国际",
+    "url": "http://fl5.moveonjoy.com/NBA_1/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "NHL Network",
+    "type": "国际",
+    "url": "http://143.244.60.30/NHL_NETWORK/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "MLB Network",
+    "type": "国际",
+    "url": "http://fl3.moveonjoy.com/MLB_NETWORK/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Sportsman Channel",
+    "type": "国际",
+    "url": "http://fl3.moveonjoy.com/SPORTSMAN_CHANNEL/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "ESPN U",
+    "type": "国际",
+    "url": "http://fl3.moveonjoy.com/ESPN_U/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "SportsNet New York",
+    "type": "国际",
+    "url": "http://fl3.moveonjoy.com/SNY/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
     "name": "TSN 1",
     "type": "国际",
     "url": "http://fl5.moveonjoy.com/TSN_1/index.m3u8",
@@ -10446,27 +10440,69 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "FoxBusiness",
+    "name": "FOX Sports",
     "type": "国际",
-    "url": "http://41.205.93.154/FOXBUSINESS/index.m3u8",
+    "url": "https://jmp2.uk/sam-US2700001QY.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "Cooking",
+    "name": "NBC Sports",
     "type": "国际",
-    "url": "http://fl3.moveonjoy.com/COOKING_CHANNEL/index.m3u8",
+    "url": "https://jmp2.uk/sam-USBD420002446.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "MGM+East",
+    "name": "SportsGrid",
     "type": "国际",
-    "url": "https://fl3.moveonjoy.com/EPIX/index.m3u8",
+    "url": "https://jmp2.uk/sam-USBA300031OT.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "MGM+Marquee",
+    "name": "BEIN Sports",
     "type": "国际",
-    "url": "https://fl3.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8",
+    "url": "http://143.244.60.30/BEIN_SPORTS/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "CBS Sports",
+    "type": "国际",
+    "url": "http://fl3.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Pac-12 Insider",
+    "type": "国际",
+    "url": "https://pac12-samsungus.amagi.tv/playlist.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "MLB Network",
+    "type": "国际",
+    "url": "https://fl3.moveonjoy.com/MLB_NETWORK/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "NBA TV",
+    "type": "国际",
+    "url": "http://fl5.moveonjoy.com/NBA_TV/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "FIFA+",
+    "type": "国际",
+    "url": "https://jmp2.uk/sam-CABD1200008JG.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Sky Sports Mix",
+    "type": "国际",
+    "url": "https://x4new.newkso.ru/x4/skymix/mono.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Tennis Channel",
+    "type": "国际",
+    "url": "http://fl3.moveonjoy.com/TENNIS_CHANNEL/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -10512,13 +10548,7 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "雪乡梦幻家园",
-    "type": "直播中国",
-    "url": "https://gcalic.v.myalicdn.com/gc/mdjxxmhjyxj_1/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "2025-06-05 06:39:42",
+    "name": "2025-06-05 12:44:32",
     "type": "更新时间",
     "url": "https://vd3.bdstatic.com/mda-reiiim4f9ahf6ccz/720p/h264/1747659948261672792/mda-reiiim4f9ahf6ccz.mp4",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
