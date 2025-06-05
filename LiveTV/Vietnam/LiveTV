@@ -1116,18 +1116,6 @@
     "img": "https://i.imgur.com/Mqmbsj4.png"
   },
   {
-    "name": "BBC News Asia Pacific (720p)",
-    "type": "News",
-    "url": "https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8",
-    "img": "https://i.imgur.com/vSz2WEp.png"
-  },
-  {
-    "name": "RTM ASEAN",
-    "type": "News",
-    "url": "https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG.m3u8",
-    "img": "https://i.imgur.com/skAiUxg.png"
-  },
-  {
     "name": "Binh Phuoc TV 1 (720p)",
     "type": "General;News",
     "url": "https://live.baobinhphuoc.com.vn/bptvlive/tv1live.m3u8",
@@ -1332,12 +1320,6 @@
     "img": "https://upload.wikimedia.org/wikipedia/en/thumb/3/37/C%26I_logo.svg/512px-C%26I_logo.svg.png"
   },
   {
-    "name": "ON Vie Drama",
-    "type": "Entertainment",
-    "url": "https://live20.bozztv.com/gin-dvrfl05/vch_vchannel18/index.m3u8",
-    "img": "https://i.postimg.cc/3J83gWVQ/ON-Vie-Dramas.png"
-  },
-  {
     "name": "One TV Asia (576p) [Geo-blocked]",
     "type": "Entertainment",
     "url": "http://210.210.155.37/uq2663/h/h143/index.m3u8",
@@ -1408,5 +1390,11 @@
     "type": "Kids",
     "url": "http://178.128.214.60:1234/stream/astro/nickelodeon/master.m3u8",
     "img": "https://i.imgur.com/E84jnP8.png"
+  },
+  {
+    "name": "RTM ASEAN",
+    "type": "News",
+    "url": "https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG.m3u8",
+    "img": "https://i.imgur.com/skAiUxg.png"
   }
 ]

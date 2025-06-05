@@ -1,5 +1,5 @@
 {
-  "date": "2025-06-04 21:49:53",
+  "date": "2025-06-05 06:55:34",
   "channels": {
     "Uncategorized": [
       {
@@ -1309,22 +1309,6 @@
         "url": "http://125hvt.ddns.net:21585/vtv6/playlist.m3u8"
       }
     ],
-    "News": [
-      {
-        "name": "BBC News Asia Pacific (720p)",
-        "logo": "https://i.imgur.com/vSz2WEp.png",
-        "group": "News",
-        "source": "https://iptv-org.github.io/iptv/countries/vn.m3u",
-        "url": "https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8"
-      },
-      {
-        "name": "RTM ASEAN",
-        "logo": "https://i.imgur.com/skAiUxg.png",
-        "group": "News",
-        "source": "https://iptv-org.github.io/iptv/countries/vn.m3u",
-        "url": "https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG.m3u8"
-      }
-    ],
     "General;News": [
       {
         "name": "Binh Phuoc TV 1 (720p)",
@@ -1573,13 +1557,6 @@
         "url": "https://cdn09jtedge.indihometv.com/joss/133/crimeinvestigation/index.m3u8"
       },
       {
-        "name": "ON Vie Drama",
-        "logo": "https://i.postimg.cc/3J83gWVQ/ON-Vie-Dramas.png",
-        "group": "Entertainment",
-        "source": "https://iptv-org.github.io/iptv/countries/vn.m3u",
-        "url": "https://live20.bozztv.com/gin-dvrfl05/vch_vchannel18/index.m3u8"
-      },
-      {
         "name": "One TV Asia (576p) [Geo-blocked]",
         "logo": "https://i.imgur.com/ea0iGfA.png",
         "group": "Entertainment",
@@ -1674,6 +1651,15 @@
         "group": "Kids",
         "source": "https://iptv-org.github.io/iptv/countries/vn.m3u",
         "url": "http://178.128.214.60:1234/stream/astro/nickelodeon/master.m3u8"
+      }
+    ],
+    "News": [
+      {
+        "name": "RTM ASEAN",
+        "logo": "https://i.imgur.com/skAiUxg.png",
+        "group": "News",
+        "source": "https://iptv-org.github.io/iptv/countries/vn.m3u",
+        "url": "https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG.m3u8"
       }
     ]
   }
