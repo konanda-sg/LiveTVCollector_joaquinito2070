@@ -1,5 +1,5 @@
 {
-  "date": "2025-06-08 06:15:17",
+  "date": "2025-06-08 13:31:03",
   "channels": {
     "STREAMING": [
       {
@@ -10,13 +10,6 @@
         "url": "https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8"
       },
       {
-        "name": "BBC NEWS (UK)",
-        "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEY3PxWPPJXaPgL2q8110TQWLbJ0KOH2GeYvwPBNyDrAd1EmNQmSB-V5e3PQ-vcG2FtuHtBiX-WWv376GNdCKjNkR9ByGfSpn5zUmlZdDkL-_jG-64fKfhiMy1NLcXG3v1qSpsRcytTGGp_td6C4OjAXbrnOtSBKlXKUVn-TfV3S2Z9RXLY15eWIUQ_aI/s2412/Picsart_24-09-06_11-38-14-506.jpg",
-        "group": "STREAMING",
-        "source": "https://raw.githubusercontent.com/LiveTvWorldwide/IPTV/refs/heads/main/live.m3u",
-        "url": "https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8"
-      },
-      {
         "name": "DANGAL (IND)",
         "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimriUVOPAIp6TeNZ9-1JDs6RD38FxnVxia28ziPn3JIhvwcMILRjtKEPgBuaIsi8bfEN1_u_UZgM9iB0dx-Z72foq5SJQ_nPUnoiJeLf_eKpH9ddUd_7nbDreSIkIFI3BPaKmerWu3mTt9KabzbMi758qk9fJMl_6pBLzElqKe7Gp3i_4ZgS0OuD7VQ80/s320/1000065702.jpg",
         "group": "STREAMING",
@@ -25,7 +18,7 @@
       },
       {
         "name": "ZEE TV (IL)",
-        "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjj6qBOb_xsX2l3BJLNERkHb7FQDU0ZxA_8zjchb6vyQsETdYjYwR0pe76lKj2vlv2e5qXyn_tEULR4Ppi5R5iN41cZ0hlhqctbzw22nKpZ3B0noervQF244s-fZ22SSd7eubtPiPZ4YwN6YTGpRtwSGDF5xQvCR3dj1x6jxCG0Hm8yBdvz5aQIqY5zozA/s320/Picsart_24-09-21_13-17-37-880.jpg",
+        "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2vZ0w0febfwbmIoe3JnkWcZIuoM9qUggVVmHSLVAi73O7ifHDmSHXxrQoFnluObL961ydpUYjD2Cud4EJ_1V6ozSI0myaDM9FoioW1WM_EeFCew8U_kLIuicD4Zk49aJ98ruGKtdQdHsMEzDzBBwHALiADUX0VqHGdWdm2hcdypLNbmUxSr2UkxP_IWU/s320/1000088658.jpg",
         "group": "STREAMING",
         "source": "https://raw.githubusercontent.com/LiveTvWorldwide/IPTV/refs/heads/main/live.m3u",
         "url": "http://ott.premium-tv.org:8789/wonton57/874893/332295"
@@ -36,6 +29,13 @@
         "group": "STREAMING",
         "source": "https://raw.githubusercontent.com/LiveTvWorldwide/IPTV/refs/heads/main/live.m3u",
         "url": "http://tvmate.icu:8080/vNay0H/219352/125807"
+      },
+      {
+        "name": "DESI PLAY TV (ME)",
+        "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjVr_B_z9w1XyTDZoC6G0alWNUqnV0TUigxltrJJ0jtLLLN0Q03zDSiUIE3i7bihyf7lay5ATA023oXcbm44TnZ5eezGvXTMqS4AEUKUroPcoF2UEavIzmTyzodSPpCMY63roinNZgtt3iFUihIxKsIKY1NfcFZ1D-527flrHeFn4fcbpcLdKw12KtidEM/s2060/Picsart_24-09-04_07-46-04-187.jpg",
+        "group": "STREAMING",
+        "source": "https://raw.githubusercontent.com/LiveTvWorldwide/IPTV/refs/heads/main/live.m3u",
+        "url": "https://desiplaylive.akamaized.net/ptnr-yupptv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-660691/playlist.m3u8"
       }
     ],
     "ADULT TV": [
@@ -44,7 +44,7 @@
         "logo": " ",
         "group": "ADULT TV",
         "source": "https://raw.githubusercontent.com/LiveTvWorldwide/IPTV/refs/heads/main/live.m3u",
-        "url": "http://d029dcec.kazmazpaz.ru/iptv/EBUCGK992DRF6L/6285/manifest.m3u8"
+        "url": "http://d029dcec.kazmazpaz.ru/iptv/EHF55SW2TTSDUN/6285/manifest.m3u8"
       }
     ],
     "AP TV": [
@@ -106,14 +106,14 @@
       },
       {
         "name": "ZEE TV HD (UK)",
-        "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEim9Dk1wYDKxGZXNUMB4Nt8H7aE56yoBotPByL_UBg5nX9PYg6RDJ9eBr1BGcTnmAPVxY1dZisU1hgGHyVjxj8A2Q0yUTbdDMnCScCqL9ygLW4qv53rhoPkh8B8qxAQw0fSAfmMjF2e8cJGXZ0MqdtnS4_Y-J2Vx6JiLrwTR8cWYon9pjgxIdtQTtLAxkY/s204/Picsart_24-03-13_20-48-45-283.jpg",
+        "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhA4S-Et1bVPVl5rpj1wY_gU6sja3qkE4HIyPRkd6khf8k2Lhs2CgZsRVGyGFEy9R-X0F3FYct3q8AuTAQ4J-ANHXeQTLM59tP17OnzQZ73ehzD03y_XxPDRLYrnTvPzWJg41_YPa4g0sfFPljfbGC2xSZE0BQOpdfPFo-P2ykbbSgx0WmYSrhidM9aDLg/s320/1000088673.jpg",
         "group": "AP TV",
         "source": "https://raw.githubusercontent.com/LiveTvWorldwide/IPTV/refs/heads/main/live.m3u",
         "url": "http://ahostingportal.com:2095/3875147095/3458182665/2816"
       },
       {
         "name": "ZEE CINEMA (UK)",
-        "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrVYUlnxqwlW8sQMt1HFtcg4iTMAouVtHyVWU5e1YhR5tdjVliGuTGUBQUtFR170LZ_PPUTgj9LrTvJnl-xJ1qc-7dhknnbWDV0YJ34oiCYJdlPyStM6Zg4MoUGKrQcutL9gwbmWz8rj_NdOecpWouTCr-v0z-atis9UD6S9VqprZTFXHwn8TZv5GRQw0/s320/Picsart_24-09-21_14-31-55-566.jpg",
+        "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwJlZIMqec8Z8ALZ3gSA719FgKPlBcFKDy8ugHQ0xGvEzS6cFY5eNJlCsTSP3UKSkpZNvGR0xYqsslvPAuMDjF2Eu_kgwsAyS0vtwftEQ-0Y_o63cHw3lcikL4k6ErCOCaOtpN1KorkfCPaHoW3snG1EXouNkkY9K9y_yLpOr4LDZ-FC4DzpIBiCGx6O0/s320/1000088661.jpg",
         "group": "AP TV",
         "source": "https://raw.githubusercontent.com/LiveTvWorldwide/IPTV/refs/heads/main/live.m3u",
         "url": "http://ahostingportal.com:2095/3875147095/3458182665/10858"
@@ -656,7 +656,7 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "notizie",
         "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/heads/master/output/rakuten.m3u",
-        "url": "https://euronews-live-ita-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6570/bitok/eyJzdGlkIjoiYzFiOWMxMDQtMDg2ZS00OTdkLTg2MjEtN2Y4MTg0ZTU0ODVlIiwibWt0IjoiaXQiLCJjaCI6NjU3MCwicHRmIjo1fQ%3D%3D/25674/euronews-it.m3u8"
+        "url": "https://euronews-live-ita-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6570/bitok/eyJzdGlkIjoiZDVkNWRmNTQtMjYxYS00Y2NhLTllMTktYTk1OTNlZTYyZGMwIiwibWt0IjoiaXQiLCJjaCI6NjU3MCwicHRmIjo1fQ%3D%3D/25674/euronews-it.m3u8"
       },
       {
         "name": "The Reuters 60",
@@ -691,7 +691,7 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "notizie",
         "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/heads/master/output/rakuten.m3u",
-        "url": "https://africanews-eng-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576/bitok/eyJzdGlkIjoiZTAzMjQyM2MtNTZkYS00NWY4LTg1NzgtNDZiZDk5ODJkODgwIiwibWt0IjoiaXQiLCJjaCI6NjU4NywicHRmIjo1fQ%3D%3D/26036/africanews-en.m3u8"
+        "url": "https://africanews-eng-it.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576/bitok/eyJzdGlkIjoiM2U1NmZkMWYtYjA1ZS00NjdmLTkzMzMtOWU0N2I0MDVjMDI3IiwibWt0IjoiaXQiLCJjaCI6NjU4NywicHRmIjo1fQ%3D%3D/26036/africanews-en.m3u8"
       },
       {
         "name": "CGTN",
