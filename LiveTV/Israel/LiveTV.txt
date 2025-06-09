@@ -22,13 +22,6 @@ Logo: https://kamigame.jp/wp-content/uploads/%E3%82%A2%E3%82%A4%E3%82%AD%E3%83%A
 Source: https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u
 --------------------------------------------------
 
-Group: Entertainment
-Name: Ran TV Israel (720p)
-URL: https://streaminglive.co.il:3730/live/raniamranilive.m3u8
-Logo: https://i.ibb.co/yhY2TD5/IMG-20230629-135926.jpg
-Source: https://iptv-org.github.io/iptv/countries/il.m3u
---------------------------------------------------
-
 Group: General
 Name: Alforat TV (1080p)
 URL: http://95.216.180.111:1935/live/10/playlist.m3u8
@@ -1297,7 +1290,7 @@ URL: https://hls.pmc.live/hls/stream.m3u8
 Logo: https://i.imgur.com/AbrHI7K.png
 Source: https://iptv-org.github.io/iptv/countries/il.m3u
 --------------------------------------------------
-Name: PMC Royale (720p) [Not 24/7]
+Name: PMC Royale (720p)
 URL: https://rohls.pmc.live/hls/stream.m3u8
 Logo: https://www.lyngsat.com/logo/tv/pp/pmc-royale-ch.png
 Source: https://iptv-org.github.io/iptv/countries/il.m3u
@@ -6249,6 +6242,11 @@ Source: https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/C
 --------------------------------------------------
 
 Group: Religious
+Name: Al Hayat TV (720p)
+URL: https://cdn3.wowza.com/5/OE5HREpIcEkySlNT/alhayat-live/ngrp:livestream_all/playlist.m3u8
+Logo: https://i.imgur.com/M8ZuzeB.png
+Source: https://iptv-org.github.io/iptv/countries/il.m3u
+--------------------------------------------------
 Name: Angel TV Hebrew (720p)
 URL: https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelhebrew_all/playlist.m3u8
 Logo: https://i.imgur.com/qKLEGU7.png
