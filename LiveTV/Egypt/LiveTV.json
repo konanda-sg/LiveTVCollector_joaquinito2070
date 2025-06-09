@@ -1,5 +1,5 @@
 {
-  "date": "2025-06-08 21:40:39",
+  "date": "2025-06-09 06:22:04",
   "channels": {
     "Uncategorized": [
       {
@@ -1272,6 +1272,13 @@
         "url": "http://95.216.180.111:1935/live/10/playlist.m3u8"
       },
       {
+        "name": "Alhayat TV",
+        "logo": "https://i.imgur.com/bl9ie9u.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
+        "url": "https://fl1002.bozztv.com/ga-alhayah/tracks-v1a1/mono.m3u8"
+      },
+      {
         "name": "Canal 2 International",
         "logo": "https://i.imgur.com/BzA2z7m.png",
         "group": "General",
@@ -1340,6 +1347,13 @@
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
         "url": "https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8"
+      },
+      {
+        "name": "TeN",
+        "logo": "https://i.imgur.com/gMnn6PD.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
+        "url": "https://live20.bozztv.com/gin-36bay3/ga-tentv/tracks-v1a1/mono.m3u8"
       },
       {
         "name": "TV BRICS Africa (1080p)",
@@ -1667,7 +1681,7 @@
         "logo": "https://i.imgur.com/TTAGFHG.png",
         "group": "Movies",
         "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
-        "url": "https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8"
+        "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8"
       },
       {
         "name": "Rotana Cinema Egypt (1080p)",
@@ -1675,13 +1689,6 @@
         "group": "Movies",
         "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
         "url": "https://rotana.hibridcdn.net/rotananet/cinemamasr_net-7Y83PP5adWixDF93/playlist.m3u8"
-      },
-      {
-        "name": "Zee Aflam (720p) [Geo-blocked]",
-        "logo": "https://i.imgur.com/nUmsyGt.png",
-        "group": "Movies",
-        "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
-        "url": "https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8"
       }
     ],
     "Kids": [
@@ -1741,7 +1748,7 @@
         "url": "https://hls.pmc.live/hls/stream.m3u8"
       },
       {
-        "name": "PMC Royale (720p) [Not 24/7]",
+        "name": "PMC Royale (720p)",
         "logo": "https://www.lyngsat.com/logo/tv/pp/pmc-royale-ch.png",
         "group": "Music",
         "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
@@ -1769,15 +1776,6 @@
         "group": "Documentary",
         "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
         "url": "https://vo-live.cdb.cdn.orange.com/Content/Channel/NationalGeographicHDChannel/HLS/index.m3u8"
-      }
-    ],
-    "Entertainment;Series": [
-      {
-        "name": "Zee Alwan (720p) [Geo-blocked]",
-        "logo": "https://i.imgur.com/fBL7YrC.png",
-        "group": "Entertainment;Series",
-        "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
-        "url": "https://weyyak-live.akamaized.net/weyyak_zee_alwan/index.m3u8"
       }
     ]
   }

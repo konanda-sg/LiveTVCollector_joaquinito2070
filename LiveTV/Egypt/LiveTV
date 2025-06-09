@@ -1086,6 +1086,12 @@
     "img": "https://i.imgur.com/f6PQzKd.png"
   },
   {
+    "name": "Alhayat TV",
+    "type": "General",
+    "url": "https://fl1002.bozztv.com/ga-alhayah/tracks-v1a1/mono.m3u8",
+    "img": "https://i.imgur.com/bl9ie9u.png"
+  },
+  {
     "name": "Canal 2 International",
     "type": "General",
     "url": "http://69.64.57.208/canal2international/playlist.m3u8",
@@ -1144,6 +1150,12 @@
     "type": "General",
     "url": "https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/RTP_%C3%81frica_2016_%28Reduced_Version%29.svg/512px-RTP_%C3%81frica_2016_%28Reduced_Version%29.svg.png"
+  },
+  {
+    "name": "TeN",
+    "type": "General",
+    "url": "https://live20.bozztv.com/gin-36bay3/ga-tentv/tracks-v1a1/mono.m3u8",
+    "img": "https://i.imgur.com/gMnn6PD.png"
   },
   {
     "name": "TV BRICS Africa (1080p)",
@@ -1406,7 +1418,7 @@
   {
     "name": "MBC Bollywood (1080p) [Geo-blocked]",
     "type": "Movies",
-    "url": "https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8",
+    "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8",
     "img": "https://i.imgur.com/TTAGFHG.png"
   },
   {
@@ -1414,12 +1426,6 @@
     "type": "Movies",
     "url": "https://rotana.hibridcdn.net/rotananet/cinemamasr_net-7Y83PP5adWixDF93/playlist.m3u8",
     "img": "https://i.imgur.com/dGlKoLW.png"
-  },
-  {
-    "name": "Zee Aflam (720p) [Geo-blocked]",
-    "type": "Movies",
-    "url": "https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8",
-    "img": "https://i.imgur.com/nUmsyGt.png"
   },
   {
     "name": "MBC 3 KSA (1080p)",
@@ -1464,7 +1470,7 @@
     "img": "https://i.imgur.com/AbrHI7K.png"
   },
   {
-    "name": "PMC Royale (720p) [Not 24/7]",
+    "name": "PMC Royale (720p)",
     "type": "Music",
     "url": "https://rohls.pmc.live/hls/stream.m3u8",
     "img": "https://www.lyngsat.com/logo/tv/pp/pmc-royale-ch.png"
@@ -1486,11 +1492,5 @@
     "type": "Documentary",
     "url": "https://vo-live.cdb.cdn.orange.com/Content/Channel/NationalGeographicHDChannel/HLS/index.m3u8",
     "img": "https://i.imgur.com/fNA00VF.png"
-  },
-  {
-    "name": "Zee Alwan (720p) [Geo-blocked]",
-    "type": "Entertainment;Series",
-    "url": "https://weyyak-live.akamaized.net/weyyak_zee_alwan/index.m3u8",
-    "img": "https://i.imgur.com/fBL7YrC.png"
   }
 ]

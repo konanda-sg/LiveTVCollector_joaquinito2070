@@ -48,13 +48,6 @@ Logo: https://i.imgur.com/g5PWnqp.png
 Source: https://iptv-org.github.io/iptv/countries/eg.m3u
 --------------------------------------------------
 
-Group: Entertainment;Series
-Name: Zee Alwan (720p) [Geo-blocked]
-URL: https://weyyak-live.akamaized.net/weyyak_zee_alwan/index.m3u8
-Logo: https://i.imgur.com/fBL7YrC.png
-Source: https://iptv-org.github.io/iptv/countries/eg.m3u
---------------------------------------------------
-
 Group: Family
 Name: MBC 5 (1080p)
 URL: https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
@@ -91,6 +84,11 @@ Source: https://iptv-org.github.io/iptv/countries/eg.m3u
 Name: Alforat TV (1080p)
 URL: http://95.216.180.111:1935/live/10/playlist.m3u8
 Logo: https://i.imgur.com/f6PQzKd.png
+Source: https://iptv-org.github.io/iptv/countries/eg.m3u
+--------------------------------------------------
+Name: Alhayat TV
+URL: https://fl1002.bozztv.com/ga-alhayah/tracks-v1a1/mono.m3u8
+Logo: https://i.imgur.com/bl9ie9u.png
 Source: https://iptv-org.github.io/iptv/countries/eg.m3u
 --------------------------------------------------
 Name: Canal 2 International
@@ -143,6 +141,11 @@ URL: https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/RTP_%C3%81frica_2016_%28Reduced_Version%29.svg/512px-RTP_%C3%81frica_2016_%28Reduced_Version%29.svg.png
 Source: https://iptv-org.github.io/iptv/countries/eg.m3u
 --------------------------------------------------
+Name: TeN
+URL: https://live20.bozztv.com/gin-36bay3/ga-tentv/tracks-v1a1/mono.m3u8
+Logo: https://i.imgur.com/gMnn6PD.png
+Source: https://iptv-org.github.io/iptv/countries/eg.m3u
+--------------------------------------------------
 Name: TV BRICS Africa (1080p)
 URL: https://cdn.freevisiontv.co.za/sttv/smil:brics.stream.smil/playlist.m3u8
 Logo: https://admango.cdn.mangomolo.com/analytics/uploads/188/666abcee75.jpeg
@@ -175,18 +178,13 @@ Logo: https://i.imgur.com/n9mSHuP.png
 Source: https://iptv-org.github.io/iptv/countries/eg.m3u
 --------------------------------------------------
 Name: MBC Bollywood (1080p) [Geo-blocked]
-URL: https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
+URL: https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
 Logo: https://i.imgur.com/TTAGFHG.png
 Source: https://iptv-org.github.io/iptv/countries/eg.m3u
 --------------------------------------------------
 Name: Rotana Cinema Egypt (1080p)
 URL: https://rotana.hibridcdn.net/rotananet/cinemamasr_net-7Y83PP5adWixDF93/playlist.m3u8
 Logo: https://i.imgur.com/dGlKoLW.png
-Source: https://iptv-org.github.io/iptv/countries/eg.m3u
---------------------------------------------------
-Name: Zee Aflam (720p) [Geo-blocked]
-URL: https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
-Logo: https://i.imgur.com/nUmsyGt.png
 Source: https://iptv-org.github.io/iptv/countries/eg.m3u
 --------------------------------------------------
 
@@ -206,7 +204,7 @@ URL: https://hls.pmc.live/hls/stream.m3u8
 Logo: https://i.imgur.com/AbrHI7K.png
 Source: https://iptv-org.github.io/iptv/countries/eg.m3u
 --------------------------------------------------
-Name: PMC Royale (720p) [Not 24/7]
+Name: PMC Royale (720p)
 URL: https://rohls.pmc.live/hls/stream.m3u8
 Logo: https://www.lyngsat.com/logo/tv/pp/pmc-royale-ch.png
 Source: https://iptv-org.github.io/iptv/countries/eg.m3u
