@@ -62,7 +62,7 @@
   {
     "name": "MBC Bollywood (1080p) [Geo-blocked]",
     "type": "Movies",
-    "url": "https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8",
+    "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8",
     "img": "https://i.imgur.com/TTAGFHG.png"
   },
   {
@@ -82,12 +82,6 @@
     "type": "Movies",
     "url": "https://shls-live-enc.edgenextcdn.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index.m3u8",
     "img": "https://i.imgur.com/JWihdcl.png"
-  },
-  {
-    "name": "Zee Aflam (720p) [Geo-blocked]",
-    "type": "Movies",
-    "url": "https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8",
-    "img": "https://i.imgur.com/nUmsyGt.png"
   },
   {
     "name": "Al Arabiya Programs (1080p)",
@@ -198,6 +192,12 @@
     "img": "https://i.imgur.com/dEfI2M9.png"
   },
   {
+    "name": "Al Hayat TV (720p)",
+    "type": "Religious",
+    "url": "https://cdn3.wowza.com/5/OE5HREpIcEkySlNT/alhayat-live/ngrp:livestream_all/playlist.m3u8",
+    "img": "https://i.imgur.com/M8ZuzeB.png"
+  },
+  {
     "name": "Angel TV Arabia (720p)",
     "type": "Religious",
     "url": "https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelarabia_all/playlist.m3u8",
@@ -264,7 +264,7 @@
     "img": "https://i.imgur.com/AbrHI7K.png"
   },
   {
-    "name": "PMC Royale (720p) [Not 24/7]",
+    "name": "PMC Royale (720p)",
     "type": "Music",
     "url": "https://rohls.pmc.live/hls/stream.m3u8",
     "img": "https://www.lyngsat.com/logo/tv/pp/pmc-royale-ch.png"
@@ -286,11 +286,5 @@
     "type": "Comedy;Entertainment",
     "url": "https://shls-live-enc.edgenextcdn.net/out/v1/0ef83323c0374a1187c182645db2a45f/index.m3u8",
     "img": "https://i.imgur.com/aCJeVSr.png"
-  },
-  {
-    "name": "Zee Alwan (720p) [Geo-blocked]",
-    "type": "Entertainment;Series",
-    "url": "https://weyyak-live.akamaized.net/weyyak_zee_alwan/index.m3u8",
-    "img": "https://i.imgur.com/fBL7YrC.png"
   }
 ]

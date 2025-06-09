@@ -36,13 +36,6 @@ Logo: https://i.imgur.com/g5PWnqp.png
 Source: https://iptv-org.github.io/iptv/countries/bh.m3u
 --------------------------------------------------
 
-Group: Entertainment;Series
-Name: Zee Alwan (720p) [Geo-blocked]
-URL: https://weyyak-live.akamaized.net/weyyak_zee_alwan/index.m3u8
-Logo: https://i.imgur.com/fBL7YrC.png
-Source: https://iptv-org.github.io/iptv/countries/bh.m3u
---------------------------------------------------
-
 Group: General
 Name: 2M Monde
 URL: https://cdn-globecast.akamaized.net/live/eds/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8
@@ -89,7 +82,7 @@ Logo: https://i.imgur.com/n9mSHuP.png
 Source: https://iptv-org.github.io/iptv/countries/bh.m3u
 --------------------------------------------------
 Name: MBC Bollywood (1080p) [Geo-blocked]
-URL: https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8
+URL: https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8
 Logo: https://i.imgur.com/TTAGFHG.png
 Source: https://iptv-org.github.io/iptv/countries/bh.m3u
 --------------------------------------------------
@@ -108,11 +101,6 @@ URL: https://shls-live-enc.edgenextcdn.net/out/v1/f6d718e841f8442f8374de47f18c93
 Logo: https://i.imgur.com/JWihdcl.png
 Source: https://iptv-org.github.io/iptv/countries/bh.m3u
 --------------------------------------------------
-Name: Zee Aflam (720p) [Geo-blocked]
-URL: https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
-Logo: https://i.imgur.com/nUmsyGt.png
-Source: https://iptv-org.github.io/iptv/countries/bh.m3u
---------------------------------------------------
 
 Group: Music
 Name: MBC FM (1080p)
@@ -125,7 +113,7 @@ URL: https://hls.pmc.live/hls/stream.m3u8
 Logo: https://i.imgur.com/AbrHI7K.png
 Source: https://iptv-org.github.io/iptv/countries/bh.m3u
 --------------------------------------------------
-Name: PMC Royale (720p) [Not 24/7]
+Name: PMC Royale (720p)
 URL: https://rohls.pmc.live/hls/stream.m3u8
 Logo: https://www.lyngsat.com/logo/tv/pp/pmc-royale-ch.png
 Source: https://iptv-org.github.io/iptv/countries/bh.m3u
@@ -219,6 +207,11 @@ Source: https://iptv-org.github.io/iptv/countries/bh.m3u
 --------------------------------------------------
 
 Group: Religious
+Name: Al Hayat TV (720p)
+URL: https://cdn3.wowza.com/5/OE5HREpIcEkySlNT/alhayat-live/ngrp:livestream_all/playlist.m3u8
+Logo: https://i.imgur.com/M8ZuzeB.png
+Source: https://iptv-org.github.io/iptv/countries/bh.m3u
+--------------------------------------------------
 Name: Angel TV Arabia (720p)
 URL: https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelarabia_all/playlist.m3u8
 Logo: https://i.imgur.com/qKLEGU7.png

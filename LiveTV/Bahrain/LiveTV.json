@@ -1,5 +1,5 @@
 {
-  "date": "2025-06-08 14:00:19",
+  "date": "2025-06-09 07:41:43",
   "channels": {
     "General": [
       {
@@ -81,7 +81,7 @@
         "logo": "https://i.imgur.com/TTAGFHG.png",
         "group": "Movies",
         "source": "https://iptv-org.github.io/iptv/countries/bh.m3u",
-        "url": "https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index.m3u8"
+        "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8"
       },
       {
         "name": "MBC+ Drama (1080p)",
@@ -103,13 +103,6 @@
         "group": "Movies",
         "source": "https://iptv-org.github.io/iptv/countries/bh.m3u",
         "url": "https://shls-live-enc.edgenextcdn.net/out/v1/f6d718e841f8442f8374de47f18c93a7/index.m3u8"
-      },
-      {
-        "name": "Zee Aflam (720p) [Geo-blocked]",
-        "logo": "https://i.imgur.com/nUmsyGt.png",
-        "group": "Movies",
-        "source": "https://iptv-org.github.io/iptv/countries/bh.m3u",
-        "url": "https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8"
       }
     ],
     "Undefined": [
@@ -244,6 +237,13 @@
     ],
     "Religious": [
       {
+        "name": "Al Hayat TV (720p)",
+        "logo": "https://i.imgur.com/M8ZuzeB.png",
+        "group": "Religious",
+        "source": "https://iptv-org.github.io/iptv/countries/bh.m3u",
+        "url": "https://cdn3.wowza.com/5/OE5HREpIcEkySlNT/alhayat-live/ngrp:livestream_all/playlist.m3u8"
+      },
+      {
         "name": "Angel TV Arabia (720p)",
         "logo": "https://i.imgur.com/qKLEGU7.png",
         "group": "Religious",
@@ -331,7 +331,7 @@
         "url": "https://hls.pmc.live/hls/stream.m3u8"
       },
       {
-        "name": "PMC Royale (720p) [Not 24/7]",
+        "name": "PMC Royale (720p)",
         "logo": "https://www.lyngsat.com/logo/tv/pp/pmc-royale-ch.png",
         "group": "Music",
         "source": "https://iptv-org.github.io/iptv/countries/bh.m3u",
@@ -361,15 +361,6 @@
         "group": "Comedy;Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/bh.m3u",
         "url": "https://shls-live-enc.edgenextcdn.net/out/v1/0ef83323c0374a1187c182645db2a45f/index.m3u8"
-      }
-    ],
-    "Entertainment;Series": [
-      {
-        "name": "Zee Alwan (720p) [Geo-blocked]",
-        "logo": "https://i.imgur.com/fBL7YrC.png",
-        "group": "Entertainment;Series",
-        "source": "https://iptv-org.github.io/iptv/countries/bh.m3u",
-        "url": "https://weyyak-live.akamaized.net/weyyak_zee_alwan/index.m3u8"
       }
     ]
   }
