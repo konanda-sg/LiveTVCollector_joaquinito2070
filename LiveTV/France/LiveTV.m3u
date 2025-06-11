@@ -21,7 +21,9 @@ https://ott.tv5monde.com/Content/HLS/Live/channel(info)/index.m3u8
 https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_5000.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rkv3Nvq/lcpan.png" group-title="Uncategorized",LCP-AN
 https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/ressources/dmotion/py/lcpan/lcp1.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/2jG942b/publicsn.png" group-title="Uncategorized",PUBLIC-SÉNAT
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0pH2kRYr/lcpps.png" group-title="Uncategorized",LCP/PS
+https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/lcpps.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZpTLsj47/psenat.png" group-title="Uncategorized",PUBLIC-SÉNAT
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/publicsenat/publicsenat-dm.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2MhqYgg/bfm2.png" group-title="Uncategorized",BFM 2
 https://live-cdn-bfm2-euw1.bfmtv.bct.nextradiotv.com/m5/media.m3u8?bpkio_serviceid=7de32147a4f1055b8812bbac92a24d2e
@@ -39,7 +41,7 @@ https://d358c6mfrono1y.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da
 https://bcovlive-a.akamaihd.net/41814196d97e433fb401c5e632d985e9/eu-central-1/5377161796001/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZgqnqnJ/cgtnfr.png" group-title="Uncategorized",CGTN FRANÇAIS
 http://news.cgtn.com/resource/live/french/cgtn-f.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nR2HsVr/ln24.png" group-title="Uncategorized",LN24 BE
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nR2HsVr/ln24.png" group-title="Uncategorized",LN24 LES NEWS BE
 https://live-ln24.digiteka.com/1911668011/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MZLCTmN/monacoinfo.png" group-title="Uncategorized",MONACO INFO
 https://webtv.monacoinfo.com/live/prod/index.m3u8
@@ -183,8 +185,6 @@ https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/frserv2.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kJjHW61/frdocs.png" group-title="Uncategorized",FRANCE TV DOCUMENTAIRES
 https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/frdocv2.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/kgMKnQVx/rolangarros.jpg" group-title="Uncategorized",FRANCE TV ROLAND GARROS
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/rg/rgcdirecttv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BPpZPBn/arte.png" group-title="Uncategorized",ARTE
 https://artesimulcast.akamaized.net/hls/live/2031003/artelive_fr/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BPpZPBn/arte.png" group-title="Uncategorized",ARTE -0,5H
@@ -1014,9 +1014,9 @@ https://ciner-live.daioncdn.net/showtv/showtv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BrGNZJ4/showtv.png" group-title="Uncategorized",SHOW
 https://bloomberght-live.daioncdn.net/showtv/showtv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png" group-title="Uncategorized",NOW
-https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=H6_Pgo4q_UmvEUyg4sDXlg&e=1749619406
+https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=Y2HGggnv1drXRVdvrfzZ0g&e=1749637286
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0DpKtzT/nowtvturk.png" group-title="Uncategorized",NOW
-https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=H6_Pgo4q_UmvEUyg4sDXlg&e=1749619406
+https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=Y2HGggnv1drXRVdvrfzZ0g&e=1749637286
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png" group-title="Uncategorized",TV8
 https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tXKXNDz/tv8.png" group-title="Uncategorized",TV8
@@ -3536,6 +3536,8 @@ https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nc8F1dj/Al-Hadath.png" group-title="Uncategorized",AL ARABIYA HADATH
 https://shls-hadath-prod-dub.shahid.net/out/v1/0e1a306399c346faac4226aa0858f99b/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nc8F1dj/Al-Hadath.png" group-title="Uncategorized",AL ARABIYA HADATH
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-hadath/2ff87ec4c2f3ede35295a20637d9f8fd/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nc8F1dj/Al-Hadath.png" group-title="Uncategorized",AL ARABIYA HADATH
 https://hadath-prod-dub-ak.akamaized.net/out/v1/0e1a306399c346faac4226aa0858f99b/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/R4vMgQV/alarabiyabus.jpg" group-title="Uncategorized",AL ARABIYA BUSINESS
 https://live.alarabiya.net/alarabiapublish/aswaaq.smil/playlist.m3u8
@@ -5707,8 +5709,6 @@ https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/arte/arte.m3u8
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/tf1plus/arte.m3u8
 #EXTINF:-1 tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Arte_color.png?h=100" group-title="FRANCE",47. Arte [1080p-france.tv]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/arte.m3u8
-#EXTINF:-1 tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/LCP_color.png?h=100" group-title="FRANCE",8. LCP [1080p-france.tv]
-https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/lcpps.m3u8
 #EXTINF:-1 tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/LCP_color.png?h=100" group-title="FRANCE",51. LCP-AN [1080p-dailymotion.com]
 https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lcp/lcp-dm.m3u8
 #EXTINF:-1 tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/Gulli100x100Couleur.png?h=100" group-title="FRANCE",12. Gulli [576p-gulli.fr]
@@ -6007,7 +6007,7 @@ https://jmp2.uk/sam-FRBD4100010ZZ.m3u8
 https://jmp2.uk/sam-FRBD190001055.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD490000195_20241015T042818SQUARE.png" group-title="SAMSUNGTVPLUSFR",1009. Reuters [1080p-samsungtvplus]
 https://jmp2.uk/sam-FRBD490000195.m3u8
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD5100001ZA_20250527T014708SQUARE.png" group-title="SAMSUNGTVPLUSFR",1010. ADN [1080p-samsungtvplus]
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD5100001ZA_20250610T011318SQUARE.png" group-title="SAMSUNGTVPLUSFR",1010. ADN [1080p-samsungtvplus]
 https://jmp2.uk/sam-FRBD5100001ZA.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR1400001VU_20241015T040223SQUARE.png" group-title="SAMSUNGTVPLUSFR",1012. Beyblade [1080p-samsungtvplus]
 https://jmp2.uk/sam-FR1400001VU.m3u8
@@ -6045,7 +6045,7 @@ https://jmp2.uk/sam-FR26000068C.m3u8
 https://jmp2.uk/sam-FRBD19000095S.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBB4600002K5_20241015T042823SQUARE.png" group-title="SAMSUNGTVPLUSFR",1030. Scream'IN [1080p-samsungtvplus]
 https://jmp2.uk/sam-FRBB4600002K5.m3u8
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3700003N4_20250527T014714SQUARE.png" group-title="SAMSUNGTVPLUSFR",1031. Box Office Drama [1080p-samsungtvplus]
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3700003N4_20250610T011321SQUARE.png" group-title="SAMSUNGTVPLUSFR",1031. Box Office Drama [1080p-samsungtvplus]
 https://jmp2.uk/sam-FR3700003N4.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR1800003VF_20241210T052746SQUARE.png" group-title="SAMSUNGTVPLUSFR",1032. Shadowz [1080p-samsungtvplus]
 https://jmp2.uk/sam-FR1800003VF.m3u8
@@ -6175,7 +6175,7 @@ https://jmp2.uk/sam-FR2500001BS.m3u8
 https://jmp2.uk/sam-FRBC900001LB.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBA1500001G6_20241015T035913SQUARE.png" group-title="SAMSUNGTVPLUSFR",1104. Deluxe Lounge HD [1080p-samsungtvplus]
 https://jmp2.uk/sam-FRBA1500001G6.m3u8
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC4200004XH_20250415T020901SQUARE.png" group-title="SAMSUNGTVPLUSFR",1105. L'Equipe Live 1 [1080p-samsungtvplus]
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC4200004XH_20250610T011327SQUARE.png" group-title="SAMSUNGTVPLUSFR",1105. L'Equipe Live 1 [1080p-samsungtvplus]
 https://jmp2.uk/sam-FRBC4200004XH.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC4200005X2_20250527T014717SQUARE.png" group-title="SAMSUNGTVPLUSFR",1106. L'Equipe Live 2 [1080p-samsungtvplus]
 https://jmp2.uk/sam-FRBC4200005X2.m3u8
@@ -6209,7 +6209,7 @@ https://jmp2.uk/sam-FRBC39000050N.m3u8
 https://jmp2.uk/sam-FRBD19000115C.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC47000054S_20241015T040346SQUARE.png" group-title="SAMSUNGTVPLUSFR",1124. Les filles d'à côté [1080p-samsungtvplus]
 https://jmp2.uk/sam-FRBC47000054S.m3u8
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC4700001XG_20250415T020858SQUARE.png" group-title="SAMSUNGTVPLUSFR",1125. Génération Sitcoms [1080p-samsungtvplus]
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC4700001XG_20250610T011324SQUARE.png" group-title="SAMSUNGTVPLUSFR",1125. Génération Sitcoms [1080p-samsungtvplus]
 https://jmp2.uk/sam-FRBC4700001XG.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC800001X0_20241025T153329SQUARE.png" group-title="SAMSUNGTVPLUSFR",1126. Fréquence Novelas [1080p-samsungtvplus]
 https://jmp2.uk/sam-FRBC800001X0.m3u8
@@ -6243,7 +6243,7 @@ https://jmp2.uk/sam-FR3700004HZ.m3u8
 https://jmp2.uk/sam-FR1800004EP.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC3500002E4_20241015T040301SQUARE.png" group-title="SAMSUNGTVPLUSFR",1144. Echappées belles & co [1080p-samsungtvplus]
 https://jmp2.uk/sam-FRBC3500002E4.m3u8
-#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3800001ZU_20250121T012919SQUARE.png" group-title="SAMSUNGTVPLUSFR",1146. 100% Adrenaline [1080p-samsungtvplus]
+#EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3800001ZU_20250610T011315SQUARE.png" group-title="SAMSUNGTVPLUSFR",1146. 100% Adrenaline [1080p-samsungtvplus]
 https://jmp2.uk/sam-FR3800001ZU.m3u8
 #EXTINF:-1 tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR4600001FK_20250513T005822SQUARE.png" group-title="SAMSUNGTVPLUSFR",1147. Top Sci-Fi [1080p-samsungtvplus]
 https://jmp2.uk/sam-FR4600001FK.m3u8

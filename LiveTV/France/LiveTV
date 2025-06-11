@@ -66,10 +66,16 @@
     "img": "https://i.ibb.co/rkv3Nvq/lcpan.png"
   },
   {
+    "name": "LCP/PS",
+    "type": "Uncategorized",
+    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/lcpps.m3u8",
+    "img": "https://i.ibb.co/0pH2kRYr/lcpps.png"
+  },
+  {
     "name": "PUBLIC-SÉNAT",
     "type": "Uncategorized",
     "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/publicsenat/publicsenat-dm.m3u8",
-    "img": "https://i.ibb.co/2jG942b/publicsn.png"
+    "img": "https://i.ibb.co/ZpTLsj47/psenat.png"
   },
   {
     "name": "BFM 2",
@@ -120,7 +126,7 @@
     "img": "https://i.ibb.co/ZgqnqnJ/cgtnfr.png"
   },
   {
-    "name": "LN24 BE",
+    "name": "LN24 LES NEWS BE",
     "type": "Uncategorized",
     "url": "https://live-ln24.digiteka.com/1911668011/index.m3u8",
     "img": "https://i.ibb.co/nR2HsVr/ln24.png"
@@ -550,12 +556,6 @@
     "type": "Uncategorized",
     "url": "https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/frdocv2.m3u8",
     "img": "https://i.ibb.co/kJjHW61/frdocs.png"
-  },
-  {
-    "name": "FRANCE TV ROLAND GARROS",
-    "type": "Uncategorized",
-    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/rg/rgcdirecttv.m3u8",
-    "img": "https://i.ibb.co/kgMKnQVx/rolangarros.jpg"
   },
   {
     "name": "ARTE",
@@ -3044,13 +3044,13 @@
   {
     "name": "NOW",
     "type": "Uncategorized",
-    "url": "https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=H6_Pgo4q_UmvEUyg4sDXlg&e=1749619406",
+    "url": "https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=Y2HGggnv1drXRVdvrfzZ0g&e=1749637286",
     "img": "https://i.ibb.co/0DpKtzT/nowtvturk.png"
   },
   {
     "name": "NOW",
     "type": "Uncategorized",
-    "url": "https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=H6_Pgo4q_UmvEUyg4sDXlg&e=1749619406",
+    "url": "https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=Y2HGggnv1drXRVdvrfzZ0g&e=1749637286",
     "img": "https://i.ibb.co/0DpKtzT/nowtvturk.png"
   },
   {
@@ -10610,6 +10610,12 @@
   {
     "name": "AL ARABIYA HADATH",
     "type": "Uncategorized",
+    "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-hadath/2ff87ec4c2f3ede35295a20637d9f8fd/index.m3u8",
+    "img": "https://i.ibb.co/nc8F1dj/Al-Hadath.png"
+  },
+  {
+    "name": "AL ARABIYA HADATH",
+    "type": "Uncategorized",
     "url": "https://hadath-prod-dub-ak.akamaized.net/out/v1/0e1a306399c346faac4226aa0858f99b/index.m3u8",
     "img": "https://i.ibb.co/nc8F1dj/Al-Hadath.png"
   },
@@ -17124,12 +17130,6 @@
     "img": "https://static-cdn.tv.sfr.net/data/logos/tv_services/Arte_color.png?h=100"
   },
   {
-    "name": "8. LCP [1080p-france.tv]",
-    "type": "FRANCE",
-    "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/lcpps.m3u8",
-    "img": "https://static-cdn.tv.sfr.net/data/logos/tv_services/LCP_color.png?h=100"
-  },
-  {
     "name": "51. LCP-AN [1080p-dailymotion.com]",
     "type": "FRANCE",
     "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/lcp/lcp-dm.m3u8",
@@ -18027,7 +18027,7 @@
     "name": "1010. ADN [1080p-samsungtvplus]",
     "type": "SAMSUNGTVPLUSFR",
     "url": "https://jmp2.uk/sam-FRBD5100001ZA.m3u8",
-    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD5100001ZA_20250527T014708SQUARE.png"
+    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD5100001ZA_20250610T011318SQUARE.png"
   },
   {
     "name": "1012. Beyblade [1080p-samsungtvplus]",
@@ -18141,7 +18141,7 @@
     "name": "1031. Box Office Drama [1080p-samsungtvplus]",
     "type": "SAMSUNGTVPLUSFR",
     "url": "https://jmp2.uk/sam-FR3700003N4.m3u8",
-    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3700003N4_20250527T014714SQUARE.png"
+    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3700003N4_20250610T011321SQUARE.png"
   },
   {
     "name": "1032. Shadowz [1080p-samsungtvplus]",
@@ -18531,7 +18531,7 @@
     "name": "1105. L'Equipe Live 1 [1080p-samsungtvplus]",
     "type": "SAMSUNGTVPLUSFR",
     "url": "https://jmp2.uk/sam-FRBC4200004XH.m3u8",
-    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC4200004XH_20250415T020901SQUARE.png"
+    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC4200004XH_20250610T011327SQUARE.png"
   },
   {
     "name": "1106. L'Equipe Live 2 [1080p-samsungtvplus]",
@@ -18633,7 +18633,7 @@
     "name": "1125. Génération Sitcoms [1080p-samsungtvplus]",
     "type": "SAMSUNGTVPLUSFR",
     "url": "https://jmp2.uk/sam-FRBC4700001XG.m3u8",
-    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC4700001XG_20250415T020858SQUARE.png"
+    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC4700001XG_20250610T011324SQUARE.png"
   },
   {
     "name": "1126. Fréquence Novelas [1080p-samsungtvplus]",
@@ -18735,7 +18735,7 @@
     "name": "1146. 100% Adrenaline [1080p-samsungtvplus]",
     "type": "SAMSUNGTVPLUSFR",
     "url": "https://jmp2.uk/sam-FR3800001ZU.m3u8",
-    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3800001ZU_20250121T012919SQUARE.png"
+    "img": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3800001ZU_20250610T011315SQUARE.png"
   },
   {
     "name": "1147. Top Sci-Fi [1080p-samsungtvplus]",

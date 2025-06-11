@@ -1,5 +1,5 @@
 {
-  "date": "2025-06-11 07:07:57",
+  "date": "2025-06-11 13:56:08",
   "channels": {
     "1. |FR|🇫🇷 INFORMATION": [
       {
@@ -82,8 +82,15 @@
         "url": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/ressources/dmotion/py/lcpan/lcp1.m3u8"
       },
       {
+        "name": "LCP/PS",
+        "logo": "https://i.ibb.co/0pH2kRYr/lcpps.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
+        "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/lcpps.m3u8"
+      },
+      {
         "name": "PUBLIC-SÉNAT",
-        "logo": "https://i.ibb.co/2jG942b/publicsn.png",
+        "logo": "https://i.ibb.co/ZpTLsj47/psenat.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
         "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/publicsenat/publicsenat-dm.m3u8"
@@ -145,7 +152,7 @@
         "url": "http://news.cgtn.com/resource/live/french/cgtn-f.m3u8"
       },
       {
-        "name": "LN24 BE",
+        "name": "LN24 LES NEWS BE",
         "logo": "https://i.ibb.co/nR2HsVr/ln24.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
@@ -647,13 +654,6 @@
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
         "url": "https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/ftv/py/frdocv2.m3u8"
-      },
-      {
-        "name": "FRANCE TV ROLAND GARROS",
-        "logo": "https://i.ibb.co/kgMKnQVx/rolangarros.jpg",
-        "group": "Uncategorized",
-        "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
-        "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/rg/rgcdirecttv.m3u8"
       },
       {
         "name": "ARTE",
@@ -3558,14 +3558,14 @@
         "logo": "https://i.ibb.co/0DpKtzT/nowtvturk.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
-        "url": "https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=H6_Pgo4q_UmvEUyg4sDXlg&e=1749619406"
+        "url": "https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=Y2HGggnv1drXRVdvrfzZ0g&e=1749637286"
       },
       {
         "name": "NOW",
         "logo": "https://i.ibb.co/0DpKtzT/nowtvturk.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
-        "url": "https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=H6_Pgo4q_UmvEUyg4sDXlg&e=1749619406"
+        "url": "https://nowtv.daioncdn.net/nowtv/nowtv.m3u8?st=Y2HGggnv1drXRVdvrfzZ0g&e=1749637286"
       },
       {
         "name": "TV8",
@@ -12385,6 +12385,13 @@
         "logo": "https://i.ibb.co/nc8F1dj/Al-Hadath.png",
         "group": "Uncategorized",
         "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
+        "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-hadath/2ff87ec4c2f3ede35295a20637d9f8fd/index.m3u8"
+      },
+      {
+        "name": "AL ARABIYA HADATH",
+        "logo": "https://i.ibb.co/nc8F1dj/Al-Hadath.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/all.m3u",
         "url": "https://hadath-prod-dub-ak.akamaized.net/out/v1/0e1a306399c346faac4226aa0858f99b/index.m3u8"
       },
       {
@@ -20113,13 +20120,6 @@
         "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/arte.m3u8"
       },
       {
-        "name": "8. LCP [1080p-france.tv]",
-        "logo": "https://static-cdn.tv.sfr.net/data/logos/tv_services/LCP_color.png?h=100",
-        "group": "FRANCE",
-        "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
-        "url": "https://raw.githubusercontent.com/Paradise-91/ParaTV/main/streams/francetv/lcpps.m3u8"
-      },
-      {
         "name": "51. LCP-AN [1080p-dailymotion.com]",
         "logo": "https://static-cdn.tv.sfr.net/data/logos/tv_services/LCP_color.png?h=100",
         "group": "FRANCE",
@@ -21182,7 +21182,7 @@
       },
       {
         "name": "1010. ADN [1080p-samsungtvplus]",
-        "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD5100001ZA_20250527T014708SQUARE.png",
+        "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBD5100001ZA_20250610T011318SQUARE.png",
         "group": "SAMSUNGTVPLUSFR",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
         "url": "https://jmp2.uk/sam-FRBD5100001ZA.m3u8"
@@ -21315,7 +21315,7 @@
       },
       {
         "name": "1031. Box Office Drama [1080p-samsungtvplus]",
-        "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3700003N4_20250527T014714SQUARE.png",
+        "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3700003N4_20250610T011321SQUARE.png",
         "group": "SAMSUNGTVPLUSFR",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
         "url": "https://jmp2.uk/sam-FR3700003N4.m3u8"
@@ -21770,7 +21770,7 @@
       },
       {
         "name": "1105. L'Equipe Live 1 [1080p-samsungtvplus]",
-        "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC4200004XH_20250415T020901SQUARE.png",
+        "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC4200004XH_20250610T011327SQUARE.png",
         "group": "SAMSUNGTVPLUSFR",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
         "url": "https://jmp2.uk/sam-FRBC4200004XH.m3u8"
@@ -21889,7 +21889,7 @@
       },
       {
         "name": "1125. Génération Sitcoms [1080p-samsungtvplus]",
-        "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC4700001XG_20250415T020858SQUARE.png",
+        "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FRBC4700001XG_20250610T011324SQUARE.png",
         "group": "SAMSUNGTVPLUSFR",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
         "url": "https://jmp2.uk/sam-FRBC4700001XG.m3u8"
@@ -22008,7 +22008,7 @@
       },
       {
         "name": "1146. 100% Adrenaline [1080p-samsungtvplus]",
-        "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3800001ZU_20250121T012919SQUARE.png",
+        "logo": "https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/FR3800001ZU_20250610T011315SQUARE.png",
         "group": "SAMSUNGTVPLUSFR",
         "source": "https://github.com/paradise-91/paratv/raw/refs/heads/main/playlists/paratv/main/paratv.m3u",
         "url": "https://jmp2.uk/sam-FR3800001ZU.m3u8"
