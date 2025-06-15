@@ -20,7 +20,7 @@
   {
     "name": "TVI",
     "type": "TV",
-    "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNC8yMDI1IDQ6NzowIFBNJmhhc2hfdmFsdWU9dElZWCtaME1UZWQ4L3BlcTdpMk0zUT09JnZhbGlkbWludXRlcz0xNDQwJmlkPWFlN2MzMWJlLWE0YzctNGI2Yy1hMWE1LWQ3MDA0YzA2Y2Y5Nw==/",
+    "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNS8yMDI1IDEyOjM1OjExIEFNJmhhc2hfdmFsdWU9RW1hanZubEpLTCtENkVQdk9TUW1udz09JnZhbGlkbWludXRlcz0xNDQwJmlkPTllMGRmOGY4LTE3NDEtNGU3MS04MGRkLTRlN2RjODBiY2I3MA==/",
     "img": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI.png"
   },
   {
@@ -38,7 +38,7 @@
   {
     "name": "CNN Portugal",
     "type": "TV",
-    "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNC8yMDI1IDQ6NzoxIFBNJmhhc2hfdmFsdWU9aHZsclQ4QjhkYWNmMCtRaVlwczFtUT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTUyMTlmYTVhLWQ1NjUtNGY0ZC04MzEyLWExNDViMDE0YzIxNg==/",
+    "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNS8yMDI1IDEyOjM1OjEyIEFNJmhhc2hfdmFsdWU9aWFyMENBb1ZpVU5uVFRoQ2lySitmZz09JnZhbGlkbWludXRlcz0xNDQwJmlkPThjZDc4NmZiLWYyYzAtNGIwYy04M2U2LWExM2FhZGNjOTU3MQ==/",
     "img": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png"
   },
   {
@@ -92,7 +92,7 @@
   {
     "name": "TVI Internacional",
     "type": "TV",
-    "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNC8yMDI1IDQ6NzoxIFBNJmhhc2hfdmFsdWU9VnZnVlNUSVRPNjVhdFMyeWx1bUlvZz09JnZhbGlkbWludXRlcz0xNDQwJmlkPTEwYmJiOWMzLWEwOGEtNDUyMS1iNWQ0LWUyYjMxYmJjNTFkMw==/",
+    "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNS8yMDI1IDEyOjM1OjEzIEFNJmhhc2hfdmFsdWU9Wno2ZjFLM2tYdVcwRjAwRW9mVjAzQT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTIzYzg2ZGE2LWIwMmYtNGUxYS05OGE2LWQ0NjcwNzQyNGQ2OA==/",
     "img": "https://github.com/LITUATUI/M3UPT/raw/main/logos/TVI-Internacional.png"
   },
   {
@@ -3532,6 +3532,12 @@
     "type": "Eixo do Mal",
     "url": "https://content.jwplatform.com/manifests/jL3dl5uq.m3u8",
     "img": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Eixo-do-Mal.jpg"
+  },
+  {
+    "name": "PCNELID - 13/6/2025",
+    "type": "PCNELID",
+    "url": "https://videos.impresa.pt/videos/hls/sicnot/2025/06/13/3813ff25-45dd-4e3a-a220-50efde65a616/video.m3u8",
+    "img": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/PCNELID.jpg"
   },
   {
     "name": "PCNELID - 6/6/2025",
