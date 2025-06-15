@@ -5100,12 +5100,6 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "浙江卫视",
-    "type": "卫视频道",
-    "url": "https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "山东教育",
     "type": "卫视频道",
     "url": "https://test1.live.sdetv.com.cn/live/dianshizhibo/playlist.m3u8",
@@ -5796,12 +5790,6 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "美亚电影台",
-    "type": "数字频道",
-    "url": "https://live.tvfix.org/live/mydy/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "凤凰中文",
     "type": "港澳台频道",
     "url": "http://wouu.net:9977/rtp/239.93.0.162:2192?Cf=cfss.cc",
@@ -6219,18 +6207,6 @@
     "name": "ELEVEN体育3",
     "type": "港澳台频道",
     "url": "https://smart.pendy.dpdns.org/Smart.php?id=eltasport3_twn",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "韩国电影1",
-    "type": "港澳台频道",
-    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=595",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "韩国电影2",
-    "type": "港澳台频道",
-    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=743",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -7626,9 +7602,33 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
+    "name": "浙江影视",
+    "type": "电影频道",
+    "url": "https://ali-m-l.cztv.com/channels/lantian/channel005/1080p.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "美亚电影",
+    "type": "电影频道",
+    "url": "https://live.tvfix.org/live/mydy/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
     "name": "豆瓣电影",
     "type": "电影频道",
     "url": "https://live.tvfix.org/live/cmc/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "韩国电影1",
+    "type": "电影频道",
+    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=595",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "韩国电影2",
+    "type": "电影频道",
+    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=743",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -8742,9 +8742,9 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "广东体育",
+    "name": "广东珠江",
     "type": "地方频道",
-    "url": "https://epg.pw/stream/7b470f9fc5c305db0c8622117b7b25ca00eb35ba3e93e865cf0ff9df5c736681.m3u8",
+    "url": "https://tv.cdn.com.mp/live/gdzj/stream.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -8967,6 +8967,12 @@
     "name": "无锡娱乐",
     "type": "地方频道",
     "url": "https://stream.thmz.com/wxtv2/playlist.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "无锡生活",
+    "type": "地方频道",
+    "url": "https://stream.thmz.com/wxtv4/playlist.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -10572,25 +10578,19 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "漫画解说",
-    "type": "解说频道",
-    "url": "https://www.goodiptv.club/douyu/5907076",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "龙梅子都说",
     "type": "解说频道",
     "url": "https://vd3.bdstatic.com:443/mda-ma7cm59x1m4015ip/v2-hknm/1080p/mda-ma7cm59x1m4015ip.mp4",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "乌镇全景",
+    "name": "四川峨眉山远眺万佛顶",
     "type": "直播中国",
-    "url": "https://gcalic.v.myalicdn.com/gc/zjwzblt_1/index.m3u8",
+    "url": "https://gcalic.v.myalicdn.com/gc/emswfs_1/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "2025-06-15 12:34:18",
+    "name": "2025-06-15 18:32:50",
     "type": "更新时间",
     "url": "https://vd3.bdstatic.com/mda-ren0u3qx5hknf8wb/1080p/cae_h264/1747960722207612951/mda-ren0u3qx5hknf8wb.mp4",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
