@@ -1,5 +1,5 @@
 {
-  "date": "2025-06-15 21:52:58",
+  "date": "2025-06-16 07:16:00",
   "channels": {
     "Uncategorized": [
       {
@@ -5110,11 +5110,11 @@
         "url": "https://0472.org/hls/cgtna.m3u8"
       },
       {
-        "name": "CCTV13",
+        "name": "CCTV14",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "央视频道",
         "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://event.pull.hebtv.com/jishi/cp1.m3u8"
+        "url": "https://event.pull.hebtv.com/jishi/cp2.m3u8"
       },
       {
         "name": "CCTV风云足球",
@@ -6756,18 +6756,18 @@
         "url": "http://home.wwang.pw:35455/itv/2000000003000000062.m3u8?cdn=hnbblive"
       },
       {
-        "name": "北京纪实科教8K",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "数字频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://gdcucc.v1.mk/gdcucc/brtv8k.m3u8"
-      },
-      {
         "name": "搜狐剧场",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "数字频道",
         "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
         "url": "https://hdl-vip-ws.qf.56.com/live/lc_11730.flv"
+      },
+      {
+        "name": "纪实科教8K",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "数字频道",
+        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
+        "url": "https://gdcucc.v1.mk/gdcucc/brtv8k.m3u8"
       }
     ],
     "港澳台频道": [
@@ -7185,6 +7185,13 @@
         "url": "https://smart.pendy.dpdns.org/Smart.php?id=lunghuajingdian_twn"
       },
       {
+        "name": "龙华电影",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "港澳台频道",
+        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
+        "url": "https://cdn8.163189.xyz/live/lhdy/stream.m3u8"
+      },
+      {
         "name": "龙华洋片",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "港澳台频道",
@@ -7260,6 +7267,20 @@
         "group": "港澳台频道",
         "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
         "url": "https://smart.pendy.dpdns.org/Smart.php?id=eltasport3_twn"
+      },
+      {
+        "name": "韩国电影1",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "港澳台频道",
+        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
+        "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=595"
+      },
+      {
+        "name": "韩国电影2",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "港澳台频道",
+        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
+        "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=743"
       }
     ],
     "港澳台AKTV": [
@@ -8893,13 +8914,6 @@
         "url": "https://epg.pw/stream/ffcb6572863f0745a7369fbd9d901f1dfd0ab8fab8bad8bebb4e01c90b303c47.m3u8"
       },
       {
-        "name": "龙华电影",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "电影频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://cdn8.163189.xyz/live/lhdy/stream.m3u8"
-      },
-      {
         "name": "浙江影视",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "电影频道",
@@ -8919,20 +8933,6 @@
         "group": "电影频道",
         "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
         "url": "https://live.tvfix.org/live/cmc/index.m3u8"
-      },
-      {
-        "name": "韩国电影1",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "电影频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=595"
-      },
-      {
-        "name": "韩国电影2",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "电影频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=743"
       }
     ],
     "电视剧频道": [
@@ -10240,13 +10240,6 @@
         "url": "https://liveout.xntv.tv/a65jur/96iln2.m3u8"
       },
       {
-        "name": "广东珠江",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "地方频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://tv.cdn.com.mp/live/gdzj/stream.m3u8"
-      },
-      {
         "name": "七星关电视台",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "地方频道",
@@ -10273,13 +10266,6 @@
         "group": "地方频道",
         "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
         "url": "https://stream.sun0769.com/dgrtv1/mp4tv2_800/index.m3u8"
-      },
-      {
-        "name": "东营综合",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "地方频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://m3u8-channel.lytv.tv/nmip-media/channellive/channel113571/playlist.m3u8"
       },
       {
         "name": "临沂农科",
@@ -10419,7 +10405,7 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "地方频道",
         "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://p2.vzan.com/slowlive/596867413819827251/live.m3u8?zbid=1725814272&tpid=1516989100&type=0"
+        "url": "https://p2.vzan.com/slowlive/596867413819827251/live.m3u8?zbid=1725814272&amp;tpid=1516989100&amp;type=0"
       },
       {
         "name": "宁夏经济",
@@ -10441,13 +10427,6 @@
         "group": "地方频道",
         "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
         "url": "https://jwcdnqx.hebyun.com.cn/live/pqzh/1500k/tzwj_video.m3u8"
-      },
-      {
-        "name": "平遥新闻综合",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "地方频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://tntgjhjb.live.sxmty.com/live/hls/3a4585ac11ec4e1bb07b419101b370c3/baf63e2b313440c2a25d7859f9b73b05-1.m3u8?zshanxd"
       },
       {
         "name": "广东新闻",
@@ -10658,6 +10637,13 @@
         "group": "地方频道",
         "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
         "url": "https://play.kankanlive.com/live/1711955176432990.m3u8"
+      },
+      {
+        "name": "溧水新闻综合",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "地方频道",
+        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
+        "url": "https://lishui-tv-hls.cm.jstv.com/lishui-tv/lsxwzh.m3u8"
       },
       {
         "name": "灌阳新闻综合",
@@ -12396,6 +12382,13 @@
     ],
     "解说频道": [
       {
+        "name": "漫画解说",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "解说频道",
+        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
+        "url": "https://www.goodiptv.club/douyu/5907076"
+      },
+      {
         "name": "龙梅子都说",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "解说频道",
@@ -12405,16 +12398,16 @@
     ],
     "直播中国": [
       {
-        "name": "四川峨眉山远眺万佛顶",
+        "name": "泰山望人松",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "直播中国",
         "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://gcalic.v.myalicdn.com/gc/emswfs_1/index.m3u8"
+        "url": "https://gcalic.v.myalicdn.com/gc/taishan02_1/index.m3u8"
       }
     ],
     "更新时间": [
       {
-        "name": "2025-06-15 18:32:50",
+        "name": "2025-06-16 06:34:07",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "更新时间",
         "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
