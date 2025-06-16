@@ -1,5 +1,5 @@
 {
-  "date": "2025-06-16 13:58:41",
+  "date": "2025-06-16 21:56:16",
   "channels": {
     "Uncategorized": [
       {
@@ -11646,11 +11646,25 @@
         "url": "https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8"
       },
       {
+        "name": "Start TV",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "国际",
+        "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
+        "url": "http://fl3.moveonjoy.com/Start_Tv/index.m3u8"
+      },
+      {
         "name": "TBS",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "国际",
         "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
         "url": "http://fl5.moveonjoy.com/NHL_8/index.m3u8"
+      },
+      {
+        "name": "TCM",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "国际",
+        "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
+        "url": "http://fl1.moveonjoy.com/TCM/index.m3u8"
       },
       {
         "name": "FYI",
@@ -11860,7 +11874,7 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "国际",
         "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
-        "url": "http://143.244.60.30/Animal_Planet/index.m3u8"
+        "url": "http://fl3.moveonjoy.com/BBC_AMERICA/index.m3u8"
       },
       {
         "name": "Disney Junior",
@@ -12008,6 +12022,13 @@
         "group": "国际",
         "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
         "url": "http://143.244.60.30/CARTOON_NETWORK/index.m3u8"
+      },
+      {
+        "name": "Animal Planet",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "国际",
+        "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
+        "url": "http://143.244.60.30/Animal_Planet/index.m3u8"
       },
       {
         "name": "DIY",
