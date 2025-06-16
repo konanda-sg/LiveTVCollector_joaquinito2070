@@ -1,5 +1,5 @@
 {
-  "date": "2025-06-16 13:51:33",
+  "date": "2025-06-16 21:49:33",
   "channels": {
     "BANGLA": [
       {
@@ -4107,6 +4107,13 @@
         "url": "http://kst.moonplex.net:8080/CH2/index.m3u8"
       },
       {
+        "name": "Sky Cricket",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7cWPFVlzlK5GFcvFq8uqGnCyALPYsiXBRFw&s",
+        "group": "Sports",
+        "source": "https://raw.githubusercontent.com/Shaharum1010/SmartFlix_Tv_Web/refs/heads/main/SmartFlixtv",
+        "url": "http://filex.tv:8080/live/Home329/Sohailhome/250199.m3u8"
+      },
+      {
         "name": "Super Cricket",
         "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7cWPFVlzlK5GFcvFq8uqGnCyALPYsiXBRFw&s",
         "group": "Sports",
@@ -4147,6 +4154,13 @@
         "group": "Sports",
         "source": "https://raw.githubusercontent.com/Shaharum1010/SmartFlix_Tv_Web/refs/heads/main/SmartFlixtv",
         "url": "http://cool365.xyz:900/live/4160189881/DB4ACD54/376465.m3u8"
+      },
+      {
+        "name": "Star sports Hindi",
+        "logo": "https://i.postimg.cc/rwZdgMp5/download.png",
+        "group": "Sports",
+        "source": "https://raw.githubusercontent.com/Shaharum1010/SmartFlix_Tv_Web/refs/heads/main/SmartFlixtv",
+        "url": "http://cool365.xyz:900/live/4160189881/DB4ACD54/400159571.m3u8"
       },
       {
         "name": "PTV Sports",
@@ -5290,66 +5304,13 @@
         "url": "http://125.209.88.166:45793/BRN/GeoSuper.stream/playlist.m3u8"
       }
     ],
-    "SmartFlix_Tv": [
+    "Shaharum": [
       {
-        "name": "SmartFlix_Tv",
+        "name": "Shaharum",
         "logo": "https://i.postimg.cc/cHbJvhtS/IMG-20240926-111255-193.jpg",
-        "group": "SmartFlix_Tv",
+        "group": "Shaharum",
         "source": "https://raw.githubusercontent.com/Shaharum1010/SmartFlix_Tv_Web/refs/heads/main/SmartFlixtv",
-        "url": "https://t.me/SmartFlix_Tv"
-      }
-    ],
-    "IPL": [
-      {
-        "name": "Jio Hoister",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtXSiVtMH8ljxb4T7j3YyqDM0d3sPDiGsVOwqkf7zoIVIdutM1ziUsFvvL&s=10",
-        "group": "IPL",
-        "source": "https://raw.githubusercontent.com/Shaharum1010/SmartFlix_Tv_Web/refs/heads/main/SmartFlixtv",
-        "url": "https://live.aoneroom.com/moviebox/wefeed05.m3u8?auth_key=1744615696-0-0-e15b10662e3a00ed562396542d1c89ef"
-      },
-      {
-        "name": "Star sports 1",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtXSiVtMH8ljxb4T7j3YyqDM0d3sPDiGsVOwqkf7zoIVIdutM1ziUsFvvL&s=10",
-        "group": "IPL",
-        "source": "https://raw.githubusercontent.com/Shaharum1010/SmartFlix_Tv_Web/refs/heads/main/SmartFlixtv",
-        "url": "https://tv.bdixtv24.co/sports/m3u8.php/star1in.m3u8"
-      },
-      {
-        "name": "Sky Cricket",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtXSiVtMH8ljxb4T7j3YyqDM0d3sPDiGsVOwqkf7zoIVIdutM1ziUsFvvL&s=10",
-        "group": "IPL",
-        "source": "https://raw.githubusercontent.com/Shaharum1010/SmartFlix_Tv_Web/refs/heads/main/SmartFlixtv",
-        "url": "http://filex.tv:8080/live/Home329/Sohailhome/250199.m3u8"
-      },
-      {
-        "name": "T Sports",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtXSiVtMH8ljxb4T7j3YyqDM0d3sPDiGsVOwqkf7zoIVIdutM1ziUsFvvL&s=10",
-        "group": "IPL",
-        "source": "https://raw.githubusercontent.com/Shaharum1010/SmartFlix_Tv_Web/refs/heads/main/SmartFlixtv",
-        "url": "https://cdn.hoichoi24.com/LIVE/video.m3u8"
-      },
-      {
-        "name": "Star sports 1 Hindi",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtXSiVtMH8ljxb4T7j3YyqDM0d3sPDiGsVOwqkf7zoIVIdutM1ziUsFvvL&s=10",
-        "group": "IPL",
-        "source": "https://raw.githubusercontent.com/Shaharum1010/SmartFlix_Tv_Web/refs/heads/main/SmartFlixtv",
-        "url": "http://cool365.xyz:900/live/4160189881/DB4ACD54/400159571.m3u8"
-      }
-    ],
-    "PSL Live": [
-      {
-        "name": "Live 1",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwrfISKIfCEHDyd9VrD2DQgotVque_ZqaqLipGECWEEMy0asGHwIo95z6t&s=10",
-        "group": "PSL Live",
-        "source": "https://raw.githubusercontent.com/Shaharum1010/SmartFlix_Tv_Web/refs/heads/main/SmartFlixtv",
-        "url": "http://filex.tv:8080/live/Home329/Sohailhome/190767.m3u8"
-      },
-      {
-        "name": "Live 2",
-        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwrfISKIfCEHDyd9VrD2DQgotVque_ZqaqLipGECWEEMy0asGHwIo95z6t&s=10",
-        "group": "PSL Live",
-        "source": "https://raw.githubusercontent.com/Shaharum1010/SmartFlix_Tv_Web/refs/heads/main/SmartFlixtv",
-        "url": "https://tvs2.aynaott.com/PtvSports/index.m3u8?token=f5e3a5f153c01b2d8f919393b6a9a3e39bd5494b-4ee4de52f3dde3dbd71542e88a623936-1744819542-1744818642&remote=no_check_ip"
+        "url": "https://t.me/shaharum_mi"
       }
     ],
     "Football Live Match": [
