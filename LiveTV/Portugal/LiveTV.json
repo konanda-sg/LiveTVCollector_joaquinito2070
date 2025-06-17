@@ -1,5 +1,5 @@
 {
-  "date": "2025-06-17 13:53:52",
+  "date": "2025-06-17 21:52:06",
   "channels": {
     "TV": [
       {
@@ -28,7 +28,7 @@
         "logo": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI.png",
         "group": "TV",
         "source": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u",
-        "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNy8yMDI1IDg6OTo1NyBBTSZoYXNoX3ZhbHVlPTFIMGZMeFlHQTFHQW80bnQxSlhuVWc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1iOTNhODFhYy1jYTI5LTRkMTItYmE5MS0wYmI1Y2JkNjE3OTI=/"
+        "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=/"
       },
       {
         "name": "RTP 3",
@@ -49,7 +49,7 @@
         "logo": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png",
         "group": "TV",
         "source": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u",
-        "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNy8yMDI1IDg6OTo1OCBBTSZoYXNoX3ZhbHVlPXg0UHNxZ0puQVMyUzR2d0dNWTFQeHc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1kMTIxNDIyYy04NmQzLTRkNWItYmNkMy02NGFiMzQ4Y2RlMjI=/"
+        "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=/"
       },
       {
         "name": "CNN Brasil",
@@ -112,7 +112,7 @@
         "logo": "https://github.com/LITUATUI/M3UPT/raw/main/logos/TVI-Internacional.png",
         "group": "TV",
         "source": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u",
-        "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNy8yMDI1IDg6OTo1OSBBTSZoYXNoX3ZhbHVlPWhyM3RHUUFya3BreWtCRklhQnBNb2c9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD03ZmRlZjY1ZC03YWI2LTQwNGUtOGYxZi02YmQxYzE0ODdjMDI=/"
+        "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=/"
       },
       {
         "name": "TVI África",
@@ -602,21 +602,21 @@
         "logo": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVE-24h.png",
         "group": "TV",
         "source": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u",
-        "url": "https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main.m3u8"
+        "url": "https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr.m3u8"
       },
       {
         "name": "La 1",
         "logo": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/La1.png",
         "group": "TV",
         "source": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u",
-        "url": "https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main.m3u8"
+        "url": "https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8"
       },
       {
         "name": "La 2",
         "logo": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/La2.png",
         "group": "TV",
         "source": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u",
-        "url": "https://rtvelivestream-clnx.rtve.es/rtvesec/la2/la2_main.m3u8"
+        "url": "https://rtvelivestream.rtve.es/rtvesec/la2/la2_main_dvr.m3u8"
       },
       {
         "name": "TV Galicia",
@@ -630,7 +630,7 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "TV",
         "source": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u",
-        "url": "https://telemadrid-23.secure2.footprint.net/master.m3u8"
+        "url": "https://new-international-23-secure2.akamaized.net/index.m3u8"
       },
       {
         "name": "TV3 Catalunya",
@@ -686,7 +686,7 @@
         "logo": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Canal-Extremadura.png",
         "group": "TV",
         "source": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u",
-        "url": "https://cdnapisec.kaltura.com/p/5581662/sp/558166200/playManifest/entryId/1_1u7ssdy3/protocol/https/format/applehttp/flavorIds/1_8xbndriw/a.m3u8"
+        "url": "https://canalextremadura-live.flumotion.cloud/canalextremadura/live_all/playlist_dvr.m3u8"
       },
       {
         "name": "Cubavisión Internacional",
@@ -2101,6 +2101,13 @@
       }
     ],
     "O Outro Lado": [
+      {
+        "name": "O Outro Lado - S10E22 16/6/2025",
+        "logo": "https://m3upt.com/logos/O-outro-lado.jpg",
+        "group": "O Outro Lado",
+        "source": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u",
+        "url": "https://streaming-vod.rtp.pt/hls/nas2.share,/h264/512x384/p14403/p14403_1_20250616000000e022t0390.mp4,.urlset/master.m3u8"
+      },
       {
         "name": "O Outro Lado - S10E21 9/6/2025",
         "logo": "https://m3upt.com/logos/O-outro-lado.jpg",

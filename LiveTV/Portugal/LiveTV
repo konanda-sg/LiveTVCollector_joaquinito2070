@@ -20,7 +20,7 @@
   {
     "name": "TVI",
     "type": "TV",
-    "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNy8yMDI1IDg6OTo1NyBBTSZoYXNoX3ZhbHVlPTFIMGZMeFlHQTFHQW80bnQxSlhuVWc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1iOTNhODFhYy1jYTI5LTRkMTItYmE5MS0wYmI1Y2JkNjE3OTI=/",
+    "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=/",
     "img": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI.png"
   },
   {
@@ -38,7 +38,7 @@
   {
     "name": "CNN Portugal",
     "type": "TV",
-    "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNy8yMDI1IDg6OTo1OCBBTSZoYXNoX3ZhbHVlPXg0UHNxZ0puQVMyUzR2d0dNWTFQeHc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1kMTIxNDIyYy04NmQzLTRkNWItYmNkMy02NGFiMzQ4Y2RlMjI=/",
+    "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=/",
     "img": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png"
   },
   {
@@ -92,7 +92,7 @@
   {
     "name": "TVI Internacional",
     "type": "TV",
-    "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xNy8yMDI1IDg6OTo1OSBBTSZoYXNoX3ZhbHVlPWhyM3RHUUFya3BreWtCRklhQnBNb2c9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD03ZmRlZjY1ZC03YWI2LTQwNGUtOGYxZi02YmQxYzE0ODdjMDI=/",
+    "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=/",
     "img": "https://github.com/LITUATUI/M3UPT/raw/main/logos/TVI-Internacional.png"
   },
   {
@@ -512,19 +512,19 @@
   {
     "name": "TVE 24h",
     "type": "TV",
-    "url": "https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main.m3u8",
+    "url": "https://rtvelivestream.rtve.es/rtvesec/24h/24h_main_dvr.m3u8",
     "img": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVE-24h.png"
   },
   {
     "name": "La 1",
     "type": "TV",
-    "url": "https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main.m3u8",
+    "url": "https://rtvelivestream.rtve.es/rtvesec/la1/la1_main_dvr.m3u8",
     "img": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/La1.png"
   },
   {
     "name": "La 2",
     "type": "TV",
-    "url": "https://rtvelivestream-clnx.rtve.es/rtvesec/la2/la2_main.m3u8",
+    "url": "https://rtvelivestream.rtve.es/rtvesec/la2/la2_main_dvr.m3u8",
     "img": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/La2.png"
   },
   {
@@ -536,7 +536,7 @@
   {
     "name": "TeleMadrid",
     "type": "TV",
-    "url": "https://telemadrid-23.secure2.footprint.net/master.m3u8",
+    "url": "https://new-international-23-secure2.akamaized.net/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -584,7 +584,7 @@
   {
     "name": "Canal Extremadura",
     "type": "TV",
-    "url": "https://cdnapisec.kaltura.com/p/5581662/sp/558166200/playManifest/entryId/1_1u7ssdy3/protocol/https/format/applehttp/flavorIds/1_8xbndriw/a.m3u8",
+    "url": "https://canalextremadura-live.flumotion.cloud/canalextremadura/live_all/playlist_dvr.m3u8",
     "img": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Canal-Extremadura.png"
   },
   {
@@ -1792,6 +1792,12 @@
     "type": "O Planeta Vivo",
     "url": "https://streaming-vod.rtp.pt/drm-dash/nas2.share,/pt/h264/512x384/p13613/p13613_1_20240717161005e003t1334d_lo.mp4,/pt/h264/512x384/p13613/p13613_1_20240717161005e003t1334d.mp4,.urlset/manifest.mpd",
     "img": "https://cdn-images.rtp.pt/EPG/imagens/45929_73117_64439.jpg"
+  },
+  {
+    "name": "O Outro Lado - S10E22 16/6/2025",
+    "type": "O Outro Lado",
+    "url": "https://streaming-vod.rtp.pt/hls/nas2.share,/h264/512x384/p14403/p14403_1_20250616000000e022t0390.mp4,.urlset/master.m3u8",
+    "img": "https://m3upt.com/logos/O-outro-lado.jpg"
   },
   {
     "name": "O Outro Lado - S10E21 9/6/2025",
