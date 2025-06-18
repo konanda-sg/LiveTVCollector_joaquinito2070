@@ -1,5 +1,5 @@
 {
-  "date": "2025-06-18 06:52:10",
+  "date": "2025-06-18 13:53:19",
   "channels": {
     "General": [
       {
@@ -64092,13 +64092,6 @@
         "url": "https://hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6433/master.m3u8"
       },
       {
-        "name": "RTVE La Moderna",
-        "logo": "https://graph.facebook.com/rtveplay/picture?width=200&height=200",
-        "group": "Eventuales",
-        "source": "https://www.tdtchannels.com/lists/tvradio_mpd.m3u8",
-        "url": "https://ztnr.rtve.es/ztnr/2472038.m3u8"
-      },
-      {
         "name": "RTVE Cuéntame",
         "logo": "https://graph.facebook.com/rtveplay/picture?width=200&height=200",
         "group": "Eventuales",
@@ -64141,25 +64134,11 @@
         "url": "https://ztnr.rtve.es/ztnr/6924117.m3u8"
       },
       {
-        "name": "RTVE Late Xou",
-        "logo": "https://graph.facebook.com/rtveplay/picture?width=200&height=200",
-        "group": "Eventuales",
-        "source": "https://www.tdtchannels.com/lists/tvradio_mpd.m3u8",
-        "url": "https://ztnr.rtve.es/ztnr/2472037.m3u8"
-      },
-      {
-        "name": "RTVE Talent",
+        "name": "RTVE Concursos",
         "logo": "https://graph.facebook.com/rtveplay/picture?width=200&height=200",
         "group": "Eventuales",
         "source": "https://www.tdtchannels.com/lists/tvradio_mpd.m3u8",
         "url": "https://ztnr.rtve.es/ztnr/16510071.m3u8"
-      },
-      {
-        "name": "RTVE Eurovisión",
-        "logo": "https://graph.facebook.com/rtveplay/picture?width=200&height=200",
-        "group": "Eventuales",
-        "source": "https://www.tdtchannels.com/lists/tvradio_mpd.m3u8",
-        "url": "https://ztnr.rtve.es/ztnr/16550764.m3u8"
       },
       {
         "name": "La Moncloa (Presidente)",
@@ -64663,7 +64642,14 @@
         "logo": "https://pbs.twimg.com/profile_images/1921959108862709760/fe5Tqhlh_200x200.jpg",
         "group": "Cataluña",
         "source": "https://www.tdtchannels.com/lists/tvradio_mpd.m3u8",
-        "url": "https://rtvelivestream.akamaized.net/rtvesec/cat/la1_cat_main_dvr.m3u8"
+        "url": "https://rtvelivestream.rtve.es/rtvesec/cat/la1_cat_main_dvr.m3u8"
+      },
+      {
+        "name": "La 2 Catalunya",
+        "logo": "https://graph.facebook.com/la2detve/picture?width=200&height=200",
+        "group": "Cataluña",
+        "source": "https://www.tdtchannels.com/lists/tvradio_mpd.m3u8",
+        "url": "https://rtvelivestream.rtve.es/rtvesec/cat/la2_cat_main_dvr.m3u8"
       },
       {
         "name": "24h Catalunya",
@@ -64789,7 +64775,7 @@
         "logo": "https://graph.facebook.com/tvvallesvisio/picture?width=200&height=200",
         "group": "Cataluña",
         "source": "https://www.tdtchannels.com/lists/tvradio_mpd.m3u8",
-        "url": "https://liveingesta118.cdnmedia.tv/vallesvisiotvlive/smil:live.smil/playlist.m3u8?DVR"
+        "url": "https://liveingesta318.cdnmedia.tv/vallesvisiotvlive/smil:live.smil/playlist.m3u8?DVR"
       },
       {
         "name": "etv",
@@ -65388,6 +65374,13 @@
         "group": "Int. Europa",
         "source": "https://www.tdtchannels.com/lists/tvradio_mpd.m3u8",
         "url": "https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channel=n1hrv&u=n1info&p=n1Sh4redSecre7iNf0&player=m3u8"
+      },
+      {
+        "name": "VizionPlus Albania",
+        "logo": "https://graph.facebook.com/vizionplustv/picture?width=200&height=200",
+        "group": "Int. Europa",
+        "source": "https://www.tdtchannels.com/lists/tvradio_mpd.m3u8",
+        "url": "https://mfe01.tring.al/delta/105/out/u/rdghfhsfhfshs.m3u8"
       },
       {
         "name": "Channel 24 Ucrania",
@@ -66716,7 +66709,7 @@
         "logo": "https://graph.facebook.com/realbetisbalompie/picture?width=200&height=200",
         "group": "Radio_Deportivas",
         "source": "https://www.tdtchannels.com/lists/tvradio_mpd.m3u8",
-        "url": "https://wecast01-h-cloud.flumotion.com/betistv/radio1.mp3"
+        "url": "https://comcast01-h-cloud.flumotion.com/betistv/radio1.mp3"
       },
       {
         "name": "UD Almeria Radio",
@@ -67539,7 +67532,7 @@
         "logo": "https://graph.facebook.com/lafresca.es/picture?width=200&height=200",
         "group": "Radio_Andalucía",
         "source": "https://www.tdtchannels.com/lists/tvradio_mpd.m3u8",
-        "url": "https://stream.produccionesdale.com/listen/lafresca/altacalidad#.mp3"
+        "url": "https://stream.produccionesdale.com/listen/lafresca/altacalidad"
       },
       {
         "name": "Radio Chipiona",
@@ -67693,7 +67686,7 @@
         "logo": "https://graph.facebook.com/CanalMalagaRTVMunicipal/picture?width=200&height=200",
         "group": "Radio_Andalucía",
         "source": "https://www.tdtchannels.com/lists/tvradio_mpd.m3u8",
-        "url": "https://wecast13-h-cloud.flumotion.com/canalmalaga/live.mp3"
+        "url": "https://comcast01-h-cloud.flumotion.com/canalmalaga/live.mp3"
       },
       {
         "name": "Cadena Luna",
@@ -68604,7 +68597,7 @@
         "logo": "https://graph.facebook.com/cadenaser/picture?width=200&height=200",
         "group": "Radio_Castilla-La Mancha",
         "source": "https://www.tdtchannels.com/lists/tvradio_mpd.m3u8",
-        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_TARANCON.mp3"
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SER_TARANCON.mp3"
       },
       {
         "name": "SER Toledo",
@@ -69595,7 +69588,7 @@
         "logo": "https://graph.facebook.com/cerdanyola.info/picture?width=200&height=200",
         "group": "Radio_Cataluña",
         "source": "https://www.tdtchannels.com/lists/tvradio_mpd.m3u8",
-        "url": "https://wecast20-h-cloud.flumotion.com/ajcerdanyola/live.mp3"
+        "url": "https://comcast01-h-cloud.flumotion.com/ajcerdanyola/live.mp3"
       },
       {
         "name": "Mataró Ràdio",
@@ -69900,7 +69893,7 @@
       },
       {
         "name": "Ràdio Amèrica Barcelona",
-        "logo": "https://graph.facebook.com/RadioAmericaBarcelona/picture?width=200&height=200",
+        "logo": "https://pbs.twimg.com/profile_images/1931284389243072512/jCj4V37N_200x200.jpg",
         "group": "Radio_Cataluña",
         "source": "https://www.tdtchannels.com/lists/tvradio_mpd.m3u8",
         "url": "https://s3.radio.co/sf09831a0e/listen"
@@ -70180,7 +70173,7 @@
         "logo": "https://graph.facebook.com/unikafmmuchomasquedance/picture?width=200&height=200",
         "group": "Radio_C. de Madrid",
         "source": "https://www.tdtchannels.com/lists/tvradio_mpd.m3u8",
-        "url": "https://n0c.radiojar.com/7qyvpnex9vzuv"
+        "url": "https://server1.easystreaming.pro:8443/unika"
       },
       {
         "name": "Radio Romanul",
@@ -71404,7 +71397,7 @@
         "logo": "https://graph.facebook.com/cadenadial/picture?width=200&height=200",
         "group": "Radio_Extremadura",
         "source": "https://www.tdtchannels.com/lists/tvradio_mpd.m3u8",
-        "url": "http://83.56.8.228:8000/cadenadial"
+        "url": "http://81.0.62.140:8000/cadenadial"
       },
       {
         "name": "Radio Miajadas",
@@ -71943,8 +71936,8 @@
         "url": "https://topradio.uno:8087/stream"
       },
       {
-        "name": "Radio Balear.es",
-        "logo": "https://graph.facebook.com/rbalear.interbaleares/picture?width=200&height=200",
+        "name": "Radio Balear",
+        "logo": "https://graph.facebook.com/radiobalearfm/picture?width=200&height=200",
         "group": "Radio_Illes Balears",
         "source": "https://www.tdtchannels.com/lists/tvradio_mpd.m3u8",
         "url": "https://server10.emitironline.com:8076/stream"
@@ -72904,7 +72897,7 @@
         "logo": "https://graph.facebook.com/rtva.andorra/picture?width=200&height=200",
         "group": "Radio_Internacional",
         "source": "https://www.tdtchannels.com/lists/tvradio_mpd.m3u8",
-        "url": "https://live-edge-ams-2.cdn.enetres.net/56495F77FD124FECA75590A906965F2C024/am/index.m3u8"
+        "url": "https://live-edge-par-1.cdn.enetres.net/56495F77FD124FECA75590A906965F2C024/am/index.m3u8"
       },
       {
         "name": "SER Andorra",
@@ -73065,7 +73058,7 @@
         "logo": "https://graph.facebook.com/los40argentina/picture?width=200&height=200",
         "group": "Radio_Internacional",
         "source": "https://www.tdtchannels.com/lists/tvradio_mpd.m3u8",
-        "url": "https://edge02.radiohdvivo.com/stream/los40"
+        "url": "https://frontend.radiohdvivo.com/los40/live?dist=los40-web-live_streaming_play"
       },
       {
         "name": "FM Rock & Pop Argentina",

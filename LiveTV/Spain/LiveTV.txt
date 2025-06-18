@@ -10744,8 +10744,13 @@ Logo: https://graph.facebook.com/som3Cat/picture?width=200&height=200
 Source: https://www.tdtchannels.com/lists/tvradio_mpd.m3u8
 --------------------------------------------------
 Name: La 1 Catalunya
-URL: https://rtvelivestream.akamaized.net/rtvesec/cat/la1_cat_main_dvr.m3u8
+URL: https://rtvelivestream.rtve.es/rtvesec/cat/la1_cat_main_dvr.m3u8
 Logo: https://pbs.twimg.com/profile_images/1921959108862709760/fe5Tqhlh_200x200.jpg
+Source: https://www.tdtchannels.com/lists/tvradio_mpd.m3u8
+--------------------------------------------------
+Name: La 2 Catalunya
+URL: https://rtvelivestream.rtve.es/rtvesec/cat/la2_cat_main_dvr.m3u8
+Logo: https://graph.facebook.com/la2detve/picture?width=200&height=200
 Source: https://www.tdtchannels.com/lists/tvradio_mpd.m3u8
 --------------------------------------------------
 Name: 24h Catalunya
@@ -10834,7 +10839,7 @@ Logo: https://graph.facebook.com/canal10emporda/picture?width=200&height=200
 Source: https://www.tdtchannels.com/lists/tvradio_mpd.m3u8
 --------------------------------------------------
 Name: Vallès Visió
-URL: https://liveingesta118.cdnmedia.tv/vallesvisiotvlive/smil:live.smil/playlist.m3u8?DVR
+URL: https://liveingesta318.cdnmedia.tv/vallesvisiotvlive/smil:live.smil/playlist.m3u8?DVR
 Logo: https://graph.facebook.com/tvvallesvisio/picture?width=200&height=200
 Source: https://www.tdtchannels.com/lists/tvradio_mpd.m3u8
 --------------------------------------------------
@@ -17520,11 +17525,6 @@ URL: https://hola-play-2108fd06-86d4-44e8-9867-c35b4895a1c1-es.fast.rakuten.tv/v
 Logo: https://yt3.ggpht.com/ytc/AMLnZu_Hd2WYs49wYCBMAphVpvvpBzd-EJFU8XFQgccPIw=s200
 Source: https://www.tdtchannels.com/lists/tvradio_mpd.m3u8
 --------------------------------------------------
-Name: RTVE La Moderna
-URL: https://ztnr.rtve.es/ztnr/2472038.m3u8
-Logo: https://graph.facebook.com/rtveplay/picture?width=200&height=200
-Source: https://www.tdtchannels.com/lists/tvradio_mpd.m3u8
---------------------------------------------------
 Name: RTVE Cuéntame
 URL: https://ztnr.rtve.es/ztnr/6909843.m3u8
 Logo: https://graph.facebook.com/rtveplay/picture?width=200&height=200
@@ -17555,18 +17555,8 @@ URL: https://ztnr.rtve.es/ztnr/6924117.m3u8
 Logo: https://graph.facebook.com/rtveplay/picture?width=200&height=200
 Source: https://www.tdtchannels.com/lists/tvradio_mpd.m3u8
 --------------------------------------------------
-Name: RTVE Late Xou
-URL: https://ztnr.rtve.es/ztnr/2472037.m3u8
-Logo: https://graph.facebook.com/rtveplay/picture?width=200&height=200
-Source: https://www.tdtchannels.com/lists/tvradio_mpd.m3u8
---------------------------------------------------
-Name: RTVE Talent
+Name: RTVE Concursos
 URL: https://ztnr.rtve.es/ztnr/16510071.m3u8
-Logo: https://graph.facebook.com/rtveplay/picture?width=200&height=200
-Source: https://www.tdtchannels.com/lists/tvradio_mpd.m3u8
---------------------------------------------------
-Name: RTVE Eurovisión
-URL: https://ztnr.rtve.es/ztnr/16550764.m3u8
 Logo: https://graph.facebook.com/rtveplay/picture?width=200&height=200
 Source: https://www.tdtchannels.com/lists/tvradio_mpd.m3u8
 --------------------------------------------------
@@ -30369,6 +30359,11 @@ URL: https://best-str.umn.cdn.united.cloud/stream?stream=sp1400&sp=n1info&channe
 Logo: https://graph.facebook.com/N1Hrvatska/picture?width=200&height=200
 Source: https://www.tdtchannels.com/lists/tvradio_mpd.m3u8
 --------------------------------------------------
+Name: VizionPlus Albania
+URL: https://mfe01.tring.al/delta/105/out/u/rdghfhsfhfshs.m3u8
+Logo: https://graph.facebook.com/vizionplustv/picture?width=200&height=200
+Source: https://www.tdtchannels.com/lists/tvradio_mpd.m3u8
+--------------------------------------------------
 Name: Channel 24 Ucrania
 URL: http://streamvideol1.luxnet.ua/news24/news24.stream/playlist.m3u8
 Logo: https://graph.facebook.com/news24ukraine/picture?width=200&height=200
@@ -42588,7 +42583,7 @@ Logo: https://graph.facebook.com/beach.grooves/picture?width=200&height=200
 Source: https://www.tdtchannels.com/lists/tvradio_mpd.m3u8
 --------------------------------------------------
 Name: La Fresca FM
-URL: https://stream.produccionesdale.com/listen/lafresca/altacalidad#.mp3
+URL: https://stream.produccionesdale.com/listen/lafresca/altacalidad
 Logo: https://graph.facebook.com/lafresca.es/picture?width=200&height=200
 Source: https://www.tdtchannels.com/lists/tvradio_mpd.m3u8
 --------------------------------------------------
@@ -42698,7 +42693,7 @@ Logo: https://graph.facebook.com/radiomartos/picture?width=200&height=200
 Source: https://www.tdtchannels.com/lists/tvradio_mpd.m3u8
 --------------------------------------------------
 Name: Canal Málaga RTV
-URL: https://wecast13-h-cloud.flumotion.com/canalmalaga/live.mp3
+URL: https://comcast01-h-cloud.flumotion.com/canalmalaga/live.mp3
 Logo: https://graph.facebook.com/CanalMalagaRTVMunicipal/picture?width=200&height=200
 Source: https://www.tdtchannels.com/lists/tvradio_mpd.m3u8
 --------------------------------------------------
@@ -43741,7 +43736,7 @@ Logo: https://graph.facebook.com/dynamisradio/picture?width=200&height=200
 Source: https://www.tdtchannels.com/lists/tvradio_mpd.m3u8
 --------------------------------------------------
 Name: Unika FM
-URL: https://n0c.radiojar.com/7qyvpnex9vzuv
+URL: https://server1.easystreaming.pro:8443/unika
 Logo: https://graph.facebook.com/unikafmmuchomasquedance/picture?width=200&height=200
 Source: https://www.tdtchannels.com/lists/tvradio_mpd.m3u8
 --------------------------------------------------
@@ -44534,7 +44529,7 @@ Logo: https://graph.facebook.com/cadenaser/picture?width=200&height=200
 Source: https://www.tdtchannels.com/lists/tvradio_mpd.m3u8
 --------------------------------------------------
 Name: SER Tarancón
-URL: https://playerservices.streamtheworld.com/api/livestream-redirect/SER_ASO_TARANCON.mp3
+URL: https://playerservices.streamtheworld.com/api/livestream-redirect/SER_TARANCON.mp3
 Logo: https://graph.facebook.com/cadenaser/picture?width=200&height=200
 Source: https://www.tdtchannels.com/lists/tvradio_mpd.m3u8
 --------------------------------------------------
@@ -44951,7 +44946,7 @@ Logo: https://graph.facebook.com/lamarinacat/picture?width=200&height=200
 Source: https://www.tdtchannels.com/lists/tvradio_mpd.m3u8
 --------------------------------------------------
 Name: Cerdanyola Radio
-URL: https://wecast20-h-cloud.flumotion.com/ajcerdanyola/live.mp3
+URL: https://comcast01-h-cloud.flumotion.com/ajcerdanyola/live.mp3
 Logo: https://graph.facebook.com/cerdanyola.info/picture?width=200&height=200
 Source: https://www.tdtchannels.com/lists/tvradio_mpd.m3u8
 --------------------------------------------------
@@ -45172,7 +45167,7 @@ Source: https://www.tdtchannels.com/lists/tvradio_mpd.m3u8
 --------------------------------------------------
 Name: Ràdio Amèrica Barcelona
 URL: https://s3.radio.co/sf09831a0e/listen
-Logo: https://graph.facebook.com/RadioAmericaBarcelona/picture?width=200&height=200
+Logo: https://pbs.twimg.com/profile_images/1931284389243072512/jCj4V37N_200x200.jpg
 Source: https://www.tdtchannels.com/lists/tvradio_mpd.m3u8
 --------------------------------------------------
 Name: Ràdio Gràcia
@@ -45280,7 +45275,7 @@ Logo: https://graph.facebook.com/ValenciaCF/picture?width=200&height=200
 Source: https://www.tdtchannels.com/lists/tvradio_mpd.m3u8
 --------------------------------------------------
 Name: Real Betis Radio
-URL: https://wecast01-h-cloud.flumotion.com/betistv/radio1.mp3
+URL: https://comcast01-h-cloud.flumotion.com/betistv/radio1.mp3
 Logo: https://graph.facebook.com/realbetisbalompie/picture?width=200&height=200
 Source: https://www.tdtchannels.com/lists/tvradio_mpd.m3u8
 --------------------------------------------------
@@ -45372,7 +45367,7 @@ Logo: https://graph.facebook.com/CADENA100/picture?width=200&height=200
 Source: https://www.tdtchannels.com/lists/tvradio_mpd.m3u8
 --------------------------------------------------
 Name: Cadena Dial Zafra-Río Bodión
-URL: http://83.56.8.228:8000/cadenadial
+URL: http://81.0.62.140:8000/cadenadial
 Logo: https://graph.facebook.com/cadenadial/picture?width=200&height=200
 Source: https://www.tdtchannels.com/lists/tvradio_mpd.m3u8
 --------------------------------------------------
@@ -45760,9 +45755,9 @@ URL: https://topradio.uno:8087/stream
 Logo: https://graph.facebook.com/titoieta/picture?width=200&height=200
 Source: https://www.tdtchannels.com/lists/tvradio_mpd.m3u8
 --------------------------------------------------
-Name: Radio Balear.es
+Name: Radio Balear
 URL: https://server10.emitironline.com:8076/stream
-Logo: https://graph.facebook.com/rbalear.interbaleares/picture?width=200&height=200
+Logo: https://graph.facebook.com/radiobalearfm/picture?width=200&height=200
 Source: https://www.tdtchannels.com/lists/tvradio_mpd.m3u8
 --------------------------------------------------
 Name: Formentera Radio
@@ -45835,7 +45830,7 @@ Logo: https://graph.facebook.com/rtva.andorra/picture?width=200&height=200
 Source: https://www.tdtchannels.com/lists/tvradio_mpd.m3u8
 --------------------------------------------------
 Name: AM Andorra
-URL: https://live-edge-ams-2.cdn.enetres.net/56495F77FD124FECA75590A906965F2C024/am/index.m3u8
+URL: https://live-edge-par-1.cdn.enetres.net/56495F77FD124FECA75590A906965F2C024/am/index.m3u8
 Logo: https://graph.facebook.com/rtva.andorra/picture?width=200&height=200
 Source: https://www.tdtchannels.com/lists/tvradio_mpd.m3u8
 --------------------------------------------------
@@ -45950,7 +45945,7 @@ Logo: https://graph.facebook.com/rinsefm/picture?width=200&height=200
 Source: https://www.tdtchannels.com/lists/tvradio_mpd.m3u8
 --------------------------------------------------
 Name: LOS40 Argentina
-URL: https://edge02.radiohdvivo.com/stream/los40
+URL: https://frontend.radiohdvivo.com/los40/live?dist=los40-web-live_streaming_play
 Logo: https://graph.facebook.com/los40argentina/picture?width=200&height=200
 Source: https://www.tdtchannels.com/lists/tvradio_mpd.m3u8
 --------------------------------------------------
