@@ -1,5 +1,5 @@
 {
-  "date": "2025-06-17 22:03:54",
+  "date": "2025-06-18 07:36:06",
   "channels": {
     "General": [
       {
@@ -292,6 +292,13 @@
     ],
     "Kids": [
       {
+        "name": "Majid TV (1080p)",
+        "logo": "https://i.imgur.com/TzOKMMy.png",
+        "group": "Kids",
+        "source": "https://iptv-org.github.io/iptv/countries/bh.m3u",
+        "url": "https://vo-live.cdb.cdn.orange.com/Content/Channel/MajidChildrenChannel/HLS/index.m3u8"
+      },
+      {
         "name": "MBC 3 KSA (1080p)",
         "logo": "https://i.imgur.com/PVt8OPN.png",
         "group": "Kids",
@@ -361,6 +368,15 @@
         "group": "Comedy;Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/bh.m3u",
         "url": "https://shls-live-enc.edgenextcdn.net/out/v1/0ef83323c0374a1187c182645db2a45f/index.m3u8"
+      }
+    ],
+    "Animation;Kids": [
+      {
+        "name": "Spacetoon Arabic (1080p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png",
+        "group": "Animation;Kids",
+        "source": "https://iptv-org.github.io/iptv/countries/bh.m3u",
+        "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-spacetoon/d8382fb9ab4b2307058f12c7ea90db54/index.m3u8"
       }
     ]
   }
