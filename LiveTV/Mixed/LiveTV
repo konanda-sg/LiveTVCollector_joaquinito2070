@@ -530,7 +530,7 @@
   {
     "name": "Euronews IN DIRETTA",
     "type": "notizie",
-    "url": "https://dab794fcc38647efbf5f86bf01fa5c21.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6570/bitok/eyJzdGlkIjoiYjc5Njc0OTUtOGRhOC00NjhkLWI0ZDItMjllNDJhOTAwYmEyIiwibWt0IjoiaXQiLCJjaCI6NjU3MCwicHRmIjo1fQ%3D%3D/25674/euronews-it.m3u8",
+    "url": "https://dab794fcc38647efbf5f86bf01fa5c21.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6570/bitok/eyJzdGlkIjoiM2QzZjZjMjktYWNhOC00ZGJjLWJhYzUtZDIyMzJiY2FkNzdjIiwibWt0IjoiaXQiLCJjaCI6NjU3MCwicHRmIjo1fQ%3D%3D/25674/euronews-it.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -560,7 +560,7 @@
   {
     "name": "Africanews",
     "type": "notizie",
-    "url": "https://c3c275b999764df8a2dd55ffe2996818.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576/bitok/eyJzdGlkIjoiODE0NmRkMjMtNDBmMi00NzdmLTgyMjItMWRkZGRhODI0MGFmIiwibWt0IjoiaXQiLCJjaCI6NjU4NywicHRmIjo1fQ%3D%3D/26036/africanews-en.m3u8",
+    "url": "https://c3c275b999764df8a2dd55ffe2996818.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576/bitok/eyJzdGlkIjoiNzQ5MGI2OWMtNDIwZi00YmUyLTkxYjUtZjkzMWVmYWViY2E0IiwibWt0IjoiaXQiLCJjaCI6NjU4NywicHRmIjo1fQ%3D%3D/26036/africanews-en.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -1728,6 +1728,12 @@
     "img": "https://i.ibb.co/VNdDky3/la-red.png"
   },
   {
+    "name": "CNN CHILE",
+    "type": "NACIONAL",
+    "url": "http://higherpro.xyz:8080/live/56956478056/270924ztv/34.m3u8",
+    "img": "https://i.ibb.co/YWf6xcv/cnn-chile.png"
+  },
+  {
     "name": "CANAL 24 HORAS",
     "type": "NACIONAL",
     "url": "https://mdstrm.com/live-stream-playlist-v/57d1a22064f5d85712b20dab.m3u8",
@@ -1748,7 +1754,7 @@
   {
     "name": "ZONA LATINA",
     "type": "NACIONAL",
-    "url": "http://200.60.124.19:29000/play/a01p/index.m3u8",
+    "url": "http://higherpro.xyz:8080/live/56956478056/270924ztv/56873.m3u8",
     "img": "https://static.wikia.nocookie.net/logopedia/images/e/e9/Zona_Latina_2021.svg/revision/latest/scale-to-width-down/150?cb=20210805180712&path-prefix=es"
   },
   {
@@ -1756,12 +1762,6 @@
     "type": "NACIONAL",
     "url": "http://200.60.124.19:29000/play/a01c/index.m3u8",
     "img": "https://static.wikia.nocookie.net/logopedia/images/2/29/V%C3%ADa_X_2005.jpg/revision/latest?cb=20190809004317&path-prefix=es"
-  },
-  {
-    "name": "MEGA2",
-    "type": "NACIONAL",
-    "url": "https://cdn-live.mundogo.cl/mega2/mega2.mpd",
-    "img": "https://static.wikia.nocookie.net/tvcable/images/c/c4/Logomega2.png/revision/latest?cb=20240327172424&path-prefix=es"
   },
   {
     "name": "CANAL 13C",
@@ -1788,6 +1788,42 @@
     "img": "https://i.imgur.com/pjs5csg.png"
   },
   {
+    "name": "TVR",
+    "type": "NACIONAL",
+    "url": "https://unlimited1-cl-isp.dps.live/tvr/tvr.smil/playlist.m3u8?PlaylistM3UCL",
+    "img": "https://cdn.m3u.cl/logo/77_TVR.png"
+  },
+  {
+    "name": "Retro Plus TV",
+    "type": "NACIONAL",
+    "url": "https://tls-cl.cdnz.cl/retroplus16@grupoz.cl_retrolive/live/playlist.m3u8?PlaylistM3UCL",
+    "img": "https://cdn.m3u.cl/logo/4_Retro_Plus_TV.png"
+  },
+  {
+    "name": "Retro Plus TV 2",
+    "type": "NACIONAL",
+    "url": "https://live20.bozztv.com/akamaissh101/ssh101/retroplustv2/playlist.m3u8?PlaylistM3UCL",
+    "img": "https://cdn.m3u.cl/logo/5_Retro_Plus_TV_Senal_2.png"
+  },
+  {
+    "name": "Retro Plus TV 3",
+    "type": "NACIONAL",
+    "url": "https://live20.bozztv.com/akamaissh101/ssh101/retroplustv03/playlist.m3u8?PlaylistM3UCL",
+    "img": "https://cdn.m3u.cl/logo/465_Retro_Plus_TV_Senal_3.png"
+  },
+  {
+    "name": "VClassicTV",
+    "type": "NACIONAL",
+    "url": "https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8?PlaylistM3UCL",
+    "img": "https://cdn.m3u.cl/logo/1160_VClassicTV.png"
+  },
+  {
+    "name": "VClassicTV Tropical",
+    "type": "NACIONAL",
+    "url": "https://5eaccbab48461.streamlock.net:1936/8076/8076/playlist.m3u8?PlaylistM3UCL",
+    "img": "https://cdn.m3u.cl/logo/1255_VClassicTV_Tropical.png"
+  },
+  {
     "name": "PLANETA TV",
     "type": "NACIONAL",
     "url": "https://tls-cl.cdnz.cl/planetatv/live/playlist.m3u8?PlaylistM3UCL",
@@ -1798,6 +1834,36 @@
     "type": "NACIONAL",
     "url": "https://marine2.miplay.cl/molinatv/playlist.m3u8?PlaylistM3UCL",
     "img": "https://cdn.m3u.cl/logo/1249_Molina_TV.png"
+  },
+  {
+    "name": "Nova TV Canal 7",
+    "type": "NACIONAL",
+    "url": "https://freya.mivideo.pro/novatv/index.fmp4.m3u8?PlaylistM3UCL",
+    "img": "https://cdn.m3u.cl/logo/1497_Nova_TV_Canal_7.png"
+  },
+  {
+    "name": "TVR Canal 11",
+    "type": "NACIONAL",
+    "url": "https://cloudpro.servidoresdestream.com:8081/8006/index.m3u8?PlaylistM3UCL",
+    "img": "https://cdn.m3u.cl/logo/78_TVR_Canal_11.png"
+  },
+  {
+    "name": "13 Internacional",
+    "type": "NACIONAL",
+    "url": "https://redirector.dps.live/hls/13intav/playlist.m3u8?PlaylistM3UCL",
+    "img": "https://cdn.m3u.cl/logo/1685_13_Internacional.png"
+  },
+  {
+    "name": "13 Cocina",
+    "type": "NACIONAL",
+    "url": "https://redirector.dps.live/hls/13cocina/playlist.m3u8?PlaylistM3UCL",
+    "img": "https://cdn.m3u.cl/logo/1683_13_Cocina.png"
+  },
+  {
+    "name": "13 Pop",
+    "type": "NACIONAL",
+    "url": "https://redirector.dps.live/hls/13pop/playlist.m3u8?PlaylistM3UC",
+    "img": "https://cdn.m3u.cl/logo/1033_13_Pop.png"
   },
   {
     "name": "CANAL 13 FESTIVALES",
@@ -1976,20 +2042,8 @@
   {
     "name": "L1MAX",
     "type": "DEPORTES",
-    "url": "http://live1.cl.cdn.lla.vtrplay.com/l1maxhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD",
+    "url": "http://higherpro.xyz:8080/live/56956478056/270924ztv/63061.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/L1MAX-LOGO.svg/1280px-L1MAX-LOGO.svg.png"
-  },
-  {
-    "name": "CDO",
-    "type": "DEPORTES",
-    "url": "http://playtvpremium.xyz:2095/live/56984699680w1/310724zplayer/314874.m3u8",
-    "img": "https://i.ibb.co/W0mWyNr/cdo.png"
-  },
-  {
-    "name": "CDO 2",
-    "type": "DEPORTES",
-    "url": "http://playtvpremium.xyz:2095/live/56984699680w1/310724zplayer/314876.m3u8",
-    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTK6nCtntodGtEuHAFGKijSDu2cC4L9sHuMmw&s"
   },
   {
     "name": "MOVISTAR DEPORTES",
@@ -2022,12 +2076,6 @@
     "img": "http://hidra.live:80/images/VI64j-lAlfcaXfEc-evZjfG8adaTpH--Z6TggUUpZEjzffIRKJOONPgvze0v23iC63f1PKT3TPJublQWXeZZEQ.png"
   },
   {
-    "name": "TELETRACK",
-    "type": "DEPORTES",
-    "url": "http://playtvpremium.xyz:2095/live/56984699680w1/310724zplayer/314877.m3u8",
-    "img": "https://cdn.prod.website-files.com/605a3cacba514a77ca2e6ab5/6065f665a567a9739a970cc5_teletrak.jpeg"
-  },
-  {
     "name": "DIRECTV SPORTS",
     "type": "DEPORTES",
     "url": "http://200.60.124.19:29000/play/a081/index.m3u8",
@@ -2036,7 +2084,7 @@
   {
     "name": "DIRECTV SPORTS 2",
     "type": "DEPORTES",
-    "url": "http://higherpro.xyz:8080/live/56956478056/270924ztv/464.m3u8",
+    "url": "http://higherpro.xyz:8080/live/56956478056/270924ztv/473.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/c/ca/DirecTV_Sports_Latin_America_%282018%29.png"
   },
   {
