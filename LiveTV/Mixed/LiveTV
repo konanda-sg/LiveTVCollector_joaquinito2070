@@ -36,6 +36,12 @@
     "img": " "
   },
   {
+    "name": "ZEE TV HD (UK)",
+    "type": "SUPERSONIC TV",
+    "url": "http://supersonictv.live:8080/CKidd2023/8327464679/85452",
+    "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhA4S-Et1bVPVl5rpj1wY_gU6sja3qkE4HIyPRkd6khf8k2Lhs2CgZsRVGyGFEy9R-X0F3FYct3q8AuTAQ4J-ANHXeQTLM59tP17OnzQZ73ehzD03y_XxPDRLYrnTvPzWJg41_YPa4g0sfFPljfbGC2xSZE0BQOpdfPFo-P2ykbbSgx0WmYSrhidM9aDLg/s320/1000088673.jpg"
+  },
+  {
     "name": "AAJ TAK (UK)",
     "type": "AP TV",
     "url": "http://ahostingportal.com:8000/3875147095/3458182665/2883",
@@ -530,7 +536,7 @@
   {
     "name": "Euronews IN DIRETTA",
     "type": "notizie",
-    "url": "https://dab794fcc38647efbf5f86bf01fa5c21.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6570/bitok/eyJzdGlkIjoiZmFhM2E1OGItYjgwMy00ZmIxLTljZjQtZTE0NTcxYzg4MTAyIiwibWt0IjoiaXQiLCJjaCI6NjU3MCwicHRmIjo1fQ%3D%3D/25674/euronews-it.m3u8",
+    "url": "https://dab794fcc38647efbf5f86bf01fa5c21.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6570/bitok/eyJzdGlkIjoiYTY2NDIwZjMtMWYyYS00YWZjLWE3NTEtNjBjYjUyZGVhODFiIiwibWt0IjoiaXQiLCJjaCI6NjU3MCwicHRmIjo1fQ%3D%3D/25674/euronews-it.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -560,7 +566,7 @@
   {
     "name": "Africanews",
     "type": "notizie",
-    "url": "https://c3c275b999764df8a2dd55ffe2996818.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576/bitok/eyJzdGlkIjoiNmRiZDcwZGQtMWU4OC00YjMwLThjZmYtMmQ1M2Y3MDViN2VhIiwibWt0IjoiaXQiLCJjaCI6NjU4NywicHRmIjo1fQ%3D%3D/26036/africanews-en.m3u8",
+    "url": "https://c3c275b999764df8a2dd55ffe2996818.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576/bitok/eyJzdGlkIjoiZDMyNDBiZTQtMDUxNi00NmZkLTliY2MtYjc0OThiMmVmOGIxIiwibWt0IjoiaXQiLCJjaCI6NjU4NywicHRmIjo1fQ%3D%3D/26036/africanews-en.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -1182,7 +1188,7 @@
     "img": "https://lh4.ggpht.com/f-zQdGn5dAUEybjbCJ94QTfabrzijJBNcADcaWn5dCoA3isCWrnN7-Pj0C73wSCbmHQ=w300"
   },
   {
-    "name": "PALESTINE🇵🇸",
+    "name": "IRAN🇮🇷",
     "type": "Uncategorized",
     "url": "http://youtube.com",
     "img": "https://www.lyngsat.com/logo/flag/az/ps.png"
@@ -3276,6 +3282,24 @@
     "img": "https://i.postimg.cc/g20rGxF9/18.png"
   },
   {
+    "name": "IMAM HOSSAIN TV",
+    "type": "IRAN🇮🇷",
+    "url": "https://live.imamhossaintv.com/live/ih1.m3u8",
+    "img": "https://imamhusseintv.com/assets/images/ihtv-logo.webp"
+  },
+  {
+    "name": "IRAN INTERNATIONAL",
+    "type": "IRAN🇮🇷",
+    "url": "https://irantv.icdndhcp.com/hls/stream.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Iran_International.svg/500px-Iran_International.svg.png"
+  },
+  {
+    "name": "PRESS TV",
+    "type": "IRAN🇮🇷",
+    "url": "https://live.presstv.ir/hls/presstv.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/1/14/Press_TV_logo.png"
+  },
+  {
     "name": "AL JAZEERA ARABIC",
     "type": "PALESTINE🇵🇸",
     "url": "https://live-hls-web-aja-fa.getaj.net/AJA/04.m3u8",
@@ -4980,12 +5004,6 @@
     "img": "https://i.imgur.com/Qj1EFf1.png"
   },
   {
-    "name": "AL QURAN AL KAREEM",
-    "type": "INDONESIA🇮🇩",
-    "url": "https://cdn08jtedge.indihometv.com/dassdvr/130/alquran/manifest.mpd",
-    "img": "https://aloula.faulio.com/storage/mediagallery/d3/41/small_31890d483ad4fcf4b142406c9cfa1cb16ca0ddb6.png"
-  },
-  {
     "name": "ALWAFA TARIM",
     "type": "INDONESIA🇮🇩",
     "url": "https://ammedia.siar.us/ammedia/live/playlist.m3u8",
@@ -4996,6 +5014,12 @@
     "type": "INDONESIA🇮🇩",
     "url": "https://streaming.indihometv.com/atm/DASH/antara/manifest.mpd",
     "img": "https://algorit.ma/wp-content/uploads/2023/04/Antaranews.png"
+  },
+  {
+    "name": "ANTV #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1",
+    "type": "INDONESIA🇮🇩",
+    "url": "https://atemeshield1-voe.sysln.id/live/eds/ANTV/mpd/ANTV.mpd",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/960px-Antv_logo.svg.png"
   },
   {
     "name": "ASHILL TV",
@@ -5102,7 +5126,7 @@
   {
     "name": "GTV",
     "type": "INDONESIA🇮🇩",
-    "url": "https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv",
+    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cd6e8eda22394/manifest.mpd",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/GTV_%282017%29.svg/400px-GTV_%282017%29.svg.png"
   },
   {
@@ -5114,8 +5138,20 @@
   {
     "name": "IDX",
     "type": "INDONESIA🇮🇩",
-    "url": "https://streaming.indihometv.com/atm/DASH/idx/manifest.mpd",
+    "url": "https://atemeshield1-voe.sysln.id/live/eds/IDXChannelHD/mpd/IDXChannelHD.mpd",
     "img": "https://upload.wikimedia.org/wikipedia/commons/c/cb/IDX_Channel.png"
+  },
+  {
+    "name": "INDOSIAR",
+    "type": "INDONESIA🇮🇩",
+    "url": "https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd",
+    "img": "https://iconape.com/wp-content/png_logo_vector/indosiar-logo.png"
+  },
+  {
+    "name": "INDOSIAR",
+    "type": "INDONESIA🇮🇩",
+    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cd6e773b02392/manifest.mpd",
+    "img": "https://iconape.com/wp-content/png_logo_vector/indosiar-logo.png"
   },
   {
     "name": "INDOSIAR",
@@ -5142,9 +5178,15 @@
     "img": "https://static.wikia.nocookie.net/logopedia/images/a/a2/Logo_inspira_tv.png/revision/latest?cb=20210424010413"
   },
   {
+    "name": "JAKARTA GLOBENEWS CHANNEL",
+    "type": "INDONESIA🇮🇩",
+    "url": "https://atemeshield1-voe.sysln.id/live/eds/JakartaGlobeHD/mpd/JakartaGlobeHD.mpd",
+    "img": "https://static.wikia.nocookie.net/logopedia/images/e/ea/Jakarta_globe_news_channel_id.png"
+  },
+  {
     "name": "JAKTV",
     "type": "INDONESIA🇮🇩",
-    "url": "https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c68572841ba301729cd58bce3c14/manifest.mpd",
+    "url": "https://atemeshield1-voe.sysln.id/live/eds/JAKTV/mpd/JAKTV.mpd",
     "img": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Jak_tv_%282010%29.png?20170112123746"
   },
   {
@@ -5186,7 +5228,7 @@
   {
     "name": "KOMPAS TV",
     "type": "INDONESIA🇮🇩",
-    "url": "http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/165060",
+    "url": "https://atemeshield1-voe.sysln.id/live/eds/KOMPASTVHD/mpd/KOMPASTVHD.mpd",
     "img": "https://static.wikia.nocookie.net/logo-tv/images/4/41/Kompas_TV_%282011%29_logo.png/revision/latest?cb=20210412015958"
   },
   {
@@ -5216,7 +5258,13 @@
   {
     "name": "METRO TV",
     "type": "INDONESIA🇮🇩",
-    "url": "http://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8",
+    "url": "https://atemecdnbalancer-voe.sysln.id/live/eds/MetroTVHD/mpd/MetroTVHD.mpd",
+    "img": "https://static.wikia.nocookie.net/logopedia/images/a/a8/Logo-metro-tv.png/revision/latest/scale-to-width-down/250?cb=20180223132141"
+  },
+  {
+    "name": "METRO TV",
+    "type": "INDONESIA🇮🇩",
+    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/2/4028c6856c3db2cc016cd6e548c62390/manifest.mpd",
     "img": "https://static.wikia.nocookie.net/logopedia/images/a/a8/Logo-metro-tv.png/revision/latest/scale-to-width-down/250?cb=20180223132141"
   },
   {
@@ -5224,6 +5272,18 @@
     "type": "INDONESIA🇮🇩",
     "url": "https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/MNCTV_logo.png/1595px-MNCTV_logo.png"
+  },
+  {
+    "name": "MNCTV",
+    "type": "INDONESIA🇮🇩",
+    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6ebd82f2396/manifest.mpd",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/MNCTV_logo.png/1595px-MNCTV_logo.png"
+  },
+  {
+    "name": "MOJI",
+    "type": "INDONESIA🇮🇩",
+    "url": "https://atemeshield1-voe.sysln.id/live/eds/MOJIOChannel/mpd/MOJIOChannel.mpd",
+    "img": "https://static.wikia.nocookie.net/logopedia/images/c/c9/Moji_blue.svg/revision/latest/scale-to-width-down/250?cb=20220804012548"
   },
   {
     "name": "MOJI",
@@ -5320,6 +5380,12 @@
     "type": "INDONESIA🇮🇩",
     "url": "https://cdn.gunadarma.ac.id/streams/sangajitv/ingestsangajitv.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/d/df/SANGAJI_TV_JOGJA.jpg"
+  },
+  {
+    "name": "SCTV",
+    "type": "INDONESIA🇮🇩",
+    "url": "https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/SCTV_Logo.svg/1600px-SCTV_Logo.svg.png"
   },
   {
     "name": "SCTV",
@@ -6549,12 +6615,6 @@
     "name": "like Gecko) Chrome/92.0.4515.131 Safari/537.36\",Palestine Satellite Channel",
     "type": "HÓNG TIN CHIẾN SỰ",
     "url": "https://pbc.furrera.ps/palestinehd/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Press TV",
-    "type": "HÓNG TIN CHIẾN SỰ",
-    "url": "https://live.presstv.ir/hls/presstv.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
