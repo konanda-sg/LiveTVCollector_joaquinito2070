@@ -12914,7 +12914,7 @@
   {
     "name": "INEWS",
     "type": "BERITA",
-    "url": "https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews",
+    "url": "https://inews-cutv.rctiplus.id/inews-sdi.m3u8",
     "img": "https://alkhalifitv.github.io/TV/big/inews.png"
   },
   {
@@ -13350,6 +13350,12 @@
     "img": "http://alkhalifitv.github.io/TV/big/mnctv.png"
   },
   {
+    "name": "MNCTV HD",
+    "type": "LOKAL",
+    "url": "https://mnctv-cutv.rctiplus.id/mnctv-sdi.m3u8",
+    "img": "https://alkhalifitv.github.io/TV/big/mnctv.png"
+  },
+  {
     "name": "INDOSIAR",
     "type": "LOKAL",
     "url": "https://cdn10jtedge.indihometv.com/atm/DASH/indosiar/playlist.mpd",
@@ -13374,22 +13380,10 @@
     "img": "http://alkhalifitv.github.io/TV/big/gtv.png"
   },
   {
-    "name": "GTV",
-    "type": "LOKAL",
-    "url": "https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv",
-    "img": "https://alkhalifitv.github.io/TV/big/gtv.png"
-  },
-  {
     "name": "RTV",
     "type": "LOKAL",
     "url": "http://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8",
     "img": "https://alkhalifitv.github.io/TV/big/rtv.png"
-  },
-  {
-    "name": "MDTV HD",
-    "type": "LOKAL",
-    "url": "http://op-group1-swiftservesd-1.dens.tv/h/h06/index.m3u8",
-    "img": "https://alkhalifitv.github.io/TV/big/mdtv.png"
   },
   {
     "name": "MOJI",
@@ -16155,6 +16149,12 @@
     "name": "RCTI R++ 🇮🇩",
     "type": "No SignaL 📺",
     "url": "https://pl.kokokputik.my.id/iptv/Rctiplus/index.m3u8?id=rcti",
+    "img": "https://i.ibb.co.com/j5t004b/MENUJU-WORLD-CUP-2026.png"
+  },
+  {
+    "name": "GTV (R+)",
+    "type": "No SignaL 📺",
+    "url": "https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv",
     "img": "https://i.ibb.co.com/j5t004b/MENUJU-WORLD-CUP-2026.png"
   },
   {
@@ -23193,6 +23193,12 @@
     "name": "INEWS",
     "type": "TV BackUP",
     "url": "https://streaming.indihometv.com/atm/DASH/inews/manifest.mpd",
+    "img": "https://i.ibb.co/d6sfBLj/inews.png"
+  },
+  {
+    "name": "INEWS (R+)",
+    "type": "TV BackUP",
+    "url": "https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews",
     "img": "https://i.ibb.co/d6sfBLj/inews.png"
   },
   {

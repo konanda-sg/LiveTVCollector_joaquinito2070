@@ -255,7 +255,7 @@ Logo: https://alkhalifitv.github.io/TV/big/tvone.png
 Source: https://raw.githubusercontent.com/alkhalifitv/TV/refs/heads/master/playlist
 --------------------------------------------------
 Name: INEWS
-URL: https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
+URL: https://inews-cutv.rctiplus.id/inews-sdi.m3u8
 Logo: https://alkhalifitv.github.io/TV/big/inews.png
 Source: https://raw.githubusercontent.com/alkhalifitv/TV/refs/heads/master/playlist
 --------------------------------------------------
@@ -7392,6 +7392,11 @@ URL: https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007
 Logo: http://alkhalifitv.github.io/TV/big/mnctv.png
 Source: https://raw.githubusercontent.com/alkhalifitv/TV/refs/heads/master/playlist
 --------------------------------------------------
+Name: MNCTV HD
+URL: https://mnctv-cutv.rctiplus.id/mnctv-sdi.m3u8
+Logo: https://alkhalifitv.github.io/TV/big/mnctv.png
+Source: https://raw.githubusercontent.com/alkhalifitv/TV/refs/heads/master/playlist
+--------------------------------------------------
 Name: INDOSIAR
 URL: https://cdn10jtedge.indihometv.com/atm/DASH/indosiar/playlist.mpd
 Logo: https://alkhalifitv.github.io/TV/big/indosiar.png
@@ -7412,19 +7417,9 @@ URL: https://d2tjypxxy769fn.cloudfront.net/out/v1/b8b9b1d5f80f45649b4a3619291551
 Logo: http://alkhalifitv.github.io/TV/big/gtv.png
 Source: https://raw.githubusercontent.com/alkhalifitv/TV/refs/heads/master/playlist
 --------------------------------------------------
-Name: GTV
-URL: https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
-Logo: https://alkhalifitv.github.io/TV/big/gtv.png
-Source: https://raw.githubusercontent.com/alkhalifitv/TV/refs/heads/master/playlist
---------------------------------------------------
 Name: RTV
 URL: http://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8
 Logo: https://alkhalifitv.github.io/TV/big/rtv.png
-Source: https://raw.githubusercontent.com/alkhalifitv/TV/refs/heads/master/playlist
---------------------------------------------------
-Name: MDTV HD
-URL: http://op-group1-swiftservesd-1.dens.tv/h/h06/index.m3u8
-Logo: https://alkhalifitv.github.io/TV/big/mdtv.png
 Source: https://raw.githubusercontent.com/alkhalifitv/TV/refs/heads/master/playlist
 --------------------------------------------------
 Name: MOJI
@@ -12834,6 +12829,11 @@ URL: https://pl.kokokputik.my.id/iptv/Rctiplus/index.m3u8?id=rcti
 Logo: https://i.ibb.co.com/j5t004b/MENUJU-WORLD-CUP-2026.png
 Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL
 --------------------------------------------------
+Name: GTV (R+)
+URL: https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
+Logo: https://i.ibb.co.com/j5t004b/MENUJU-WORLD-CUP-2026.png
+Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL
+--------------------------------------------------
 Name: Sportstars 1 (V+)
 URL: https://cempedak-cdn-fly.mncnow.id/live/eds/MNCSports-HD/sa_dash/MNCSports-HD.mpd
 Logo: https://i.ibb.co.com/j5t004b/MENUJU-WORLD-CUP-2026.png
@@ -17568,6 +17568,11 @@ Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/
 --------------------------------------------------
 Name: INEWS
 URL: https://streaming.indihometv.com/atm/DASH/inews/manifest.mpd
+Logo: https://i.ibb.co/d6sfBLj/inews.png
+Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL
+--------------------------------------------------
+Name: INEWS (R+)
+URL: https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 Logo: https://i.ibb.co/d6sfBLj/inews.png
 Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL
 --------------------------------------------------
