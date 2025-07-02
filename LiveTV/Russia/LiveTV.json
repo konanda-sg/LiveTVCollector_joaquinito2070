@@ -1,5 +1,5 @@
 {
-  "date": "2025-07-02 13:45:03",
+  "date": "2025-07-02 21:43:01",
   "channels": {
     "Кино": [
       {
@@ -7,21 +7,21 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Кино",
         "source": "https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u",
-        "url": "http://45.143.108.110:2200/amedia1"
+        "url": "http://178.217.72.66:8080/A1/video.m3u8"
       },
       {
         "name": "Amedia 2",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Кино",
         "source": "https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u",
-        "url": "http://45.143.108.110:2200/amedia2"
+        "url": "http://178.217.72.66:8080/A2/index.m3u8"
       },
       {
         "name": "Amedia Hit",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Кино",
         "source": "https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u",
-        "url": "http://45.143.108.110:2200/amediahit"
+        "url": "https://stream-msk-12.ott.tricolor.tv/dtv/id820_MSKSG-PVR-1--Amedia_Hit_HD/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1MTg3Mjg4NSwiaHdpZCI6IjM0YmQxMDNmZGFiNDliZTFiMWY2NjljNWU0ZjE3YzA1YTBjNzFkMTk3ZDAwY2U2OWM1MDA1YWI1ZjlhOGM3N2IiLCJsYXN0X3JlcV9kYXRlIjoxNzUxMjY4MDg1LCJzZXNzaW9uX2lkIjoiOTNmMDRlMzU0MjdhMDQ3M2EzYmUwYzRiZjhjYjg5MDciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.JZaPSRErMA94UlobjPgSVBdyB_5y-Kl9t5otFSPBrFo"
       },
       {
         "name": "Amedia Premium",
@@ -140,14 +140,14 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Кино",
         "source": "https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u",
-        "url": "http://65.21.85.175:8000/play/a01c/index.m3u8?token=livetv"
+        "url": "https://vod.splay.uz/live_splay/original/KinomiksHD/mono.ts.m3u8"
       },
       {
         "name": "Мужское кино",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Кино",
         "source": "https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u",
-        "url": "http://65.21.85.175:8000/play/a01o/index.m3u8?token=livetv"
+        "url": "https://vod.splay.uz/live_splay/original/Mujskoe-KinoHD/mono.ts.m3u8"
       },
       {
         "name": "Киносвидание",
@@ -371,7 +371,7 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Кино",
         "source": "https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u",
-        "url": "http://live.admuspeh.my/8947/index.m3u8?token=iptvshared"
+        "url": "http://77.235.1.19:8000/play/a04z/index.m3u8"
       },
       {
         "name": "Cinema",
@@ -567,7 +567,7 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Кино",
         "source": "https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u",
-        "url": "http://65.21.85.175:8000/play/a01u/index.m3u8?token=livetv"
+        "url": "http://80.245.95.243:8888/play/a00v/index.m3u8"
       },
       {
         "name": "Комедия",
@@ -765,7 +765,7 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Познавательные",
         "source": "https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u",
-        "url": "http://185.23.80.29:8080/Evrika_HD/index.m3u8?token=test"
+        "url": "http://stream-msk-03.ott.tricolor.tv/dtv/id159_MSKSG-PVR-1--HD_Eureka/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1MTg3Mjg4NSwiaHdpZCI6IjM0YmQxMDNmZGFiNDliZTFiMWY2NjljNWU0ZjE3YzA1YTBjNzFkMTk3ZDAwY2U2OWM1MDA1YWI1ZjlhOGM3N2IiLCJsYXN0X3JlcV9kYXRlIjoxNzUxMjY4MDg1LCJzZXNzaW9uX2lkIjoiOTNmMDRlMzU0MjdhMDQ3M2EzYmUwYzRiZjhjYjg5MDciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.JZaPSRErMA94UlobjPgSVBdyB_5y-Kl9t5otFSPBrFo"
       },
       {
         "name": "Точка ТВ",
@@ -786,7 +786,7 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Познавательные",
         "source": "https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u",
-        "url": "http://65.21.85.175:8000/play/a01k/index.m3u8?token=livetv"
+        "url": "http://178.212.71.253:8000/play/93/index.m3u8"
       },
       {
         "name": "Охотник и рыболов",
@@ -807,14 +807,14 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Познавательные",
         "source": "https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u",
-        "url": "http://45.159.74.14:80/Channel_127/manifest.m3u8"
+        "url": "https://jekalich.github.io/smtk/channels/dikaya-oxota-hd.m3u8"
       },
       {
         "name": "Дикая рыбалка HD",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Познавательные",
         "source": "https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u",
-        "url": "http://45.159.74.14:80/Channel_126/manifest.m3u8"
+        "url": "https://jekalich.github.io/smtk/channels/dikaya-rybalka-hd.m3u8"
       },
       {
         "name": "Диалоги о Рыбалке",
@@ -828,14 +828,14 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Познавательные",
         "source": "https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u",
-        "url": "http://185.23.80.29:8080/Muzhskoy/index.m3u8?token=test"
+        "url": "http://80.245.95.243:8888/play/sgg798/index.m3u8"
       },
       {
         "name": "Авто 24",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Познавательные",
         "source": "https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u",
-        "url": "http://185.23.80.29:8080/AVTO24/index.m3u8?token=test"
+        "url": "https://vod.splay.uz/live_splay/original/Avto24/mono.ts.m3u8"
       },
       {
         "name": "Авто Плюс",
@@ -863,21 +863,21 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Познавательные",
         "source": "https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u",
-        "url": "http://185.23.80.29:8080/ZhivayaPriroda_HD/index.m3u8?token=test"
+        "url": "https://vod.splay.uz/live_splay/original/JivayaPrirodaHD/tracks-v1a1/mono.ts.m3u8"
       },
       {
         "name": "Бобер",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Познавательные",
         "source": "https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u",
-        "url": "http://185.37.150.40:8092/Bober/playlist.m3u8"
+        "url": "https://stream-msk-10.ott.tricolor.tv:443/dtv/id162_MSKSG-PVR-1--Bober/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1MTg3Mjg4NSwiaHdpZCI6IjM0YmQxMDNmZGFiNDliZTFiMWY2NjljNWU0ZjE3YzA1YTBjNzFkMTk3ZDAwY2U2OWM1MDA1YWI1ZjlhOGM3N2IiLCJsYXN0X3JlcV9kYXRlIjoxNzUxMjY4MDg1LCJzZXNzaW9uX2lkIjoiOTNmMDRlMzU0MjdhMDQ3M2EzYmUwYzRiZjhjYjg5MDciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.JZaPSRErMA94UlobjPgSVBdyB_5y-Kl9t5otFSPBrFo"
       },
       {
         "name": "Поехали!",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Познавательные",
         "source": "https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u",
-        "url": "http://185.37.150.40:8092/Poehali/playlist.m3u8"
+        "url": "https://stream-msk-05.ott.tricolor.tv:443/dtv/id367_MSKSG-PVR-1--Poehali/04/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1MTg3Mjg4NSwiaHdpZCI6IjM0YmQxMDNmZGFiNDliZTFiMWY2NjljNWU0ZjE3YzA1YTBjNzFkMTk3ZDAwY2U2OWM1MDA1YWI1ZjlhOGM3N2IiLCJsYXN0X3JlcV9kYXRlIjoxNzUxMjY4MDg1LCJzZXNzaW9uX2lkIjoiOTNmMDRlMzU0MjdhMDQ3M2EzYmUwYzRiZjhjYjg5MDciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.JZaPSRErMA94UlobjPgSVBdyB_5y-Kl9t5otFSPBrFo"
       },
       {
         "name": "Усадьба",
@@ -891,7 +891,7 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Познавательные",
         "source": "https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u",
-        "url": "http://185.37.150.40:8092/Zoo/playlist.m3u8"
+        "url": "http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 OPR/98.0.0.0"
       },
       {
         "name": "Тонус ТВ",
@@ -905,14 +905,14 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Познавательные",
         "source": "https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u",
-        "url": "http://hls127.homeiptv.org:8880/Teatr/video.m3u8"
+        "url": "http://77.235.1.19:8000/play/a04t/index.m3u8"
       },
       {
         "name": "Время",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Познавательные",
         "source": "https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u",
-        "url": "http://185.37.150.40:8092/Vremya/playlist.m3u8"
+        "url": "http://stream-msk-10.ott.tricolor.tv/dtv/id360_MSKSG-PVR-1--Vremya/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1MTg3Mjg4NSwiaHdpZCI6IjM0YmQxMDNmZGFiNDliZTFiMWY2NjljNWU0ZjE3YzA1YTBjNzFkMTk3ZDAwY2U2OWM1MDA1YWI1ZjlhOGM3N2IiLCJsYXN0X3JlcV9kYXRlIjoxNzUxMjY4MDg1LCJzZXNzaW9uX2lkIjoiOTNmMDRlMzU0MjdhMDQ3M2EzYmUwYzRiZjhjYjg5MDciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.JZaPSRErMA94UlobjPgSVBdyB_5y-Kl9t5otFSPBrFo"
       },
       {
         "name": "Ностальгия",
@@ -1038,7 +1038,7 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Познавательные",
         "source": "https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u",
-        "url": "http://185.37.150.40:8092/orujie/playlist.m3u8"
+        "url": "http://sgw.ott.tricolor.tv/streamingGateway/GetLivePlayList?source=Oruzhie.m3u8&serviceArea=MSK-SA-1&drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1MTg3Mjg4NSwiaHdpZCI6IjM0YmQxMDNmZGFiNDliZTFiMWY2NjljNWU0ZjE3YzA1YTBjNzFkMTk3ZDAwY2U2OWM1MDA1YWI1ZjlhOGM3N2IiLCJsYXN0X3JlcV9kYXRlIjoxNzUxMjY4MDg1LCJzZXNzaW9uX2lkIjoiOTNmMDRlMzU0MjdhMDQ3M2EzYmUwYzRiZjhjYjg5MDciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.JZaPSRErMA94UlobjPgSVBdyB_5y-Kl9t5otFSPBrFo"
       },
       {
         "name": "Ocean TV",
@@ -1145,7 +1145,7 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Юмор",
         "source": "https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u",
-        "url": "http://65.21.85.175:8000/play/a013/index.m3u8?token=livetv"
+        "url": "http://80.245.95.243:8888/play/a02t/index.m3u8"
       },
       {
         "name": "Перец",
@@ -1161,14 +1161,14 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Женские",
         "source": "https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u",
-        "url": "http://65.21.85.175:8000/play/a01l/index.m3u8?token=livetv"
+        "url": "http://stream-msk-11.ott.tricolor.tv/dtv/id519_MSKSG-PVR-1--Mama/03/plst.m3u8?drmreq=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBfdHlwZSI6ImFwdHBfb3R0IiwiY2xhc3MiOiJCUk9XU0VSIiwiZHJlaWQiOiI1NDIxOTAwNzk1ODc0MiIsImV4cCI6MTc1MTg3Mjg4NSwiaHdpZCI6IjM0YmQxMDNmZGFiNDliZTFiMWY2NjljNWU0ZjE3YzA1YTBjNzFkMTk3ZDAwY2U2OWM1MDA1YWI1ZjlhOGM3N2IiLCJsYXN0X3JlcV9kYXRlIjoxNzUxMjY4MDg1LCJzZXNzaW9uX2lkIjoiOTNmMDRlMzU0MjdhMDQ3M2EzYmUwYzRiZjhjYjg5MDciLCJ0b2tlbl90eXBlIjoiQ29udGVudEFjY2Vzc1Rva2VuIiwidHlwZSI6Ik1PWklMTEEifQ.JZaPSRErMA94UlobjPgSVBdyB_5y-Kl9t5otFSPBrFo"
       },
       {
         "name": "TLC",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Женские",
         "source": "https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u",
-        "url": "http://live.admuspeh.my/8060/tracks-v1a2/mono.m3u8?token=iptvshared"
+        "url": "http://80.245.95.243:8888/play/a017/index.m3u8"
       },
       {
         "name": "НТВ Стиль",
@@ -1538,14 +1538,14 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Спорт",
         "source": "https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u",
-        "url": "https://tv.movielab.pro/942/video.m3u8?token=0e49c99e5178f3a4adf5704a0d44e85a10ce0692-07480d38c5f817fa5702de7fb79bdbaf-1748674516-1748588116"
+        "url": "https://vod.splay.uz/live_splay/original/Setanta1HD/mono.ts.m3u8"
       },
       {
         "name": "Setanta Sports 2 HD",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Спорт",
         "source": "https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u",
-        "url": "https://tv.movielab.pro/943/video.m3u8?token=db013fab93476801a2906e7396310b1981b30841-aaae7ac097b822b10af51598e49f1b05-1748674516-1748588116"
+        "url": "https://vod.splay.uz/live_splay/original/Setanta2HD/mono.ts.m3u8"
       },
       {
         "name": "Матч! HD",
@@ -1757,7 +1757,7 @@
         "logo": "https://iptvx.one/picons/detsky-mir.png",
         "group": "Мультфильмы",
         "source": "https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u",
-        "url": "http://65.21.85.175:8000/play/a00j/index.m3u8?token=livetv"
+        "url": "http://80.245.95.243:8888/play/ert4862/index.m3u8"
       },
       {
         "name": "Карусель",
@@ -1834,7 +1834,7 @@
         "logo": "https://iptvx.one/picons/ryzhy.png",
         "group": "Мультфильмы",
         "source": "https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u",
-        "url": "http://185.23.80.29:8080/Ryzhij/index.m3u8?token=test"
+        "url": "https://livetv.mylifeisgood.net.ru/channels/ryjii.m3u8"
       },
       {
         "name": "Уникум",
@@ -1869,7 +1869,7 @@
         "logo": "https://iptvx.one/picons/o_.png",
         "group": "Мультфильмы",
         "source": "https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u",
-        "url": "http://185.23.80.29:8080/O/index.m3u8?token=test"
+        "url": "http://178.217.72.66:8080/O/index.m3u8"
       },
       {
         "name": "Nickelodeon",
@@ -1883,7 +1883,7 @@
         "logo": "https://iptvx.one/picons/cartoon-network.png",
         "group": "Мультфильмы",
         "source": "https://raw.githubusercontent.com/JekaLich/smtk/refs/heads/main/tv.smtk.m3u",
-        "url": "http://65.21.85.175:8000/play/a00i/index.m3u8?token=livetv"
+        "url": "http://80.245.95.243:8888/play/qwe9877/index.m3u8"
       },
       {
         "name": "Cartoon Classics",
@@ -7789,13 +7789,6 @@
         "group": "Kids",
         "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
         "url": "http://31.148.48.15/Nickelodeon/index.m3u8"
-      },
-      {
-        "name": "O!",
-        "logo": "https://i.imgur.com/pDc665V.png",
-        "group": "Kids",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "http://178.217.72.66:8080/O/index.m3u8"
       },
       {
         "name": "Smaylik TV",
