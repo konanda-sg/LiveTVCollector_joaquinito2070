@@ -1,5 +1,5 @@
 {
-  "date": "2025-07-04 13:42:27",
+  "date": "2025-07-04 21:39:40",
   "channels": {
     "INDONESIA": [
       {
@@ -16459,6 +16459,20 @@
         "url": "https://cdn08jtedge.indihometv.com/dassdvr/133/beib2/manifest.mpd"
       },
       {
+        "name": "SPOTV -",
+        "logo": "https://www.visionplus.id/images/repository/957/49957-SNAPSHOT-l.png",
+        "group": "No SignaL 📺",
+        "source": "https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL",
+        "url": "http://pia.cx/live/p5uiBGl3/uRCDEBja/76489.ts"
+      },
+      {
+        "name": "SPOTV 2 -",
+        "logo": "https://www.visionplus.id/images/repository/960/49960-SNAPSHOT-l.png",
+        "group": "No SignaL 📺",
+        "source": "https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL",
+        "url": "http://pia.cx/live/p5uiBGl3/uRCDEBja/85468.ts"
+      },
+      {
         "name": "SPOTV Stadia",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Google_Stadia_logo.svg/320px-Google_Stadia_logo.svg.png",
         "group": "No SignaL 📺",
@@ -19688,15 +19702,6 @@
         "url": "http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWef8kPQ0wGt6-ZKC3F1BfwMw"
       }
     ],
-    "RCTI+": [
-      {
-        "name": "INEWS (R+)",
-        "logo": "https://www.visionplus.id/images/repository/583/583-LOGO-m.png",
-        "group": "RCTI+",
-        "source": "https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL",
-        "url": "https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews"
-      }
-    ],
     "Nasional 🇮🇩": [
       {
         "name": "aLLplay Ent ⁱ",
@@ -19762,7 +19767,7 @@
         "url": "http://op-group1-swiftservehd-1.dens.tv/h/h12/02.m3u8"
       },
       {
-        "name": "MNC TV ʳ⁺",
+        "name": "MNC TV ʳ⁺ 1",
         "logo": "https://i.imgur.com/mR4Ey2E.png",
         "group": "Nasional 🇮🇩",
         "source": "https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL",
@@ -27102,6 +27107,13 @@
         "group": "TV BackUP",
         "source": "https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL",
         "url": "https://streaming.indihometv.com/atm/DASH/inews/manifest.mpd"
+      },
+      {
+        "name": "INEWS (R+)",
+        "logo": "https://i.ibb.co/d6sfBLj/inews.png",
+        "group": "TV BackUP",
+        "source": "https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL",
+        "url": "https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews"
       },
       {
         "name": "KOMPAS TV",

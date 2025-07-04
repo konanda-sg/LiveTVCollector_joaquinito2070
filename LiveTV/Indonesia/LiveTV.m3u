@@ -4663,6 +4663,10 @@ https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=17140&type=dash
 https://cdn08jtedge.indihometv.com/dassdvr/133/beib1/manifest.mpd
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/960/49960-SNAPSHOT-l.png" group-title="No SignaL 📺",SPOTV 2__
 https://cdn08jtedge.indihometv.com/dassdvr/133/beib2/manifest.mpd
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/957/49957-SNAPSHOT-l.png" group-title="No SignaL 📺",SPOTV -
+http://pia.cx/live/p5uiBGl3/uRCDEBja/76489.ts
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/960/49960-SNAPSHOT-l.png" group-title="No SignaL 📺",SPOTV 2 -
+http://pia.cx/live/p5uiBGl3/uRCDEBja/85468.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Google_Stadia_logo.svg/320px-Google_Stadia_logo.svg.png" group-title="No SignaL 📺",SPOTV Stadia
 http://416streams.sytes.net:3050/celsotrevino6262@gmail.com/DnX5cXB589/605342
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Google_Stadia_logo.svg/320px-Google_Stadia_logo.svg.png" group-title="No SignaL 📺",SPOTV Stadia 2
@@ -5585,8 +5589,6 @@ http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeaWavKNk07LY9Gi5-eXDdGU
 http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWeW1_PA3ve3lxYwPlmFR1csY
 #EXTINF:-1 tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDq0O1iFBnLp7qOj1z9sBlO3w.png" group-title="NasioNaL DiGitaL 📡",DAAI TV
 http://home-tv.online:80/play/i5Pq38_EynhQK7sHjsHWef8kPQ0wGt6-ZKC3F1BfwMw
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/583/583-LOGO-m.png" group-title="RCTI+",INEWS (R+)
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZP0QQ11.png" group-title="Nasional 🇮🇩",aLLplay Ent ⁱ
 https://streaming.indihometv.com/atm/DASH/useeprime/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RJ31qhO.png" group-title="Nasional 🇮🇩",Antv ⁱ
@@ -5605,7 +5607,7 @@ https://fta2-cdn-flr.visionplus.id/out/v1/7b0404cd6a8a4a908123f10774854e46/index
 https://wahyu1ptv.pages.dev/MDTV-HD.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ynGX4PT.png" group-title="Nasional 🇮🇩",Metro TV
 http://op-group1-swiftservehd-1.dens.tv/h/h12/02.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mR4Ey2E.png" group-title="Nasional 🇮🇩",MNC TV ʳ⁺
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mR4Ey2E.png" group-title="Nasional 🇮🇩",MNC TV ʳ⁺ 1
 https://mnctv-cutv.rctiplus.id/mnctv-sdi-avc1_800000=7-mp4a_96000=1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lTLsqu2.png" group-title="Nasional 🇮🇩",SindoNews TV ᵛ⁺
 https://cdngb196.indihometv.com/atm/DASH/mncnews/manifest.mpd
@@ -7697,6 +7699,8 @@ https://liveaneviadev.mncnow.id/live/eds/iNewsTV-HDD/sa_dash/iNewsTV-HDD.mpd
 http://melon-live-cdn.mncnow.id/live/eds/inews-hdd/sa_hls/inews-hdd.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d6sfBLj/inews.png" group-title="TV BackUP",INEWS
 https://streaming.indihometv.com/atm/DASH/inews/manifest.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/d6sfBLj/inews.png" group-title="TV BackUP",INEWS (R+)
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MR6fmDw/kompastv.png" group-title="TV BackUP",KOMPAS TV
 https://cempedak-cdn-fly.mncnow.id/live/eds/KompasTV/sa_dash/KompasTV.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MR6fmDw/kompastv.png" group-title="TV BackUP",KOMPAS TV
