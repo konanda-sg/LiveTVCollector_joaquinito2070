@@ -1,5 +1,5 @@
 {
-  "date": "2025-07-05 13:40:40",
+  "date": "2025-07-05 21:31:00",
   "channels": {
     "STREAMING": [
       {
@@ -688,7 +688,7 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "notizie",
         "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/heads/master/output/rakuten.m3u",
-        "url": "https://dab794fcc38647efbf5f86bf01fa5c21.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6570/bitok/eyJzdGlkIjoiOGVlYTE4ZjMtNTA5MS00ZDFmLWJjMTMtYmU3ZWFkODY2YTNjIiwibWt0IjoiaXQiLCJjaCI6NjU3MCwicHRmIjo1fQ%3D%3D/25674/euronews-it.m3u8"
+        "url": "https://dab794fcc38647efbf5f86bf01fa5c21.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6570/bitok/eyJzdGlkIjoiYTViZjBlZjMtNTNjOS00NjlkLWI4MDItMWI1MDg3MzU4NmVjIiwibWt0IjoiaXQiLCJjaCI6NjU3MCwicHRmIjo1fQ%3D%3D/25674/euronews-it.m3u8"
       },
       {
         "name": "The Reuters 60",
@@ -723,7 +723,7 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "notizie",
         "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/heads/master/output/rakuten.m3u",
-        "url": "https://c3c275b999764df8a2dd55ffe2996818.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576/bitok/eyJzdGlkIjoiY2VlNDQ3YWQtNzFhYi00OTdmLTg5OWYtOTMyMjcyYzZkY2UzIiwibWt0IjoiaXQiLCJjaCI6NjU4NywicHRmIjo1fQ%3D%3D/26036/africanews-en.m3u8"
+        "url": "https://c3c275b999764df8a2dd55ffe2996818.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576/bitok/eyJzdGlkIjoiNTMyN2Y1YTAtNTc2OS00NTdkLTgwN2QtYzhhN2E2MThhN2YxIiwibWt0IjoiaXQiLCJjaCI6NjU4NywicHRmIjo1fQ%3D%3D/26036/africanews-en.m3u8"
       },
       {
         "name": "CGTN",
@@ -4542,11 +4542,32 @@
         "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1"
       },
       {
+        "name": "TV1 HD",
+        "logo": "https://upload.wikimedia.org/wikipedia/ms/thumb/d/d7/TV_1%28Malaysia%29baru.png/440px-TV_1%28Malaysia%29baru.png",
+        "group": "MALAYSIA🇲🇾",
+        "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
+        "url": "https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/Tv1/index.m3u8"
+      },
+      {
         "name": "TV2 HD",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/5/5c/TV2_RTM.png",
         "group": "MALAYSIA🇲🇾",
         "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
         "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2"
+      },
+      {
+        "name": "TV2 HD",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/5/5c/TV2_RTM.png",
+        "group": "MALAYSIA🇲🇾",
+        "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
+        "url": "https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/Tv2/index.m3u8"
+      },
+      {
+        "name": "TV3",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/STMB_TV3.png/290px-STMB_TV3.png",
+        "group": "MALAYSIA🇲🇾",
+        "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
+        "url": "https://mifntechnology.github.io/siaranMy/channels/Tv3/index.m3u8"
       },
       {
         "name": "TV3",
@@ -4556,18 +4577,18 @@
         "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/809/default_primary.mpd"
       },
       {
-        "name": "TV3",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/STMB_TV3.png/290px-STMB_TV3.png",
+        "name": "TV6",
+        "logo": "https://static.wikia.nocookie.net/logopedia/images/9/9e/TV6_%28Malaysia_2021%29.svg/revision/latest/scale-to-width-down/200?cb=20210327202814",
         "group": "MALAYSIA🇲🇾",
         "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
-        "url": "https://ktpremium.site/live/RY318/7777/912828.ts"
+        "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?id=6"
       },
       {
         "name": "TV6",
         "logo": "https://static.wikia.nocookie.net/logopedia/images/9/9e/TV6_%28Malaysia_2021%29.svg/revision/latest/scale-to-width-down/200?cb=20210327202814",
         "group": "MALAYSIA🇲🇾",
         "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
-        "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?id=6"
+        "url": "https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/Tv6/index.m3u8"
       },
       {
         "name": "DidikTv KPM",
@@ -4584,6 +4605,13 @@
         "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/707/default_ott.mpd"
       },
       {
+        "name": "DidikTv KPM",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/DidikTV_KPM.png/400px-DidikTV_KPM.png",
+        "group": "MALAYSIA🇲🇾",
+        "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
+        "url": "https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/DidikTvKPM/index.m3u8"
+      },
+      {
         "name": "8TV",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Logo_8TV_Malaysia.png/380px-Logo_8TV_Malaysia.png",
         "group": "MALAYSIA🇲🇾",
@@ -4598,11 +4626,25 @@
         "url": "https://live.aqfadtv.xyz/8tv/index.mpd"
       },
       {
+        "name": "8TV",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Logo_8TV_Malaysia.png/380px-Logo_8TV_Malaysia.png",
+        "group": "MALAYSIA🇲🇾",
+        "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
+        "url": "https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/8tv/index.m3u8"
+      },
+      {
         "name": "TV9",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/TV9_%28Malaysia%29_logo.svg/300px-TV9_%28Malaysia%29_logo.svg.png",
         "group": "MALAYSIA🇲🇾",
         "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
         "url": "https://live.aqfadtv.xyz/tv9/index.mpd"
+      },
+      {
+        "name": "TV9",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/TV9_%28Malaysia%29_logo.svg/300px-TV9_%28Malaysia%29_logo.svg.png",
+        "group": "MALAYSIA🇲🇾",
+        "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
+        "url": "https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/Tv9/index.m3u8"
       },
       {
         "name": "AL HIJRAH",
@@ -4624,6 +4666,13 @@
         "group": "MALAYSIA🇲🇾",
         "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
         "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5"
+      },
+      {
+        "name": "BERITA RTM",
+        "logo": "https://static.wikia.nocookie.net/logopedia/images/0/04/Berita_RTM_v1.png/revision/latest/scale-to-width-down/250?cb=20210504032200",
+        "group": "MALAYSIA🇲🇾",
+        "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
+        "url": "https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/BeritaRTM/index.m3u8"
       },
       {
         "name": "DEWAN NEGARA\" tvg-logo=\"https://static.wikia.nocookie.net/logopedia/images/9/93/RTM_Parlimen_2021.png/revision/latest?cb=20210413101314\" group-title=\"MALAYSIA🇲🇾\",,DEWAN NEGARA",
@@ -4731,6 +4780,13 @@
         "url": "https://edge-sg1.vediostream.com/abr/tvikim/live/tvikim_source/chunks.m3u8"
       },
       {
+        "name": "TV IKIM",
+        "logo": "http://4.bp.blogspot.com/-Oj30_OSCTbA/T__hmGh2tvI/AAAAAAAACWg/d7WUGwrM7ag/w1200-h630-p-k-no-nu/tvikim-logo.png",
+        "group": "MALAYSIA🇲🇾",
+        "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
+        "url": "https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/TvIkim/index.m3u8"
+      },
+      {
         "name": "TV OKEY",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Okey_RTM.png/400px-Okey_RTM.png",
         "group": "MALAYSIA🇲🇾",
@@ -4743,6 +4799,13 @@
         "group": "MALAYSIA🇲🇾",
         "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
         "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5072/default_ott.mpd"
+      },
+      {
+        "name": "TV OKEY",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Okey_RTM.png/400px-Okey_RTM.png",
+        "group": "MALAYSIA🇲🇾",
+        "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
+        "url": "https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/TvOkey/index.m3u8"
       },
       {
         "name": "TVS",
@@ -4771,6 +4834,13 @@
         "group": "MALAYSIA🇲🇾",
         "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
         "url": "https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index_3.m3u8"
+      },
+      {
+        "name": "ASTRO AWANI",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Astro_Awani.png/400px-Astro_Awani.png",
+        "group": "MALAYSIA🇲🇾",
+        "source": "https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u",
+        "url": "https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/AstroAwani/index.m3u8"
       },
       {
         "name": "ASTRO CITRA",

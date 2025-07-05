@@ -560,7 +560,7 @@
   {
     "name": "Euronews IN DIRETTA",
     "type": "notizie",
-    "url": "https://dab794fcc38647efbf5f86bf01fa5c21.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6570/bitok/eyJzdGlkIjoiOGVlYTE4ZjMtNTA5MS00ZDFmLWJjMTMtYmU3ZWFkODY2YTNjIiwibWt0IjoiaXQiLCJjaCI6NjU3MCwicHRmIjo1fQ%3D%3D/25674/euronews-it.m3u8",
+    "url": "https://dab794fcc38647efbf5f86bf01fa5c21.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6570/bitok/eyJzdGlkIjoiYTViZjBlZjMtNTNjOS00NjlkLWI4MDItMWI1MDg3MzU4NmVjIiwibWt0IjoiaXQiLCJjaCI6NjU3MCwicHRmIjo1fQ%3D%3D/25674/euronews-it.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -590,7 +590,7 @@
   {
     "name": "Africanews",
     "type": "notizie",
-    "url": "https://c3c275b999764df8a2dd55ffe2996818.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576/bitok/eyJzdGlkIjoiY2VlNDQ3YWQtNzFhYi00OTdmLTg5OWYtOTMyMjcyYzZkY2UzIiwibWt0IjoiaXQiLCJjaCI6NjU4NywicHRmIjo1fQ%3D%3D/26036/africanews-en.m3u8",
+    "url": "https://c3c275b999764df8a2dd55ffe2996818.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576/bitok/eyJzdGlkIjoiNTMyN2Y1YTAtNTc2OS00NTdkLTgwN2QtYzhhN2E2MThhN2YxIiwibWt0IjoiaXQiLCJjaCI6NjU4NywicHRmIjo1fQ%3D%3D/26036/africanews-en.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -3822,10 +3822,28 @@
     "img": "https://upload.wikimedia.org/wikipedia/ms/thumb/d/d7/TV_1%28Malaysia%29baru.png/440px-TV_1%28Malaysia%29baru.png"
   },
   {
+    "name": "TV1 HD",
+    "type": "MALAYSIA🇲🇾",
+    "url": "https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/Tv1/index.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/ms/thumb/d/d7/TV_1%28Malaysia%29baru.png/440px-TV_1%28Malaysia%29baru.png"
+  },
+  {
     "name": "TV2 HD",
     "type": "MALAYSIA🇲🇾",
     "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2",
     "img": "https://upload.wikimedia.org/wikipedia/commons/5/5c/TV2_RTM.png"
+  },
+  {
+    "name": "TV2 HD",
+    "type": "MALAYSIA🇲🇾",
+    "url": "https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/Tv2/index.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/5/5c/TV2_RTM.png"
+  },
+  {
+    "name": "TV3",
+    "type": "MALAYSIA🇲🇾",
+    "url": "https://mifntechnology.github.io/siaranMy/channels/Tv3/index.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/STMB_TV3.png/290px-STMB_TV3.png"
   },
   {
     "name": "TV3",
@@ -3834,15 +3852,15 @@
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/STMB_TV3.png/290px-STMB_TV3.png"
   },
   {
-    "name": "TV3",
+    "name": "TV6",
     "type": "MALAYSIA🇲🇾",
-    "url": "https://ktpremium.site/live/RY318/7777/912828.ts",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/STMB_TV3.png/290px-STMB_TV3.png"
+    "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?id=6",
+    "img": "https://static.wikia.nocookie.net/logopedia/images/9/9e/TV6_%28Malaysia_2021%29.svg/revision/latest/scale-to-width-down/200?cb=20210327202814"
   },
   {
     "name": "TV6",
     "type": "MALAYSIA🇲🇾",
-    "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?id=6",
+    "url": "https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/Tv6/index.m3u8",
     "img": "https://static.wikia.nocookie.net/logopedia/images/9/9e/TV6_%28Malaysia_2021%29.svg/revision/latest/scale-to-width-down/200?cb=20210327202814"
   },
   {
@@ -3858,6 +3876,12 @@
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/DidikTV_KPM.png/400px-DidikTV_KPM.png"
   },
   {
+    "name": "DidikTv KPM",
+    "type": "MALAYSIA🇲🇾",
+    "url": "https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/DidikTvKPM/index.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/DidikTV_KPM.png/400px-DidikTV_KPM.png"
+  },
+  {
     "name": "8TV",
     "type": "MALAYSIA🇲🇾",
     "url": "https://unifi-live08.secureswiftcontent.com/UnifiHD/live08.mpd",
@@ -3870,9 +3894,21 @@
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Logo_8TV_Malaysia.png/380px-Logo_8TV_Malaysia.png"
   },
   {
+    "name": "8TV",
+    "type": "MALAYSIA🇲🇾",
+    "url": "https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/8tv/index.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Logo_8TV_Malaysia.png/380px-Logo_8TV_Malaysia.png"
+  },
+  {
     "name": "TV9",
     "type": "MALAYSIA🇲🇾",
     "url": "https://live.aqfadtv.xyz/tv9/index.mpd",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/TV9_%28Malaysia%29_logo.svg/300px-TV9_%28Malaysia%29_logo.svg.png"
+  },
+  {
+    "name": "TV9",
+    "type": "MALAYSIA🇲🇾",
+    "url": "https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/Tv9/index.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/TV9_%28Malaysia%29_logo.svg/300px-TV9_%28Malaysia%29_logo.svg.png"
   },
   {
@@ -3891,6 +3927,12 @@
     "name": "BERITA RTM",
     "type": "MALAYSIA🇲🇾",
     "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5",
+    "img": "https://static.wikia.nocookie.net/logopedia/images/0/04/Berita_RTM_v1.png/revision/latest/scale-to-width-down/250?cb=20210504032200"
+  },
+  {
+    "name": "BERITA RTM",
+    "type": "MALAYSIA🇲🇾",
+    "url": "https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/BeritaRTM/index.m3u8",
     "img": "https://static.wikia.nocookie.net/logopedia/images/0/04/Berita_RTM_v1.png/revision/latest/scale-to-width-down/250?cb=20210504032200"
   },
   {
@@ -3984,6 +4026,12 @@
     "img": "http://4.bp.blogspot.com/-Oj30_OSCTbA/T__hmGh2tvI/AAAAAAAACWg/d7WUGwrM7ag/w1200-h630-p-k-no-nu/tvikim-logo.png"
   },
   {
+    "name": "TV IKIM",
+    "type": "MALAYSIA🇲🇾",
+    "url": "https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/TvIkim/index.m3u8",
+    "img": "http://4.bp.blogspot.com/-Oj30_OSCTbA/T__hmGh2tvI/AAAAAAAACWg/d7WUGwrM7ag/w1200-h630-p-k-no-nu/tvikim-logo.png"
+  },
+  {
     "name": "TV OKEY",
     "type": "MALAYSIA🇲🇾",
     "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3",
@@ -3993,6 +4041,12 @@
     "name": "TV OKEY",
     "type": "MALAYSIA🇲🇾",
     "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5072/default_ott.mpd",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Okey_RTM.png/400px-Okey_RTM.png"
+  },
+  {
+    "name": "TV OKEY",
+    "type": "MALAYSIA🇲🇾",
+    "url": "https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/TvOkey/index.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Okey_RTM.png/400px-Okey_RTM.png"
   },
   {
@@ -4017,6 +4071,12 @@
     "name": "ASTRO AWANI",
     "type": "MALAYSIA🇲🇾",
     "url": "https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index_3.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Astro_Awani.png/400px-Astro_Awani.png"
+  },
+  {
+    "name": "ASTRO AWANI",
+    "type": "MALAYSIA🇲🇾",
+    "url": "https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/AstroAwani/index.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Astro_Awani.png/400px-Astro_Awani.png"
   },
   {
