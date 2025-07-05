@@ -18288,7 +18288,7 @@ https://liveingesta318.cdnmedia.tv/101televisionlive/smil:rtmp01.smil/playlist.m
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/ondacadiz/picture?width=200&height=200" group-title="Andalucía",Onda Cádiz
 https://ondacadiztv.es:30443/octv/directo_multi/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1861683669838049280/ovQd2ShK_200x200.jpg" group-title="Andalucía",Huelva TV
-https://5f71743aa95e4.streamlock.net:1936/huelvatv/htvdirecto/playlist.m3u8
+https://directo.huelvatv.com/memfs/a6ee6a17-7512-4a6c-ae30-53471b4505c3.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/8tvChiclana/picture?width=200&height=200" group-title="Andalucía",8TV Chiclana
 https://s.emisoras.tv:8081/chiclana/index.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/101TVSevilla/picture?width=200&height=200" group-title="Andalucía",101TV Sevilla
@@ -18477,7 +18477,7 @@ https://broadcasting.parlamentodenavarra.es/live/canal3/playlist.m3u8?DVR
 https://streamingtvi.gestec-video.com/hls/tvixa1.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/Intercomarcal.Television/picture?width=200&height=200" group-title="C. Valenciana",Intercomarcal TV
 https://streamingtvi.gestec-video.com/hls/tvixa3.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/12tv.es/picture?width=200&height=200" group-title="C. Valenciana",12TV Alicante
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1898462288492756992/xiHuBWVH_200x200.jpg" group-title="C. Valenciana",12TV Alicante
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=12682&live=1
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/TV4LaVall/picture?width=200&height=200" group-title="C. Valenciana",TV 4 La Vall
 https://valldeuxo.gestec-video.com/hls/lavall.m3u8
@@ -18589,10 +18589,6 @@ https://ndrint.akamaized.net/hls/live/2020766/ndr_int/master.m3u8
 https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/index_1080-30.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/GBNewsOnline/picture?width=200&height=200" group-title="Int. Europa",GB News UK EN
 https://amg01076-lightningintern-gbnews-samsunguk-0lu52.amagi.tv/playlist/amg01076-lightningintern-gbnews-samsunguk/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/rtp1.pt/picture?width=200&height=200" group-title="Int. Europa",RTP 1 Portugal
-https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/rtpdois/picture?width=200&height=200" group-title="Int. Europa",RTP 2 Portugal
-https://streaming-live.rtp.pt/liverepeater/smil:rtp2HD.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/Digi24HD/picture?width=200&height=200" group-title="Int. Europa",Digi24 Rumanía RO
 https://pubads.g.doubleclick.net/ssai/event/OQfdjUhHSDSlb1fJVzehsQ/master.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/trtworld/picture?width=200&height=200" group-title="Int. Europa",TRT World Turquía EN
@@ -20221,6 +20217,8 @@ https://stream.emisorasmusicales.net/listen/hallo_fm/hallofm.mp3
 https://stream.emisorasmusicales.net/listen/sol-latino/sol-latino.mp3
 #EXTINF:-1 tvg-logo="https://media.emisorasmusicales.net/wp-content/uploads/2025/05/12125739/Logo-HOLA-POP-redondo-200x200.png" group-title="Radio_C. Valenciana",Hola Pop
 https://stream.emisorasmusicales.net/listen/hola-pop/holapop.mp3
+#EXTINF:-1 tvg-logo="https://media.emisorasmusicales.net/wp-content/uploads/2025/05/27094024/PARTY-FM-definitivo-color-200x200.jpg" group-title="Radio_C. Valenciana",Party FM
+https://stream.emisorasmusicales.net/listen/party_fm/partyfm.mp3
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/radiosirena/picture?width=200&height=200" group-title="Radio_C. Valenciana",Radio Sirena COPE Benidorm
 https://str1.mediatelekom.net/proxy/radiosirena/stream
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/rememberradiocs/picture?width=200&height=200" group-title="Radio_C. Valenciana",Remember Radio
