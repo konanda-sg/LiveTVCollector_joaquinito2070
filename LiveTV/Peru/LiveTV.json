@@ -1,5 +1,5 @@
 {
-  "date": "2025-07-07 14:05:40",
+  "date": "2025-07-07 22:02:48",
   "channels": {
     "News": [
       {
@@ -2998,13 +2998,6 @@
         "group": "TV ESPANA",
         "source": "https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u",
         "url": "https://telemadrid-23-secure2.akamaized.net/master.m3u8"
-      },
-      {
-        "name": "10 | NICKELODEON ᴴᴰ |",
-        "logo": "https://i.imgur.com/RVb6sTv.jpeg",
-        "group": "TV ESPANA",
-        "source": "https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u",
-        "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609e7e423e9173000706a681/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS"
       }
     ],
     "TV NOTICIAS": [
@@ -4295,7 +4288,7 @@
       },
       {
         "name": "8 | SPORTS TV ᴴᴰ |",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "logo": "https://i.imgur.com/Rdc5Vlk.jpeg",
         "group": "DEPORTES",
         "source": "https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u",
         "url": "https://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8"
@@ -4355,13 +4348,6 @@
         "group": "DEPORTES",
         "source": "https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u",
         "url": "https://stmv6.voxtvhd.com.br/cnardeportes/cnardeportes/playlist.m3u8"
-      },
-      {
-        "name": "17 | DIRECTV SPORTS |",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "DEPORTES",
-        "source": "https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u",
-        "url": "https://ag9wzq.fubohd.com/dsports/mono.m3u8?token=6530f5a36b6a7e86952bd7e016cae8214450b69f-9f-1751850102-1751832102"
       }
     ],
     "TV DOCUMENTALES": [
@@ -4464,6 +4450,13 @@
         "group": "INFANTILES",
         "source": "https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u",
         "url": "https://627bb251f23c7.streamlock.net:444/ExtremaKids/ExtremaKids/chunklist_w1126563396.m3u8"
+      },
+      {
+        "name": "| NICKELODEON ᴴᴰ |",
+        "logo": "https://i.imgur.com/RVb6sTv.jpeg",
+        "group": "INFANTILES",
+        "source": "https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u",
+        "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609e7e423e9173000706a681/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS"
       },
       {
         "name": "| HIPER TV |",
