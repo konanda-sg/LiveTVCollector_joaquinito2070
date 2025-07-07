@@ -764,7 +764,7 @@ Source: https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/ip
 
 Group: CINE Y SERIES
 Name: PRIDE TV
-URL: https://xui-backend.energeek.cl/live/dem0pRideTVweb/x7Yu50WeVn/16.m3u8
+URL: https://backend.energeek.cl/webtv/pridetvweb/index.m3u8?token=D3m0M3UCLWeb&PlaylistM3UCL
 Logo: https://cdn.m3u.cl/logo/1692_PRIDEtv_Latam.png
 Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
 --------------------------------------------------
@@ -779,12 +779,12 @@ Logo: https://assets.iprofesional.com/assets/jpg/2020/06/497527.jpg?5.6.0.5
 Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
 --------------------------------------------------
 Name: A&E
-URL: http://179.49.163.34:45000/play/a02c/index.m3u8
+URL: http://181.78.27.128:8000/play/a01v/index.m3u8
 Logo: https://i.ibb.co/Ld3vtST/a-e.png
 Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
 --------------------------------------------------
 Name: AXN
-URL: http://179.49.163.34:45000/play/a01y/index.m3u8
+URL: http://181.78.27.128:8000/play/a01w/index.m3u8
 Logo: https://i.ibb.co/5jBfMj7/axn.png
 Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
 --------------------------------------------------
@@ -814,7 +814,7 @@ Logo: https://cdn.m3u.cl/logo/1435__Cine.png
 Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
 --------------------------------------------------
 Name: STAR CHANNEL
-URL: http://higherpro.xyz:8080/live/56956478056/270924ztv/54441.m3u8
+URL: http://181.78.27.128:8000/play/a03r/index.m3u8
 Logo: https://i.ibb.co/kBS1sFh/star-channel.png
 Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
 --------------------------------------------------
@@ -2862,17 +2862,17 @@ Logo: https://cdn.m3u.cl/logo/1604_ZTV_Anime.png
 Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
 --------------------------------------------------
 Name: KANADE TV
-URL: https://xui-backend.energeek.cl/live/13/playlist.m3u8?username=D3m0M3UCLWeb&password=xN4sFVjMK7&PlaylistM3UCL
+URL: https://backend.energeek.cl/webtv/kanadeweb/index.m3u8?token=D3m0M3UCLWeb
 Logo: https://cdn.m3u.cl/logo/1466_Kanade_TV.png
 Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
 --------------------------------------------------
 Name: ENERGEEK FAN
-URL: https://xui-backend.energeek.cl/live/10/playlist.m3u8?username=D3m0M3UCLWeb&password=xN4sFVjMK7&PlaylistM3UCL
+URL: https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=D3m0M3UCLWeb
 Logo: https://cdn.m3u.cl/logo/1112_EnerGeek_FAN.png
 Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
 --------------------------------------------------
 Name: ENERGEEK RETRO
-URL: https://xui-backend.energeek.cl/live/9/playlist.m3u8?username=D3m0M3UCLWeb&password=xN4sFVjMK7&PlaylistM3UCL
+URL: https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=D3m0M3UCLWeb
 Logo: https://cdn.m3u.cl/logo/947_EnerGeek_Retro.png
 Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
 --------------------------------------------------
@@ -4609,7 +4609,7 @@ Logo: https://cdn.m3u.cl/logo/444_TV_Senado.png
 Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
 --------------------------------------------------
 Name: ZONA LATINA
-URL: http://higherpro.xyz:8080/live/56956478056/270924ztv/56873.m3u8
+URL: http://200.60.124.19:29000/play/a01p/index.m3u8
 Logo: https://static.wikia.nocookie.net/logopedia/images/e/e9/Zona_Latina_2021.svg/revision/latest/scale-to-width-down/150?cb=20210805180712&path-prefix=es
 Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
 --------------------------------------------------
@@ -11483,6 +11483,11 @@ Source: https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/ip
 Name: MONI TV
 URL: https://tv.arkeo.cl:19360/8134/8134.m3u8
 Logo: https://cdn.m3u.cl/logo/1300_Moni_TV.png
+Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
+--------------------------------------------------
+Name: ANIRETRO
+URL: https://tv.arkeo.cl:19360/8000/8000.m3u8
+Logo: https://cdn.m3u.cl/logo/1585_AniRetro.png
 Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
 --------------------------------------------------
 Name: PUTERA PERLIS MULTIMEDIA

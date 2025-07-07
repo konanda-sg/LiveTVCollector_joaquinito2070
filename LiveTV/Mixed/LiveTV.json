@@ -1,5 +1,5 @@
 {
-  "date": "2025-07-06 21:30:49",
+  "date": "2025-07-07 06:15:14",
   "channels": {
     "STREAMING": [
       {
@@ -1370,6 +1370,13 @@
         "url": "https://tv.arkeo.cl:19360/8134/8134.m3u8"
       },
       {
+        "name": "ANIRETRO",
+        "logo": "https://cdn.m3u.cl/logo/1585_AniRetro.png",
+        "group": "Uncategorized",
+        "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
+        "url": "https://tv.arkeo.cl:19360/8000/8000.m3u8"
+      },
+      {
         "name": "PUTERA PERLIS MULTIMEDIA",
         "logo": "https://lh4.ggpht.com/f-zQdGn5dAUEybjbCJ94QTfabrzijJBNcADcaWn5dCoA3isCWrnN7-Pj0C73wSCbmHQ=w300",
         "group": "Uncategorized",
@@ -2254,7 +2261,7 @@
         "logo": "https://static.wikia.nocookie.net/logopedia/images/e/e9/Zona_Latina_2021.svg/revision/latest/scale-to-width-down/150?cb=20210805180712&path-prefix=es",
         "group": "NACIONAL",
         "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
-        "url": "http://higherpro.xyz:8080/live/56956478056/270924ztv/56873.m3u8"
+        "url": "http://200.60.124.19:29000/play/a01p/index.m3u8"
       },
       {
         "name": "VIA X",
@@ -2410,7 +2417,7 @@
         "logo": "https://cdn.m3u.cl/logo/1692_PRIDEtv_Latam.png",
         "group": "CINE Y SERIES",
         "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
-        "url": "https://xui-backend.energeek.cl/live/dem0pRideTVweb/x7Yu50WeVn/16.m3u8"
+        "url": "https://backend.energeek.cl/webtv/pridetvweb/index.m3u8?token=D3m0M3UCLWeb&PlaylistM3UCL"
       },
       {
         "name": "A3SERIES",
@@ -2431,14 +2438,14 @@
         "logo": "https://i.ibb.co/Ld3vtST/a-e.png",
         "group": "CINE Y SERIES",
         "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
-        "url": "http://179.49.163.34:45000/play/a02c/index.m3u8"
+        "url": "http://181.78.27.128:8000/play/a01v/index.m3u8"
       },
       {
         "name": "AXN",
         "logo": "https://i.ibb.co/5jBfMj7/axn.png",
         "group": "CINE Y SERIES",
         "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
-        "url": "http://179.49.163.34:45000/play/a01y/index.m3u8"
+        "url": "http://181.78.27.128:8000/play/a01w/index.m3u8"
       },
       {
         "name": "AMC",
@@ -2480,7 +2487,7 @@
         "logo": "https://i.ibb.co/kBS1sFh/star-channel.png",
         "group": "CINE Y SERIES",
         "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
-        "url": "http://higherpro.xyz:8080/live/56956478056/270924ztv/54441.m3u8"
+        "url": "http://181.78.27.128:8000/play/a03r/index.m3u8"
       },
       {
         "name": "HBO",
@@ -3081,21 +3088,21 @@
         "logo": "https://cdn.m3u.cl/logo/1466_Kanade_TV.png",
         "group": "INFANTILES",
         "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
-        "url": "https://xui-backend.energeek.cl/live/13/playlist.m3u8?username=D3m0M3UCLWeb&password=xN4sFVjMK7&PlaylistM3UCL"
+        "url": "https://backend.energeek.cl/webtv/kanadeweb/index.m3u8?token=D3m0M3UCLWeb"
       },
       {
         "name": "ENERGEEK FAN",
         "logo": "https://cdn.m3u.cl/logo/1112_EnerGeek_FAN.png",
         "group": "INFANTILES",
         "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
-        "url": "https://xui-backend.energeek.cl/live/10/playlist.m3u8?username=D3m0M3UCLWeb&password=xN4sFVjMK7&PlaylistM3UCL"
+        "url": "https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=D3m0M3UCLWeb"
       },
       {
         "name": "ENERGEEK RETRO",
         "logo": "https://cdn.m3u.cl/logo/947_EnerGeek_Retro.png",
         "group": "INFANTILES",
         "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
-        "url": "https://xui-backend.energeek.cl/live/9/playlist.m3u8?username=D3m0M3UCLWeb&password=xN4sFVjMK7&PlaylistM3UCL"
+        "url": "https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=D3m0M3UCLWeb"
       }
     ],
     "CULTURA Y ENTRETENIMIENTO": [
