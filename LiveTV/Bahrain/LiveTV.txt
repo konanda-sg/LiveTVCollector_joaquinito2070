@@ -50,7 +50,7 @@ Source: https://iptv-org.github.io/iptv/countries/bh.m3u
 
 Group: Entertainment
 Name: MBC 4 (1080p)
-URL: https://shls-masr-prod-dub.shahid.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8
+URL: https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/index.m3u8
 Logo: https://i.imgur.com/BcXASJp.png
 Source: https://iptv-org.github.io/iptv/countries/bh.m3u
 --------------------------------------------------
@@ -62,7 +62,7 @@ Source: https://iptv-org.github.io/iptv/countries/bh.m3u
 
 Group: Family
 Name: MBC 5 (1080p)
-URL: https://shls-mbc5-prod-dub.shahid.net/out/v1/2720564b6a4641658fdfb6884b160da2/index.m3u8
+URL: https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/index.m3u8
 Logo: https://i.imgur.com/fRWaDyF.png
 Source: https://iptv-org.github.io/iptv/countries/bh.m3u
 --------------------------------------------------
@@ -246,8 +246,8 @@ URL: https://stream.skynewsarabia.com/vertical/vertical.m3u8
 Logo: https://i.imgur.com/FjtzQQs.png
 Source: https://iptv-org.github.io/iptv/countries/bh.m3u
 --------------------------------------------------
-Name: TRT Arabi (1080p)
-URL: http://185.234.111.229:8000/play/a002
+Name: TRT Arabi (1080p) [Not 24/7]
+URL: https://tv-trtarabi.medya.trt.com.tr/master.m3u8
 Logo: https://i.imgur.com/dEfI2M9.png
 Source: https://iptv-org.github.io/iptv/countries/bh.m3u
 --------------------------------------------------
