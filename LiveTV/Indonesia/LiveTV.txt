@@ -7230,11 +7230,6 @@ URL: https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e674
 Logo: https://alkhalifitv.github.io/TV/big/antv.png
 Source: https://raw.githubusercontent.com/alkhalifitv/TV/refs/heads/master/playlist
 --------------------------------------------------
-Name: ANTV
-URL: https://atemecdnbalancer-voe.sysln.id/live/eds/ANTV/mpd/ANTV.mpd
-Logo: https://alkhalifitv.github.io/TV/big/antv.png
-Source: https://raw.githubusercontent.com/alkhalifitv/TV/refs/heads/master/playlist
---------------------------------------------------
 Name: MNCTV
 URL: https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd
 Logo: http://alkhalifitv.github.io/TV/big/mnctv.png
@@ -7268,6 +7263,11 @@ Source: https://raw.githubusercontent.com/alkhalifitv/TV/refs/heads/master/playl
 Name: RTV
 URL: http://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8
 Logo: https://alkhalifitv.github.io/TV/big/rtv.png
+Source: https://raw.githubusercontent.com/alkhalifitv/TV/refs/heads/master/playlist
+--------------------------------------------------
+Name: MDTV HD
+URL: https://d3b0v7fggu5zwm.cloudfront.net/out/v1/3aefa03d32954b678e5faab6daa04b58/index.mpd
+Logo: https://alkhalifitv.github.io/TV/big/mdtv.png
 Source: https://raw.githubusercontent.com/alkhalifitv/TV/refs/heads/master/playlist
 --------------------------------------------------
 Name: MOJI
@@ -17446,6 +17446,11 @@ Source: https://iptv-org.github.io/iptv/countries/id.m3u
 Group: TV BackUP
 Name: ANTV - Vision
 URL: https://cempedak-cdn-fly.mncnow.id/live/eds/ANTV/sa_dash/ANTV.mpd
+Logo: https://i.ibb.co/bQvyMnY/antv.png
+Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL
+--------------------------------------------------
+Name: ANTV - sysln.id
+URL: https://atemecdnbalancer-voe.sysln.id/live/eds/ANTV/mpd/ANTV.mpd
 Logo: https://i.ibb.co/bQvyMnY/antv.png
 Source: https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL
 --------------------------------------------------

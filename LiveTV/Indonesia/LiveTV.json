@@ -1,5 +1,5 @@
 {
-  "date": "2025-07-06 21:38:40",
+  "date": "2025-07-07 06:16:03",
   "channels": {
     "INDONESIA": [
       {
@@ -15648,13 +15648,6 @@
         "url": "https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd"
       },
       {
-        "name": "ANTV",
-        "logo": "https://alkhalifitv.github.io/TV/big/antv.png",
-        "group": "LOKAL",
-        "source": "https://raw.githubusercontent.com/alkhalifitv/TV/refs/heads/master/playlist",
-        "url": "https://atemecdnbalancer-voe.sysln.id/live/eds/ANTV/mpd/ANTV.mpd"
-      },
-      {
         "name": "MNCTV",
         "logo": "http://alkhalifitv.github.io/TV/big/mnctv.png",
         "group": "LOKAL",
@@ -15702,6 +15695,13 @@
         "group": "LOKAL",
         "source": "https://raw.githubusercontent.com/alkhalifitv/TV/refs/heads/master/playlist",
         "url": "http://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8"
+      },
+      {
+        "name": "MDTV HD",
+        "logo": "https://alkhalifitv.github.io/TV/big/mdtv.png",
+        "group": "LOKAL",
+        "source": "https://raw.githubusercontent.com/alkhalifitv/TV/refs/heads/master/playlist",
+        "url": "https://d3b0v7fggu5zwm.cloudfront.net/out/v1/3aefa03d32954b678e5faab6daa04b58/index.mpd"
       },
       {
         "name": "MOJI",
@@ -27037,6 +27037,13 @@
         "group": "TV BackUP",
         "source": "https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL",
         "url": "https://cempedak-cdn-fly.mncnow.id/live/eds/ANTV/sa_dash/ANTV.mpd"
+      },
+      {
+        "name": "ANTV - sysln.id",
+        "logo": "https://i.ibb.co/bQvyMnY/antv.png",
+        "group": "TV BackUP",
+        "source": "https://raw.githubusercontent.com/KiTVNoSignaL/PlayList/refs/heads/main/NoSignaL",
+        "url": "https://atemecdnbalancer-voe.sysln.id/live/eds/ANTV/mpd/ANTV.mpd"
       },
       {
         "name": "GARUDA TV",
