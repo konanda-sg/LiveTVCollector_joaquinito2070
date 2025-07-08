@@ -1,5 +1,5 @@
 {
-  "date": "2025-07-08 14:04:15",
+  "date": "2025-07-08 22:03:16",
   "channels": {
     "News": [
       {
@@ -4420,6 +4420,13 @@
         "group": "TV DOCUMENTALES",
         "source": "https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u",
         "url": "https://video.ejeserver.com/live/verteve.m3u8"
+      },
+      {
+        "name": "| ECOVISION |",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "TV DOCUMENTALES",
+        "source": "https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u",
+        "url": "https://streaming.grupomediosdelnorte.com:19360/ecovision/ecovision.m3u8"
       }
     ],
     "INFANTILES": [
@@ -4464,6 +4471,13 @@
         "group": "INFANTILES",
         "source": "https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u",
         "url": "https://stmv5.voxtvhd.com.br/hiperconectados/hiperconectados/chunklist_w1647274275.m3u8"
+      },
+      {
+        "name": "| B TV JUNIORS |",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "INFANTILES",
+        "source": "https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u",
+        "url": "https://strhls.streamakaci.tv/ortb/ortb2-multi/ortb/ortb2_720p/chunks.m3u8"
       }
     ]
   }
