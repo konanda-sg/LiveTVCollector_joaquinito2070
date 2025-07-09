@@ -11828,6 +11828,11 @@ URL: http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/71797
 Logo: https://wp-cdn.milocloud.com/cap-equity-wp/wp-content/uploads/2020/04/08180526/ox-logo-fox-tv-logo-png.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
+Name: KRON-TV CW 4 (San Francisco CA)
+URL: https://user.scalecdn.co:443/26725074/92867131/597171
+Logo: https://content.13wmaz.com/photo/2015/01/11/635565958828844181-cw-logo_2824214_ver1.0.jpg
+Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
+--------------------------------------------------
 Name: KPIX-TV CBS 5 (San Francisco CA)
 URL: http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/71795
 Logo: https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png
@@ -12066,6 +12071,11 @@ Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 Name: WUSA-TV CBS 9 (Washington DC)
 URL: http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/71887
 Logo: https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png
+Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
+--------------------------------------------------
+Name: WCDW-TV CW 50 (Washington DC)
+URL: https://user.scalecdn.co:443/26725074/92867131/630645
+Logo: https://content.13wmaz.com/photo/2015/01/11/635565958828844181-cw-logo_2824214_ver1.0.jpg
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: WMAR-TV ABC 2 (Baltimore MD)
@@ -13583,11 +13593,6 @@ Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 
 Group: Local Public Broadcast
-Name: PBS-TV
-URL: http://hardcoremedia.xyz:80/BG992263/38692743/129939
-Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png
-Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
---------------------------------------------------
 Name: Create
 URL: https://create.lls.pbs.org/index_1080p.m3u8
 Logo: https://image.pbs.org/bento3-prod/wlvt2-pbs/2019%20PBS39%20Blue/Channel%20Logos/3fc12ea60a_CreateTVLogo_Square.png
@@ -13633,13 +13638,23 @@ URL: https://d2jalth387y2js.cloudfront.net/test.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
-Name: KMOS-TV PBS 6 (Columbia MO)
-URL: https://hls-kmosdt.lls.cdn.pbs.org/hls/live/index.m3u8
+Name: KMOS-TV PBS 6 (Columbia/Sedalia/Jefferson City MO)
+URL: http://hls-kmosdt.lls.cdn.pbs.org/hls/live/index.m3u8
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png
+Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
+--------------------------------------------------
+Name: KETC-TV Nine PBS 9 (St. Louis MO)
+URL: http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/78421
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: KETS-TV PBS 2 (Little Rock AR)
 URL: http://gjntpkk.leadcool.xyz:900/2731921600/1135460737/183330
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png
+Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
+--------------------------------------------------
+Name: KTWU-TV PBS 11 (Topeka KS)
+URL: http://gjntpkk.leadcool.xyz:900/2731921600/1135460737/183198
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -13668,11 +13683,6 @@ URL: http://2-fss-1.streamhoster.com/pl_122/amlst:200914-2942150/playlist.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
-Name: KMOS-TV PBS 6 (Sedalia/Jefferson City MO)
-URL: http://hls-kmosdt.lls.cdn.pbs.org/hls/live/index.m3u8
-Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png
-Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
---------------------------------------------------
 Name: KLVX-TV PBS 10 (Las Vegas NV)
 URL: http://gjntpkk.leadcool.xyz:900/2731921600/1135460737/183582
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png
@@ -13690,11 +13700,6 @@ Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: KOCE-TV SoCal PBS 50 (Huntington Beach/Los Angeles CA)
 URL: http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/78431
-Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png
-Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
---------------------------------------------------
-Name: KPBS-TV PBS 2 (San Diego CA)
-URL: http://gjntpkk.leadcool.xyz:900/2731921600/1135460737/183329
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -13769,12 +13774,17 @@ Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.sv
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: WPBT-TV South Florida PBS 2 (Miami FL)
-URL: http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/78546
+URL: http://gjntpkk.leadcool.xyz:900/2731921600/1135460737/183639
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png
+Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
+--------------------------------------------------
+Name: WLRN-TV PBS 17 (Miami FL)
+URL: http://gjntpkk.leadcool.xyz:900/2731921600/1135460737/183584
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: WUCF-TV PBS 24 (Orlando FL)
-URL: http://gjntpkk.leadcool.xyz:900/2731921600/1135460737/183587
+URL: http://gjntpkk.leadcool.xyz:900/2731921600/1135460737/183589
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -13804,12 +13814,12 @@ Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.sv
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: KERA-TV PBS 13 (Ft. Worth/Dallas TX)
-URL: http://hardcoremedia.xyz:80/BG992263/38692743/243559
+URL: http://gjntpkk.leadcool.xyz:900/2731921600/1135460737/183574
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
-Name: KETC-TV Nine PBS 9 (St. Louis MO)
-URL: http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/78421
+Name: KPBS-TV PBS 2 (San Diego CA)
+URL: http://gjntpkk.leadcool.xyz:900/2731921600/1135460737/183329
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -13868,7 +13878,7 @@ URL: http://gjntpkk.leadcool.xyz:900/2731921600/1135460737/183585
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
-Name: KDIN-TV PBS 11 (Des Moines IA)
+Name: KDIN-TV Iowa PBS 11 (Des Moines IA)
 URL: http://gjntpkk.leadcool.xyz:900/2731921600/1135460737/183588
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u

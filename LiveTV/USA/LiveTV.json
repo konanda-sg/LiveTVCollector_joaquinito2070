@@ -1,5 +1,5 @@
 {
-  "date": "2025-07-09 07:21:23",
+  "date": "2025-07-09 13:59:56",
   "channels": {
     "Religious": [
       {
@@ -19858,6 +19858,13 @@
         "url": "http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/71797"
       },
       {
+        "name": "KRON-TV CW 4 (San Francisco CA)",
+        "logo": "https://content.13wmaz.com/photo/2015/01/11/635565958828844181-cw-logo_2824214_ver1.0.jpg",
+        "group": "Local Channels (Not 24/7)",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "https://user.scalecdn.co:443/26725074/92867131/597171"
+      },
+      {
         "name": "KPIX-TV CBS 5 (San Francisco CA)",
         "logo": "https://1000logos.net/wp-content/uploads/2016/11/CBS-Logo-500x281.png",
         "group": "Local Channels (Not 24/7)",
@@ -20192,6 +20199,13 @@
         "group": "Local Channels (Not 24/7)",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
         "url": "http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/71887"
+      },
+      {
+        "name": "WCDW-TV CW 50 (Washington DC)",
+        "logo": "https://content.13wmaz.com/photo/2015/01/11/635565958828844181-cw-logo_2824214_ver1.0.jpg",
+        "group": "Local Channels (Not 24/7)",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "https://user.scalecdn.co:443/26725074/92867131/630645"
       },
       {
         "name": "WMAR-TV ABC 2 (Baltimore MD)",
@@ -21241,13 +21255,6 @@
     ],
     "Local Public Broadcast": [
       {
-        "name": "PBS-TV",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png",
-        "group": "Local Public Broadcast",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://hardcoremedia.xyz:80/BG992263/38692743/129939"
-      },
-      {
         "name": "Create",
         "logo": "https://image.pbs.org/bento3-prod/wlvt2-pbs/2019%20PBS39%20Blue/Channel%20Logos/3fc12ea60a_CreateTVLogo_Square.png",
         "group": "Local Public Broadcast",
@@ -21311,11 +21318,18 @@
         "url": "https://d2jalth387y2js.cloudfront.net/test.m3u8"
       },
       {
-        "name": "KMOS-TV PBS 6 (Columbia MO)",
+        "name": "KMOS-TV PBS 6 (Columbia/Sedalia/Jefferson City MO)",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png",
         "group": "Local Public Broadcast",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "https://hls-kmosdt.lls.cdn.pbs.org/hls/live/index.m3u8"
+        "url": "http://hls-kmosdt.lls.cdn.pbs.org/hls/live/index.m3u8"
+      },
+      {
+        "name": "KETC-TV Nine PBS 9 (St. Louis MO)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png",
+        "group": "Local Public Broadcast",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/78421"
       },
       {
         "name": "KETS-TV PBS 2 (Little Rock AR)",
@@ -21323,6 +21337,13 @@
         "group": "Local Public Broadcast",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
         "url": "http://gjntpkk.leadcool.xyz:900/2731921600/1135460737/183330"
+      },
+      {
+        "name": "KTWU-TV PBS 11 (Topeka KS)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png",
+        "group": "Local Public Broadcast",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://gjntpkk.leadcool.xyz:900/2731921600/1135460737/183198"
       },
       {
         "name": "WKLE-TV KET PBS 46.1 (Lexington KY)",
@@ -21360,13 +21381,6 @@
         "url": "http://2-fss-1.streamhoster.com/pl_122/amlst:200914-2942150/playlist.m3u8"
       },
       {
-        "name": "KMOS-TV PBS 6 (Sedalia/Jefferson City MO)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png",
-        "group": "Local Public Broadcast",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://hls-kmosdt.lls.cdn.pbs.org/hls/live/index.m3u8"
-      },
-      {
         "name": "KLVX-TV PBS 10 (Las Vegas NV)",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png",
         "group": "Local Public Broadcast",
@@ -21393,13 +21407,6 @@
         "group": "Local Public Broadcast",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
         "url": "http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/78431"
-      },
-      {
-        "name": "KPBS-TV PBS 2 (San Diego CA)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png",
-        "group": "Local Public Broadcast",
-        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://gjntpkk.leadcool.xyz:900/2731921600/1135460737/183329"
       },
       {
         "name": "WNET-TV PBS 13 (New York NY)",
@@ -21504,14 +21511,21 @@
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png",
         "group": "Local Public Broadcast",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/78546"
+        "url": "http://gjntpkk.leadcool.xyz:900/2731921600/1135460737/183639"
+      },
+      {
+        "name": "WLRN-TV PBS 17 (Miami FL)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png",
+        "group": "Local Public Broadcast",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "http://gjntpkk.leadcool.xyz:900/2731921600/1135460737/183584"
       },
       {
         "name": "WUCF-TV PBS 24 (Orlando FL)",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png",
         "group": "Local Public Broadcast",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://gjntpkk.leadcool.xyz:900/2731921600/1135460737/183587"
+        "url": "http://gjntpkk.leadcool.xyz:900/2731921600/1135460737/183589"
       },
       {
         "name": "WJCT-TV JAX PBS 9 (Jacksonville FL)",
@@ -21553,14 +21567,14 @@
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png",
         "group": "Local Public Broadcast",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://hardcoremedia.xyz:80/BG992263/38692743/243559"
+        "url": "http://gjntpkk.leadcool.xyz:900/2731921600/1135460737/183574"
       },
       {
-        "name": "KETC-TV Nine PBS 9 (St. Louis MO)",
+        "name": "KPBS-TV PBS 2 (San Diego CA)",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png",
         "group": "Local Public Broadcast",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/78421"
+        "url": "http://gjntpkk.leadcool.xyz:900/2731921600/1135460737/183329"
       },
       {
         "name": "KQED-TV PBS 9 (San Francisco CA)",
@@ -21640,7 +21654,7 @@
         "url": "http://gjntpkk.leadcool.xyz:900/2731921600/1135460737/183585"
       },
       {
-        "name": "KDIN-TV PBS 11 (Des Moines IA)",
+        "name": "KDIN-TV Iowa PBS 11 (Des Moines IA)",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.svg/1200px-PBS_logo_2019.svg.png",
         "group": "Local Public Broadcast",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
