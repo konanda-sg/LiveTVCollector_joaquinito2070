@@ -1,5 +1,5 @@
 {
-  "date": "2025-07-09 13:53:56",
+  "date": "2025-07-09 21:50:56",
   "channels": {
     "TV": [
       {
@@ -28,7 +28,7 @@
         "logo": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI.png",
         "group": "TV",
         "source": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u",
-        "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny85LzIwMjUgODo5OjM3IEFNJmhhc2hfdmFsdWU9MnMrUmNobnZxRFYyYzZMKzNjaHVYdz09JnZhbGlkbWludXRlcz0xNDQwJmlkPTAzODhiY2UzLTEwNTUtNGZmMi1hY2EzLWNmNGRjOTQ5ZGEwYg==/"
+        "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny85LzIwMjUgNDo2OjQ0IFBNJmhhc2hfdmFsdWU9eVh5Q25LUnFTbFNBL1RCRXcySmM1UT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTU0ZWJjOTc2LTRlN2MtNGFlZC04OTQ5LTVjNWJlYWMyNTQ0OQ==/"
       },
       {
         "name": "RTP 3",
@@ -49,7 +49,7 @@
         "logo": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png",
         "group": "TV",
         "source": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u",
-        "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny85LzIwMjUgODo5OjM4IEFNJmhhc2hfdmFsdWU9MnR2aG1pdW1td1BmbDlJdTlzNnR2QT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTg5N2Q3YWJlLTZiM2QtNGI4ZS1iMjhmLTkxZmFlNTQ5YWFiYg==/"
+        "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny85LzIwMjUgNDo2OjQ1IFBNJmhhc2hfdmFsdWU9akxwS1FSaElZKzNyNHZuUDZNS3llQT09JnZhbGlkbWludXRlcz0xNDQwJmlkPWI3MTY1MDVkLTI4ZDctNGRhNi04Zjg4LTE5MTk2NWYzYzZhMQ==/"
       },
       {
         "name": "CNN Brasil",
@@ -112,7 +112,7 @@
         "logo": "https://github.com/LITUATUI/M3UPT/raw/main/logos/TVI-Internacional.png",
         "group": "TV",
         "source": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u",
-        "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny85LzIwMjUgODo5OjM5IEFNJmhhc2hfdmFsdWU9L1VEek5vL0xTWU81Snh5UnllNHRRZz09JnZhbGlkbWludXRlcz0xNDQwJmlkPWNmNWFiNGRjLTU2YzgtNDM4Ni1iOTY1LTdjOWZkMWM2OTZiMA==/"
+        "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny85LzIwMjUgNDo2OjQ3IFBNJmhhc2hfdmFsdWU9NWI0b2xZKzJlV1dQSkl2alp0RzJTUT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTY3ZmY3ZWNhLTgyYTYtNDM1ZS05M2U3LWQ1YzI5MjFkYjM3Nw==/"
       },
       {
         "name": "TVI África",
@@ -2101,6 +2101,13 @@
       }
     ],
     "O Outro Lado": [
+      {
+        "name": "O Outro Lado - S10E25 7/7/2025",
+        "logo": "https://m3upt.com/logos/O-outro-lado.jpg",
+        "group": "O Outro Lado",
+        "source": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u",
+        "url": "https://streaming-vod.rtp.pt/hls/nas2.share,/h264/512x384/p14403/p14403_1_20250707000000e025t9564.mp4,.urlset/master.m3u8"
+      },
       {
         "name": "O Outro Lado - S10E24 30/6/2025",
         "logo": "https://m3upt.com/logos/O-outro-lado.jpg",
