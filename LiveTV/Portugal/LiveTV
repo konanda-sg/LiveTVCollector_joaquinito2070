@@ -20,7 +20,7 @@
   {
     "name": "TVI",
     "type": "TV",
-    "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny85LzIwMjUgNDo2OjQ0IFBNJmhhc2hfdmFsdWU9eVh5Q25LUnFTbFNBL1RCRXcySmM1UT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTU0ZWJjOTc2LTRlN2MtNGFlZC04OTQ5LTVjNWJlYWMyNTQ0OQ==/",
+    "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMC8yMDI1IDEyOjMyOjAgQU0maGFzaF92YWx1ZT01Z1BCaGNtOThZOWNDUU1UZ3NFSmVBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9YmY1NTExMDYtNzgwOS00YjgyLTk3ZWYtY2VlMThkYzhmZWRk/",
     "img": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI.png"
   },
   {
@@ -38,7 +38,7 @@
   {
     "name": "CNN Portugal",
     "type": "TV",
-    "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny85LzIwMjUgNDo2OjQ1IFBNJmhhc2hfdmFsdWU9akxwS1FSaElZKzNyNHZuUDZNS3llQT09JnZhbGlkbWludXRlcz0xNDQwJmlkPWI3MTY1MDVkLTI4ZDctNGRhNi04Zjg4LTE5MTk2NWYzYzZhMQ==/",
+    "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMC8yMDI1IDEyOjMyOjEgQU0maGFzaF92YWx1ZT1xZVJVK1RxbVlGSXozaHJHcEJuY1VnPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9Mzg3MTk2MzMtNmE4MC00NDBmLThmNGItNDIwZmRhMTdkNGJi/",
     "img": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png"
   },
   {
@@ -92,7 +92,7 @@
   {
     "name": "TVI Internacional",
     "type": "TV",
-    "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny85LzIwMjUgNDo2OjQ3IFBNJmhhc2hfdmFsdWU9NWI0b2xZKzJlV1dQSkl2alp0RzJTUT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTY3ZmY3ZWNhLTgyYTYtNDM1ZS05M2U3LWQ1YzI5MjFkYjM3Nw==/",
+    "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMC8yMDI1IDEyOjMyOjIgQU0maGFzaF92YWx1ZT12a250YUQwSksxUDRNWDFRcVBJNTJnPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MDVjYzBjZWItNThjMC00NDNmLTg3MTktMzc5MTc5OTI2Njcz/",
     "img": "https://github.com/LITUATUI/M3UPT/raw/main/logos/TVI-Internacional.png"
   },
   {
@@ -1776,19 +1776,37 @@
     "img": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Meo-Beachcam.png"
   },
   {
-    "name": "O Planeta Vivo S01E01",
+    "name": "100 ou Mais - S01E01",
+    "type": "100 ou Mais",
+    "url": "https://streaming-vod.rtp.pt/drm-dash/nas2.share,/h264/512x384/p12607/p12607_1_20231226161005e001t6542d_lo.mp4,/h264/512x384/p12607/p12607_1_20231226161005e001t6542d.mp4,.urlset/manifest.mpd",
+    "img": "https://cdn-images.rtp.pt/EPG/imagens/44881_70945_50421.jpg?q=100&format=pjpg&auto=webp&v=3&w=900"
+  },
+  {
+    "name": "100 ou Mais - S01E02",
+    "type": "100 ou Mais",
+    "url": "https://streaming-vod.rtp.pt/drm-dash/nas2.share,/h264/512x384/p12607/p12607_1_20231227161006e002t8470d_lo.mp4,/h264/512x384/p12607/p12607_1_20231227161006e002t8470d.mp4,.urlset/manifest.mpd",
+    "img": "https://cdn-images.rtp.pt/EPG/imagens/44881_70945_50421.jpg?q=100&format=pjpg&auto=webp&v=3&w=900"
+  },
+  {
+    "name": "100 ou Mais - S01E03",
+    "type": "100 ou Mais",
+    "url": "https://streaming-vod.rtp.pt/drm-dash/nas2.share,/h264/512x384/p12607/p12607_1_20231228161006e003t8102d_lo.mp4,/h264/512x384/p12607/p12607_1_20231228161006e003t8102d.mp4,.urlset/manifest.mpd",
+    "img": "https://cdn-images.rtp.pt/EPG/imagens/44881_70945_50421.jpg?q=100&format=pjpg&auto=webp&v=3&w=900"
+  },
+  {
+    "name": "O Planeta Vivo - S01E01",
     "type": "O Planeta Vivo",
     "url": "https://streaming-vod.rtp.pt/drm-dash/nas2.share,/pt/h264/512x384/p13613/p13613_20240703090016e001t9267.mp4,.urlset/manifest.mpd",
     "img": "https://cdn-images.rtp.pt/EPG/imagens/45929_73117_64439.jpg"
   },
   {
-    "name": "O Planeta Vivo S01E02",
+    "name": "O Planeta Vivo - S01E02",
     "type": "O Planeta Vivo",
     "url": "https://streaming-vod.rtp.pt/drm-dash/nas2.share,/pt/h264/512x384/p13613/p13613_1_20240710161003e002t6658d_lo.mp4,/pt/h264/512x384/p13613/p13613_1_20240710161003e002t6658d.mp4,.urlset/manifest.mpd",
     "img": "https://cdn-images.rtp.pt/EPG/imagens/45929_73117_64439.jpg"
   },
   {
-    "name": "O Planeta Vivo S01E03",
+    "name": "O Planeta Vivo - S01E03",
     "type": "O Planeta Vivo",
     "url": "https://streaming-vod.rtp.pt/drm-dash/nas2.share,/pt/h264/512x384/p13613/p13613_1_20240717161005e003t1334d_lo.mp4,/pt/h264/512x384/p13613/p13613_1_20240717161005e003t1334d.mp4,.urlset/manifest.mpd",
     "img": "https://cdn-images.rtp.pt/EPG/imagens/45929_73117_64439.jpg"
