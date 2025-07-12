@@ -1,5 +1,5 @@
 {
-  "date": "2025-07-12 13:50:57",
+  "date": "2025-07-12 21:49:58",
   "channels": {
     "TV": [
       {
@@ -28,7 +28,7 @@
         "logo": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI.png",
         "group": "TV",
         "source": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u",
-        "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMi8yMDI1IDg6ODoxMyBBTSZoYXNoX3ZhbHVlPXRXMnNlRVdqQjZFYlAxS0h0WXpHT1E9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1jMTMzYmE2MC04OWI4LTRkMTgtYTE5ZS03NDgzZmFmMzE5NzE=/"
+        "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMi8yMDI1IDQ6NzowIFBNJmhhc2hfdmFsdWU9TGFMR3dSYkwyQlFzOVpxdmEyOG0xZz09JnZhbGlkbWludXRlcz0xNDQwJmlkPWMxZTU4MzE3LTM0Y2QtNGM4My04MjJiLTYwYTE3OWY0ZmJlOQ==/"
       },
       {
         "name": "RTP 3",
@@ -49,7 +49,7 @@
         "logo": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png",
         "group": "TV",
         "source": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u",
-        "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMi8yMDI1IDg6ODoxNCBBTSZoYXNoX3ZhbHVlPXNwYW9WVUFzdVJmK1dISEFCbGlWanc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD04MThiZWY3My01YTg1LTRkYjQtYWEwYS1jZjQ2YjE0MDU5Yjk=/"
+        "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMi8yMDI1IDQ6NzowIFBNJmhhc2hfdmFsdWU9dFVlT2pDSE82eFZIcDEzRG9kcXhyQT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTAyNzhhNmJmLTQwNGUtNDM2ZS05Y2M2LWE0MDljOWMxM2E2OA==/"
       },
       {
         "name": "CNN Brasil",
@@ -112,7 +112,7 @@
         "logo": "https://github.com/LITUATUI/M3UPT/raw/main/logos/TVI-Internacional.png",
         "group": "TV",
         "source": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u",
-        "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMi8yMDI1IDg6ODoxNSBBTSZoYXNoX3ZhbHVlPTVVeXVPbXNyWlJUZ0g3Q3JGY2J0cVE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD00ZjcxNDk4Yi1jYmRmLTQxZDAtYjllNi04Yzk4ZDQ2ZmNmMDE=/"
+        "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xMi8yMDI1IDQ6NzozIFBNJmhhc2hfdmFsdWU9czJ1T3djM2l3cWVZTSswRUpkVUNsZz09JnZhbGlkbWludXRlcz0xNDQwJmlkPWVmYmMwMzRmLTg5ZDctNDk2ZC1hZmYwLTJjODAxNzRlY2FhZQ==/"
       },
       {
         "name": "TVI África",
@@ -4214,6 +4214,13 @@
       }
     ],
     "PCNELID": [
+      {
+        "name": "PCNELID - 11/7/2025",
+        "logo": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/PCNELID.jpg",
+        "group": "PCNELID",
+        "source": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u",
+        "url": "https://videos.impresa.pt/videos/hls/sicnot/2025/07/11/924fc1b7-d890-4c24-81e1-8540dc0cc91f/video.m3u8"
+      },
       {
         "name": "PCNELID - 4/7/2025",
         "logo": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/PCNELID.jpg",
