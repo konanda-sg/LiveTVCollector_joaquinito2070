@@ -423,19 +423,9 @@ Source: https://iptv-org.github.io/iptv/countries/th.m3u
 --------------------------------------------------
 
 Group: News
-Name: 13 Siam Thai (1080p)
-URL: https://live.x2.co.th/live/13livetv-th.m3u8
-Logo: https://i.imgur.com/FvEp1S2.png
-Source: https://iptv-org.github.io/iptv/countries/th.m3u
---------------------------------------------------
 Name: ASTV News 1 (720p) [Not 24/7]
 URL: http://news1.live14.com/stream/news1.m3u8
 Logo: https://i.imgur.com/NNxzCPk.png
-Source: https://iptv-org.github.io/iptv/countries/th.m3u
---------------------------------------------------
-Name: JKN 18 (1080p)
-URL: https://lb1-live-mv.v2h-cdn.com/hls/ffda/jkn18/jkn18.m3u8
-Logo: https://i.imgur.com/m4nPR2L.png
 Source: https://iptv-org.github.io/iptv/countries/th.m3u
 --------------------------------------------------
 Name: Nation TV
@@ -1596,16 +1586,31 @@ URL: https://freelive2.inwstream.com:1936/freelive-edge/mixtv.stream/playlist.m3
 Logo: https://raw.githubusercontent.com/KOGOCUNG/plugin/refs/heads/main/ISAANTV.png
 Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
 --------------------------------------------------
+Name: หนังฝรั่ง
+URL: http://43.229.132.25:80/play/lXczR7gX0aqSTYtv3UCQtvVgcONLEEy13ZjHiCaTs2GNXaNwzV0aoBpkJ1W6O9P8/ts
+Logo: http://45.144.165.223/logo/ent/intermovie.png
+Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
+--------------------------------------------------
+Name: หนังเอเชีย
+URL: http://43.229.132.25:80/play/lXczR7gX0aqSTYtv3UCQtvVgcONLEEy13ZjHiCaTs2GE65zCy46pi5iwqJBQAWkV/ts
+Logo: http://45.144.165.223/logo/ent/asianmovie.png
+Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
+--------------------------------------------------
+Name: หนังไทย
+URL: http://43.229.132.25:80/play/lXczR7gX0aqSTYtv3UCQtvVgcONLEEy13ZjHiCaTs2FcjXqcX-KxE_l4-JqcfFrc/ts
+Logo: http://45.144.165.223/logo/ent/thaimovie.png
+Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
+--------------------------------------------------
 
 Group: 📺 VIP SPORT
 Name: VBTV 1
-URL: http://43.229.132.25:80/play/lXczR7gX0aqSTYtv3UCQtvVgcONLEEy13ZjHiCaTs2F_fFIe4C7xjX_opxPplasA/m3u8
-Logo: http://tvzaa.myftp.org/logo/vbtv1.png
+URL: http://43.229.132.25:80/play/lXczR7gX0aqSTYtv3UCQtvVgcONLEEy13ZjHiCaTs2F_fFIe4C7xjX_opxPplasA/ts
+Logo: http://45.144.165.223/logo/vbtv1.png
 Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
 --------------------------------------------------
 Name: VBTV 2
-URL: http://43.229.132.25:80/play/lXczR7gX0aqSTYtv3UCQtvVgcONLEEy13ZjHiCaTs2GWk7jgFdGl1hfeZKznSlgg/m3u8
-Logo: http://tvzaa.myftp.org/logo/vbtv2.png
+URL: http://43.229.132.25:80/play/lXczR7gX0aqSTYtv3UCQtvVgcONLEEy13ZjHiCaTs2GWk7jgFdGl1hfeZKznSlgg/ts
+Logo: http://45.144.165.223/logo/vbtv2.png
 Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
 --------------------------------------------------
 
@@ -1631,12 +1636,12 @@ Logo: https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channeli
 Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
 --------------------------------------------------
 Name: TRUE DreamWorks TH
-URL: http://applive.foruiptv.asia/live/dootvlive/dootvfree/132.ts
+URL: http://applive.foruiptv.asia:80/live/iptvforu/foruiptv/132.ts
 Logo: https://iptv-pro.github.io/logo/DREAMWORKS.png
 Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
 --------------------------------------------------
 Name: TRUE SPARK PLAY TH
-URL: http://applive.foruiptv.asia/live/dootvlive/dootvfree/148.ts
+URL: http://applive.foruiptv.asia:80/live/iptvforu/foruiptv/148.ts
 Logo: https://images.livebox.co/images/tv/png/sd-sparkplay.png
 Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
 --------------------------------------------------
@@ -1707,131 +1712,6 @@ URL: https://cdn1.googlecdnforstreaming.live/live/spotv2/chunks.m3u8
 Logo: https://rentapi.blackboxsys.net/images/png/hd-spotv2.png
 Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
 --------------------------------------------------
-Name: EPL-1 fw4free
-URL: https://fw4free.inwstream.com/fw4free/ch1.stream/chunklist.m3u8
-Logo: https://rentapi.blackboxsys.net/images/png/epl-1.png
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: EPL-2 fw4free
-URL: https://fw4free.inwstream.com/fw4free/ch2.stream/chunklist.m3u8
-Logo: https://rentapi.blackboxsys.net/images/png/epl-2.png
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: EPL-3 fw4free
-URL: https://fw4free.inwstream.com/fw4free/ch3.stream/chunklist.m3u8
-Logo: https://rentapi.blackboxsys.net/images/png/epl-3.png
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: EPL-4 fw4free
-URL: https://fw4free.inwstream.com/fw4free/ch4.stream/chunklist.m3u8
-Logo: https://rentapi.blackboxsys.net/images/png/epl-4.png
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: EPL-5 fw4free
-URL: https://fw4free.inwstream.com/fw4free/ch5.stream/chunklist.m3u8
-Logo: https://rentapi.blackboxsys.net/images/png/epl-5.png
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: EPL-1Fuckid
-URL: https://github.com/bestcommt2/m3u8/raw/refs/heads/master/EPL1.m3u8
-Logo: https://rentapi.blackboxsys.net/images/png/epl-1.png
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: EPL-2Fuckid
-URL: https://github.com/bestcommt2/m3u8/raw/refs/heads/master/EPL2.m3u8
-Logo: https://rentapi.blackboxsys.net/images/png/epl-2.png
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: EPL-3Fuckid
-URL: https://github.com/bestcommt2/m3u8/raw/refs/heads/master/EPL3.m3u8
-Logo: https://rentapi.blackboxsys.net/images/png/epl-3.png
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: EPL-4Fuckid
-URL: https://github.com/bestcommt2/m3u8/raw/refs/heads/master/EPL4.m3u8
-Logo: https://rentapi.blackboxsys.net/images/png/epl-4.png
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: EPL-5Fuckid
-URL: https://github.com/bestcommt2/m3u8/raw/refs/heads/master/EPL5.m3u8
-Logo: https://rentapi.blackboxsys.net/images/png/epl-5.png
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: EPL-1dolive
-URL: https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-1/playlist.m3u8
-Logo: https://rentapi.blackboxsys.net/images/png/epl-1.png
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: EPL-2dolive
-URL: https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-2/playlist.m3u8
-Logo: https://rentapi.blackboxsys.net/images/png/epl-2.png
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: EPL-3dolive
-URL: https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-3/playlist.m3u8
-Logo: https://rentapi.blackboxsys.net/images/png/epl-3.png
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: EPL-4dolive
-URL: https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-4/playlist.m3u8
-Logo: https://rentapi.blackboxsys.net/images/png/epl-4.png
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: EPL-5dolive
-URL: https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-5/playlist.m3u8
-Logo: https://rentapi.blackboxsys.net/images/png/epl-5.png
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: EPL-1 dookeela
-URL: https://cdn2.aws-live-streaming.com/lsmscore/epl1_sd/playlist.m3u8
-Logo: https://rentapi.blackboxsys.net/images/png/epl-1.png
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: EPL-2 dookeela
-URL: https://cdn2.aws-live-streaming.com/lsmscore/epl2/playlist.m3u8
-Logo: https://rentapi.blackboxsys.net/images/png/epl-2.png
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: EPL-3 dookeela
-URL: https://cdn2.aws-live-streaming.com/lsmscore/epl3/playlist.m3u8
-Logo: https://rentapi.blackboxsys.net/images/png/epl-3.png
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: EPL-4 dookeela
-URL: https://cdn2.aws-live-streaming.com/lsmscore/epl4/playlist.m3u8
-Logo: https://rentapi.blackboxsys.net/images/png/epl-4.png
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: EPL-5 dookeela
-URL: https://cdn2.aws-live-streaming.com/lsmscore/epl5/playlist.m3u8
-Logo: https://rentapi.blackboxsys.net/images/png/epl-5.png
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: EPL-1 andaman888
-URL: https://cdnsv1.bunnycdncloud.com/andaman888th/tpf1/playlist.m3u8
-Logo: https://rentapi.blackboxsys.net/images/png/epl-1.png
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: EPL-2 andaman888
-URL: https://cdnsv1.bunnycdncloud.com/andaman888th/tpf2/playlist.m3u8
-Logo: https://rentapi.blackboxsys.net/images/png/epl-2.png
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: EPL-3 andaman888
-URL: https://cdnsv1.bunnycdncloud.com/andaman888th/tpf3/playlist.m3u8
-Logo: https://rentapi.blackboxsys.net/images/png/epl-3.png
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: EPL-4 andaman888
-URL: https://cdnsv1.bunnycdncloud.com/andaman888th/tpf4/playlist.m3u8
-Logo: https://rentapi.blackboxsys.net/images/png/epl-4.png
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: EPL-5 andaman888
-URL: https://cdnsv1.bunnycdncloud.com/andaman888th/tpf5/playlist.m3u8
-Logo: https://rentapi.blackboxsys.net/images/png/epl-5.png
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
 Name: Bein Sports 1-livescorethai
 URL: https://fw4free.inwstream.com/fw4free/bein1.stream/playlist.m3u8
 Logo: https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE///channelicon//beIN_SPORTS_1.png
@@ -1899,66 +1779,6 @@ Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuck
 --------------------------------------------------
 Name: True Sport 7-soccertv4k
 URL: https://cdn1.googlecdnforstreaming.live/live/tsp7/playlist.m3u8
-Logo: https://cms.dmpcdn.com/livetv/2023/04/28/f63723d0-e595-11ed-abcb-c792e696f885_webp_original.webp
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: True Sport 1 HD-SIAMZEED
-URL: https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-8/playlist.m3u8
-Logo: https://cms.dmpcdn.com/livetv/2023/04/24/81825540-e28a-11ed-9bb2-7fe2e28bfd8c_webp_original.webp
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: True Sport 2 HD-SIAMZEED
-URL: https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-9/playlist.m3u8
-Logo: https://cms.dmpcdn.com/livetv/2023/04/28/2960b3f0-e593-11ed-b26c-6b89d082d464_webp_original.webp
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: True Sport 3 HD-SIAMZEED
-URL: https://dolive.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-10/playlist.m3u8
-Logo: https://cms.dmpcdn.com/livetv/2023/04/28/296e96a0-e593-11ed-8507-4fc0b025fedb_webp_original.webp
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: True Sport 4 HD-SIAMZEED
-URL: https://streaming.livescorethai.net/iptv/hd-tsport4.stream/playlist.m3u8
-Logo: https://cms.dmpcdn.com/livetv/2023/04/28/f4888970-e595-11ed-8507-4fc0b025fedb_webp_original.webp
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: True Sport 5-SIAMZEED
-URL: https://oral.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-11/playlist.m3u8
-Logo: https://cms.dmpcdn.com/livetv/2023/04/28/f493fb20-e595-11ed-b26c-6b89d082d464_webp_original.webp
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: True Sport 7-SIAMZEED
-URL: https://oral.thaim3u.com/tFQe38qxw4awKkMJD3kcfcekVSrfLnY9/siamsport-12/playlist.m3u8
-Logo: https://cms.dmpcdn.com/livetv/2023/04/28/f63723d0-e595-11ed-abcb-c792e696f885_webp_original.webp
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: True Sport 1 HD-andaman888
-URL: https://cdnsv1.bunnycdncloud.com/andaman888th/truesporthd1/th-sport/truesport1/chunks.m3u8
-Logo: https://cms.dmpcdn.com/livetv/2023/04/24/81825540-e28a-11ed-9bb2-7fe2e28bfd8c_webp_original.webp
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: True Sport 2 HD-andaman888
-URL: https://cdnsv1.bunnycdncloud.com/andaman888th/truesporthd2/th-sport/truesport2/chunks.m3u8
-Logo: https://cms.dmpcdn.com/livetv/2023/04/28/2960b3f0-e593-11ed-b26c-6b89d082d464_webp_original.webp
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: True Sport 3 HD-andaman888
-URL: https://cdnsv1.bunnycdncloud.com/andaman888th/truesporthd3/th-sport/truesport3/chunks.m3u8
-Logo: https://cms.dmpcdn.com/livetv/2023/04/28/296e96a0-e593-11ed-8507-4fc0b025fedb_webp_original.webp
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: True Sport 4 HD-andaman888
-URL: https://cdnsv1.bunnycdncloud.com/andaman888th/truesporthd4/th-sport/truesport4/chunks.m3u8
-Logo: https://cms.dmpcdn.com/livetv/2023/04/28/f4888970-e595-11ed-8507-4fc0b025fedb_webp_original.webp
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: True Sport 5-andaman888
-URL: https://cdnsv1.bunnycdncloud.com/andaman888th/truesport5/th-sport/truesport5/chunks.m3u8
-Logo: https://cms.dmpcdn.com/livetv/2023/04/28/f493fb20-e595-11ed-b26c-6b89d082d464_webp_original.webp
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: True Sport 7-andaman888
-URL: https://cdnsv1.bunnycdncloud.com/andaman888th/truesport6/th-sport/truesport7/chunks.m3u8
 Logo: https://cms.dmpcdn.com/livetv/2023/04/28/f63723d0-e595-11ed-abcb-c792e696f885_webp_original.webp
 Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
 --------------------------------------------------
@@ -2083,1032 +1903,35 @@ Logo: https://upload.wikimedia.org/wikipedia/commons/f/fb/NBC_Sports_Washington.
 Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
 --------------------------------------------------
 
-Group: 📺 ช่องกีฬาต่างประเทศ
-Name: 000.Astro SuperSport 1
-URL: https://webhdrunns.iosplayer.ru/zeko/premium123/mono.m3u8
-Logo: https://static.wikia.nocookie.net/logopedia/images/7/7d/Astro_SuperSport_1.png
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: Astro Football
-URL: https://webhdrunns.iosplayer.ru/wind/premium124/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: Astro Premier League1
-URL: https://webhdrunns.iosplayer.ru/zeko/premium125/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: Astro Premier League2
-URL: https://webhdrunns.iosplayer.ru/zeko/premium126/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: beIN Sports MENA 4
-URL: https://webhdrunns.iosplayer.ru/dokko1/premium94/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: beIN Sports MENA 5
-URL: https://webhdrunns.iosplayer.ru/dokko1/premium95/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: beIN Sports MENA 6
-URL: https://webhdrunns.iosplayer.ru/dokko1/premium96/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: beIN Sports MENA 7
-URL: https://webhdrunns.iosplayer.ru/dokko1/premium97/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: beIN Sports MENA Premium 1
-URL: https://webhdrunns.iosplayer.ru/ddy6/premium98/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: beIN Sports MENA Premium 2
-URL: https://webhdrunns.iosplayer.ru/ddy6/premium99/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: beIN Sports MENA Premium 3
-URL: https://webhdrunns.iosplayer.ru/ddy6/premium100/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: beIN Sports MAX 4 France
-URL: https://webhdrunns.iosplayer.ru/ddy6/premium494/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: beIN Sports MAX 5 France
-URL: https://webhdrunns.iosplayer.ru/ddy6/premium495/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: beIN Sports MAX 6 France
-URL: https://webhdrunns.iosplayer.ru/ddy6/premium496/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: beIN Sports MAX 7 France
-URL: https://webhdrunns.iosplayer.ru/ddy6/premium497/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: beIN Sports MAX 8 France
-URL: https://webhdrunns.iosplayer.ru/ddy6/premium498/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: beIN Sports MAX 9 France
-URL: https://webhdrunns.iosplayer.ru/ddy6/premium499/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: beIN Sports MAX 10 France
-URL: https://webhdrunns.iosplayer.ru/ddy6/premium500/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: beIN SPORTS 1 France
-URL: https://webhdrunns.iosplayer.ru/zeko/premium116/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: beIN SPORTS 2 France
-URL: https://webhdrunns.iosplayer.ru/zeko/premium117/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: beIN SPORTS 3 France
-URL: https://webhdrunns.iosplayer.ru/zeko/premium118/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: beIN SPORTS 1 Turkey
-URL: https://webhdrunns.iosplayer.ru/zeko/premium62/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: beIN SPORTS 2 Turkey
-URL: https://webhdrunns.iosplayer.ru/zeko/premium63/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: beIN SPORTS 3 Turkey
-URL: https://webhdrunns.iosplayer.ru/zeko/premium64/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: beIN SPORTS 4 Turkey
-URL: https://webhdrunns.iosplayer.ru/zeko/premium67/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: BeIN Sports HD Qatar
-URL: https://webhdrunns.iosplayer.ru/wind/premium578/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: BeIN SPORTS USA
-URL: https://webhdrunns.iosplayer.ru/zeko/premium425/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: beIN SPORTS en Espa単ol
-URL: https://webhdrunns.iosplayer.ru/zeko/premium372/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: beIN SPORTS Australia 1
-URL: https://webhdrunns.iosplayer.ru/ddy6/premium491/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: beIN SPORTS Australia 2
-URL: https://webhdrunns.iosplayer.ru/ddy6/premium492/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: beIN SPORTS Australia 3
-URL: https://webhdrunns.iosplayer.ru/ddy6/premium493/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: Barca TV Spain
-URL: https://webhdrunns.iosplayer.ru/wind/premium522/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: Benfica TV PT
-URL: https://webhdrunns.iosplayer.ru/dokko1/premium380/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: Boomerang
-URL: https://webhdrunns.iosplayer.ru/dokko1/premium648/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: BNT 1 Bulgaria
-URL: https://webhdrunns.iosplayer.ru/wind/premium476/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: BNT 2 Bulgaria
-URL: https://webhdrunns.iosplayer.ru/wind/premium477/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: BNT 3 Bulgaria
-URL: https://webhdrunns.iosplayer.ru/wind/premium478/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: bTV Bulgaria
-URL: https://webhdrunns.iosplayer.ru/wind/premium479/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: BR Fernsehen DE
-URL: https://xyzdddd.mizhls.ru/lb/premium737/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: bTV Action Bulgaria
-URL: https://webhdrunns.iosplayer.ru/wind/premium481/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: bTV Lady Bulgaria
-URL: https://webhdrunns.iosplayer.ru/wind/premium484/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: BBC America (BBCA)
-URL: https://webhdrunns.iosplayer.ru/zeko/premium305/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: BET USA
-URL: https://webhdrunns.iosplayer.ru/zeko/premium306/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: Bravo USA
-URL: https://webhdrunns.iosplayer.ru/ddh2/premium307/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: BBC News Channel HD
-URL: https://webhdrunns.iosplayer.ru/dokko1/premium349/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: BBC One UK
-URL: https://webhdrunns.iosplayer.ru/ddy6/premium356/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: BBC Two UK
-URL: https://webhdrunns.iosplayer.ru/dokko1/premium357/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: BBC Three UK
-URL: https://webhdrunns.iosplayer.ru/ddy6/premium358/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: BBC Four UK
-URL: https://webhdrunns.iosplayer.ru/dokko1/premium359/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: BIG TEN Network (BTN USA)
-URL: https://webhdrunns.iosplayer.ru/wind/premium397/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: Cuatro Spain-1
-URL: https://webhdrunns.iosplayer.ru/dokko1/premium535/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: Channel 4 UK
-URL: https://webhdrunns.iosplayer.ru/wind/premium354/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: Channel 5 UK
-URL: https://webhdrunns.iosplayer.ru/zeko/premium355/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: CBS Sports Network (CBSSN)
-URL: https://webhdrunns.iosplayer.ru/zeko/premium308/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: Canal+ France
-URL: https://webhdrunns.iosplayer.ru/wind/premium121/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: Canal+ Sport France
-URL: https://webhdrunns.iosplayer.ru/wind/premium122/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: Canal+ Foot France
-URL: https://webhdrunns.iosplayer.ru/wind/premium463/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: Canal+ Sport360
-URL: https://webhdrunns.iosplayer.ru/wind/premium464/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: Canal 11 Portugal
-URL: https://webhdrunns.iosplayer.ru/ddy6/premium540/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: Canal+ Sport Poland
-URL: https://webhdrunns.iosplayer.ru/wind/premium48/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: Canal+ Sport 2 Poland
-URL: https://webhdrunns.iosplayer.ru/ddy6/premium73/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: CANAL+ SPORT 5 Poland
-URL: https://webhdrunns.iosplayer.ru/wind/premium75/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: Canal+ Premium Poland
-URL: https://webhdrunns.iosplayer.ru/dokko1/premium566/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: Canal+ Family Poland
-URL: https://webhdrunns.iosplayer.ru/dokko1/premium567/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: Canal+ Seriale Poland
-URL: https://webhdrunns.iosplayer.ru/wind/premium570/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: Canal+ Sport 1 Afrique
-URL: https://webhdrunns.iosplayer.ru/ddy6/premium486/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: Canal+ Sport 2 Afrique
-URL: https://webhdrunns.iosplayer.ru/ddy6/premium487/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: Canal+ Sport 3 Afrique
-URL: https://webhdrunns.iosplayer.ru/ddy6/premium488/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: Canal+ Sport 4 Afrique
-URL: https://webhdrunns.iosplayer.ru/ddy6/premium489/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: Canal+ Sport 5 Afrique
-URL: https://webhdrunns.iosplayer.ru/ddy6/premium490/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: CANAL9 Denmark
-URL: https://webhdrunns.iosplayer.ru/dokko1/premium805/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: Combate Brasil
-URL: https://webhdrunns.iosplayer.ru/wind/premium89/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: C More Football Sweden
-URL: https://webhdrunns.iosplayer.ru/dokko1/premium622/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: Cosmote Sport 1 HD
-URL: https://webhdrunns.iosplayer.ru/dokko1/premium623/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: Cosmote Sport 3 HD
-URL: https://webhdrunns.iosplayer.ru/dokko1/premium624/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: Cosmote Sport 4 HD
-URL: https://webhdrunns.iosplayer.ru/dokko1/premium625/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: Cosmote Sport 5 HD
-URL: https://webhdrunns.iosplayer.ru/dokko1/premium626/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: Cosmote Sport 6 HD
-URL: https://webhdrunns.iosplayer.ru/dokko1/premium627/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: Cosmote Sport 7 HD
-URL: https://webhdrunns.iosplayer.ru/dokko1/premium628/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: Cosmote Sport 8 HD
-URL: https://webhdrunns.iosplayer.ru/dokko1/premium629/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: Cosmote Sport 9 HD
-URL: https://webhdrunns.iosplayer.ru/dokko1/premium630/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: C More Stars Sweden
-URL: https://webhdrunns.iosplayer.ru/dokko1/premium811/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: C More First Sweden
-URL: https://webhdrunns.iosplayer.ru/dokko1/premium812/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: C More Hits Sweden
-URL: https://webhdrunns.iosplayer.ru/dokko1/premium813/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: C More Series Sweden
-URL: https://webhdrunns.iosplayer.ru/ddh2/premium814/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: COZI TV USA
-URL: https://webhdrunns.iosplayer.ru/ddy6/premium748/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: CMT USA
-URL: https://webhdrunns.iosplayer.ru/dokko1/premium647/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: CBS USA
-URL: https://webhdrunns.iosplayer.ru/ddh2/premium52/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: CW USA
-URL: https://webhdrunns.iosplayer.ru/zeko/premium300/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: CNBC USA
-URL: https://webhdrunns.iosplayer.ru/zeko/premium309/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: Comedy Central
-URL: https://webhdrunns.iosplayer.ru/ddh2/premium310/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: Cartoon Network
-URL: https://webhdrunns.iosplayer.ru/ddh2/premium339/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: CNN USA
-URL: https://webhdrunns.iosplayer.ru/ddh2/premium345/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: Cinemax USA
-URL: https://webhdrunns.iosplayer.ru/zeko/premium374/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: CTV Canada
-URL: https://webhdrunns.iosplayer.ru/ddh2/premium602/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: CTV 2 Canada
-URL: https://webhdrunns.iosplayer.ru/ddh2/premium838/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: Crime+ Investigation USA
-URL: https://webhdrunns.iosplayer.ru/dokko1/premium669/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: Comet USA
-URL: https://webhdrunns.iosplayer.ru/ddh2/premium696/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: Cooking Channel USA
-URL: https://webhdrunns.iosplayer.ru/dokko1/premium697/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: Cleo TV
-URL: https://webhdrunns.iosplayer.ru/wind/premium715/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: C SPAN 1
-URL: https://webhdrunns.iosplayer.ru/wind/premium750/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: CBSNY USA
-URL: https://webhdrunns.iosplayer.ru/zeko/premium767/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: City TV
-URL: https://webhdrunns.iosplayer.ru/ddh2/premium831/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: CBC CA
-URL: https://webhdrunns.iosplayer.ru/dokko1/premium832/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: DAZN 1 Bar DE
-URL: https://webhdrunns.iosplayer.ru/ddy6/premium426/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: DAZN 2 Bar DE
-URL: https://webhdrunns.iosplayer.ru/ddy6/premium427/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: DAZN 1 Spain
-URL: https://webhdrunns.iosplayer.ru/wind/premium445/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: DAZN 2 Spain
-URL: https://webhdrunns.iosplayer.ru/zeko/premium446/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: DAZN 3 Spain
-URL: https://webhdrunns.iosplayer.ru/zeko/premium447/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: DAZN 4 Spain
-URL: https://webhdrunns.iosplayer.ru/zeko/premium448/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: DAZN F1 ES
-URL: https://webhdrunns.iosplayer.ru/dokko1/premium537/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: DAZN LaLiga
-URL: https://webhdrunns.iosplayer.ru/dokko1/premium538/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: DAZN LaLiga 2
-URL: https://webhdrunns.iosplayer.ru/wind/premium43/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: DR1 Denmark
-URL: https://webhdrunns.iosplayer.ru/dokko1/premium801/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: DR2 Denmark
-URL: https://webhdrunns.iosplayer.ru/dokko1/premium802/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: Digi Sport 1 Romania
-URL: https://webhdrunns.iosplayer.ru/top2/premium400/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: Digi Sport 2 Romania
-URL: https://webhdrunns.iosplayer.ru/top2/premium401/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: Digi Sport 3 Romania
-URL: https://webhdrunns.iosplayer.ru/top2/premium402/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: Digi Sport 4 Romania
-URL: https://webhdrunns.iosplayer.ru/top2/premium403/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: Diema Sport Bulgaria
-URL: https://webhdrunns.iosplayer.ru/wind/premium465/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: Diema Sport 2 Bulgaria
-URL: https://webhdrunns.iosplayer.ru/wind/premium466/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: Diema Sport 3 Bulgaria
-URL: https://webhdrunns.iosplayer.ru/wind/premium467/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: Diema Bulgaria
-URL: https://webhdrunns.iosplayer.ru/ddy6/premium482/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: Diema Family Bulgaria
-URL: https://webhdrunns.iosplayer.ru/wind/premium485/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: Dubai Sports 1 UAE
-URL: https://webhdrunns.iosplayer.ru/dokko1/premium604/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: Dubai Sports 2 UAE
-URL: https://webhdrunns.iosplayer.ru/dokko1/premium605/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: Dubai Sports 3 UAE
-URL: https://webhdrunns.iosplayer.ru/dokko1/premium606/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: Dubai Racing 1 UAE
-URL: https://webhdrunns.iosplayer.ru/dokko1/premium607/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: Dubai Racing 2 UAE
-URL: https://webhdrunns.iosplayer.ru/dokko1/premium608/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: DSTV Mzansi Magic
-URL: https://webhdrunns.iosplayer.ru/wind/premium786/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: DSTV M-Net
-URL: https://webhdrunns.iosplayer.ru/ddy6/premium827/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: DSTV kykNET & kie
-URL: https://webhdrunns.iosplayer.ru/ddy6/premium828/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: Discovery Life Channel
-URL: https://webhdrunns.iosplayer.ru/zeko/premium311/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: Disney Channel
-URL: https://webhdrunns.iosplayer.ru/zeko/premium312/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: Discovery Channel
-URL: https://webhdrunns.iosplayer.ru/zeko/premium313/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: Discovery Family
-URL: https://webhdrunns.iosplayer.ru/dokko1/premium657/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: Disney XD
-URL: https://webhdrunns.iosplayer.ru/zeko/premium314/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: Destination America
-URL: https://webhdrunns.iosplayer.ru/dokko1/premium651/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: Disney JR
-URL: https://webhdrunns.iosplayer.ru/ddh2/premium652/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: Dave
-URL: https://webhdrunns.iosplayer.ru/dokko1/premium348/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: ESPN USA
-URL: https://webhdrunns.iosplayer.ru/ddh2/premium44/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: ESPN2 USA
-URL: https://webhdrunns.iosplayer.ru/wind/premium45/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: ESPNU USA
-URL: https://webhdrunns.iosplayer.ru/zeko/premium316/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: ESPN 1 NL
-URL: https://webhdrunns.iosplayer.ru/zeko/premium379/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: ESPN 2 NL
-URL: https://webhdrunns.iosplayer.ru/zeko/premium386/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: Eleven Sports 1 Poland
-URL: https://webhdrunns.iosplayer.ru/wind/premium71/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: Eleven Sports 2 Poland
-URL: https://webhdrunns.iosplayer.ru/wind/premium72/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: Eleven Sports 3 Poland
-URL: https://webhdrunns.iosplayer.ru/ddy6/premium428/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: Eleven Sports 1 Portugal
-URL: https://webhdrunns.iosplayer.ru/ddy6/premium455/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: Eleven Sports 2 Portugal
-URL: https://webhdrunns.iosplayer.ru/wind/premium456/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: Eleven Sports 3 Portugal
-URL: https://webhdrunns.iosplayer.ru/wind/premium457/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: Eleven Sports 4 Portugal
-URL: https://webhdrunns.iosplayer.ru/wind/premium458/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: Eleven Sports 5 Portugal
-URL: https://webhdrunns.iosplayer.ru/wind/premium459/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: EuroSport 1 UK
-URL: https://webhdrunns.iosplayer.ru/wind/premium41/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: EuroSport 2 UK
-URL: https://webhdrunns.iosplayer.ru/wind/premium42/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: EuroSport 1 Poland
-URL: https://webhdrunns.iosplayer.ru/wind/premium57/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: EuroSport 2 Poland
-URL: https://webhdrunns.iosplayer.ru/wind/premium58/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: EuroSport 1 Spain
-URL: https://webhdrunns.iosplayer.ru/zeko/premium524/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: EuroSport 2 Spain
-URL: https://webhdrunns.iosplayer.ru/ddy6/premium525/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: EuroSport 1 Italy
-URL: https://webhdrunns.iosplayer.ru/wind/premium878/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: EuroSport 2 Italy
-URL: https://webhdrunns.iosplayer.ru/wind/premium879/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: Eurosport 1 Bulgaria
-URL: https://webhdrunns.iosplayer.ru/wind/premium469/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: Eurosport 2 Bulgaria
-URL: https://webhdrunns.iosplayer.ru/wind/premium470/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: ESPN Premium Argentina
-URL: https://webhdrunns.iosplayer.ru/wind/premium387/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: ESPN Brasil
-URL: https://webhdrunns.iosplayer.ru/zeko/premium81/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: ESPN2 Brasil
-URL: https://webhdrunns.iosplayer.ru/wind/premium82/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: ESPN3 Brasil
-URL: https://webhdrunns.iosplayer.ru/ddy6/premium83/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: ESPN4 Brasil
-URL: https://webhdrunns.iosplayer.ru/ddy6/premium85/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: ESPN SUR
-URL: https://webhdrunns.iosplayer.ru/ddy6/premium149/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: ESPN2 SUR
-URL: https://webhdrunns.iosplayer.ru/wind/premium150/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: ESPN Deportes
-URL: https://webhdrunns.iosplayer.ru/ddh2/premium375/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: ESPNews
-URL: https://webhdrunns.iosplayer.ru/ddh2/premium288/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: E! Entertainment Television
-URL: https://webhdrunns.iosplayer.ru/zeko/premium315/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: E4 Channel
-URL: https://webhdrunns.iosplayer.ru/ddy6/premium363/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: Fox Sports 1 USA
-URL: https://webhdrunns.iosplayer.ru/zeko/premium39/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: Fox Sports 2 USA
-URL: https://webhdrunns.iosplayer.ru/zeko/premium758/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: FOX Soccer Plus
-URL: https://webhdrunns.iosplayer.ru/ddy6/premium756/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: Fox Cricket
-URL: https://webhdrunns.iosplayer.ru/ddy6/premium369/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: FOX Deportes USA
-URL: https://webhdrunns.iosplayer.ru/dokko1/premium643/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: FOX Sports 502 AU
-URL: https://webhdrunns.iosplayer.ru/zeko/premium820/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: FOX Sports 503 AU
-URL: https://webhdrunns.iosplayer.ru/zeko/premium821/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: FOX Sports 504 AU
-URL: https://webhdrunns.iosplayer.ru/zeko/premium822/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: FOX Sports 505 AU
-URL: https://webhdrunns.iosplayer.ru/wind/premium823/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: FOX Sports 506 AU
-URL: https://webhdrunns.iosplayer.ru/wind/premium824/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: FOX Sports 507 AU
-URL: https://webhdrunns.iosplayer.ru/wind/premium825/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: Fox Sports 2 Argentina
-URL: https://webhdrunns.iosplayer.ru/wind/premium788/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: Fox Sports 3 Argentina
-URL: https://webhdrunns.iosplayer.ru/wind/premium789/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: Fox Sports Premium MX
-URL: https://webhdrunns.iosplayer.ru/ddy6/premium830/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: FilmBox Premium Poland
-URL: https://webhdrunns.iosplayer.ru/dokko1/premium568/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: Fight Network
-URL: https://webhdrunns.iosplayer.ru/ddh2/premium757/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: Fox Business
-URL: https://webhdrunns.iosplayer.ru/ddy6/premium297/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: FOX HD Bulgaria
-URL: https://webhdrunns.iosplayer.ru/wind/premium483/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: FOX USA
-URL: https://webhdrunns.iosplayer.ru/zeko/premium54/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: FX USA
-URL: https://webhdrunns.iosplayer.ru/zeko/premium317/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: FXX USA
-URL: https://webhdrunns.iosplayer.ru/ddy6/premium298/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: Freeform
-URL: https://webhdrunns.iosplayer.ru/zeko/premium301/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: Fox News
-URL: https://webhdrunns.iosplayer.ru/zeko/premium347/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: FX Movie Channel
-URL: https://webhdrunns.iosplayer.ru/zeko/premium381/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: FYI
-URL: https://webhdrunns.iosplayer.ru/dokko1/premium665/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: Film4 UK
-URL: https://webhdrunns.iosplayer.ru/wind/premium688/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: Fashion TV
-URL: https://webhdrunns.iosplayer.ru/ddy6/premium744/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: FETV - Family Entertainment Television
-URL: https://webhdrunns.iosplayer.ru/dokko1/premium751/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: FOXNY USA
-URL: https://webhdrunns.iosplayer.ru/zeko/premium768/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: Fox Weather Channel
-URL: https://webhdrunns.iosplayer.ru/ddh2/premium775/mono.m3u8
-Logo: https://dl.dropbox.com/scl/fi/q2nehpaxt6tjgeab31hm5/DaddyLive.png?rlkey=3oi7427xjjlofhpf0i9p6ruxy&st=nnngqj3n
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-
 Group: 📺 ช่องทีวีดิจิตอลไทย
 Name: NBT HD
-URL: http://appdootv2.dootvde.com:1935/live/50005_nbt.stream.smil/playlist.m3u8
+URL: https://cdn-edge-ott.prd.go.th/live_vlc/smil:2609-b4a6-64b3-1431-5e64/chunklist_w507269531_b2128000.m3u8
 Logo: https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0001.png
+Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
+--------------------------------------------------
+Name: NBT2 HD
+URL: https://freelive2.inwstream.com:1936/freelive-edge/dtv02_nbthd/playlist.m3u8
+Logo: https://upload.wikimedia.org/wikipedia/commons/9/9d/NBT_Logo.png
+Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
+--------------------------------------------------
+Name: ช่อง NBT ภาคกลาง
+URL: https://cdn-edge-ott.prd.go.th/live_vlc/smil:01f1-8b4b-971e-aa35-d5fa.smil/playlist.m3u8?DVR=
+Logo: https://raw.githubusercontent.com/KOGOCUNG/MOVIE/refs/heads/main/IMG_20250212_215657.png
+Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
+--------------------------------------------------
+Name: NBT ภาคอีสาน
+URL: https://cdn-edge-ott.prd.go.th/live_vlc/smil:7721-732d-60a6-13c1-b16d.smil/chunklist_w579192591_b2128000.m3u8
+Logo: https://raw.githubusercontent.com/KOGOCUNG/MOVIE/refs/heads/main/IMG_20250212_211516.png
+Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
+--------------------------------------------------
+Name: NBT ภาคเหนือ
+URL: https://cdn-edge-ott.prd.go.th/live_vlc/smil:bfe6-faf5-827f-6228-2aa1.smil/chunklist_w695610859_b2128000.m3u8
+Logo: https://raw.githubusercontent.com/KOGOCUNG/MOVIE/refs/heads/main/IMG_20250212_211503.png
+Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
+--------------------------------------------------
+Name: NBT ภาคใต้
+URL: https://cdn-edge-ott.prd.go.th/live_vlc/smil:406a-211e-df39-045c-4048.smil/chunklist_w1186889088_b2128000.m3u8
+Logo: https://raw.githubusercontent.com/KOGOCUNG/MOVIE/refs/heads/main/IMG_20250212_211528.png
 Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
 --------------------------------------------------
 Name: THAI PBS HD
@@ -3136,23 +1959,13 @@ URL: https://tv-live.tpchannel.org/live/tv_1080p.m3u8
 Logo: https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/0048.png
 Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
 --------------------------------------------------
-Name: TNN 2
-URL: https://streaming.livescorethai.net/iptv/sd-tnn2.stream/playlist.m3u8
-Logo: https://cms.dmpcdn.com/livetv/2017/10/18/f1b957db-b175-45fc-ab2b-60150f9c570a.png
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: JKN 18
-URL: https://edge6a.v2h-cdn.com/jkn18/jkn18.stream/playlist.m3u8
-Logo: https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/JKN18.png
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
 Name: Nation TV
 URL: http://appdootv2.dootvde.com:1935/live/50015_nation.stream.smil/playlist.m3u8
 Logo: https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0021.png
 Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
 --------------------------------------------------
 Name: Workpoint
-URL: http://appdootv2.dootvde.com:1935/live/50016_workpoint_tv.stream.smil/playlist.m3u8
+URL: https://freelive.inwstream.com:1936/freelive-edge/workpointtv/playlist.m3u8
 Logo: https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0015_R.png
 Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
 --------------------------------------------------
@@ -3162,37 +1975,37 @@ Logo: https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelico
 Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
 --------------------------------------------------
 Name: GMM 25
-URL: https://bcovlive-a.akamaihd.net/fb7ac9cc4e1140238e3077ffd29337fe/ap-southeast-1/6415628290001/profile_0/chunklist.m3u8
+URL: https://freelive.inwstream.com:1936/freelive-edge/dtv25_gmmchannel/playlist.m3u8
 Logo: https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0019.png
 Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
 --------------------------------------------------
 Name: CH8
-URL: http://appdootv2.dootvde.com:1935/live/50028_ch8.stream.smil/playlist.m3u8
+URL: https://freelive2.inwstream.com:1936/freelive-edge/dtv27_ch8/playlist.m3u8
 Logo: https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon//0006.png
 Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
 --------------------------------------------------
 Name: MONO 29
-URL: https://edge4-bkk.3bb.co.th:9443/Stream_HLSMONO29_1080P/mono29hls_1080TH.stream/playlist.m3u8
+URL: https://monomax-uiripn.cdn.byteark.com/plain/th/playlist.m3u8
 Logo: https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0016.png
 Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
 --------------------------------------------------
 Name: MCOT HD
-URL: https://live-org-01-cdn.mcot.net/mcothd1080p_edge/smil:mcothd1080p.smil/playlist.m3u8
+URL: https://freelive.inwstream.com:1936/freelive-edge/dtv30_mcothd/playlist.m3u8
 Logo: https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/MCOT_new.png
 Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
 --------------------------------------------------
 Name: ONE HD
-URL: https://bcovlive-a.akamaihd.net/e11d0db446fe41fe9be61157033f9325/ap-southeast-1/6415628290001/playlist.m3u8
+URL: https://freelive.inwstream.com:1936/freelive-edge/dtv31_onehd/playlist.m3u8
 Logo: https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0012.png
 Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
 --------------------------------------------------
 Name: CH3 HD
-URL: http://appdootv2.dootvde.com:1935/live/50001_ch3.stream.smil/playlist.m3u8
+URL: https://freelive2.inwstream.com:1936/freelive-edge/dtv33_ch3hd/playlist.m3u8
 Logo: https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/LOGO3HD.PNG
 Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
 --------------------------------------------------
 Name: Amarin TV
-URL: http://appdootv2.dootvde.com:1935/live/50025_amarin_tv_hd.stream.smil/playlist.m3u8
+URL: https://freelive2.inwstream.com:1936/freelive-edge/dtv34_amarintvhd/playlist.m3u8
 Logo: https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/AmarinTV_NEW512.png
 Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
 --------------------------------------------------
@@ -3208,7 +2021,7 @@ Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuck
 --------------------------------------------------
 Name: ไทยรัฐทีวี 32
 URL: http://appdootv2.dootvde.com:1935/live/50023_thairath_hd.stream.smil/playlist.m3u8
-Logo: https://static.thairath.co.th/media/dFQROr7oWzulq5FZYjjA515688fYpq5TMLJD17vUyLlN8HXXTvARWsmL1j8q7THf3rE.jpg
+Logo: https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0013_R.png
 Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
 --------------------------------------------------
 Name: TNN16
@@ -3216,9 +2029,19 @@ URL: https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/16/16.mpd
 Logo: https://gigatv.3bbtv.co.th/wp-content/themes/changwattana/assets/channel/16.png
 Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
 --------------------------------------------------
+Name: TNN 2
+URL: https://streaming.livescorethai.net/iptv/sd-tnn2.stream/playlist.m3u8
+Logo: https://cms.dmpcdn.com/livetv/2017/10/18/f1b957db-b175-45fc-ab2b-60150f9c570a.png
+Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
+--------------------------------------------------
 Name: YATEEM TV
 URL: https://vdo.plathong.net/wowza/muslimonair1/live/playlist.m3u8
 Logo: https://yateem.tv/wp-content/uploads/2019/01/Logo-Header.png
+Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
+--------------------------------------------------
+Name: JKN 18
+URL: https://lb1-live-mv.v2h-cdn.com/hls/ffda/jkn18/jkn18.m3u8
+Logo: https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE//channelicon/JKN18.png
 Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
 --------------------------------------------------
 Name: News1
@@ -3226,176 +2049,14 @@ URL: https://server1.streamssl.com/stream/news1_mid.m3u8
 Logo: https://58-64-52-73-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon/0036.png
 Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
 --------------------------------------------------
-Name: ช่อง NBT ภาคกลาง
-URL: https://cdn-edge-ott.prd.go.th/live_vlc/smil:01f1-8b4b-971e-aa35-d5fa.smil/playlist.m3u8?DVR=
-Logo: https://thumbor-ott.prd.go.th/unsafe/360x360/https%3A%2F%2Fcms-backend-ott.prd.go.th%2Fimages%2Fupload%2F1680683186938.png
+Name: 13 Siam Thai
+URL: https://live.x2.co.th/live/13livetv-th.m3u8
+Logo: https://i.postimg.cc/C5vYBTHJ/IMG-1868.png
 Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
 --------------------------------------------------
-Name: NBT ภาคอีสาน
-URL: https://cdn-edge-ott.prd.go.th/live_vlc/smil:7721-732d-60a6-13c1-b16d.smil/chunklist_w579192591_b2128000.m3u8
-Logo: https://thumbor-ott.prd.go.th/unsafe/360x360/https%3A%2F%2Fcms-backend-ott.prd.go.th%2Fimages%2Fupload%2F1680683194715.png
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: NBT ภาคเหนือ
-URL: https://cdn-edge-ott.prd.go.th/live_vlc/smil:bfe6-faf5-827f-6228-2aa1.smil/chunklist_w695610859_b2128000.m3u8
-Logo: https://thumbor-ott.prd.go.th/unsafe/360x360/https%3A%2F%2Fcms-backend-ott.prd.go.th%2Fimages%2Fupload%2F1680683209698.png
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: NBT ภาคใต้
-URL: https://cdn-edge-ott.prd.go.th/live_vlc/smil:406a-211e-df39-045c-4048.smil/chunklist_w1186889088_b2128000.m3u8
-Logo: https://thumbor-ott.prd.go.th/unsafe/360x360/https%3A%2F%2Fcms-backend-ott.prd.go.th%2Fimages%2Fupload%2F1680683200917.png
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-
-Group: 📺 ช่องฟุตบอลไทย
-Name: BallThai1
-URL: https://cdn1.googlecdn.live/dooballrealtime/trueballthai1/playlist.m3u8
-Logo: https://cms.dmpcdn.com/livetv/2023/08/02/89262f60-30e1-11ee-b445-3703761d6f4d_webp_original.webp
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: BallThai1
-URL: https://cdn2.aws-live-streaming.com/lsmscore/trueballthai1/playlist.m3u8
-Logo: https://cms.dmpcdn.com/livetv/2023/08/02/89262f60-30e1-11ee-b445-3703761d6f4d_webp_original.webp
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: BallThai1
-URL: https://dolive.thaim3u.com/doolive4k-tv/youtube-1/chunks.m3u8
-Logo: https://cms.dmpcdn.com/livetv/2023/08/02/89262f60-30e1-11ee-b445-3703761d6f4d_webp_original.webp
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: BallThai2
-URL: https://cdn1.googlecdn.live/dooballrealtime/trueballthai2/playlist.m3u8
-Logo: https://cms.dmpcdn.com/livetv/2024/08/14/dd07c8f0-5a16-11ef-8615-cb02228d28e7_webp_original.webp
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: BallThai2
-URL: https://cdn2.aws-live-streaming.com/lsmscore/trueballthai2/playlist.m3u8
-Logo: https://cms.dmpcdn.com/livetv/2024/08/14/dd07c8f0-5a16-11ef-8615-cb02228d28e7_webp_original.webp
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: BallThai2
-URL: https://dolive.thaim3u.com/doolive4k-tv/youtube-2/chunks.m3u8
-Logo: https://cms.dmpcdn.com/livetv/2024/08/14/dd07c8f0-5a16-11ef-8615-cb02228d28e7_webp_original.webp
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: BallThai3
-URL: https://cdn1.googlecdn.live/dooballrealtime/trueballthai3/playlist.m3u8
-Logo: https://cms.dmpcdn.com/livetv/2024/08/14/dd8fe4b0-5a16-11ef-a30f-0d36085b5b8b_webp_original.webp
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: BallThai3
-URL: https://cdn2.aws-live-streaming.com/lsmscore/trueballthai3/playlist.m3u8
-Logo: https://cms.dmpcdn.com/livetv/2024/08/14/dd8fe4b0-5a16-11ef-a30f-0d36085b5b8b_webp_original.webp
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: BallThai3
-URL: https://dolive.thaim3u.com/doolive4k-tv/youtube-3/chunks.m3u8
-Logo: https://cms.dmpcdn.com/livetv/2024/08/14/dd8fe4b0-5a16-11ef-a30f-0d36085b5b8b_webp_original.webp
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: BallThai4
-URL: https://cdn1.googlecdn.live/dooballrealtime/trueballthai4/playlist.m3u8
-Logo: https://cms.dmpcdn.com/livetv/2024/08/14/de19d530-5a16-11ef-b4ec-3bd23b99cc20_webp_original.webp
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: BallThai4
-URL: https://cdn2.aws-live-streaming.com/lsmscore/trueballthai4/playlist.m3u8
-Logo: https://cms.dmpcdn.com/livetv/2024/08/14/de19d530-5a16-11ef-b4ec-3bd23b99cc20_webp_original.webp
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: BallThai4
-URL: https://dolive.thaim3u.com/doolive4k-tv/youtube-4/chunks.m3u8
-Logo: https://cms.dmpcdn.com/livetv/2024/08/14/de19d530-5a16-11ef-b4ec-3bd23b99cc20_webp_original.webp
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: BallThai5
-URL: https://cdn1.googlecdn.live/dooballrealtime/trueballthai5/playlist.m3u8
-Logo: https://cms.dmpcdn.com/livetv/2024/08/14/df6a7110-5a16-11ef-ae6e-398d852551da_webp_original.webp
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: BallThai5
-URL: https://cdn2.aws-live-streaming.com/lsmscore/trueballthai5/playlist.m3u8
-Logo: https://cms.dmpcdn.com/livetv/2024/08/14/df6a7110-5a16-11ef-ae6e-398d852551da_webp_original.webp
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: BallThai5
-URL: https://dolive.thaim3u.com/doolive4k-tv/youtube-5/chunks.m3u8
-Logo: https://cms.dmpcdn.com/livetv/2024/08/14/df6a7110-5a16-11ef-ae6e-398d852551da_webp_original.webp
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: BallThai6
-URL: https://cdn1.googlecdn.live/dooballrealtime/trueballthai6/playlist.m3u8
-Logo: https://cms.dmpcdn.com/livetv/2024/08/14/e0a6c1a0-5a16-11ef-8743-87a41cdc0568_webp_original.webp
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: BallThai6
-URL: https://cdn2.aws-live-streaming.com/lsmscore/trueballthai6/playlist.m3u8
-Logo: https://cms.dmpcdn.com/livetv/2024/08/14/e0a6c1a0-5a16-11ef-8743-87a41cdc0568_webp_original.webp
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: BallThai6
-URL: https://dolive.thaim3u.com/doolive4k-tv/youtube-6/chunks.m3u8
-Logo: https://cms.dmpcdn.com/livetv/2024/08/14/e0a6c1a0-5a16-11ef-8743-87a41cdc0568_webp_original.webp
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: BallThai7
-URL: https://cdn1.googlecdn.live/dooballrealtime/trueballthai7/playlist.m3u8
-Logo: https://cms.dmpcdn.com/livetv/2024/08/14/e1334a30-5a16-11ef-9c43-a93aeb33b0e5_webp_original.webp
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: BallThai7
-URL: https://cdn2.aws-live-streaming.com/lsmscore/trueballthai7/playlist.m3u8
-Logo: https://cms.dmpcdn.com/livetv/2024/08/14/e1334a30-5a16-11ef-9c43-a93aeb33b0e5_webp_original.webp
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: BallThai7
-URL: https://dolive.thaim3u.com/doolive4k-tv/youtube-7/chunks.m3u8
-Logo: https://cms.dmpcdn.com/livetv/2024/08/14/e1334a30-5a16-11ef-9c43-a93aeb33b0e5_webp_original.webp
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: BallThai8
-URL: https://cdn1.googlecdn.live/dooballrealtime/trueballthai8/playlist.m3u8
-Logo: https://cms.dmpcdn.com/livetv/2024/08/14/e1c15960-5a16-11ef-9de9-af1b25c2ed4f_webp_original.webp
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: BallThai8
-URL: https://cdn2.aws-live-streaming.com/lsmscore/trueballthai8/playlist.m3u8
-Logo: https://cms.dmpcdn.com/livetv/2024/08/14/e1c15960-5a16-11ef-9de9-af1b25c2ed4f_webp_original.webp
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: BallThai8
-URL: https://dolive.thaim3u.com/doolive4k-tv/youtube-8/chunks.m3u8
-Logo: https://cms.dmpcdn.com/livetv/2024/08/14/e1c15960-5a16-11ef-9de9-af1b25c2ed4f_webp_original.webp
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: BallThai9
-URL: https://cdn1.googlecdn.live/dooballrealtime/trueballthai9/playlist.m3u8
-Logo: https://cms.dmpcdn.com/livetv/2024/08/14/e2346680-5a16-11ef-8c60-b76aa0302695_webp_original.webp
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: BallThai9
-URL: https://cdn2.aws-live-streaming.com/lsmscore/trueballthai9/playlist.m3u8
-Logo: https://cms.dmpcdn.com/livetv/2024/08/14/e2346680-5a16-11ef-8c60-b76aa0302695_webp_original.webp
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: BallThai9
-URL: https://dolive.thaim3u.com/doolive4k-tv/youtube-9/chunks.m3u8
-Logo: https://cms.dmpcdn.com/livetv/2024/08/14/e2346680-5a16-11ef-8c60-b76aa0302695_webp_original.webp
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: BallThai10
-URL: https://cdn1.googlecdn.live/dooballrealtime/trueballthai10/playlist.m3u8
-Logo: https://cms.dmpcdn.com/livetv/2024/08/14/e249c340-5a16-11ef-a30f-0d36085b5b8b_webp_original.webp
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: BallThai10
-URL: https://cdn2.aws-live-streaming.com/lsmscore/trueballthai10/playlist.m3u8
-Logo: https://cms.dmpcdn.com/livetv/2024/08/14/e249c340-5a16-11ef-a30f-0d36085b5b8b_webp_original.webp
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: BallThai10
-URL: https://dolive.thaim3u.com/doolive4k-tv/youtube-10/chunks.m3u8
-Logo: https://cms.dmpcdn.com/livetv/2024/08/14/e249c340-5a16-11ef-a30f-0d36085b5b8b_webp_original.webp
+Name: Ch 8 Thailand
+URL: https://cdn-th-vip.livestreaming.in.th/ch8/ch8/chunklist_w1708048131.m3u8
+Logo: https://i.postimg.cc/RFVxDzJm/IMG-1839.png
 Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
 --------------------------------------------------
 
@@ -3645,42 +2306,42 @@ Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuck
 
 Group: 📺 ช่องสารคดีรอบโลก
 Name: Khong Dee Thailand GoodTV
-URL: http://applive.foruiptv.asia/live/dootvlive/dootvfree/226.ts
+URL: http://applive.foruiptv.asia:80/live/iptvforu/foruiptv/226.ts
 Logo: https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///KhongDeeThailand.png
 Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
 --------------------------------------------------
 Name: Thainess GoodTV
-URL: http://applive.foruiptv.asia/live/dootvlive/dootvfree/227.ts
+URL: http://applive.foruiptv.asia:80/live/iptvforu/foruiptv/227.ts
 Logo: https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///Thainess.png
 Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
 --------------------------------------------------
 Name: Samrujlok GoodTV
-URL: http://applive.foruiptv.asia/live/dootvlive/dootvfree/228.ts
+URL: http://applive.foruiptv.asia:80/live/iptvforu/foruiptv/228.ts
 Logo: https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///SamRujLok.png
 Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
 --------------------------------------------------
 Name: MySci GoodTV
-URL: http://applive.foruiptv.asia/live/dootvlive/dootvfree/229.ts
+URL: http://applive.foruiptv.asia:80/live/iptvforu/foruiptv/229.ts
 Logo: https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///MySCI.png
 Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
 --------------------------------------------------
 Name: Animal Show GoodTV
-URL: http://applive.foruiptv.asia/live/dootvlive/dootvfree/198.ts
+URL: http://applive.foruiptv.asia:80/live/iptvforu/foruiptv/198.ts
 Logo: https://ais-s.ais-vidnt.com/ais/play/origin/LIVE//channelicon///AnimalShow.png
 Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
 --------------------------------------------------
 Name: AFN Network
-URL: http://applive.foruiptv.asia/live/dootvlive/dootvfree/196.ts
+URL: http://applive.foruiptv.asia:80/live/iptvforu/foruiptv/196.ts
 Logo: https://cms.dmpcdn.com/livetv/2019/11/29/adbcb600-1254-11ea-9794-5b629f5f6313_original.png
 Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
 --------------------------------------------------
 Name: Nat Geo Wild
-URL: http://applive.foruiptv.asia/live/dootvlive/dootvfree/224.ts
+URL: http://applive.foruiptv.asia:80/live/iptvforu/foruiptv/224.ts
 Logo: https://i.ibb.co/v6JshDmB/geo-wild.png
 Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
 --------------------------------------------------
 Name: Discovery Turbo
-URL: http://applive.foruiptv.asia/live/dootvlive/dootvfree/220.ts
+URL: http://applive.foruiptv.asia:80/live/iptvforu/foruiptv/220.ts
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/200px-Discovery_Turbo_logo.svg.png
 Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
 --------------------------------------------------
@@ -3690,7 +2351,7 @@ Logo: https://upload.wikimedia.org/wikipedia/commons/f/f4/Food_Network_-_Logo_20
 Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
 --------------------------------------------------
 Name: Discovery Asia TH
-URL: http://applive.foruiptv.asia/live/dootvlive/dootvfree/221.ts
+URL: http://applive.foruiptv.asia:80/live/iptvforu/foruiptv/221.ts
 Logo: https://upload.wikimedia.org/wikipedia/en/f/f0/Discovery-asia.png
 Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
 --------------------------------------------------
@@ -3715,7 +2376,7 @@ Logo: https://cms.dmpcdn.com/livetv/2019/01/24/c187dafd-24b4-4a9a-bb35-9ddd0f96f
 Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
 --------------------------------------------------
 Name: True Explore Wild TH
-URL: http://applive.foruiptv.asia/live/dootvlive/dootvfree/210.ts
+URL: http://applive.foruiptv.asia:80/live/iptvforu/foruiptv/210.ts
 Logo: https://cms.dmpcdn.com/livetv/2023/04/28/433fe010-e599-11ed-96ec-4d05b9e2ca86_webp_original.png
 Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
 --------------------------------------------------
@@ -3729,13 +2390,18 @@ URL: https://github.com/bestcommt2/m3u8/raw/refs/heads/master/trueexploresci.m3u
 Logo: https://cms.dmpcdn.com/livetv/2023/12/15/537ad5b0-9af8-11ee-a6ba-8b5bcfefee63_webp_original.webp
 Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
 --------------------------------------------------
+Name: TRUE ANIMALPLANET TH
+URL: http://applive.foruiptv.asia:80/live/iptvforu/foruiptv/200.ts
+Logo: https://49-231-37-237-rewriter.ais-vidnt.com/ais/play/origin/LIVE/channelicon//AnimalPlanet.png
+Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
+--------------------------------------------------
 Name: TRUE Lifetime TH
 URL: https://github.com/bestcommt2/m3u8/raw/refs/heads/master/truelifetime.m3u8
 Logo: https://cms.dmpcdn.com/livetv/2023/05/26/e2540850-fb8a-11ed-b4ef-f5e84d65e5d3_webp_original.png
 Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
 --------------------------------------------------
 Name: TLC TH
-URL: http://applive.foruiptv.asia/live/dootvlive/dootvfree/238.ts
+URL: http://applive.foruiptv.asia:80/live/iptvforu/foruiptv/238.ts
 Logo: https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon//TLC.png
 Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
 --------------------------------------------------
@@ -3805,7 +2471,7 @@ Logo: https://upload.wikimedia.org/wikipedia/commons/5/51/Crime%2BInvestigation_
 Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
 --------------------------------------------------
 Name: H2
-URL: http://applive.foruiptv.asia/live/dootvlive/dootvfree/214.ts
+URL: http://applive.foruiptv.asia:80/live/iptvforu/foruiptv/214.ts
 Logo: https://i.ibb.co/S48bjQhv/640px-History2-Logo2019.png
 Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
 --------------------------------------------------
@@ -3820,7 +2486,7 @@ Logo: https://1000logos.net/wp-content/uploads/2021/04/National-Geographic-logo-
 Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
 --------------------------------------------------
 Name: Discovery science
-URL: http://applive.foruiptv.asia/live/dootvlive/dootvfree/218.ts
+URL: http://applive.foruiptv.asia:80/live/iptvforu/foruiptv/218.ts
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Discovery_Science_-_Logo_2012.svg/512px-Discovery_Science_-_Logo_2012.svg.png
 Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
 --------------------------------------------------
@@ -3912,7 +2578,7 @@ Logo: https://cms.dmpcdn.com/livetv/2023/04/28/43ffada0-e599-11ed-abcb-c792e696f
 Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
 --------------------------------------------------
 Name: True Asian More
-URL: http://applive.foruiptv.asia/live/dootvlive/dootvfree/159.ts
+URL: http://applive.foruiptv.asia:80/live/iptvforu/foruiptv/159.ts
 Logo: https://cms.dmpcdn.com/livetv/2024/01/16/c8f249a0-b44c-11ee-bbdb-077300b4f5a1_webp_original.webp
 Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
 --------------------------------------------------
@@ -3922,7 +2588,7 @@ Logo: https://img5.pic.in.th/file/secure-sv1/434696d0-e599-11ed-b26c-6b89d082d46
 Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
 --------------------------------------------------
 Name: TRUE CCM
-URL: http://applive.foruiptv.asia/live/dootvlive/dootvfree/162.ts
+URL: http://applive.foruiptv.asia:80/live/iptvforu/foruiptv/162.ts
 Logo: https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/187_144.png
 Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
 --------------------------------------------------
@@ -3947,7 +2613,7 @@ Logo: https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/RockAction.pn
 Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
 --------------------------------------------------
 Name: ROCK ENTERTAINMENT
-URL: http://applive.foruiptv.asia/live/dootvlive/dootvfree/190.ts
+URL: http://applive.foruiptv.asia:80/live/iptvforu/foruiptv/190.ts
 Logo: https://ais-s.ais-vidnt.com/ais/play/origin/LIVE/channelicon/Rock-Entertainment.png
 Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
 --------------------------------------------------
@@ -3984,26 +2650,6 @@ Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuck
 Name: CinemaWorld
 URL: https://cdn08jtedge.indihometv.com/dassdvr/134/cinemaworld/manifest.mpd
 Logo: https://www.voilah.sg/wp-content/uploads/2020/04/cinema-world-2.png
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: Kix
-URL: https://cdn08jtedge.indihometv.com/dassdvr/133/kix/manifest.mpd
-Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/495px-KIX_logo.svg.png
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: tvN
-URL: https://cdn08jtedge.indihometv.com/dassdvr/133/tvn/manifest.mpd
-Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Logo_tvN.svg/300px-Logo_tvN.svg.png
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: tvNMOVIE
-URL: https://cdn08jtedge.indihometv.com/dassdvr/133/tvnmovies/manifest.mpd
-Logo: https://i.imgur.com/c4XvwO2.png
-Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
---------------------------------------------------
-Name: TRUE ANIMALPLANET TH
-URL: http://applive.foruiptv.asia/live/dootvlive/dootvfree/200.ts
-Logo: http://45.150.128.170:8080/images/d21b73078bd90d93f4000fa7e78b660c.png
 Source: https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u
 --------------------------------------------------
 
