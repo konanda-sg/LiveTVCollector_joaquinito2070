@@ -560,7 +560,7 @@
   {
     "name": "Euronews IN DIRETTA",
     "type": "notizie",
-    "url": "https://dab794fcc38647efbf5f86bf01fa5c21.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6570/bitok/eyJzdGlkIjoiMGUxZTliNzYtMWU2Mi00ZTQxLWJlY2UtMjNmOWMwNDlhYzVjIiwibWt0IjoiaXQiLCJjaCI6NjU3MCwicHRmIjo1fQ%3D%3D/25674/euronews-it.m3u8",
+    "url": "https://dab794fcc38647efbf5f86bf01fa5c21.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6570/bitok/eyJzdGlkIjoiMzU2OTU2ZTktNzc0Yi00N2EzLWIzNzUtNGZiNDBmNzQ0NjU1IiwibWt0IjoiaXQiLCJjaCI6NjU3MCwicHRmIjo1fQ%3D%3D/25674/euronews-it.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -590,7 +590,7 @@
   {
     "name": "Africanews",
     "type": "notizie",
-    "url": "https://c3c275b999764df8a2dd55ffe2996818.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576/bitok/eyJzdGlkIjoiYmVmNjFhNzctMjIyMC00YWNiLTg2MmQtZjFlOGQxNjU1ZmZhIiwibWt0IjoiaXQiLCJjaCI6NjU4NywicHRmIjo1fQ%3D%3D/26036/africanews-en.m3u8",
+    "url": "https://c3c275b999764df8a2dd55ffe2996818.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576/bitok/eyJzdGlkIjoiMGM1MmM3YTQtN2VlNC00NTg4LWIxZDEtZDUwNTI4MThkZGQ5IiwibWt0IjoiaXQiLCJjaCI6NjU4NywicHRmIjo1fQ%3D%3D/26036/africanews-en.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -750,6 +750,24 @@
     "img": "https://i.imgur.com/yWk5KbM.png"
   },
   {
+    "name": "like Gecko) Chrome/81.0.4044.138 Safari/537.36\",Filmbox Extra",
+    "type": "Entertainment",
+    "url": "https://webtvstream.bhtelecom.ba/hls7/filmbox_extra.m3u8",
+    "img": "https://i.imgur.com/acDNdY4.png"
+  },
+  {
+    "name": "like Gecko) Chrome/81.0.4044.138 Safari/537.36\",Filmbox Premium",
+    "type": "Entertainment",
+    "url": "https://webtvstream.bhtelecom.ba/hls6/filmbox_premium.m3u8",
+    "img": "https://i.imgur.com/EjzXgSj.png"
+  },
+  {
+    "name": "like Gecko) Chrome/81.0.4044.138 Safari/537.36\",Filmbox Stars",
+    "type": "Entertainment",
+    "url": "https://webtvstream.bhtelecom.ba/hls7/filmbox_stars.m3u8",
+    "img": "https://i.imgur.com/q4LoI6x.png"
+  },
+  {
     "name": "like Gecko) Chrome/81.0.4044.138 Safari/537.36\",ORF Kids",
     "type": "Entertainment",
     "url": "https://test02.mdn.ors.at/orf/orfk/qxa/manifest.m3u8",
@@ -820,6 +838,18 @@
     "type": "General",
     "url": "https://bpcdnmanprod.nexttv.ht.hr/bpk-tv/HRT4/default/index.mpd",
     "img": "https://i.imgur.com/S8qqiNN.png"
+  },
+  {
+    "name": "like Gecko) Chrome/81.0.4044.138 Safari/537.36\",Happy TV",
+    "type": "General",
+    "url": "https://stream1.happytv.rs/Happytv/myStream/playlist.m3u8",
+    "img": "https://i.imgur.com/H8ahEwS.png"
+  },
+  {
+    "name": "like Gecko) Chrome/81.0.4044.138 Safari/537.36\",RTRS",
+    "type": "General",
+    "url": "http://parh.rtrs.tv:1935/tv/live/playlist.m3u8",
+    "img": "https://i.imgur.com/PghajzH.png"
   },
   {
     "name": "like Gecko) Chrome/81.0.4044.138 Safari/537.36\",RTRS Plus",
@@ -1066,12 +1096,6 @@
     "type": "News",
     "url": "https://newsmaxadria.mts-si.tv/newsmaxadria/tracks-v2a1/mono.m3u8",
     "img": "https://i.imgur.com/l0qicBM.png"
-  },
-  {
-    "name": "Al Jazeera Balkans",
-    "type": "News",
-    "url": "https://live-hls-web-ajb.getaj.net/AJB/index.m3u8",
-    "img": "https://i.imgur.com/h7kwiC7.png"
   },
   {
     "name": "N1 RS",
