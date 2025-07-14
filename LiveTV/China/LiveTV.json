@@ -1,5 +1,5 @@
 {
-  "date": "2025-07-14 14:01:19",
+  "date": "2025-07-14 21:57:25",
   "channels": {
     "Uncategorized": [
       {
@@ -5187,6 +5187,13 @@
         "url": "https://0472.org/hls/cgtna.m3u8"
       },
       {
+        "name": "CCTV13",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "央视频道",
+        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
+        "url": "https://event.pull.hebtv.com/jishi/cp1.m3u8"
+      },
+      {
         "name": "CCTV风云足球",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "央视频道",
@@ -6022,20 +6029,6 @@
         "group": "卫视频道",
         "source": "https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u",
         "url": "http://home.wwang.pw:35455/itv/1000000002000004097.m3u8?cdn=ystenlive"
-      },
-      {
-        "name": "三沙卫视",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "卫视频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://pullsstv90080111.ssws.tv/live/SSTV20220729.m3u8"
-      },
-      {
-        "name": "浙江卫视",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "卫视频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8"
       },
       {
         "name": "山东教育",
@@ -8998,6 +8991,13 @@
         "url": "https://stream.hrbtv.net/yspd/sd/live.m3u8"
       },
       {
+        "name": "浙江影视",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "电影频道",
+        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
+        "url": "https://ali-m-l.cztv.com/channels/lantian/channel005/1080p.m3u8"
+      },
+      {
         "name": "美亚电影",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "电影频道",
@@ -10385,13 +10385,6 @@
         "group": "地方频道",
         "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
         "url": "https://play.scrstv.com.cn/DT/live.m3u8?auth_key=60001724663204-0-0-c1cc4ded9841ac34f63cdbd3aec647ef"
-      },
-      {
-        "name": "任丘综合",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "地方频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://jwcdnqx.hebyun.com.cn/live/rqtv1/1500k/tzwj_video.m3u8"
       },
       {
         "name": "内蒙经济",
@@ -12713,34 +12706,20 @@
     ],
     "直播中国": [
       {
-        "name": "中央电视塔东",
+        "name": "福建漳州醉美沙滩翡翠湾",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "直播中国",
         "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://gcalic.v.myalicdn.com/gc/ztd_1/index.m3u8"
-      },
-      {
-        "name": "张掖七彩丹霞",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "直播中国",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://gcalic.v.myalicdn.com/gc/zyqcdx01_1/index.m3u8"
-      },
-      {
-        "name": "黄龙",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "直播中国",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://gcalic.v.myalicdn.com/gc/hlzycc_1/index.m3u8"
+        "url": "https://gcalic.v.myalicdn.com/gc/fcw03_1/index.m3u8"
       }
     ],
     "更新时间": [
       {
-        "name": "2025-07-14 12:35:24",
+        "name": "2025-07-14 18:38:57",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "更新时间",
         "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://vd3.bdstatic.com/mda-ren0u3qx5hknf8wb/1080p/cae_h264/1747960722207612951/mda-ren0u3qx5hknf8wb.mp4"
+        "url": "https://vd4.bdstatic.com/mda-reiihfhe5xjm4s3e/1080p/cae_h264/1747660062050484190/mda-reiihfhe5xjm4s3e.mp4"
       }
     ],
     "☘️北京频道": [
