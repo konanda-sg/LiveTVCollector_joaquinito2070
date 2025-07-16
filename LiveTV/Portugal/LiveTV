@@ -20,7 +20,7 @@
   {
     "name": "TVI",
     "type": "TV",
-    "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNi8yMDI1IDY6Mzg6MTAgQU0maGFzaF92YWx1ZT14TFpFRkZXb09IalBMK1dlZGd3RmlnPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9ZDBjNWZjNTctNTM1YS00NWY0LTlhNTEtMWFmMzFjNmMzNTMy/",
+    "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNi8yMDI1IDI6MjQ6MjQgUE0maGFzaF92YWx1ZT1TdXRrY2ZKWllWK0tWck9yWmxML3VnPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9ZTg1OWYwZWYtMTM5Ni00MmNiLTlhMDEtOTg2NmM2ZjcwMDU0/",
     "img": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI.png"
   },
   {
@@ -38,7 +38,7 @@
   {
     "name": "CNN Portugal",
     "type": "TV",
-    "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNi8yMDI1IDY6Mzg6MTAgQU0maGFzaF92YWx1ZT1VT2syYXNHaXN6T0hvWjcxSGp2Y0l3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9ZGU2YzM0Y2YtZjRjYy00ODI3LWEwM2EtM2QyZDZhMTQ4MGQ0/",
+    "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNi8yMDI1IDI6MjQ6MjUgUE0maGFzaF92YWx1ZT1FeGxWY2VpS3AvVE11dHE3TGFzVlRBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9M2ZhMTFjYWEtODAxMy00YjgzLTkxMjAtMWU0ZmY4MDJlNTlh/",
     "img": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png"
   },
   {
@@ -92,7 +92,7 @@
   {
     "name": "TVI Internacional",
     "type": "TV",
-    "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNi8yMDI1IDY6Mzg6MTEgQU0maGFzaF92YWx1ZT1QNi9NaFA2SFNpR3NIYm9rVHFpVjdRPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9NGQ0OGE2ZWQtMWQ5NS00YjY3LTg3YjktOWY1MmViN2UxYzcz/",
+    "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNi8yMDI1IDI6MjQ6MjYgUE0maGFzaF92YWx1ZT01Z0dHMjJBYVpJMHp1Y05HMW0zQ2FRPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MDNmOTkyM2QtYzU1Mi00MzhhLTlhN2ItM2M4OWQ0NWE3NmM1/",
     "img": "https://github.com/LITUATUI/M3UPT/raw/main/logos/TVI-Internacional.png"
   },
   {
@@ -1822,6 +1822,12 @@
     "type": "O Planeta Vivo",
     "url": "https://streaming-vod.rtp.pt/drm-dash/nas2.share,/pt/h264/512x384/p13613/p13613_1_20240717161005e003t1334d_lo.mp4,/pt/h264/512x384/p13613/p13613_1_20240717161005e003t1334d.mp4,.urlset/manifest.mpd",
     "img": "https://cdn-images.rtp.pt/EPG/imagens/45929_73117_64439.jpg"
+  },
+  {
+    "name": "O Outro Lado - S10E26 14/7/2025",
+    "type": "O Outro Lado",
+    "url": "https://streaming-vod.rtp.pt/hls/nas2.share,/h264/512x384/p14403/p14403_1_20250714000000e026t2794.mp4,.urlset/master.m3u8",
+    "img": "https://m3upt.com/logos/O-outro-lado.jpg"
   },
   {
     "name": "O Outro Lado - S10E25 7/7/2025",
