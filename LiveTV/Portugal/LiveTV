@@ -20,7 +20,7 @@
   {
     "name": "TVI",
     "type": "TV",
-    "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNS8yMDI1IDI6MjQ6OSBQTSZoYXNoX3ZhbHVlPWJqempNOE1TaE5vVjdDQ0IvaEhyWGc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD03ZGQ4Y2M1YS0wYWUxLTQyYWUtOGZlMC02YTQxZWVhZGVlZjI=/",
+    "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNS8yMDI1IDEwOjI1OjExIFBNJmhhc2hfdmFsdWU9bmpzR2NMak9qTUJKMG0zd1ZyVzZYUT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTcyZjcxMWY4LTRhOWUtNDViMi1iNDc1LTMzMjYzOGJkZTQxNg==/",
     "img": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI.png"
   },
   {
@@ -38,7 +38,7 @@
   {
     "name": "CNN Portugal",
     "type": "TV",
-    "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNS8yMDI1IDI6MjQ6MTAgUE0maGFzaF92YWx1ZT16UnZZV0YrSkswZWpVaExHd3BLVEJ3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9YTJkNTNmYTgtODQ3NS00MTY0LWI4YWMtYmMwM2Y5ZDQwM2Jk/",
+    "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNS8yMDI1IDEwOjI1OjEyIFBNJmhhc2hfdmFsdWU9NXNVeWo4MTl4R1o1dU1LVWQ4L1NMZz09JnZhbGlkbWludXRlcz0xNDQwJmlkPWM0OWI5YWUwLTMyMzktNGVlMi05YjVjLTZiNjFiMmIwZTI4YQ==/",
     "img": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png"
   },
   {
@@ -92,7 +92,7 @@
   {
     "name": "TVI Internacional",
     "type": "TV",
-    "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNS8yMDI1IDI6MjQ6MTEgUE0maGFzaF92YWx1ZT1VRElsTlNyaDRFZjNocGpqOW51cUl3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9OGFmMGI0NDgtNTBjZS00NDU3LTkzZmQtMzk0YTlkY2MwOTM5/",
+    "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8xNS8yMDI1IDEwOjI1OjEzIFBNJmhhc2hfdmFsdWU9NGNJekxyVmtuc3pmblJxK0szdWpHUT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTdiZGQwZWUxLWRlYTEtNGRjYS04MTUzLTE2MDkyZjMxOGVkZg==/",
     "img": "https://github.com/LITUATUI/M3UPT/raw/main/logos/TVI-Internacional.png"
   },
   {
@@ -5718,21 +5718,21 @@
     "img": "https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/ddf3b88d-ef92-4a57-b234-36ff7c1cea2e-width200-quality90.jpeg"
   },
   {
-    "name": "RTL (Germany) (576p)",
+    "name": "RTL (720p)",
     "type": "Undefined",
-    "url": "http://178.219.128.68:64888/RTL",
+    "url": "http://185.189.225.150:85/RTL/index.m3u8",
+    "img": "https://i.imgur.com/94K94k2.png"
+  },
+  {
+    "name": "RTL HD",
+    "type": "Undefined",
+    "url": "https://strm.hdtvizlecanli.com/live/rtl.m3u8",
     "img": "https://i.imgur.com/94K94k2.png"
   },
   {
     "name": "RTL Zwei (1080p)",
     "type": "Undefined",
     "url": "http://178.219.128.68:64888/RTL2",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/RTLZWEI_Logo_2019.svg/512px-RTLZWEI_Logo_2019.svg.png"
-  },
-  {
-    "name": "RTL Zwei HD",
-    "type": "Undefined",
-    "url": "http://lafamilia2024.direct.quickconnect.to:9981/stream/channelid/518354068?profile=pass",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/RTLZWEI_Logo_2019.svg/512px-RTLZWEI_Logo_2019.svg.png"
   },
   {
