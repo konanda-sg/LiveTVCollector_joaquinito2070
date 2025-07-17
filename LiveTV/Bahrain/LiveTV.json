@@ -1,43 +1,6 @@
 {
-  "date": "2025-07-16 22:05:25",
+  "date": "2025-07-17 07:50:01",
   "channels": {
-    "General": [
-      {
-        "name": "2M Monde",
-        "logo": "https://i.imgur.com/MvpntzA.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/countries/bh.m3u",
-        "url": "https://cdn-globecast.akamaized.net/live/eds/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8"
-      },
-      {
-        "name": "Alforat TV (1080p)",
-        "logo": "https://i.imgur.com/f6PQzKd.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/countries/bh.m3u",
-        "url": "http://95.216.180.111:1935/live/10/playlist.m3u8"
-      },
-      {
-        "name": "Bahrain TV (720p) [Not 24/7]",
-        "logo": "https://i.imgur.com/LTD0jIm.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/countries/bh.m3u",
-        "url": "https://5c7b683162943.streamlock.net/live/ngrp:bahraintvmain_all/playlist.m3u8"
-      },
-      {
-        "name": "Dubai One (1080p)",
-        "logo": "https://i.imgur.com/Dj16oKL.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/countries/bh.m3u",
-        "url": "https://dminnvllta.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8"
-      },
-      {
-        "name": "MBC 1 (1080p)",
-        "logo": "https://i.imgur.com/CiA3plN.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/countries/bh.m3u",
-        "url": "https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8"
-      }
-    ],
     "Sports": [
       {
         "name": "Abu Dhabi Sports 1 (1080p)",
@@ -302,6 +265,36 @@
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/bh.m3u",
         "url": "https://streamer3.premio.link/alqamar/playlist.m3u8"
+      }
+    ],
+    "General": [
+      {
+        "name": "Alforat TV (1080p)",
+        "logo": "https://i.imgur.com/f6PQzKd.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/countries/bh.m3u",
+        "url": "http://95.216.180.111:1935/live/10/playlist.m3u8"
+      },
+      {
+        "name": "Bahrain TV (720p) [Not 24/7]",
+        "logo": "https://i.imgur.com/LTD0jIm.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/countries/bh.m3u",
+        "url": "https://5c7b683162943.streamlock.net/live/ngrp:bahraintvmain_all/playlist.m3u8"
+      },
+      {
+        "name": "Dubai One (1080p)",
+        "logo": "https://i.imgur.com/Dj16oKL.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/countries/bh.m3u",
+        "url": "https://dminnvllta.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8"
+      },
+      {
+        "name": "MBC 1 (1080p)",
+        "logo": "https://i.imgur.com/CiA3plN.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/countries/bh.m3u",
+        "url": "https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8"
       }
     ],
     "Documentary;Education": [
