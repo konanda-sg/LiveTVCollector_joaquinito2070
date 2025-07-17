@@ -1,5 +1,5 @@
 {
-  "date": "2025-07-17 13:55:34",
+  "date": "2025-07-17 21:53:59",
   "channels": {
     "VTV": [
       {
@@ -235,35 +235,35 @@
         "logo": "https://i.imgur.com/As4bwUs.png",
         "group": "K+",
         "source": "https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u",
-        "url": "https://freem3u.xyz/api/live/play.m3u8?tid=kcine"
+        "url": "http://14.229.232.52:4022/rtp/232.84.1.96:8550"
       },
       {
         "name": "K+ACTION HD",
         "logo": "https://i.imgur.com/QPkuBRi.png",
         "group": "K+",
         "source": "https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u",
-        "url": "https://freem3u.xyz/api/live/play.m3u8?tid=kaction"
+        "url": "http://14.229.232.52:4022/rtp/232.84.1.97:8556"
       },
       {
         "name": "K+SPORT1 HD",
         "logo": "https://i.imgur.com/6yiAtRg.png",
         "group": "K+",
         "source": "https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u",
-        "url": "https://freem3u.xyz/api/live/play.m3u8?tid=ksport1"
+        "url": "http://14.229.232.52:4022/rtp/232.84.1.98:8562"
       },
       {
         "name": "K+SPORT2 HD",
         "logo": "https://i.imgur.com/EFeyqYX.png",
         "group": "K+",
         "source": "https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u",
-        "url": "https://freem3u.xyz/api/live/play.m3u8?tid=ksport2"
+        "url": "http://14.229.232.52:4022/rtp/232.84.1.131:10368"
       },
       {
         "name": "K+KIDS HD",
         "logo": "https://i.imgur.com/erWqYxh.png",
         "group": "K+",
         "source": "https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u",
-        "url": "https://freem3u.xyz/api/live/play.m3u8?tid=kkids"
+        "url": "http://14.229.232.52:4022/rtp/232.84.3.43:11794"
       }
     ],
     "HTV": [
@@ -279,7 +279,7 @@
         "logo": "https://i.imgur.com/Yc3cmAi.png",
         "group": "HTV",
         "source": "https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u",
-        "url": "https://ott3.sgchill.io.vn/source/vieon/htv2/index.m3u8"
+        "url": "https://freem3u.xyz/api/live/play.m3u8?vid=191"
       },
       {
         "name": "HTV3",
