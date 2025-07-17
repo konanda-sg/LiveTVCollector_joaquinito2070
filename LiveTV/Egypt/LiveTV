@@ -1050,10 +1050,160 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "2M Monde",
-    "type": "General",
-    "url": "https://cdn-globecast.akamaized.net/live/eds/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8",
-    "img": "https://i.imgur.com/MvpntzA.png"
+    "name": "ABN Africa (480p)",
+    "type": "Religious",
+    "url": "https://mediaserver.abnvideos.com/streams/abnafrica.m3u8",
+    "img": "https://i.imgur.com/SLrX8Ef.png"
+  },
+  {
+    "name": "Angel TV Africa (720p)",
+    "type": "Religious",
+    "url": "https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelafrica_all/playlist.m3u8",
+    "img": "https://i.imgur.com/qKLEGU7.png"
+  },
+  {
+    "name": "Angel TV Arabia (720p)",
+    "type": "Religious",
+    "url": "https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelarabia_all/playlist.m3u8",
+    "img": "https://i.imgur.com/qKLEGU7.png"
+  },
+  {
+    "name": "Elbeshara GTV (1080p) [Not 24/7]",
+    "type": "Religious",
+    "url": "http://media3.smc-host.com:1935/elbesharagtv.com/gtv.smil/playlist.m3u8",
+    "img": "https://i.imgur.com/b0Wx7pE.png"
+  },
+  {
+    "name": "EWTN Africa Asia (720p)",
+    "type": "Religious",
+    "url": "https://cdn3.wowza.com/1/ZVBYYXFLLzE0c3NC/Qk1FMURC/hls/live/playlist.m3u8",
+    "img": "https://i.imgur.com/sua70RO.png"
+  },
+  {
+    "name": "GOD TV Africa (576p)",
+    "type": "Religious",
+    "url": "https://webstreaming.viewmedia.tv/web_006/Stream/playlist.m3u8",
+    "img": "https://i.imgur.com/hW4g2oe.png"
+  },
+  {
+    "name": "IBN TV Africa (720p)",
+    "type": "Religious",
+    "url": "http://68.183.41.209:8080/live/5d9a537c64b9c/index.m3u8",
+    "img": "https://i.imgur.com/eKy2ocd.png"
+  },
+  {
+    "name": "Abu Dhabi Sports 1 (1080p)",
+    "type": "Sports",
+    "url": "https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8",
+    "img": "https://i.imgur.com/6BVWk8z.png"
+  },
+  {
+    "name": "Africa 24 Sport (1080p)",
+    "type": "Sports",
+    "url": "https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8",
+    "img": "https://i.imgur.com/YWIJdai.png"
+  },
+  {
+    "name": "Africa 24 (1080p)",
+    "type": "News",
+    "url": "https://africa24.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8",
+    "img": "https://i.imgur.com/YWIJdai.png"
+  },
+  {
+    "name": "Africanews English",
+    "type": "News",
+    "url": "https://cdn-euronews.akamaized.net/live/eds/africanews-fr/25050/index.m3u8",
+    "img": "https://i.imgur.com/5UxU4zc.png"
+  },
+  {
+    "name": "Africanews French (720p)",
+    "type": "News",
+    "url": "https://2767164d5ee04887b96812a9eea74d32.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6573/44d3df93-4a3e-43e0-990f-a5d196bbe3aa/5.m3u8",
+    "img": "https://i.imgur.com/5UxU4zc.png"
+  },
+  {
+    "name": "Al Arabiya (1080p)",
+    "type": "News",
+    "url": "https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8",
+    "img": "https://i.imgur.com/NXFkYFj.png"
+  },
+  {
+    "name": "BBC Arabic (720p)",
+    "type": "News",
+    "url": "https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd",
+    "img": "https://i.imgur.com/ScyTG6P.png"
+  },
+  {
+    "name": "BBC News (720p)",
+    "type": "News",
+    "url": "https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.mpd",
+    "img": "https://i.imgur.com/vSz2WEp.png"
+  },
+  {
+    "name": "CGTN Arabic (1080p) [Not 24/7]",
+    "type": "News",
+    "url": "https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8",
+    "img": "https://i.imgur.com/AkFFrS7.png"
+  },
+  {
+    "name": "DW Arabic (1080p)",
+    "type": "News",
+    "url": "https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8",
+    "img": "https://i.imgur.com/8MRNFb9.png"
+  },
+  {
+    "name": "For You TV (480p)",
+    "type": "News",
+    "url": "https://stream.az-multimedia.com:3793/live/foryoutvlive.m3u8",
+    "img": "https://i.imgur.com/1oMboXL.png"
+  },
+  {
+    "name": "France 24 Arabic (1080p)",
+    "type": "News",
+    "url": "https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_5000.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/c/c1/France_24_logo_%282013%29.svg"
+  },
+  {
+    "name": "Medi 1 TV Afrique (1080p) [Not 24/7]",
+    "type": "News",
+    "url": "https://streaming1.medi1tv.com/live/smil:medi1fr.smil/playlist.m3u8",
+    "img": "https://i.imgur.com/OioFepy.jpeg"
+  },
+  {
+    "name": "Medi 1 TV Arabic (1080p) [Not 24/7]",
+    "type": "News",
+    "url": "https://streaming1.medi1tv.com/live/smil:medi1ar.smil/playlist.m3u8",
+    "img": "https://i.imgur.com/jWKH922.jpeg"
+  },
+  {
+    "name": "Mekameleen TV (1080p)",
+    "type": "News",
+    "url": "https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8",
+    "img": "https://i.imgur.com/q7iVchl.png"
+  },
+  {
+    "name": "RT Arabic (1080p) [Geo-blocked]",
+    "type": "News",
+    "url": "https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8",
+    "img": "https://i.imgur.com/G8vGrn1.png"
+  },
+  {
+    "name": "Sky News Arabia (1080p) [Not 24/7]",
+    "type": "News",
+    "url": "https://stream.skynewsarabia.com/ott/ott.m3u8",
+    "img": "https://i.imgur.com/SvjU4h6.png"
+  },
+  {
+    "name": "Sky News Arabia (Portrait) (1280p) [Not 24/7]",
+    "type": "News",
+    "url": "https://stream.skynewsarabia.com/vertical/vertical.m3u8",
+    "img": "https://i.imgur.com/FjtzQQs.png"
+  },
+  {
+    "name": "TRT Arabi (1080p) [Not 24/7]",
+    "type": "News",
+    "url": "https://tv-trtarabi.medya.trt.com.tr/master.m3u8",
+    "img": "https://i.imgur.com/dEfI2M9.png"
   },
   {
     "name": "Afroturk TV (1080p)",
@@ -1168,162 +1318,6 @@
     "type": "General",
     "url": "https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/playlist.m3u8",
     "img": "https://i.ibb.co/vBbSHB4/Tvi-africa.png"
-  },
-  {
-    "name": "ABN Africa (480p)",
-    "type": "Religious",
-    "url": "https://mediaserver.abnvideos.com/streams/abnafrica.m3u8",
-    "img": "https://i.imgur.com/SLrX8Ef.png"
-  },
-  {
-    "name": "Angel TV Africa (720p)",
-    "type": "Religious",
-    "url": "https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelafrica_all/playlist.m3u8",
-    "img": "https://i.imgur.com/qKLEGU7.png"
-  },
-  {
-    "name": "Angel TV Arabia (720p)",
-    "type": "Religious",
-    "url": "https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelarabia_all/playlist.m3u8",
-    "img": "https://i.imgur.com/qKLEGU7.png"
-  },
-  {
-    "name": "Elbeshara GTV (1080p) [Not 24/7]",
-    "type": "Religious",
-    "url": "http://media3.smc-host.com:1935/elbesharagtv.com/gtv.smil/playlist.m3u8",
-    "img": "https://i.imgur.com/b0Wx7pE.png"
-  },
-  {
-    "name": "EWTN Africa Asia (720p)",
-    "type": "Religious",
-    "url": "https://cdn3.wowza.com/1/ZVBYYXFLLzE0c3NC/Qk1FMURC/hls/live/playlist.m3u8",
-    "img": "https://i.imgur.com/sua70RO.png"
-  },
-  {
-    "name": "GOD TV Africa (576p)",
-    "type": "Religious",
-    "url": "https://webstreaming.viewmedia.tv/web_006/Stream/playlist.m3u8",
-    "img": "https://i.imgur.com/hW4g2oe.png"
-  },
-  {
-    "name": "IBN TV Africa (720p)",
-    "type": "Religious",
-    "url": "http://68.183.41.209:8080/live/5d9a537c64b9c/index.m3u8",
-    "img": "https://i.imgur.com/eKy2ocd.png"
-  },
-  {
-    "name": "Abu Dhabi Sports 1 (1080p)",
-    "type": "Sports",
-    "url": "https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8",
-    "img": "https://i.imgur.com/6BVWk8z.png"
-  },
-  {
-    "name": "Africa 24 Sport (1080p)",
-    "type": "Sports",
-    "url": "https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8",
-    "img": "https://i.imgur.com/YWIJdai.png"
-  },
-  {
-    "name": "Africa 24 (1080p)",
-    "type": "News",
-    "url": "https://africa24.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8",
-    "img": "https://i.imgur.com/YWIJdai.png"
-  },
-  {
-    "name": "Africanews",
-    "type": "News",
-    "url": "https://rakuten-africanews-1-pt.samsung.wurl.tv/manifest/playlist.m3u8",
-    "img": "https://i.imgur.com/5UxU4zc.png"
-  },
-  {
-    "name": "Africanews French (720p)",
-    "type": "News",
-    "url": "https://2767164d5ee04887b96812a9eea74d32.mediatailor.eu-west-1.amazonaws.com/v1/manifest/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6573/44d3df93-4a3e-43e0-990f-a5d196bbe3aa/5.m3u8",
-    "img": "https://i.imgur.com/5UxU4zc.png"
-  },
-  {
-    "name": "Al Arabiya (1080p)",
-    "type": "News",
-    "url": "https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8",
-    "img": "https://i.imgur.com/NXFkYFj.png"
-  },
-  {
-    "name": "BBC Arabic (720p)",
-    "type": "News",
-    "url": "https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd",
-    "img": "https://i.imgur.com/ScyTG6P.png"
-  },
-  {
-    "name": "BBC News (720p)",
-    "type": "News",
-    "url": "https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_hd_abr_v1.mpd",
-    "img": "https://i.imgur.com/vSz2WEp.png"
-  },
-  {
-    "name": "CGTN Arabic (1080p) [Not 24/7]",
-    "type": "News",
-    "url": "https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8",
-    "img": "https://i.imgur.com/AkFFrS7.png"
-  },
-  {
-    "name": "DW Arabic (1080p)",
-    "type": "News",
-    "url": "https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8",
-    "img": "https://i.imgur.com/8MRNFb9.png"
-  },
-  {
-    "name": "For You TV (480p)",
-    "type": "News",
-    "url": "https://stream.az-multimedia.com:3793/live/foryoutvlive.m3u8",
-    "img": "https://i.imgur.com/1oMboXL.png"
-  },
-  {
-    "name": "France 24 Arabic (1080p)",
-    "type": "News",
-    "url": "https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_5000.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/c/c1/France_24_logo_%282013%29.svg"
-  },
-  {
-    "name": "Medi 1 TV Afrique (1080p) [Not 24/7]",
-    "type": "News",
-    "url": "https://streaming1.medi1tv.com/live/smil:medi1fr.smil/playlist.m3u8",
-    "img": "https://i.imgur.com/OioFepy.jpeg"
-  },
-  {
-    "name": "Medi 1 TV Arabic (1080p) [Not 24/7]",
-    "type": "News",
-    "url": "https://streaming1.medi1tv.com/live/smil:medi1ar.smil/playlist.m3u8",
-    "img": "https://i.imgur.com/jWKH922.jpeg"
-  },
-  {
-    "name": "Mekameleen TV (1080p)",
-    "type": "News",
-    "url": "https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8",
-    "img": "https://i.imgur.com/q7iVchl.png"
-  },
-  {
-    "name": "RT Arabic (1080p) [Geo-blocked]",
-    "type": "News",
-    "url": "https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8",
-    "img": "https://i.imgur.com/G8vGrn1.png"
-  },
-  {
-    "name": "Sky News Arabia (1080p) [Not 24/7]",
-    "type": "News",
-    "url": "https://stream.skynewsarabia.com/ott/ott.m3u8",
-    "img": "https://i.imgur.com/SvjU4h6.png"
-  },
-  {
-    "name": "Sky News Arabia (Portrait) (1280p) [Not 24/7]",
-    "type": "News",
-    "url": "https://stream.skynewsarabia.com/vertical/vertical.m3u8",
-    "img": "https://i.imgur.com/FjtzQQs.png"
-  },
-  {
-    "name": "TRT Arabi (1080p) [Not 24/7]",
-    "type": "News",
-    "url": "https://tv-trtarabi.medya.trt.com.tr/master.m3u8",
-    "img": "https://i.imgur.com/dEfI2M9.png"
   },
   {
     "name": "Al Arabiya Business (1080p)",
