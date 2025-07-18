@@ -1,5 +1,5 @@
 {
-  "date": "2025-07-17 21:31:01",
+  "date": "2025-07-18 06:12:55",
   "channels": {
     "STREAMING": [
       {
@@ -2441,21 +2441,21 @@
         "logo": "https://cdn.m3u.cl/logo/4_Retro_Plus_TV.png",
         "group": "NACIONAL",
         "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
-        "url": "https://tls-cl.cdnz.cl/retroplus16@grupoz.cl_retrolive/live/playlist.m3u8?PlaylistM3UCL"
+        "url": "https://tls-cl.cdnz.cl/retroplustvuno/live/playlist.m3u8"
       },
       {
         "name": "Retro Plus TV 2",
         "logo": "https://cdn.m3u.cl/logo/5_Retro_Plus_TV_Senal_2.png",
         "group": "NACIONAL",
         "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
-        "url": "https://live20.bozztv.com/akamaissh101/ssh101/retroplustv2/playlist.m3u8?PlaylistM3UCL"
+        "url": "https://tls-cl.cdnz.cl/retroplustvdos/live/playlist.m3u8"
       },
       {
         "name": "Retro Plus TV 3",
         "logo": "https://cdn.m3u.cl/logo/465_Retro_Plus_TV_Senal_3.png",
         "group": "NACIONAL",
         "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
-        "url": "https://live20.bozztv.com/akamaissh101/ssh101/retroplustv03/playlist.m3u8?PlaylistM3UCL"
+        "url": "https://tls-cl.cdnz.cl/retroplustvtres/live/playlist.m3u8"
       },
       {
         "name": "VClassicTV",
@@ -2477,13 +2477,6 @@
         "group": "NACIONAL",
         "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
         "url": "https://tls-cl.cdnz.cl/planetatv/live/playlist.m3u8?PlaylistM3UCL"
-      },
-      {
-        "name": "Molina TV",
-        "logo": "https://cdn.m3u.cl/logo/1249_Molina_TV.png",
-        "group": "NACIONAL",
-        "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
-        "url": "https://marine2.miplay.cl/molinatv/playlist.m3u8?PlaylistM3UCL"
       },
       {
         "name": "Nova TV Canal 7",
@@ -2677,25 +2670,18 @@
         "url": "https://cdn-live.mundogo.cl/tycsports/tycsports.mpd"
       },
       {
-        "name": "FOX SPORT",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/b/be/Logo_Fox_Sports_Argentina_2023.png",
-        "group": "DEPORTES",
-        "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
-        "url": "http://181.78.27.128:8000/play/a02t/index.m3u8"
-      },
-      {
         "name": "FOX SPORTS 2",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Fox_Sports_2_Argentina_2023.svg/1200px-Fox_Sports_2_Argentina_2023.svg.png",
         "group": "DEPORTES",
         "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
-        "url": "http://181.78.27.128:8000/play/a02r/index.m3u8"
+        "url": "http://tvlatino.club:2082/borme11/sCSfGFHefApa/513264.ts"
       },
       {
         "name": "FOX SPORT 3",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Fox_Sports_3_Argentina_2023.svg/250px-Fox_Sports_3_Argentina_2023.svg.png",
         "group": "DEPORTES",
         "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
-        "url": "http://181.78.27.128:8000/play/a02s/index.m3u8"
+        "url": "http://tvlatino.club:2082/borme11/sCSfGFHefApa/513267.ts"
       },
       {
         "name": "GOL TV",
@@ -2814,18 +2800,18 @@
         "url": "http://higherpro.xyz:8080/live/56956478056/270924ztv/54366.m3u8"
       },
       {
+        "name": "group-title=\"CINE Y SERIES\", +CINE",
+        "logo": "https://cdn.m3u.cl/logo/1435__Cine.png",
+        "group": "CINE Y SERIES",
+        "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
+        "url": "https://tv.arkeo.cl:19360/8128/8128.m3u8"
+      },
+      {
         "name": "CLARO CINEMA",
         "logo": "https://th.bing.com/th/id/R.7446f227527b5082427fc9e32ba65a8e?rik=10qKysXSMsYRKQ&pid=ImgRaw&r=0",
         "group": "CINE Y SERIES",
         "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
         "url": "http://200.60.124.19:29000/play/a02b/index.m3u8"
-      },
-      {
-        "name": "PRIDE TV",
-        "logo": "https://cdn.m3u.cl/logo/1692_PRIDEtv_Latam.png",
-        "group": "CINE Y SERIES",
-        "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
-        "url": "https://xui-backend.energeek.cl/live/dem0pRideTVweb/x7Yu50WeVn/16.m3u8?PlaylistM3UCL"
       },
       {
         "name": "STAR CHANNEL",
