@@ -1,5 +1,5 @@
 {
-  "date": "2025-07-17 21:57:38",
+  "date": "2025-07-18 07:20:45",
   "channels": {
     "Uncategorized": [
       {
@@ -5187,6 +5187,13 @@
         "url": "https://0472.org/hls/cgtna.m3u8"
       },
       {
+        "name": "CCTV5+",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "央视频道",
+        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
+        "url": "https://piccpndali.v.myalicdn.com/audio/cctv5plus_2.m3u8"
+      },
+      {
         "name": "CCTV13",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "央视频道",
@@ -5194,11 +5201,11 @@
         "url": "https://event.pull.hebtv.com/jishi/cp1.m3u8"
       },
       {
-        "name": "CCTV风云足球",
+        "name": "CCTV14",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "央视频道",
         "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://epg.pw/stream/ac8062ec9484078061d3bef507c15a423ac57ae4144e3fcc4b0a198dd420f911.m3u8"
+        "url": "https://event.pull.hebtv.com/jishi/cp2.m3u8"
       }
     ],
     "备用频道": [
@@ -6031,13 +6038,6 @@
         "url": "http://home.wwang.pw:35455/itv/1000000002000004097.m3u8?cdn=ystenlive"
       },
       {
-        "name": "广西卫视",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "卫视频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://hlscdn.liangtv.cn/live/de0f97348eb84f62aa6b7d8cf0430770/dd505d87880c478f901f38560ca4d4e6.m3u8"
-      },
-      {
         "name": "山东教育",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "卫视频道",
@@ -6845,20 +6845,6 @@
         "group": "数字频道",
         "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
         "url": "https://gdcucc.v1.mk/gdcucc/brtv8k.m3u8"
-      },
-      {
-        "name": "中国电影频道",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "数字频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://live.tvfix.org/live/cmc/index.m3u8"
-      },
-      {
-        "name": "美亚电影台",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "数字频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://live.tvfix.org/live/mydy/index.m3u8"
       }
     ],
     "港澳台频道": [
@@ -8991,6 +8977,13 @@
         "url": "http://1.94.31.214:35455/yy/1354889019"
       },
       {
+        "name": "黑莓电影",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "电影频道",
+        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
+        "url": "https://epg.pw/stream/ffcb6572863f0745a7369fbd9d901f1dfd0ab8fab8bad8bebb4e01c90b303c47.m3u8"
+      },
+      {
         "name": "龙华电影",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "电影频道",
@@ -8998,18 +8991,25 @@
         "url": "https://cdn8.163189.xyz/live/lhdy/stream.m3u8"
       },
       {
-        "name": "哈尔滨影视",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "电影频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://stream.hrbtv.net/yspd/sd/live.m3u8"
-      },
-      {
         "name": "浙江影视",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "电影频道",
         "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
         "url": "https://ali-m-l.cztv.com/channels/lantian/channel005/1080p.m3u8"
+      },
+      {
+        "name": "美亚电影",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "电影频道",
+        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
+        "url": "https://live.tvfix.org/live/mydy/index.m3u8"
+      },
+      {
+        "name": "豆瓣电影",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "电影频道",
+        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
+        "url": "https://live.tvfix.org/live/cmc/index.m3u8"
       },
       {
         "name": "韩国电影1",
@@ -10380,13 +10380,6 @@
         "url": "https://568slnjf.live.sxmty.com/live/hls/90c8b2efeb164cc0a6c2409eed668d6b/f77cbb89ec57435b9ba4c47589c16e4f-1.m3u8"
       },
       {
-        "name": "仁寿综合",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "地方频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://play.scrstv.com.cn/DT/live.m3u8?auth_key=60001724663204-0-0-c1cc4ded9841ac34f63cdbd3aec647ef"
-      },
-      {
         "name": "任丘综合",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "地方频道",
@@ -10406,13 +10399,6 @@
         "group": "地方频道",
         "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
         "url": "https://tvfile.scjgtv.cn/nmip-media/channellive/channel104126/playlist.m3u8"
-      },
-      {
-        "name": "北京新闻",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "地方频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://satellitepull.cnr.cn/live/wxbjxwgb/playlist.m3u8"
       },
       {
         "name": "北京生活",
@@ -10464,18 +10450,11 @@
         "url": "https://tvpull.hmgbtv.com/hmtv/channel108259412c6a6711/playlist.m3u8"
       },
       {
-        "name": "哈尔滨生活",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "地方频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://stream.hrbtv.net/shpd/sd/live.m3u8"
-      },
-      {
         "name": "太谷新闻综合",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "地方频道",
         "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://p2.vzan.com/slowlive/596867413819827251/live.m3u8?zbid=1725814272&amp;tpid=1516989100&amp;type=0"
+        "url": "https://p2.vzan.com/slowlive/596867413819827251/live.m3u8?zbid=1725814272&tpid=1516989100&type=0"
       },
       {
         "name": "宁夏经济",
@@ -10497,13 +10476,6 @@
         "group": "地方频道",
         "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
         "url": "https://jwcdnqx.hebyun.com.cn/live/pqzh/1500k/tzwj_video.m3u8"
-      },
-      {
-        "name": "平遥新闻综合",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "地方频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://tntgjhjb.live.sxmty.com/live/hls/3a4585ac11ec4e1bb07b419101b370c3/baf63e2b313440c2a25d7859f9b73b05-1.m3u8?zshanxd"
       },
       {
         "name": "广元公共",
@@ -10539,6 +10511,13 @@
         "group": "地方频道",
         "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
         "url": "https://play.kankanlive.com/live/1702454377323961.m3u8"
+      },
+      {
+        "name": "无锡娱乐",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "地方频道",
+        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
+        "url": "https://stream.thmz.com/wxtv2/playlist.m3u8"
       },
       {
         "name": "无锡生活",
@@ -10653,13 +10632,6 @@
         "url": "https://p2hs.vzan.com/slowlive/317913155078575177/live.m3u8"
       },
       {
-        "name": "淮阴综合",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "地方频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://huaiyin-tv-replay.cm.jstv.com/huaiyin-tv/huaiyinf.m3u8"
-      },
-      {
         "name": "清河新闻综合",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "地方频道",
@@ -10674,6 +10646,13 @@
         "url": "https://jwcdnqx.hebyun.com.cn/live/qinghe1/1500k/tzwj_video.m3u8"
       },
       {
+        "name": "湖州新闻综合",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "地方频道",
+        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
+        "url": "https://hzcm-live.media.hugd.com/3f5fa7d64c7c46a38c6bd8ad35e836cc/65128273761b4731ae53729ea6dcf932.m3u8?auth_key=2277598215-9d21c15111244bea8d298c361d31a72e-0-d031198f58d44b0e91ba2e3f3b188865"
+      },
+      {
         "name": "灌阳新闻综合",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "地方频道",
@@ -10685,7 +10664,7 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "地方频道",
         "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://play.kankanlive.com/live/1680577080200944.m3u8"
+        "url": "https://play.kankanlive.com/live/1659926941626981.m3u8"
       },
       {
         "name": "苍南新闻综合",
@@ -10716,13 +10695,6 @@
         "url": "https://liveplay-srs.voc.com.cn/hls/tv/183_554704.m3u8"
       },
       {
-        "name": "西和综合",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "地方频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://play.kankanlive.com/live/1659926941626981.m3u8"
-      },
-      {
         "name": "西宁新闻综合",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "地方频道",
@@ -10735,6 +10707,13 @@
         "group": "地方频道",
         "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
         "url": "https://liveout.xntv.tv/a65jur/90p2i1.m3u8"
+      },
+      {
+        "name": "西峰综合",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "地方频道",
+        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
+        "url": "https://play.kankanlive.com/live/1683944827526991.m3u8"
       },
       {
         "name": "诸暨新闻综合",
@@ -12614,11 +12593,25 @@
     ],
     "儿童频道": [
       {
+        "name": "中华小当家",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "儿童频道",
+        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
+        "url": "https://live.iill.top/huya/11342413"
+      },
+      {
         "name": "火影忍者",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "儿童频道",
         "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
         "url": "https://hd.ijycnd.com/play/Yer3NWLa/index.m3u8"
+      },
+      {
+        "name": "猫和老鼠",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "儿童频道",
+        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
+        "url": "https://live.iill.top/huya/11352879"
       },
       {
         "name": "黑龙江少儿",
@@ -12662,7 +12655,7 @@
     ],
     "更新时间": [
       {
-        "name": "2025-07-17 18:33:54",
+        "name": "2025-07-18 06:39:41",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "更新时间",
         "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
