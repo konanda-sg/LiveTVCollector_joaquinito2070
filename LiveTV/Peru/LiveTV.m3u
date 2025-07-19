@@ -773,8 +773,6 @@ https://vivatv.juanjuiserver.com:3655/live/canal39live.m3u8
 https://vivatv.juanjuiserver.com:3657/live/a1televisionlive.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/eXYH1gs.jpeg" group-title="TV PERU",120 | 3 MEDIA TV |
 https://live-evg25.tv360.bitel.com.pe/bitel/mediatv/chunks.m3u8
-#EXTINF:-1 tvg-logo="http://imgfz.com/i/apzgqT4.jpeg" group-title="TV PERU",121 | NQ TV |
-https://live.obslivestream.com/nq/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HnyY9Iq.jpeg" group-title="TV PERU",125 | RTV LIBERTAD YURIMAGUAS |
 https://live.obslivestream.com/rtvlibertad/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qVFkBJd.jpeg" group-title="TV PERU",125.1 | RTV LIBERTAD IQUITOS |
@@ -815,18 +813,14 @@ http://185.189.225.150:85/Antena3HD/index.m3u8
 http://planettvweb.com:8091/sebastianmartinez/6tvs33u3/11826
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4mVe6Ke.jpeg" group-title="TV ESPANA",5.2 | ANTENA 3 ᴴᴰ 3 |
 http://planettvweb.com:8091/sebastianmartinez/6tvs33u3/20878
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HhjCcM6.jpeg" group-title="TV ESPANA",5.4 | ANTENA 3 INTER |
-http://181.78.109.48:8000/play/a00f/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/u7aBN9v.jpeg" group-title="TV ESPANA",6 | CUATRO ᴴᴰ |
 http://185.189.225.150:85/CuatroHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3y0iqOx.jpeg" group-title="TV ESPANA",7 | TELECINCO ᴴᴰ |
 http://185.189.225.150:85/TeleCincoHD/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Ll9Ulnb.jpeg" group-title="TV ESPANA",8 | LA SEXTA ᴴᴰ |
 http://185.189.225.150:85/LaSexta/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Fhu5OQS.jpeg" group-title="TV ESPANA",8.1 | LA SEXTA |
-http://kronostv.pro:8080/Hugo2024/Hugo2024/39893.ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iROMK11.jpeg" group-title="TV ESPANA",9 | TELEMADRID |
-https://telemadrid-23-secure2.akamaized.net/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iROMK11.jpeg" group-title="TV ESPANA",9 | TELEMADRID INT |
+https://new-international-23-secure2.akamaized.net/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/P5UMZuq.jpeg" group-title="TV NOTICIAS",1 | AMX NOTICIAS ᴴᴰ
 https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5ingyWI.jpeg" group-title="TV NOTICIAS",2 | NOTICIAS CARACOL ᴴᴰ
@@ -862,7 +856,7 @@ https://directes-tv-int.3catdirectes.cat/live-content/canal324-hls/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6vBtcjW.jpeg" group-title="TV NOTICIAS",23 | FRANCE 24 ᴴᴰ
 https://mexside-stream.b-cdn.net/france24/france24/play.m3u8
 #EXTINF:-1 tvg-logo="http://imgfz.com/i/M3eCHbo.jpeg" group-title="TV NOTICIAS",25 | EURONEWS ᴴᴰ
-https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews-spa/b3151d28-4143-4799-9ed9-17a8b5a64096/5.m3u8
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews-spa/2514df4b-38ed-4460-abcb-7a4a0ba98b66/5.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PcOrpX6.jpeg" group-title="TV NOTICIAS",27 | ACTUALIDAD RT ᴴᴰ
 https://rt-esp.rttv.com/live/rtesp/playlist_1600Kb.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PcOrpX6.jpeg" group-title="TV NOTICIAS",28 | ACTUALIDAD RT (ALT)
