@@ -1,5 +1,5 @@
 {
-  "date": "2025-07-20 06:19:47",
+  "date": "2025-07-20 13:40:44",
   "channels": {
     "STREAMING": [
       {
@@ -280,6 +280,24 @@
         "group": "AP TV",
         "source": "https://raw.githubusercontent.com/LiveTvWorldwide/IPTV/refs/heads/main/live.m3u",
         "url": "http://ahostingportal.com:8000/3875147095/3458182665/3017"
+      }
+    ],
+    "VIP": [
+      {
+        "name": "ZEE TV HD (UK)",
+        "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhA4S-Et1bVPVl5rpj1wY_gU6sja3qkE4HIyPRkd6khf8k2Lhs2CgZsRVGyGFEy9R-X0F3FYct3q8AuTAQ4J-ANHXeQTLM59tP17OnzQZ73ehzD03y_XxPDRLYrnTvPzWJg41_YPa4g0sfFPljfbGC2xSZE0BQOpdfPFo-P2ykbbSgx0WmYSrhidM9aDLg/s320/1000088673.jpg",
+        "group": "VIP",
+        "source": "https://raw.githubusercontent.com/LiveTvWorldwide/IPTV/refs/heads/main/live.m3u",
+        "url": "http://vipvfcb.xyz:8080/VIP0144172133269238/61736346009136/1753"
+      }
+    ],
+    "LINE": [
+      {
+        "name": "SONY (AF)",
+        "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjr9SqsNHe8lgqHzyLiQ-6bo7bevc7QbTXf31T8v_QNvGY-gAJEjWGJYM9nlYc78XHWgc7cRjvhi1uwYnElT0tutHwLZs6Zv2jCcB8hnBce1KMBzUKtT50TolZFZZu4CtW9uDPCkwvxjvIZyUIH6S_CzditlMAMFcZupLo2F1CcxB9IAH7KuajabnDbCpo/s320/Picsart_24-11-02_13-51-54-942.jpg",
+        "group": "LINE",
+        "source": "https://raw.githubusercontent.com/LiveTvWorldwide/IPTV/refs/heads/main/live.m3u",
+        "url": "http://line.furious-pro.cc:80/07A960/15F07A/1480228"
       }
     ],
     "film": [
@@ -777,7 +795,7 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "notizie",
         "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/heads/master/output/rakuten.m3u",
-        "url": "https://dab794fcc38647efbf5f86bf01fa5c21.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6570/bitok/eyJzdGlkIjoiOGRmY2M2MDgtNDRiMy00ZThkLWIyYzEtN2YwODZhZDRmNmI3IiwibWt0IjoiaXQiLCJjaCI6NjU3MCwicHRmIjo1fQ%3D%3D/25674/euronews-it.m3u8"
+        "url": "https://dab794fcc38647efbf5f86bf01fa5c21.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6570/bitok/eyJzdGlkIjoiMzNkYWJhNzUtNTFkMy00OTJjLWE4YzYtMWNhMGQ1ZDQzYTQ4IiwibWt0IjoiaXQiLCJjaCI6NjU3MCwicHRmIjo1fQ%3D%3D/25674/euronews-it.m3u8"
       },
       {
         "name": "The Reuters 60",
@@ -812,7 +830,7 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "notizie",
         "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/heads/master/output/rakuten.m3u",
-        "url": "https://c3c275b999764df8a2dd55ffe2996818.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576/bitok/eyJzdGlkIjoiODkxNTkxMjUtY2RkMy00YzU0LTlhYTUtMGJiOGY0MTkyMmRlIiwibWt0IjoiaXQiLCJjaCI6NjU4NywicHRmIjo1fQ%3D%3D/26036/africanews-en.m3u8"
+        "url": "https://c3c275b999764df8a2dd55ffe2996818.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576/bitok/eyJzdGlkIjoiNGM2N2EzNjMtMGRmMi00NGYyLTk4NzEtMTI3NWE0YzA0NzFkIiwibWt0IjoiaXQiLCJjaCI6NjU4NywicHRmIjo1fQ%3D%3D/26036/africanews-en.m3u8"
       },
       {
         "name": "CGTN",
