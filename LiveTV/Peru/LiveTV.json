@@ -1,5 +1,5 @@
 {
-  "date": "2025-07-22 22:04:47",
+  "date": "2025-07-23 07:41:52",
   "channels": {
     "News": [
       {
@@ -1523,6 +1523,13 @@
         "url": "https://live.obslivestream.com/supercanal/index.m3u8"
       },
       {
+        "name": "Telemicro Internacional",
+        "logo": "https://i.imgur.com/507tvMY.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
+        "url": "http://45.190.13.8:80/TelemicroHD/index.m3u8"
+      },
+      {
         "name": "Teleselva",
         "logo": "https://i.imgur.com/cu7hTn8.png",
         "group": "Undefined",
@@ -2440,18 +2447,25 @@
         "url": "https://live-evg25.tv360.bitel.com.pe/bitel/ribere%C3%B1a/chunks.m3u8"
       },
       {
-        "name": "42.1 | LA RIBEREÑA TV |",
+        "name": "43 | LA RIBEREÑA TV |",
         "logo": "https://i.imgur.com/OHsbCCv.jpeg",
         "group": "TV PERU",
         "source": "https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u",
-        "url": "https://vivatv.juanjuiserver.com:3149/live/luandi2025live.m3u8"
+        "url": "https://7.innovatestream.pe:19360/riberenatv/riberenatv.m3u8"
       },
       {
-        "name": "43 | RADIO UNO |",
+        "name": "44 | RADIO UNO |",
         "logo": "http://imgfz.com/i/PjShtw5.jpeg",
         "group": "TV PERU",
         "source": "https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u",
         "url": "https://live-evg25.tv360.bitel.com.pe/bitel/radiounotv/chunks.m3u8"
+      },
+      {
+        "name": "46.1 |  SUPER TV ᴴᴰ |",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "TV PERU",
+        "source": "https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u",
+        "url": "https://play.agenciastreaming.com:8081/superhits/tracks-v1a1/mono.m3u8"
       },
       {
         "name": "49 | VITAL TV |",
@@ -2515,13 +2529,6 @@
         "group": "TV PERU",
         "source": "https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u",
         "url": "https://streamusmptv.ddns.net/live/stream.m3u8"
-      },
-      {
-        "name": "61 | USIL TV |",
-        "logo": "https://raw.githubusercontent.com/jesaro15/iptv/main/images/Usil2.jpg",
-        "group": "TV PERU",
-        "source": "https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u",
-        "url": "https://per01-lim01.servidor.stream/usiltv/index.m3u8"
       },
       {
         "name": "62 | CAYETANO PLUS |",
@@ -2657,6 +2664,13 @@
         "url": "https://live-evg25.tv360.bitel.com.pe/bitel/bethel/bitel/bethel_ori_480p/chunks.m3u8"
       },
       {
+        "name": "89.1 | NUEVO TIEMPO |",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "TV PERU",
+        "source": "https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u",
+        "url": "https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/chunklist_b3628000_slspa.m3u8"
+      },
+      {
         "name": "90.1 | AGRO TV |",
         "logo": "https://raw.githubusercontent.com/jesaro15/iptv/main/images/agroTV.jpg",
         "group": "TV PERU",
@@ -2676,6 +2690,13 @@
         "group": "TV PERU",
         "source": "https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u",
         "url": "https://ca2.inka.net.pe/ctvperu-live/index.fmp4.m3u8"
+      },
+      {
+        "name": "93.1 | MEGA TV CHIMBOTE |",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "TV PERU",
+        "source": "https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u",
+        "url": "https://play.agenciastreaming.com:8081/megatvchimbote/tracks-v1a1/mono.m3u8"
       },
       {
         "name": "94 | PALMERAS TV |",
@@ -2825,6 +2846,13 @@
         "url": "https://live-evg25.tv360.bitel.com.pe/bitel/inkavision/bitel/inkavision_ori_480p/chunks.m3u8"
       },
       {
+        "name": "126.1 | INKAVISION ALT |",
+        "logo": "http://imgfz.com/i/Dk3PgdU.jpeg",
+        "group": "TV PERU",
+        "source": "https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u",
+        "url": "https://play.agenciastreaming.com:8081/inkavision/tracks-v1a1/mono.m3u8"
+      },
+      {
         "name": "127 | GTV PISCO ᴴᴰ |",
         "logo": "https://raw.githubusercontent.com/jesaro15/iptv/main/images/GtvPisco.jpg",
         "group": "TV PERU",
@@ -2879,6 +2907,27 @@
         "group": "TV PERU",
         "source": "https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u",
         "url": "https://live.obslivestream.com/actpro/tracks-v1a1/mono.m3u8"
+      },
+      {
+        "name": "139 | CANAL 9 SELVA CENTRAL |",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "TV PERU",
+        "source": "https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u",
+        "url": "https://play.agenciastreaming.com:8081/canal9selvacentral/tracks-v1a1/mono.m3u8"
+      },
+      {
+        "name": "140 | TV MUNDO |",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "TV PERU",
+        "source": "https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u",
+        "url": "https://v4.tustreaming.cl/tvmundo/tracks-v1a1/mono.ts.m3u8"
+      },
+      {
+        "name": "141 | EDUCA SM ᴴᴰ |",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "TV PERU",
+        "source": "https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u",
+        "url": "https://tv.perustream.com:3056/stream/play.m3u8"
       }
     ],
     "TV ESPANA": [

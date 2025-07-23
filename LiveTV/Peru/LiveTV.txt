@@ -1974,14 +1974,19 @@ URL: https://live-evg25.tv360.bitel.com.pe/bitel/ribere%C3%B1a/chunks.m3u8
 Logo: https://raw.githubusercontent.com/jesaro15/iptv/main/images/Riberena1.jpg
 Source: https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u
 --------------------------------------------------
-Name: 42.1 | LA RIBEREÑA TV |
-URL: https://vivatv.juanjuiserver.com:3149/live/luandi2025live.m3u8
+Name: 43 | LA RIBEREÑA TV |
+URL: https://7.innovatestream.pe:19360/riberenatv/riberenatv.m3u8
 Logo: https://i.imgur.com/OHsbCCv.jpeg
 Source: https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u
 --------------------------------------------------
-Name: 43 | RADIO UNO |
+Name: 44 | RADIO UNO |
 URL: https://live-evg25.tv360.bitel.com.pe/bitel/radiounotv/chunks.m3u8
 Logo: http://imgfz.com/i/PjShtw5.jpeg
+Source: https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u
+--------------------------------------------------
+Name: 46.1 |  SUPER TV ᴴᴰ |
+URL: https://play.agenciastreaming.com:8081/superhits/tracks-v1a1/mono.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u
 --------------------------------------------------
 Name: 49 | VITAL TV |
@@ -2027,11 +2032,6 @@ Source: https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u
 Name: 60 | USMP TV |
 URL: https://streamusmptv.ddns.net/live/stream.m3u8
 Logo: https://raw.githubusercontent.com/jesaro15/iptv/main/images/Usmp.jpg
-Source: https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u
---------------------------------------------------
-Name: 61 | USIL TV |
-URL: https://per01-lim01.servidor.stream/usiltv/index.m3u8
-Logo: https://raw.githubusercontent.com/jesaro15/iptv/main/images/Usil2.jpg
 Source: https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u
 --------------------------------------------------
 Name: 62 | CAYETANO PLUS |
@@ -2129,6 +2129,11 @@ URL: https://live-evg25.tv360.bitel.com.pe/bitel/bethel/bitel/bethel_ori_480p/ch
 Logo: http://imgfz.com/i/b6DzWyF.jpeg
 Source: https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u
 --------------------------------------------------
+Name: 89.1 | NUEVO TIEMPO |
+URL: https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/chunklist_b3628000_slspa.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u
+--------------------------------------------------
 Name: 90.1 | AGRO TV |
 URL: https://play.agenciastreaming.com:8081/agrotv/tracks-v1a1/mono.m3u8
 Logo: https://raw.githubusercontent.com/jesaro15/iptv/main/images/agroTV.jpg
@@ -2142,6 +2147,11 @@ Source: https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u
 Name: 92 | CTV |
 URL: https://ca2.inka.net.pe/ctvperu-live/index.fmp4.m3u8
 Logo: http://imgfz.com/i/MCt2cPG.jpeg
+Source: https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u
+--------------------------------------------------
+Name: 93.1 | MEGA TV CHIMBOTE |
+URL: https://play.agenciastreaming.com:8081/megatvchimbote/tracks-v1a1/mono.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u
 --------------------------------------------------
 Name: 94 | PALMERAS TV |
@@ -2249,6 +2259,11 @@ URL: https://live-evg25.tv360.bitel.com.pe/bitel/inkavision/bitel/inkavision_ori
 Logo: http://imgfz.com/i/Dk3PgdU.jpeg
 Source: https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u
 --------------------------------------------------
+Name: 126.1 | INKAVISION ALT |
+URL: https://play.agenciastreaming.com:8081/inkavision/tracks-v1a1/mono.m3u8
+Logo: http://imgfz.com/i/Dk3PgdU.jpeg
+Source: https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u
+--------------------------------------------------
 Name: 127 | GTV PISCO ᴴᴰ |
 URL: https://live-evg25.tv360.bitel.com.pe/bitel/gtvpisco/chunks.m3u8
 Logo: https://raw.githubusercontent.com/jesaro15/iptv/main/images/GtvPisco.jpg
@@ -2287,6 +2302,21 @@ Source: https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u
 Name: 138 | TARAPOTO DIGITAL |
 URL: https://live.obslivestream.com/actpro/tracks-v1a1/mono.m3u8
 Logo: https://i.imgur.com/YC3BbNX.jpeg
+Source: https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u
+--------------------------------------------------
+Name: 139 | CANAL 9 SELVA CENTRAL |
+URL: https://play.agenciastreaming.com:8081/canal9selvacentral/tracks-v1a1/mono.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u
+--------------------------------------------------
+Name: 140 | TV MUNDO |
+URL: https://v4.tustreaming.cl/tvmundo/tracks-v1a1/mono.ts.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u
+--------------------------------------------------
+Name: 141 | EDUCA SM ᴴᴰ |
+URL: https://tv.perustream.com:3056/stream/play.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u
 --------------------------------------------------
 
@@ -2408,6 +2438,11 @@ Source: https://iptv-org.github.io/iptv/countries/pe.m3u
 Name: Super Canal Yurimaguas (720p) [Not 24/7]
 URL: https://live.obslivestream.com/supercanal/index.m3u8
 Logo: https://i.imgur.com/eotfCMd.png
+Source: https://iptv-org.github.io/iptv/countries/pe.m3u
+--------------------------------------------------
+Name: Telemicro Internacional
+URL: http://45.190.13.8:80/TelemicroHD/index.m3u8
+Logo: https://i.imgur.com/507tvMY.png
 Source: https://iptv-org.github.io/iptv/countries/pe.m3u
 --------------------------------------------------
 Name: Teleselva
