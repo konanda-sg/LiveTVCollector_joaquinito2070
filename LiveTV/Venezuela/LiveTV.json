@@ -1,5 +1,5 @@
 {
-  "date": "2025-07-22 14:07:31",
+  "date": "2025-07-23 07:52:40",
   "channels": {
     "News": [
       {
@@ -395,6 +395,13 @@
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/ve.m3u",
         "url": "https://59d39900ebfb8.streamlock.net/valetv_480/valetv_480/playlist.m3u8"
+      },
+      {
+        "name": "Venevision (480p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Logotipo_de_Venevisi%C3%B3n.svg/512px-Logotipo_de_Venevisi%C3%B3n.svg.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/countries/ve.m3u",
+        "url": "https://venevision-ioriver-cdn.encoders.immergo.tv/3/streamPlaylist.m3u8"
       },
       {
         "name": "Venevisión Internacional (720p)",
@@ -1117,6 +1124,13 @@
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/ve.m3u",
         "url": "https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/STUDIO_UNIVERSAL/index.m3u8"
+      },
+      {
+        "name": "Telemicro Internacional",
+        "logo": "https://i.imgur.com/507tvMY.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/ve.m3u",
+        "url": "http://45.190.13.8:80/TelemicroHD/index.m3u8"
       },
       {
         "name": "UCL (720p)",
