@@ -547,141 +547,345 @@
   },
   {
     "name": "Astro Aura",
-    "type": "Indonesia",
+    "type": "INDONESIA",
     "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/609/default_ott.mpd",
     "img": "https://upload.wikimedia.org/wikipedia/commons/5/55/Astro_Aura_%282024%29.png"
   },
   {
     "name": "Astro Rania",
-    "type": "Indonesia",
+    "type": "INDONESIA",
     "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/608/default_ott.mpd",
     "img": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Astro_Rania_%282024%29.png"
   },
   {
-    "name": "JTV",
-    "type": "Indonesia",
-    "url": "https://streaming.indihometv.com/atm/DASH/jtv/manifest.mpd",
-    "img": "https://iptv.urfan.web.id/logo/jtv.png"
+    "name": "Indonesiana TV",
+    "type": "INDONESIA",
+    "url": "https://tvstreamcast.com/indonesiana.m3u8",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3xG6JT4ibV7X7y6U-h7T5HSRk4Ie8fb60Bp9mF3dHSAjO19tlglhVVY4&s=10"
   },
   {
-    "name": "SCTV HD",
-    "type": "Indonesia",
-    "url": "https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd",
-    "img": "https://iptv.urfan.web.id/logo/sctv.png"
+    "name": "MNCTV",
+    "type": "INDONESIA",
+    "url": "https://d2xz2v5wuvgur6.cloudfront.net/out/v1/d6b026ad50f14b7f9af5ddd5450007d4/index.mpd",
+    "img": "https://www.visionplus.id/images/repository/949/49949-SNAPSHOT-l.png"
   },
   {
-    "name": "Indosiar HD",
-    "type": "Indonesia",
-    "url": "https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd",
-    "img": "https://iptv.urfan.web.id/logo/indosiar.png"
+    "name": "IMC",
+    "type": "INDONESIA",
+    "url": "https://cdn08jtedge.indihometv.com/dassdvr/130/imc/manifest.mpd",
+    "img": "https://raw.githubusercontent.com/mystery75/logo/main/ImcV3.png"
   },
   {
-    "name": "Moji",
-    "type": "Indonesia",
-    "url": "https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd",
-    "img": "https://iptv.urfan.web.id/logo/moji.png"
+    "name": "Nusantara",
+    "type": "INDONESIA",
+    "url": "https://cdnjkt913.transvision.co.id:1000/live/master/3/4028c685758bcfff0175ab9d2b374926/manifest.mpd",
+    "img": "https://www.transvision.co.id/img/channel/new/NUSANTARA.jpg"
   },
   {
-    "name": "Mentari TV",
-    "type": "Indonesia",
-    "url": "https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd",
-    "img": "https://iptv.urfan.web.id/logo/mentari.png"
+    "name": "Nusantara TV",
+    "type": "INDONESIA",
+    "url": "https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Logo_ntv.png/1200px-Logo_ntv.png"
   },
   {
-    "name": "ANTV HD",
-    "type": "Indonesia",
-    "url": "https://streaming.indihometv.com/atm/DASH/ANTV/manifest.mpd",
-    "img": "https://iptv.urfan.web.id/logo/antv.png"
+    "name": "VTV",
+    "type": "INDONESIA",
+    "url": "https://flv.intechmedia.net/live/ch107.m3u8",
+    "img": "https://github.com/riotryulianto/iptv-playlists/blob/main/icons/vtv.png?raw=true"
   },
   {
-    "name": "tvOne HD",
-    "type": "Indonesia",
-    "url": "https://streaming.indihometv.com/atm/DASH/tvone/manifest.mpd",
-    "img": "https://iptv.urfan.web.id/logo/tvone.png"
-  },
-  {
-    "name": "Trans TV HD",
-    "type": "Indonesia",
-    "url": "https://streaming.indihometv.com/atm/DASH/transtv/manifest.mpd",
-    "img": "https://iptv.urfan.web.id/logo/transtv.png"
-  },
-  {
-    "name": "Trans 7 HD",
-    "type": "Indonesia",
-    "url": "https://streaming.indihometv.com/atm/DASH/trans7/manifest.mpd",
-    "img": "https://iptv.urfan.web.id/logo/trans7.png"
-  },
-  {
-    "name": "NET HD",
-    "type": "Indonesia",
-    "url": "https://cdn08jtedge.indihometv.com/dassdvr/133/net/manifest.mpd",
-    "img": "https://iptv.urfan.web.id/logo/net.png"
-  },
-  {
-    "name": "CNN Indonesia",
-    "type": "Indonesia",
-    "url": "https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/index.m3u8",
-    "img": "https://iptv.urfan.web.id/logo/cnnid.png"
-  },
-  {
-    "name": "CNBC Indonesia",
-    "type": "Indonesia",
-    "url": "https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/index.m3u8",
-    "img": "https://iptv.urfan.web.id/logo/cnbcid.png"
-  },
-  {
-    "name": "Metro TV HD",
-    "type": "Indonesia",
-    "url": "http://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8",
-    "img": "https://iptv.urfan.web.id/logo/metrotv.png"
-  },
-  {
-    "name": "Magna Channel",
-    "type": "Indonesia",
+    "name": "Magna",
+    "type": "INDONESIA",
     "url": "https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8",
-    "img": "https://iptv.urfan.web.id/logo/magna.png"
+    "img": "https://iili.io/JMp3eKg.png"
   },
   {
-    "name": "Metro Globe Network",
-    "type": "Indonesia",
-    "url": "https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8",
-    "img": "https://iptv.urfan.web.id/logo/mgn.png"
+    "name": "Bioskop Indonesia",
+    "type": "INDONESIA",
+    "url": "https://cdn08jtedge.indihometv.com/dassdvr/130/bioskopindonesia/manifest.mpd",
+    "img": "https://cdn4.mbahnunungonline.net/img/TAjYixM.png?v=1.0.0.1"
   },
   {
-    "name": "RTV HD",
-    "type": "Indonesia",
-    "url": "https://cdn09jtedge.indihometv.com/joss/130/rtv/index.m3u8",
-    "img": "https://iptv.urfan.web.id/logo/rtv.png"
+    "name": "Thrill",
+    "type": "INDONESIA",
+    "url": "http://202.147.193.244/live/eds/Thrill/sa_dash/Thrill.mpd",
+    "img": "https://www.visionplus.id/images/repository/609/609-LOGO-m.png"
   },
   {
-    "name": "MAXSTREAM",
-    "type": "Indonesia",
-    "url": "https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd",
-    "img": "https://iptv.urfan.web.id/logo/maxstream.png"
+    "name": "Allplay Movies",
+    "type": "INDONESIA",
+    "url": "https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1&referrer=https://www.indihometv.com/",
+    "img": "https://i.ibb.co.com/6KWD5xp/88d32b5e8822f73d3d394bdda25f9110-icon.jpg"
   },
   {
-    "name": "TVRI Nasional",
-    "type": "Indonesia",
+    "name": "AllPlay Entertaiment",
+    "type": "INDONESIA",
+    "url": "https://streaming.indihometv.com/atm/DASH/useeprime/manifest.mpd",
+    "img": "https://iili.io/JZIno1s.png"
+  },
+  {
+    "name": "TVRI",
+    "type": "INDONESIA",
     "url": "https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8",
-    "img": "https://iptv.urfan.web.id/logo/tvri.png"
+    "img": "https://iili.io/JMp3DJf.png"
   },
   {
     "name": "TVRI World",
-    "type": "Indonesia",
-    "url": "https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8",
-    "img": "https://iptv.urfan.web.id/logo/tvriworld.png"
+    "type": "INDONESIA",
+    "url": "https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8?checkedby:iptvcat.com",
+    "img": "https://i.imgur.com/h3RldTO.png"
   },
   {
-    "name": "TVRI Sport",
-    "type": "Indonesia",
-    "url": "https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8",
-    "img": "https://iptv.urfan.web.id/logo/tvrisport.png"
+    "name": "MOJI TV",
+    "type": "INDONESIA",
+    "url": "https://atemeshield1-voe.sysln.id/live/eds/MOJIOChannel/mpd/MOJIOChannel.mpd",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1024px-Moji_blue.svg.png"
   },
   {
-    "name": "RCTI HD+",
-    "type": "Indonesia",
-    "url": "https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti",
-    "img": "https://i.ibb.co.com/n6c3rtV/20240903-001501.jpg"
+    "name": "ANTV",
+    "type": "INDONESIA",
+    "url": "https://streaming.indihometv.com/atm/DASH/ANTV/manifest.mpd",
+    "img": "https://upload.wikimedia.org/wikipedia/id/f/fd/Antv_logo%282009%29.png"
+  },
+  {
+    "name": "Indosiar BRI liga",
+    "type": "INDONESIA",
+    "url": "https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd",
+    "img": "https://img.thesports.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png"
+  },
+  {
+    "name": "Trans 7",
+    "type": "INDONESIA",
+    "url": "https://streaming.indihometv.com/atm/DASH/trans7/manifest.mpd",
+    "img": "https://www.mncvision.id/userfiles/image/channel/channel_87.png"
+  },
+  {
+    "name": "TRANS TV",
+    "type": "INDONESIA",
+    "url": "https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8",
+    "img": "https://i.imgur.com/RnrimdT.png?v=1.0.0.1"
+  },
+  {
+    "name": "SCTV",
+    "type": "INDONESIA",
+    "url": "https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd",
+    "img": "https://raw.githubusercontent.com/kusnadipepenk/pajal/refs/heads/main/BurungGaruda.jpg"
+  },
+  {
+    "name": "Unnamed Channel",
+    "type": "INDONESIA",
+    "url": "https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/master.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "CNN INDONESIA",
+    "type": "INDONESIA",
+    "url": "http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8",
+    "img": "https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/cnnindo.png"
+  },
+  {
+    "name": "CNBC INDONESIA",
+    "type": "INDONESIA",
+    "url": "https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/master.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/id/3/35/CNBC_Indonesia.png"
+  },
+  {
+    "name": "Metro tv",
+    "type": "INDONESIA",
+    "url": "https://edge.medcom.id/live-edge/smil:metro.smil/chunklist_w1044588355_b1128000_sleng.m3u8",
+    "img": "https://www.mncvision.id/userfiles/image/channel/metro_tv.png"
+  },
+  {
+    "name": "METRO GLOBE NETWORK",
+    "type": "INDONESIA",
+    "url": "https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8",
+    "img": "https://thumbor.prod.vidiocdn.com/OKs6W73lGGE835lgmojVmts24NY=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8815/metro-globe-network-1ab3f1.jpg"
+  },
+  {
+    "name": "BTV",
+    "type": "INDONESIA",
+    "url": "https://b1news.beritasatumedia.com/Beritasatu/B1News_960x540.m3u8",
+    "img": "https://www.mncvision.id/userfiles/image/channel/channel_103.jpg"
+  },
+  {
+    "name": "Berita Satu News World",
+    "type": "INDONESIA",
+    "url": "https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8",
+    "img": "https://www.lyngsat.com/logo/tv/bb/berita-satu-news-channel-id.png"
+  },
+  {
+    "name": "BeritaSatu",
+    "type": "INDONESIA",
+    "url": "https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8?",
+    "img": "https://i.postimg.cc/d18L9D3X/warung-tvbox.png"
+  },
+  {
+    "name": "Jawa Pos TV",
+    "type": "INDONESIA",
+    "url": "https://jawapostv.siar.us/jawapostv/live/playlist.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/id/thumb/3/3b/Logo_Jawapos_TV.png/150px-Logo_Jawapos_TV.png"
+  },
+  {
+    "name": "Bungo TVN",
+    "type": "INDONESIA",
+    "url": "https://5bf7b725107e5.streamlock.net/bungotv/bungotv/playlist.m3u8?checkedby:iptvcat.com",
+    "img": "Bungo TVN"
+  },
+  {
+    "name": "Al-Iman TV",
+    "type": "INDONESIA",
+    "url": "https://tv.aliman.id/aliman/live.m3u8?checkedby:iptvcat.com",
+    "img": "Al-Iman TV"
+  },
+  {
+    "name": "JITV HD",
+    "type": "INDONESIA",
+    "url": "http://103.255.15.222:1935/tv/jitv_720p/playlist.m3u8",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYSVdhaMAbDI7t7HJv8iWxq3_ZvMcWQYQlsQ&usqp=CAU"
+  },
+  {
+    "name": "Dhoho TV",
+    "type": "INDONESIA",
+    "url": "https://dhohotv.siar.us/dhohotv/live/playlist.m3u8?checkedby:iptvcat.com",
+    "img": "https://i.imgur.com/4Khyyfh.png"
+  },
+  {
+    "name": "LINGKARTV",
+    "type": "INDONESIA",
+    "url": "https://lingkartv.my.id/hls/lingkartv.m3u8?checkedby:iptvcat.com",
+    "img": "LINGKARTV"
+  },
+  {
+    "name": "SURABAYA TV",
+    "type": "INDONESIA",
+    "url": "https://e.siar.us/live/surabayatv.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Surabaya_TV_%282017%29.png"
+  },
+  {
+    "name": "Sakti TV",
+    "type": "INDONESIA",
+    "url": "https://saktitv.siar.us/saktitv/live/playlist.m3u8",
+    "img": "https://i.imgur.com/IDNjMfQ.png"
+  },
+  {
+    "name": "Duta TV",
+    "type": "INDONESIA",
+    "url": "https://dutatv.siar.us/dutatv/live/playlist.m3u8",
+    "img": "https://i.imgur.com/B4JW54M.png"
+  },
+  {
+    "name": "PSJ TV",
+    "type": "INDONESIA",
+    "url": "https://play.accolamedia.id/accola/psj.stream/playlist.m3u8",
+    "img": "https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg"
+  },
+  {
+    "name": "DMTV MALANG",
+    "type": "INDONESIA",
+    "url": "https://e.siar.us/live/dmtv.m3u8",
+    "img": "https://4.bp.blogspot.com/-kw-2O6-LYHU/X1q26HZsAnI/AAAAAAAAqEk/eL4AB5Lp3GUrFCDnlyBNoeiHlfXFHZtVgCLcBGAsYHQ/s1600/dmtv-channel-logo.png"
+  },
+  {
+    "name": "INSPIRATV",
+    "type": "INDONESIA",
+    "url": "https://inspiratv.siar.us/inspiratv/live/playlist.m3u8",
+    "img": "INSPIRATV"
+  },
+  {
+    "name": "PRIMATV",
+    "type": "INDONESIA",
+    "url": "https://primatv.siar.us/primatv/live/playlist.m3u8",
+    "img": "PRIMATV"
+  },
+  {
+    "name": "BMSTV",
+    "type": "INDONESIA",
+    "url": "https://5bf7b725107e5.streamlock.net/bmstv/bmstv/playlist.m3u8",
+    "img": "BMS"
+  },
+  {
+    "name": "TV Kesehatan",
+    "type": "INDONESIA",
+    "url": "https://5bf7b725107e5.streamlock.net/tvkesehatan/tvkesehatan/playlist.m3u8?checkedby:iptvcat.com",
+    "img": "https://i.imgur.com/IGIX3o8.jpg"
+  },
+  {
+    "name": "TV9 Nusantara",
+    "type": "INDONESIA",
+    "url": "https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8",
+    "img": "https://www.lyngsat.com/logo/tv/tt/tv9_surabaya_id.png"
+  },
+  {
+    "name": "Bandung TV",
+    "type": "INDONESIA",
+    "url": "http://202.150.153.254:65500/bandungtvWEBSITE.m3u8",
+    "img": "https://iili.io/Jbtnh2j.png"
+  },
+  {
+    "name": "Semarang TV",
+    "type": "INDONESIA",
+    "url": "http://116.254.112.74:80/hls/cakralive.m3u8",
+    "img": "https://iili.io/JbtnA1s.png"
+  },
+  {
+    "name": "Banjar TV",
+    "type": "INDONESIA",
+    "url": "https://banjartv.siar.us/banjartv/live/playlist.m3u8",
+    "img": "https://iili.io/JbtnNpV.png"
+  },
+  {
+    "name": "BETV",
+    "type": "INDONESIA",
+    "url": "https://flv.intechmedia.net/live/ch58.m3u8",
+    "img": "https://iili.io/Jbtn43J.png"
+  },
+  {
+    "name": "Jaya TV",
+    "type": "INDONESIA",
+    "url": "https://flv.intechmedia.net/live/ch52.m3u8",
+    "img": "https://iili.io/Jbto9af.png"
+  },
+  {
+    "name": "Dhamma TV",
+    "type": "INDONESIA",
+    "url": "https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8",
+    "img": "https://iili.io/JbtnPvR.png"
+  },
+  {
+    "name": "Dhoho TV",
+    "type": "INDONESIA",
+    "url": "https://dhohotv.siar.us/dhohotv/live/playlist.m3u8",
+    "img": "https://iili.io/Jbtnipp.png"
+  },
+  {
+    "name": "JITV",
+    "type": "INDONESIA",
+    "url": "https://mam.jogjaprov.go.id:1937/tv/jitv/chunklist_w163357330.m3u8",
+    "img": "https://iili.io/Jbto2u2.png"
+  },
+  {
+    "name": "Kilisuci TV",
+    "type": "INDONESIA",
+    "url": "https://5bf7b725107e5.streamlock.net:443/kstv/kstv/playlist.m3u8",
+    "img": "https://iili.io/Jbtox8x.png"
+  },
+  {
+    "name": "Pal TV",
+    "type": "INDONESIA",
+    "url": "https://flv.intechmedia.net/live/ch18.m3u8",
+    "img": "https://iili.io/Jbton3b.png"
+  },
+  {
+    "name": "RBTV",
+    "type": "INDONESIA",
+    "url": "https://flv.intechmedia.net/live/ch59.m3u8",
+    "img": "https://iili.io/Jbto7MF.png"
+  },
+  {
+    "name": "Sampit TV",
+    "type": "INDONESIA",
+    "url": "https://flv.intechmedia.net/live/ch56.m3u8",
+    "img": "https://iili.io/JbtnxII.png"
   },
   {
     "name": "Channel 5",
@@ -1236,6 +1440,18 @@
     "img": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Astro_Arena_2_%282024%29.png"
   },
   {
+    "name": "810 Astro Grandstand HD",
+    "type": "Sports",
+    "url": "https://4c0a6c7981954190aba1739e27e3dec8.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH28-dash/vsg/41q5vQhXP8hw8JYPMx1hh6ImxglQ3XNrWnaS028VrWq68=bmw3/dash-wv/jitp-dashisowm/2701/default_ott.mpd?aws.sessionId=73c3e8dd-b60c-4908-944e-830c2970b09d",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Astro_Grandstand_%282024%29.png/220px-Astro_Grandstand_%282024%29.png"
+  },
+  {
+    "name": "815 Astro Badminton HD",
+    "type": "Sports",
+    "url": "https://11d1b8e3842949bcbcf26e20ed80c3d3.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/ceb8322ae2e84c32cb0fce196fdc60100025ab50/MT-CH32-dash/vsg/41Q3ie3mZoKIU_ctINwW6MMq9ThXfI7CCxva-ejvYR7Kc=tjmH/dash-wv/jitp-dashisowm/5170/default_ott.mpd?aws.sessionId=7842ea5a-11dd-4d01-a7d5-725d048cb8c7",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Astro_Badminton_1_%282024%29.png/220px-Astro_Badminton_1_%282024%29.png"
+  },
+  {
     "name": "820 BeINSports",
     "type": "Sports",
     "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/408/default_ott.mpd",
@@ -1474,12 +1690,6 @@
     "type": "SPORTS",
     "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/1600/default_primary.mpd",
     "img": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Astro_Sports_UHD_1_%282024%29.png"
-  },
-  {
-    "name": "810 Astro Grandstand",
-    "type": "SPORTS",
-    "url": "https://get.perfecttv.net/jwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=grandstandhd",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Astro_Grandstand_%282024%29.png/220px-Astro_Grandstand_%282024%29.png"
   },
   {
     "name": "811 Astro Premier League",
