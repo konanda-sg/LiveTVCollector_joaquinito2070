@@ -14195,7 +14195,7 @@ Logo: https://1000logos.net/wp-content/uploads/2019/07/NBC-Logo-500x281.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: WJLA-TV ABC 7 24/7 News (Washington DC)
-URL: https://dai.google.com/linear/hls/event/LLS6t9zvTkOq8pXtpMVx4A/master.m3u8
+URL: https://linear-681.frequency.stream/dist/lg-us/681/hls/master/playlist.m3u8
 Logo: https://1000logos.net/wp-content/uploads/2021/10/ABC-logo-500x281.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -15121,7 +15121,7 @@ Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/PBS_logo_2019.sv
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: PBS Retro
-URL: https://live1009.delivery.roku.com/2af92247-9fb2-430d-bc45-f066023092f6/t2-origin/out/v1/live.m3u8
+URL: https://amg02333-pbs-amg02333c6-lg-us-3175.playouts.now.amagi.tv/playlist/amg02333-pbsdistributionfast-pbsretro-lgus/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]
 Logo: https://provider-static.plex.tv/epg/cms/production/25055f8d-39da-447f-95d9-da91fb1ce2f9/PBS_Retro_Dark_Logo_1500x1000_-_Antonio_de_la_Torre__Tony_.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -18329,6 +18329,41 @@ Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 
 Group: NHL
+Name: NHL Replay info
+URL: http://vocotv.pro:80/live/gast/gast/271577.ts
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
+--------------------------------------------------
+Name: NHL Replay Highlights
+URL: http://vocotv.pro:80/live/gast/gast/271576.ts
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
+--------------------------------------------------
+Name: NHL Replay 1
+URL: http://vocotv.pro:80/live/gast/gast/271575.ts
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
+--------------------------------------------------
+Name: NHL Replay 2
+URL: http://vocotv.pro:80/live/gast/gast/271574.ts
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
+--------------------------------------------------
+Name: NHL Replay 3
+URL: http://vocotv.pro:80/live/gast/gast/271573.ts
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
+--------------------------------------------------
+Name: NHL Replay 4
+URL: http://vocotv.pro:80/live/gast/gast/271572.ts
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
+--------------------------------------------------
+Name: NHL Replay 5
+URL: http://vocotv.pro:80/live/gast/gast/271571.ts
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
+--------------------------------------------------
 Name: NHL Replay 6
 URL: http://vocotv.pro:80/live/gast/gast/271570.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -18376,41 +18411,6 @@ Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: NHL Replay 15
 URL: http://vocotv.pro:80/live/gast/gast/271561.ts
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
---------------------------------------------------
-Name: NHL Replay info
-URL: http://vocotv.pro:80/live/gast/gast/271577.ts
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
---------------------------------------------------
-Name: NHL Replay Highlights
-URL: http://vocotv.pro:80/live/gast/gast/271576.ts
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
---------------------------------------------------
-Name: NHL Replay 1
-URL: http://vocotv.pro:80/live/gast/gast/271575.ts
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
---------------------------------------------------
-Name: NHL Replay 2
-URL: http://vocotv.pro:80/live/gast/gast/271574.ts
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
---------------------------------------------------
-Name: NHL Replay 3
-URL: http://vocotv.pro:80/live/gast/gast/271573.ts
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
---------------------------------------------------
-Name: NHL Replay 4
-URL: http://vocotv.pro:80/live/gast/gast/271572.ts
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
---------------------------------------------------
-Name: NHL Replay 5
-URL: http://vocotv.pro:80/live/gast/gast/271571.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -18701,7 +18701,12 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Get TV
-URL: http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/30928.ts
+URL: https://amg00374-gsn-amg00374c6-lg-us-5121.playouts.now.amagi.tv/playlist/amg00374-gameshownetworkfast-gettvmp-lgus/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
+--------------------------------------------------
+Name: Get Comedy
+URL: https://3baa26d3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEdfQ2luZXZhdWx0TXVyZGVyQW5kTWF5aGVtX0hMUw/playlist.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -18726,7 +18731,7 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Laff More!
-URL: https://dbrb49pjoymg4.cloudfront.net/10001/99951232/hls/playlist.m3u8?ads.xumo_channelId=99951232
+URL: https://4783fbd6.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEdfTGFmZk1vcmVfSExT/playlist.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -21301,7 +21306,7 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: HBO Zone (East)
-URL: http://kstv.us:8080/live/Babeboi11/9785992589/23299.ts
+URL: http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/51552.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -21337,6 +21342,11 @@ Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: 5 Star Max
 URL: http://kstv.us:8080/live/Babeboi11/9785992589/48357.ts
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
+--------------------------------------------------
+Name: Movie Max
+URL: http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/51556.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -23932,11 +23942,6 @@ URL: http://qvc-amd-live.akamaized.net/hls/live/2034113/lshsn2us/master.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
-Name: Shop HQ
-URL: http://live.shophq.com/evine/cleanfeed/master.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
---------------------------------------------------
 Name: Shop LC
 URL: https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(xumo)/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
@@ -24622,7 +24627,7 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: NFL Channel
-URL: https://apollo.production-public.tubi.io/live/ac-nfl2.m3u8
+URL: https://d6f8f5cf.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEdfTkZMQ2hhbm5lbF9ITFM/playlist.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -24632,7 +24637,7 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: NFL Red Zone
-URL: http://nonamevos.com:80/live/4500/4500/28074.ts
+URL: http://fl6.moveonjoy.com/NFL_RedZone/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -24673,11 +24678,6 @@ Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: NHL Channel
 URL: https://apollo.production-public.tubi.io/live/ac-nhl.m3u8
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
---------------------------------------------------
-Name: Midatlantic Sports Network
-URL: https://tvpass.org/live/midatlantic-sports-network/hd
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -24742,6 +24742,11 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Spectrum Sports
+URL: http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/552928.ts
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
+--------------------------------------------------
+Name: Spectrum Sports Encore
 URL: http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/649400.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
@@ -24807,7 +24812,7 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: T2 Tennis
-URL: https://a1xs.vip/40000041
+URL: https://dbrb49pjoymg4.cloudfront.net/10001/99951389/hls/playlist.m3u8?ads.xumo_channelId=99951389
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -24881,78 +24886,73 @@ URL: https://dd66cf6aae5b4f7dadf70efcbfbc1beb.mediatailor.us-east-1.amazonaws.co
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
-Name: Fanduel Sports Network West
-URL: http://kstv.us:8080/live/Babeboi11/9785992589/47471.ts
+Name: Fanduel Sports Network (Detroit)
+URL: http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/2528.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
-Name: Fanduel Sports Network Detroit
-URL: http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/663205.ts
+Name: Fanduel Sports Network (Florida)
+URL: http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/2527.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
-Name: Fanduel Sports Network Florida
-URL: http://kstv.us:8080/live/Babeboi11/9785992589/47468.ts
+Name: Fanduel Sports Network (Indiana)
+URL: http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/663215.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
-Name: Fanduel Sports Network Great Lakes
-URL: http://kstv.us:8080/live/Babeboi11/9785992589/31586.ts
+Name: Fanduel Sports Network (Kansas City)
+URL: http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/663147.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
-Name: Fanduel Sports Network North
-URL: http://kstv.us:8080/live/Babeboi11/9785992589/31587.ts
+Name: Fanduel Sports Network (Midwest)
+URL: http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/663221.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
-Name: Fanduel Sports Network Cleveland
-URL: http://kstv.us:8080/live/Babeboi11/9785992589/47720.ts
+Name: Fanduel Sports Network (North)
+URL: http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/2519.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
-Name: Fanduel Sports Network Indiana
-URL: http://kstv.us:8080/live/Babeboi11/9785992589/31585.ts
+Name: Fanduel Sports Network (Ohio)
+URL: http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/663236.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
-Name: Fanduel Sports Network New Orleans
-URL: https://fl6.moveonjoy.com/BALLY_SPORTS_NEW_ORLEANS/index.m3u8
+Name: Fanduel Sports Network (Oklahoma)
+URL: http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/3795.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
-Name: Fanduel Sports Network Oklahoma
-URL: http://kstv.us:8080/live/Babeboi11/9785992589/47469.ts
+Name: Fanduel Sports Network (Socal)
+URL: http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/663155.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
-Name: Fanduel Sports Network Socal
-URL: https://tvpass.org/live/fanduel-sports-network-socal/hd
+Name: Fanduel Sports Network (South)
+URL: http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/2513.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
-Name: Fanduel Sports Network South Carolinas
-URL: http://kstv.us:8080/live/Babeboi11/9785992589/31583.ts
+Name: Fanduel Sports Network (Southeast)
+URL: http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/663145.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
-Name: Fanduel Sports Network South Tennessee
-URL: http://kstv.us:8080/live/Babeboi11/9785992589/31581.ts
+Name: Fanduel Sports Network (Southwest)
+URL: http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/2507.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
-Name: Fanduel Sports Network Wisconsin
-URL: http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/3787.ts
+Name: Fanduel Sports Network (Sun)
+URL: http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/663153.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
-Name: Fanduel Sports Sun
-URL: http://kstv.us:8080/live/Babeboi11/9785992589/47470.ts
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
---------------------------------------------------
-Name: Fanduel Sports Tennessee East
-URL: http://supersonictv.live:8080/Wellshouse/@A1B2C3D4/78960
+Name: Fanduel Sports Network (Wisconsin)
+URL: http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/2506.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -24987,7 +24987,7 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Sportsman Channel
-URL: http://kstv.us:8080/live/Babeboi11/9785992589/23204.ts
+URL: http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/78636.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -25007,7 +25007,7 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: The Outdoor Channel
-URL: http://kstv.us:8080/live/Babeboi11/9785992589/23273.ts
+URL: http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/5289.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -25072,7 +25072,7 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Big Ten Network
-URL: http://kstv.us:8080/live/Babeboi11/9785992589/23355.ts
+URL: http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/4443.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -25082,7 +25082,7 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Marquee Sports Network
-URL: http://kstv.us:8080/live/Babeboi11/9785992589/47466.ts
+URL: http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/55178.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -25132,7 +25132,7 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: HBO Boxing by WB
-URL: https://apollo.production-public.tubi.io/live/wbd-hbo-boxing.m3u8
+URL: https://amg00136-wbd-amg00136c41-lg-us-3570.playouts.now.amagi.tv/playlist/amg00136-warnerbrothersdiscovery-hboboxing-lgus/playlist.m3u8?ads.deviceid=[DEVICE_ID]&ads.ifa=[IFA]&ads.ifatype=[IFA_TYPE]&ads.lat=[LMT]&ads.donotsell=[DNS]&ads.ua=[UA]&ads.ip=[IP]&ads.gdpr=[GDPR]&ads.gdprconsent=[GDPR_CONSENT]&ads.country=[COUNTRY]&ads.usprivacy=[US_PRIVACY]&ads.appstoreurl=[APP_STOREURL]&ads.bundleid=[APP_BUNDLE]&ads.appname=[APP_NAME]&ads.appversion=[APP_VERSION]&ads.devicetype=[DEVICE_TYPE]&ads.devicemake=[DEVICE_MAKE]&ads.devicemodel=[DEVICE_MODEL]&ads.targetad=[TARGETAD_ALLOWED]&fck=[FCK]&viewsize=[VIEWSIZE]&givn=[NONCE]
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -25157,22 +25157,27 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: MSG Network
-URL: http://kstv.us:8080/live/Babeboi11/9785992589/23290.ts
+URL: http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/4435.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: MSG 2
-URL: http://kstv.us:8080/live/Babeboi11/9785992589/48366.ts
+URL: http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/4433.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: MSG+
-URL: http://kstv.us:8080/live/Babeboi11/9785992589/23289.ts
+URL: http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/4434.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: MSGSN
 URL: http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/706915.ts
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
+--------------------------------------------------
+Name: MSGSN 2
+URL: http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/648959.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -25182,11 +25187,6 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: WWE Network
-URL: http://kstv.us:8080/live/Babeboi11/9785992589/47642.ts
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
---------------------------------------------------
-Name: WWE HD DSTV
 URL: http://user.scalecdn.co:8080/live/supersonicstreams/cUewZolveU/3701.ts
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
