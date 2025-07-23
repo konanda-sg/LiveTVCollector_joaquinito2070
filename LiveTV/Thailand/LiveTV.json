@@ -1,5 +1,5 @@
 {
-  "date": "2025-07-23 07:09:43",
+  "date": "2025-07-23 13:56:50",
   "channels": {
     "VTV": [
       {
@@ -3053,6 +3053,43 @@
         "group": "📺 ช่องสถานีมายทีวี",
         "source": "https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u",
         "url": "https://psiiptv-b.sky-cdn.com/v2h15-playlist/tracks-v1a1/mono.m3u8"
+      }
+    ],
+    "📺 วิทยุออนไลน์": [
+      {
+        "name": "EFM",
+        "logo": "http://45.150.128.170:8080/images/dd5ba6701c128db0278b5259eb5ccdfb.png",
+        "group": "📺 วิทยุออนไลน์",
+        "source": "https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u",
+        "url": "https://atimehd.smartclick.co.th/efm/hls/efm.m3u8"
+      },
+      {
+        "name": "greenwave",
+        "logo": "https://media.atime.live/editor/station/c50d1595-aacc-4fb6-ba94-46e91242d540.png",
+        "group": "📺 วิทยุออนไลน์",
+        "source": "https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u",
+        "url": "https://atimehd.smartclick.co.th/greenwave/hls/greenwave.m3u8"
+      },
+      {
+        "name": "hotwave",
+        "logo": "https://storage.googleapis.com/atime-media-prod/editor/station/6d290933-4b7d-42f7-9833-211bfb2923af.png",
+        "group": "📺 วิทยุออนไลน์",
+        "source": "https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u",
+        "url": "https://atimehd.smartclick.co.th/hotwave/hls/hotwave.m3u8"
+      },
+      {
+        "name": "ลูกทุ่งมหนคร FM95",
+        "logo": "https://static.mytuner.mobi/media/tvos_radios/zbX4rrqNu8.png",
+        "group": "📺 วิทยุออนไลน์",
+        "source": "https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u",
+        "url": "https://rcdn.mcot.net/radiocdn_edge/fm95.stream_aac/chunklist.m3u8"
+      },
+      {
+        "name": "CoolFM",
+        "logo": "https://www.coolism.net/assets/image/coolism.png",
+        "group": "📺 วิทยุออนไลน์",
+        "source": "https://raw.githubusercontent.com/bestcommt2/iptv/refs/heads/master/fuckidplus.w3u",
+        "url": "https://coolism-web.cdn.byteark.com/;stream/1"
       }
     ],
     "General": [
