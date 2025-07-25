@@ -1,5 +1,5 @@
 {
-  "date": "2025-07-24 21:51:50",
+  "date": "2025-07-25 07:11:28",
   "channels": {
     "Uncategorized": [
       {
@@ -1008,6 +1008,13 @@
         "url": "https://ott1.nethubtv.vn/live/antv/playlist.m3u8"
       },
       {
+        "name": "ANTV HD (1080p)",
+        "logo": "https://static.wikia.nocookie.net/logos/images/1/1a/ANTV_2023.png/revision/latest/scale-to-width-down/512?path-prefix=vi",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/vn.m3u",
+        "url": "https://tv.ddns.vn/tv/antvhd/index.m3u8"
+      },
+      {
         "name": "Bac Kan TV (406p)",
         "logo": "https://i.postimg.cc/xT9jJXZ0/TBK-logo-2021.png",
         "group": "Undefined",
@@ -1069,6 +1076,13 @@
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/vn.m3u",
         "url": "https://ott1.nethubtv.vn/live/qpvn/playlist.m3u8"
+      },
+      {
+        "name": "QPVN HD (1080p)",
+        "logo": "https://i.imgur.com/GQO7UNu.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/vn.m3u",
+        "url": "https://tv.ddns.vn/tv/qpvnhd/index.m3u8"
       },
       {
         "name": "Quang Ngai TV (720p)",
@@ -1141,6 +1155,27 @@
         "url": "http://125hvt.ddns.net:21585/vtv1/tracks-v1a1/mono.m3u8"
       },
       {
+        "name": "VTV1 (1080p)",
+        "logo": "https://i.imgur.com/vZYlGIW.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/vn.m3u",
+        "url": "https://tv.ddns.vn/tv/vtv1fhd/index.m3u8"
+      },
+      {
+        "name": "VTV2 HD (1080p)",
+        "logo": "https://i.imgur.com/qWWpYRR.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/vn.m3u",
+        "url": "https://tv.ddns.vn/tv/vtv2fhd/index.m3u8"
+      },
+      {
+        "name": "VTV3 HD (1080p)",
+        "logo": "https://i.imgur.com/4lJG1fu.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/vn.m3u",
+        "url": "https://tv.ddns.vn/tv/vtv3fhd/index.m3u8"
+      },
+      {
         "name": "VTV4 (576p)",
         "logo": "https://i.imgur.com/WsLLmR2.png",
         "group": "Undefined",
@@ -1148,11 +1183,67 @@
         "url": "http://125hvt.ddns.net:21585/vtv4/tracks-v1a1/mono.m3u8"
       },
       {
+        "name": "VTV4 HD (1080p)",
+        "logo": "https://i.imgur.com/WsLLmR2.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/vn.m3u",
+        "url": "https://tv.ddns.vn/tv/vtv4fhd/index.m3u8"
+      },
+      {
+        "name": "VTV5 HD (1080p)",
+        "logo": "https://i.imgur.com/Vnnna1C.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/vn.m3u",
+        "url": "https://tv.ddns.vn/tv/vtv5fhd/index.m3u8"
+      },
+      {
+        "name": "VTV5 Tây Nam Bộ HD (1080p)",
+        "logo": "https://i.imgur.com/xiuHjEQ.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/vn.m3u",
+        "url": "https://tv.ddns.vn/tv/vtv5tnbfhd/index.m3u8"
+      },
+      {
+        "name": "VTV5 Tây Nguyên HD (1080p)",
+        "logo": "https://i.imgur.com/Hlcnqqt.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/vn.m3u",
+        "url": "https://tv.ddns.vn/tv/vtv5tnfhd/index.m3u8"
+      },
+      {
+        "name": "VTV7 HD (1080p)",
+        "logo": "https://i.imgur.com/ZwoP823.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/vn.m3u",
+        "url": "https://tv.ddns.vn/tv/vtv7fhd/index.m3u8"
+      },
+      {
+        "name": "VTV8 HD (1080p)",
+        "logo": "https://i.imgur.com/rf9adGJ.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/vn.m3u",
+        "url": "https://tv.ddns.vn/tv/vtv8fhd/index.m3u8"
+      },
+      {
         "name": "VTV9 (576p)",
         "logo": "https://i.imgur.com/QiY55sy.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/vn.m3u",
         "url": "http://125hvt.ddns.net:21585/vtv9/tracks-v1a1/mono.m3u8"
+      },
+      {
+        "name": "VTV9 HD (1080p)",
+        "logo": "https://i.imgur.com/QiY55sy.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/vn.m3u",
+        "url": "https://tv.ddns.vn/tv/vtv9fhd/index.m3u8"
+      },
+      {
+        "name": "VTV Cần Thơ HD (1080p)",
+        "logo": "https://i.imgur.com/Mqmbsj4.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/vn.m3u",
+        "url": "https://tv.ddns.vn/tv/vtvctfhd/index.m3u8"
       }
     ],
     "Movies": [
@@ -1169,6 +1260,13 @@
         "group": "Movies",
         "source": "https://iptv-org.github.io/iptv/countries/vn.m3u",
         "url": "http://210.210.155.37/dr9445/h/h04/index.m3u8"
+      },
+      {
+        "name": "CinemaWorld Vietnam (1080p)",
+        "logo": "https://i.imgur.com/D2qNVZ7.png",
+        "group": "Movies",
+        "source": "https://iptv-org.github.io/iptv/countries/vn.m3u",
+        "url": "https://tv.ddns.vn/tv/cinemaworldhd/index.m3u8"
       },
       {
         "name": "tvN Movies (Indonesian Subtitle) (576p)",
