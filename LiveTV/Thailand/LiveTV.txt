@@ -318,28 +318,28 @@ Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
 --------------------------------------------------
 
 Group: K+
-Name: K+CINE HD
-URL: http://14.229.232.52:4022/rtp/232.84.1.96:8550
+Name: K+ Cine
+URL: http://113.177.113.7:4022/rtp/232.84.1.96:8550
 Logo: https://i.imgur.com/As4bwUs.png
 Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
 --------------------------------------------------
-Name: K+ACTION HD
-URL: http://14.229.232.52:4022/rtp/232.84.1.97:8556
+Name: K+ Action
+URL: http://113.177.113.7:4022/rtp/232.84.1.97:8556
 Logo: https://i.imgur.com/QPkuBRi.png
 Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
 --------------------------------------------------
-Name: K+SPORT1 HD
-URL: http://14.229.232.52:4022/rtp/232.84.1.98:8562
+Name: K+ Sport 1
+URL: http://113.177.113.7:4022/rtp/232.84.1.98:8562
 Logo: https://i.imgur.com/6yiAtRg.png
 Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
 --------------------------------------------------
-Name: K+SPORT2 HD
-URL: http://14.229.232.52:4022/rtp/232.84.1.131:10368
+Name: K+ Sport 2
+URL: http://113.177.113.7:4022/rtp/232.84.1.131:10368
 Logo: https://i.imgur.com/EFeyqYX.png
 Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
 --------------------------------------------------
-Name: K+KIDS HD
-URL: http://14.229.232.52:4022/rtp/232.84.3.43:11794
+Name: K+ Kids
+URL: http://113.177.113.7:4022/rtp/232.84.3.43:11794
 Logo: https://i.imgur.com/erWqYxh.png
 Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
 --------------------------------------------------
@@ -463,8 +463,13 @@ Logo: https://i.imgur.com/iBx7K1M.png
 Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
 --------------------------------------------------
 Name: Cartoon Network
-URL: https://freem3u.xyz/api/live/play.m3u8?tid=cn
+URL: https://tv.ddns.vn/tv/cartoonhd/index.m3u8
 Logo: https://freem3u.xyz/static/images/global/cartoon-network.png
+Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
+--------------------------------------------------
+Name: Dreamworks
+URL: https://tv.ddns.vn/tv/dreamworks/index.m3u8
+Logo: https://tv.ddns.vn/logo/dreamworks.png
 Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
 --------------------------------------------------
 Name: Cartoon Network [eng]
@@ -488,13 +493,18 @@ Logo: https://i.imgur.com/7nIUtCU.png
 Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
 --------------------------------------------------
 Name: Cinemax
-URL: https://freem3u.xyz/api/live/play.m3u8?tid=cinemax
+URL: https://tv.ddns.vn/tv/cinemaxhd/index.m3u8
 Logo: https://freem3u.xyz/static/images/global/cinemax.png
 Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
 --------------------------------------------------
 Name: WBTV
 URL: http://125hvt.ddns.net:21585/wbtv/index.m3u8
 Logo: https://i.imgur.com/B9AVT2i.png
+Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
+--------------------------------------------------
+Name: Cinema World
+URL: https://tv.ddns.vn/tv/cinemaworldhd/index.m3u8
+Logo: https://tv.ddns.vn/logo/cinemaworldhd.png
 Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
 --------------------------------------------------
 Name: AXN HD
@@ -510,6 +520,11 @@ Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
 Name: Discovery
 URL: http://125hvt.ddns.net:21585/discovery/index.m3u8
 Logo: https://i.imgur.com/2JR5vSZ.png
+Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
+--------------------------------------------------
+Name: Discovery Asia
+URL: https://tv.ddns.vn/tv/discoveryasiahd/index.m3u8
+Logo: https://tv.ddns.vn/logo/discoveryasiahd.png
 Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
 --------------------------------------------------
 Name: HGTV
@@ -548,7 +563,7 @@ Logo: https://i.imgur.com/isCqVcE.png
 Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
 --------------------------------------------------
 Name: TLC
-URL: https://denver1769.pages.dev/Discovery/tlc_hd_english.m3u8
+URL: http://125hvt.ddns.net:21585/tlc/index.m3u8
 Logo: https://i.imgur.com/ZStxdQI.png
 Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
 --------------------------------------------------
@@ -746,49 +761,19 @@ URL: https://liveh12.seenow.vn/hls/SCTV14/index.m3u8
 Logo: https://i.ibb.co/wLKj69Q/logo26072108-sctv14-hd.png
 Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
 --------------------------------------------------
-Name: SCTV15
-URL: https://freem3u.xyz/api/live/play.m3u8?tid=sctv15
-Logo: https://i.ibb.co/jZzbTYK/logo26072108-sctv15-hd.png
-Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
---------------------------------------------------
-Name: SCTV16
-URL: https://liveh12.seenow.vn/hls/SCTV16/index.m3u8
-Logo: https://i.ibb.co/1KsLhCz/logo26072108-sctv16-hd.png
-Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
---------------------------------------------------
-Name: SCTV17
-URL: https://freem3u.xyz/api/live/play.m3u8?tid=sctv17
-Logo: https://i.ibb.co/RS1Rq74/logo26072108-sctv17-hd.png
-Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
---------------------------------------------------
 Name: SCTV18
 URL: https://liveh12.seenow.vn/hls/SCTV18/index.m3u8
 Logo: https://i.ibb.co/LY0CW6H/logo26072108-sctv18-hd.png
 Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
 --------------------------------------------------
-Name: SCTV19
-URL: https://freem3u.xyz/api/live/play.m3u8?tid=sctv19
-Logo: https://i.ibb.co/5TrWMKr/logo26072108-sctv19-hd.png
-Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
---------------------------------------------------
-Name: SCTV20
-URL: https://freem3u.xyz/api/live/play.m3u8?tid=sctv20
-Logo: https://i.ibb.co/5G0DjnW/logo26072108-sctv20-hd.png
-Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
---------------------------------------------------
-Name: SCTV21
-URL: https://freem3u.xyz/api/live/play.m3u8?tid=sctv21
-Logo: https://i.ibb.co/nmxNkPG/s21-hd.jpg
-Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
---------------------------------------------------
-Name: SCTV22
-URL: https://freem3u.xyz/api/live/play.m3u8?tid=sctv22
-Logo: https://i.ibb.co/JK0TF38/sctv22-hd.png
-Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
---------------------------------------------------
 Name: SCTV Phim tổng hợp
 URL: https://liveh12.seenow.vn/hls/SCTVPHIM/index.m3u8
 Logo: https://i.ibb.co/G2XQD3X/logo26072108-sctv-phim-THHD.png
+Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
+--------------------------------------------------
+Name: SCTV4K
+URL: https://z215ymcm4tliv.vcdn.cloud/s97/hls/sctv4k/index.m3u8
+Logo: https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/SCTV4K.webp
 Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
 --------------------------------------------------
 
@@ -1028,7 +1013,7 @@ Logo: https://i.imgur.com/MPNlpzb.png
 Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
 --------------------------------------------------
 Name: ON Sports
-URL: https://freem3u.xyz/api/live/play.m3u8?oid=onsports
+URL: https://xem.truyenhinh.click/TichHop/OnLive/LIVE/?user=onsports
 Logo: https://img.lichphatsong.xyz/logo/on-sports.jpg
 Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
 --------------------------------------------------
@@ -1043,7 +1028,7 @@ Logo: https://i.imgur.com/87JEXEQ.png
 Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
 --------------------------------------------------
 Name: ON Sports+
-URL: https://freem3u.xyz/api/live/play.m3u8?oid=onsportsplus
+URL: https://xem.truyenhinh.click/TichHop/OnLive/LIVE/?user=onsportsplus
 Logo: https://img.lichphatsong.xyz/logo/on-sportsplus.jpg
 Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
 --------------------------------------------------
@@ -1078,7 +1063,7 @@ Logo: https://i.imgur.com/45BXPY3.png
 Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
 --------------------------------------------------
 Name: ON Football
-URL: https://freem3u.xyz/api/live/play.m3u8?oid=onfootball
+URL: https://xem.truyenhinh.click/TichHop/OnLive/LIVE/?user=onfootball
 Logo: https://img.lichphatsong.xyz/logo/on-football.jpg
 Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
 --------------------------------------------------
@@ -1088,7 +1073,7 @@ Logo: https://i.imgur.com/hHYzxmS.png
 Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
 --------------------------------------------------
 Name: ON Sports News
-URL: https://freem3u.xyz/api/live/play.m3u8?oid=onsportsnews
+URL: https://xem.truyenhinh.click/TichHop/OnLive/LIVE/?user=onsportsnews
 Logo: https://img.lichphatsong.xyz/logo/on-sportsnews.jpg
 Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
 --------------------------------------------------
@@ -1113,24 +1098,19 @@ Logo: https://i.ibb.co/QXk7C6G/On-life.jpg
 Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
 --------------------------------------------------
 Name: ON Golf
-URL: https://ott3.sgchill.io.vn/source/tv360/169/index.m3u8
+URL: https://xem.TruyenHinh.Click/CoBan/vtvcab-23-golf-channel/TuyetDoiKhongKinhDoanh.m3u8
 Logo: https://i.imgur.com/BGF2I58.png
-Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
---------------------------------------------------
-Name: ON Plus UFC
-URL: https://freem3u.xyz/api/live/play.m3u8?oid=vothuatvn
-Logo: https://freem3u.xyz/static/images/onplus/onplus.png
 Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
 --------------------------------------------------
 
 Group: Địa phương
 Name: HiTV
-URL: https://xem.TruyenHinh.Click/CoBan/185.HiTV/TuyetDoiKhongKinhDoanh.m3u8
+URL: https://xem.TruyenHinh.Click/CoBan/hitv/TuyetDoiKhongKinhDoanh.m3u8
 Logo: https://img-zlr1.tv360.vn/image1/2020_09_23/1600823412691/61627b84a612_480_270.png
 Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
 --------------------------------------------------
 Name: YouTV
-URL: https://xem.TruyenHinh.Click/CoBan/31.YouTV/TuyetDoiKhongKinhDoanh.m3u8
+URL: https://xem.TruyenHinh.Click/CoBan/youtv/TuyetDoiKhongKinhDoanh.m3u8
 Logo: https://img-zlr1.tv360.vn/image1/2020_09_23/1600823396313/7b474bf7bbce_480_270.png
 Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
 --------------------------------------------------
