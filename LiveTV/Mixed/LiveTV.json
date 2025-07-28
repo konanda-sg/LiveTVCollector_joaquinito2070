@@ -1,5 +1,5 @@
 {
-  "date": "2025-07-27 21:30:50",
+  "date": "2025-07-28 06:18:14",
   "channels": {
     "STREAMING": [
       {
@@ -2323,6 +2323,13 @@
         "url": "https://micorsk.radioca.st/stream"
       },
       {
+        "name": "Bum Bum Radio",
+        "logo": "https://i.imgur.com/gdc1WLE.png",
+        "group": "RS",
+        "source": "https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u",
+        "url": "http://bumbum-stream.netlogic.rs:8000"
+      },
+      {
         "name": "Pink Radio",
         "logo": "https://i.imgur.com/GaXQ4NE.png",
         "group": "RS",
@@ -2566,6 +2573,41 @@
         "group": "RS",
         "source": "https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u",
         "url": "https://stream.iradio.pro/proxy/radiomir?mp=/stream&1753629939754"
+      },
+      {
+        "name": "Radio Puls Grocka",
+        "logo": "https://i.imgur.com/HHEtPCJ.png",
+        "group": "RS",
+        "source": "https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u",
+        "url": "https://cmr-hosting.com/8312/stream"
+      },
+      {
+        "name": "Resavski Radio",
+        "logo": "https://i.imgur.com/5n4Octj.png",
+        "group": "RS",
+        "source": "https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u",
+        "url": "https://e3.radiomorava.rs/radio/8010/resavskiradio128.mp3"
+      },
+      {
+        "name": "Radio Morava",
+        "logo": "https://i.imgur.com/M0IY7PT.png",
+        "group": "RS",
+        "source": "https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u",
+        "url": "https://e3.radiomorava.rs/radio/8000/radiomorava128.mp3"
+      },
+      {
+        "name": "Pallas Radio Kikinda",
+        "logo": "https://i.imgur.com/9iz2Y9V.png",
+        "group": "RS",
+        "source": "https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u",
+        "url": "https://eu9.fastcast4u.com/proxy/svidakov2"
+      },
+      {
+        "name": "Radio Pingvin",
+        "logo": "https://i.imgur.com/18Rd9YL.png",
+        "group": "RS",
+        "source": "https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u",
+        "url": "http://uzivo.radiopingvin.com/domaci1"
       }
     ],
     "BiH": [
@@ -3012,7 +3054,7 @@
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/L1MAX-LOGO.svg/1280px-L1MAX-LOGO.svg.png",
         "group": "DEPORTES",
         "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
-        "url": "http://higherpro.xyz:8080/live/56956478056/270924ztv/63061.m3u8"
+        "url": "http://200.60.124.19:29000/play/a07k/index.m3u8"
       },
       {
         "name": "CDO",
@@ -3026,11 +3068,18 @@
         "logo": "https://e7.pngegg.com/pngimages/580/710/png-clipart-logo-claro-sports-graphics-vivo-logo-de-claro-text-logo.png",
         "group": "DEPORTES",
         "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
+        "url": "http://45.5.119.43:4000/play/a024/index.m3u8"
+      },
+      {
+        "name": "CLARO SPORTS 2",
+        "logo": "https://e7.pngegg.com/pngimages/580/710/png-clipart-logo-claro-sports-graphics-vivo-logo-de-claro-text-logo-thumbnail.png",
+        "group": "DEPORTES",
+        "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
         "url": "http://45.5.119.43:4000/play/a0kz/index.m3u8"
       },
       {
-        "name": "tVC DEPORTES",
-        "logo": "https://img.hidra.app/deportes/movistardeportes.png",
+        "name": "TVC DEPORTES",
+        "logo": "https://static.wikia.nocookie.net/liga-mx/images/2/2b/TVCDep16Logo.png/revision/latest?cb=20160715002021&path-prefix=es",
         "group": "DEPORTES",
         "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
         "url": "http://38.49.128.38:8000/play/a0mj/index.m3u8"
@@ -3064,11 +3113,11 @@
         "url": "http://190.60.33.245:4002/play/a1mq/index.m3u8"
       },
       {
-        "name": "L1MAX",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "name": "AZTECA DEPORTES",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Aztecadeporteslogo.png",
         "group": "DEPORTES",
         "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
-        "url": "http://200.60.124.19:29000/play/a07k/index.m3u8"
+        "url": "http://190.60.33.245:4002/play/a0hw/index.m3u8"
       }
     ],
     "CINE Y SERIES": [
@@ -3168,28 +3217,28 @@
         "logo": "https://www.citypng.com/public/uploads/preview/hd-hbo-white-logo-transparent-background-701751694708059eqwbw0wzhn.png",
         "group": "CINE Y SERIES",
         "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
-        "url": "http://higherpro.xyz:8080/live/56956478056/270924ztv/54453.m3u8"
+        "url": "http://45.5.119.43:4000/play/a0l2/index.m3u8"
       },
       {
         "name": "HBO PLUS",
         "logo": "https://www.pnguniverse.com/wp-content/uploads/2021/03/HBO-plus.png",
         "group": "CINE Y SERIES",
         "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
-        "url": "http://higherpro.xyz:8080/live/56956478056/270924ztv/54454.m3u8"
+        "url": "http://45.5.119.43:4000/play/a0l4/index.m3u8"
       },
       {
         "name": "HBO2",
         "logo": "https://i.ibb.co/Rhmnzgk/hbo-2.png",
         "group": "CINE Y SERIES",
         "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
-        "url": "http://higherpro.xyz:8080/live/56956478056/270924ztv/54455.m3u8"
+        "url": "http://45.5.119.43:4000/play/a00c/index.m3u8"
       },
       {
         "name": "HBO FAMILY",
         "logo": "https://i.ibb.co/q7NKc9t/hbo-family.png",
         "group": "CINE Y SERIES",
         "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
-        "url": "http://higherpro.xyz:8080/live/56956478056/270924ztv/54458.m3u8"
+        "url": "http://45.5.119.43:4000/play/a0l5/index.m3u8"
       },
       {
         "name": "HBO SIGNATURE",
@@ -3231,7 +3280,7 @@
         "logo": "https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f6af58a448a45cf1557f_fxhd.png",
         "group": "CINE Y SERIES",
         "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
-        "url": "http://179.49.163.34:45000/play/a00s/index.m3u8"
+        "url": "http://190.60.33.245:4002/play/a1i3/index.m3u8"
       },
       {
         "name": "GOLDEN",
@@ -3378,28 +3427,28 @@
         "logo": "http://puntoz.xyz/LOGOS/universalcrimeB.png",
         "group": "CINE Y SERIES",
         "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
-        "url": "http://higherpro.xyz:8080/live/56956478056/270924ztv/54466.m3u8"
+        "url": "http://45.5.119.43:4000/play/a0i4/index.m3u8"
       },
       {
         "name": "UNIVERSAL CINEMA",
         "logo": "https://www.vertvcable.com/wp-content/uploads/2022/07/universalcrime.jpg",
         "group": "CINE Y SERIES",
         "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
-        "url": "http://higherpro.xyz:8080/live/56956478056/270924ztv/54464.m3u8"
+        "url": "http://45.5.119.43:4000/play/a0kt/index.m3u8"
       },
       {
         "name": "UNIVERSAL COMEDY",
         "logo": "https://thafd.bing.com/th/id/OIP.tQO5QH8KZO3CGvXhdxj63QHaEE?rs=1&pid=ImgDetMain",
         "group": "CINE Y SERIES",
         "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
-        "url": "http://higherpro.xyz:8080/live/56956478056/270924ztv/54465.m3u8"
+        "url": "http://45.5.119.43:4000/play/a0i5/index.m3u8"
       },
       {
         "name": "UNIVERSAL PREMIER",
         "logo": "https://www.universalplus.com/assets/logo_premiere_hero.png",
         "group": "CINE Y SERIES",
         "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
-        "url": "http://higherpro.xyz:8080/live/56956478056/270924ztv/54463.m3u8"
+        "url": "http://45.5.119.43:4000/play/a0i1/index.m3u8"
       },
       {
         "name": "UNIVERSAL REALITIE",
@@ -3585,7 +3634,7 @@
         "logo": "https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f6b54c6c7c38bc2c1c5f_investigation.png",
         "group": "CULTURA Y ENTRETENIMIENTO",
         "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
-        "url": "http://179.49.163.34:45000/play/a01d/index.m3u8"
+        "url": "http://45.5.119.43:4000/play/a0ks/index.m3u8"
       },
       {
         "name": "DISCOVERY THEATER",
@@ -3616,8 +3665,43 @@
         "url": "http://179.49.163.34:45000/play/a01c/index.m3u8"
       },
       {
-        "name": "KOSMOS",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/COSMOS_logo2K24-100.jpg/640px-COSMOS_logo2K24-100.jpg",
+        "name": "AZTECA CLICK",
+        "logo": "https://contenidostv.b-cdn.net/images/clic_color-02.png",
+        "group": "CULTURA Y ENTRETENIMIENTO",
+        "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
+        "url": "http://38.49.128.38:8000/play/a0mh/index.m3u8"
+      },
+      {
+        "name": "AZTECA CORAZON",
+        "logo": "https://www.pngfind.com/pngs/m/53-538837_azteca-corazon-logo-4-by-susan-az-clic.png",
+        "group": "CULTURA Y ENTRETENIMIENTO",
+        "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
+        "url": "http://190.60.33.245:4002/play/a0vf/index.m3u8"
+      },
+      {
+        "name": "CARACOL",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Caracol_TV_HD_logo.svg/2048px-Caracol_TV_HD_logo.svg.png",
+        "group": "CULTURA Y ENTRETENIMIENTO",
+        "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
+        "url": "http://190.60.33.245:4002/play/a0kq/index.m3u8"
+      },
+      {
+        "name": "FOOD NETWORK",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/1200px-Food_Network_logo.svg.png",
+        "group": "CULTURA Y ENTRETENIMIENTO",
+        "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
+        "url": "http://190.60.33.245:4002/play/a1l5/index.m3u8"
+      },
+      {
+        "name": "TELE NOSTALGIA",
+        "logo": "https://static.wikia.nocookie.net/logopedia/images/9/9b/TeleNostalgia-2014.png/revision/latest/scale-to-width-down/220?cb=20210517030638&path-prefix=es",
+        "group": "CULTURA Y ENTRETENIMIENTO",
+        "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
+        "url": "http://190.60.33.245:4002/play/a1kz/index.m3u8"
+      },
+      {
+        "name": "ATLAS",
+        "logo": "https://www.fmh.la/images/team/logo_atlas.png",
         "group": "CULTURA Y ENTRETENIMIENTO",
         "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
         "url": "http://179.49.163.34:45000/play/a03l/index.m3u8"
