@@ -1,5 +1,5 @@
 {
-  "date": "2025-07-28 21:50:40",
+  "date": "2025-07-29 06:57:48",
   "channels": {
     "BANGLA": [
       {
@@ -9468,6 +9468,29 @@
         "url": "https://sbc-prod-dub-enc.edgenextcdn.net/out/v1/b09bbb8d9b684763be4211b088168de7/index.m3u8"
       }
     ],
+    "News": [
+      {
+        "name": "BBC News Asia Pacific (1080p)",
+        "logo": "https://i.imgur.com/vSz2WEp.png",
+        "group": "News",
+        "source": "https://iptv-org.github.io/iptv/countries/bd.m3u",
+        "url": "https://tv.ddns.vn/tv/bbcworldnews/index.m3u8"
+      },
+      {
+        "name": "Jamuna TV (720p) [Geo-blocked]",
+        "logo": "https://www.jamuna.tv/wp-content/themes/jtv-news/img/logo.png",
+        "group": "News",
+        "source": "https://iptv-org.github.io/iptv/countries/bd.m3u",
+        "url": "http://113.212.111.246:8080/hls/col12.m3u8"
+      },
+      {
+        "name": "Probashi TV News (720p)",
+        "logo": "https://i.imgur.com/7oTsfQ4.png",
+        "group": "News",
+        "source": "https://iptv-org.github.io/iptv/countries/bd.m3u",
+        "url": "http://probashi.alvegroups.com:8081/probashitv/probashi/playlist.m3u8"
+      }
+    ],
     "Business": [
       {
         "name": "Bloomberg TV Asia (720p)",
@@ -9544,22 +9567,6 @@
         "group": "Religious",
         "source": "https://iptv-org.github.io/iptv/countries/bd.m3u",
         "url": "https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8"
-      }
-    ],
-    "News": [
-      {
-        "name": "Jamuna TV (720p) [Geo-blocked]",
-        "logo": "https://www.jamuna.tv/wp-content/themes/jtv-news/img/logo.png",
-        "group": "News",
-        "source": "https://iptv-org.github.io/iptv/countries/bd.m3u",
-        "url": "http://113.212.111.246:8080/hls/col12.m3u8"
-      },
-      {
-        "name": "Probashi TV News (720p)",
-        "logo": "https://i.imgur.com/7oTsfQ4.png",
-        "group": "News",
-        "source": "https://iptv-org.github.io/iptv/countries/bd.m3u",
-        "url": "http://probashi.alvegroups.com:8081/probashitv/probashi/playlist.m3u8"
       }
     ],
     "Legislative": [
