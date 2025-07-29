@@ -1,5 +1,5 @@
 {
-  "date": "2025-07-28 21:56:08",
+  "date": "2025-07-29 07:23:29",
   "channels": {
     "Uncategorized": [
       {
@@ -1276,6 +1276,22 @@
         "url": "http://210.210.155.37/dr9445/h/h21/index.m3u8"
       }
     ],
+    "News": [
+      {
+        "name": "BBC News Asia Pacific (1080p)",
+        "logo": "https://i.imgur.com/vSz2WEp.png",
+        "group": "News",
+        "source": "https://iptv-org.github.io/iptv/countries/vn.m3u",
+        "url": "https://tv.ddns.vn/tv/bbcworldnews/index.m3u8"
+      },
+      {
+        "name": "RTM ASEAN",
+        "logo": "https://i.imgur.com/skAiUxg.png",
+        "group": "News",
+        "source": "https://iptv-org.github.io/iptv/countries/vn.m3u",
+        "url": "https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG.m3u8"
+      }
+    ],
     "General;News": [
       {
         "name": "Binh Phuoc TV 1 (720p)",
@@ -1625,15 +1641,6 @@
         "group": "Lifestyle",
         "source": "https://iptv-org.github.io/iptv/countries/vn.m3u",
         "url": "http://dvrfl05.bozztv.com/vch_vchannel10/index.m3u8"
-      }
-    ],
-    "News": [
-      {
-        "name": "RTM ASEAN",
-        "logo": "https://i.imgur.com/skAiUxg.png",
-        "group": "News",
-        "source": "https://iptv-org.github.io/iptv/countries/vn.m3u",
-        "url": "https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG.m3u8"
       }
     ]
   }
