@@ -1,5 +1,5 @@
 {
-  "date": "2025-07-30 13:55:56",
+  "date": "2025-07-30 21:53:19",
   "channels": {
     "TV": [
       {
@@ -28,7 +28,7 @@
         "logo": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI.png",
         "group": "TV",
         "source": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u",
-        "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8zMC8yMDI1IDg6MTA6MTAgQU0maGFzaF92YWx1ZT1hQ1dKbjJnejVxVk90bGxCN1RTMHd3PT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9NmFiYTllMGQtOGJhZC00ZDVhLTg2NGEtZjhlOTExZDYzYjg5/"
+        "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8zMC8yMDI1IDQ6ODozMSBQTSZoYXNoX3ZhbHVlPTBsYTlIQ1NPT3hJMHUrREsyeGVXSEE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0xODhiMThiZS1mNjQ4LTQyMGYtYTBlYS1lZGU5NGUxMmY0MWY=/"
       },
       {
         "name": "RTP 3",
@@ -49,7 +49,7 @@
         "logo": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png",
         "group": "TV",
         "source": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u",
-        "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8zMC8yMDI1IDg6MTA6MTAgQU0maGFzaF92YWx1ZT1VeTdkckpyT3ZtRWYvdUxiRG5NMDNBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9NGFjZmYwOTctMTlhNi00Y2Q0LWI5YTQtMmFhOWMxOWQ3ZTA3/"
+        "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8zMC8yMDI1IDQ6ODozMiBQTSZoYXNoX3ZhbHVlPUFoN1NhcmlQWThOZS9Remxrdkc2Mmc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0xMWE3ZmI5Yi1lOTFhLTQxYTMtODdlNi1jYWQ0MzViOTFjZTE=/"
       },
       {
         "name": "CNN Brasil",
@@ -112,7 +112,7 @@
         "logo": "https://github.com/LITUATUI/M3UPT/raw/main/logos/TVI-Internacional.png",
         "group": "TV",
         "source": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u",
-        "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8zMC8yMDI1IDg6MTA6MTEgQU0maGFzaF92YWx1ZT1yMXdtdU4zVytOSHQ0WGlqakpuYlFnPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MWMyODg0OGUtM2E3Mi00MzQzLWE1MTAtYTZiNzNiNjNhYTYy/"
+        "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8zMC8yMDI1IDQ6ODozMiBQTSZoYXNoX3ZhbHVlPU1wSlhuUlFkaGRxdkg4akYvM3hqY0E9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0zNWI4N2MzNi05Y2I3LTQ1YmMtOGVhMC1lZDU5MTg5OGFiZTU=/"
       },
       {
         "name": "TVI África",
@@ -456,6 +456,13 @@
         "group": "TV",
         "source": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u",
         "url": "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8"
+      },
+      {
+        "name": "CNN HeadLines",
+        "logo": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN.png",
+        "group": "TV",
+        "source": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u",
+        "url": "https://live-media-aka.warnermediacdn.com/cmaf/live/2028716/cnnfast-international/master.m3u8"
       },
       {
         "name": "Fox Now",
