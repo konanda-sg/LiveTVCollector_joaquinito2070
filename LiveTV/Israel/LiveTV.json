@@ -1,14 +1,7 @@
 {
-  "date": "2025-07-30 06:30:27",
+  "date": "2025-07-30 13:47:23",
   "channels": {
     "Market Open and Close": [
-      {
-        "name": "CNBC (Europe/World)",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "Market Open and Close",
-        "source": "https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u",
-        "url": "http://p1.cvtv.xyz:81/cnbc?token=live"
-      },
       {
         "name": "CNBC-Indonesia",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
@@ -3435,6 +3428,27 @@
       }
     ],
     "RADIO": [
+      {
+        "name": "NHK-RADIO 2",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "RADIO",
+        "source": "https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u",
+        "url": "https://radio-stream.nhk.jp/hls/live/2023501/nhkradiruakr2/master48k.m3u8"
+      },
+      {
+        "name": "NHK-RADIO 1",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "RADIO",
+        "source": "https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u",
+        "url": "https://radio-stream.nhk.jp/hls/live/2023229/nhkradiruakr1/master48k.m3u8"
+      },
+      {
+        "name": "NHK-FM",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "RADIO",
+        "source": "https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u",
+        "url": "https://radio-stream.nhk.jp/hls/live/2023507/nhkradiruakfm/master48k.m3u8"
+      },
       {
         "name": "ORTB Radio Bênin",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
@@ -7677,25 +7691,11 @@
         "url": "https://nhkworld-radio.akamaized.net/hls/live/2115821/nhkworld-radio-rs4/index_rs4.m3u8"
       },
       {
-        "name": "NHK-RADIO 1",
-        "logo": "https://static.wikia.nocookie.net/logopedia/images/b/bf/NHK_Radio_1_%282020%29.svg/revision/latest?cb=20210516114917",
-        "group": "QUỐC TẾ",
-        "source": "https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u",
-        "url": "https://radio-stream.nhk.jp/hls/live/2023229/nhkradiruakr1/master48k.m3u8"
-      },
-      {
         "name": "NHK Radio 2",
         "logo": "http://gg.gg/19dbe9",
         "group": "QUỐC TẾ",
         "source": "https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u",
         "url": "https://ap.fd7.site/hls/radio-stream.nhk.jp/hls/live/2023501/nhkradiruakr2/master48k.m3u8"
-      },
-      {
-        "name": "NHK-FM",
-        "logo": "http://gg.gg/19dbed",
-        "group": "QUỐC TẾ",
-        "source": "https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u",
-        "url": "https://radio-stream.nhk.jp/hls/live/2023507/nhkradiruakfm/master48k.m3u8"
       },
       {
         "name": "American Forces Radio Tokyo",

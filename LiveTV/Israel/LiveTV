@@ -1,11 +1,5 @@
 [
   {
-    "name": "CNBC (Europe/World)",
-    "type": "Market Open and Close",
-    "url": "http://p1.cvtv.xyz:81/cnbc?token=live",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "CNBC-Indonesia",
     "type": "Market Open and Close",
     "url": "https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist.m3u8",
@@ -2907,6 +2901,24 @@
     "name": "Shiranami Ramune (VSPO! Team)",
     "type": "VTuber Live",
     "url": "https://www.youtube.com/@jirajisakilive",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "NHK-RADIO 2",
+    "type": "RADIO",
+    "url": "https://radio-stream.nhk.jp/hls/live/2023501/nhkradiruakr2/master48k.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "NHK-RADIO 1",
+    "type": "RADIO",
+    "url": "https://radio-stream.nhk.jp/hls/live/2023229/nhkradiruakr1/master48k.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "NHK-FM",
+    "type": "RADIO",
+    "url": "https://radio-stream.nhk.jp/hls/live/2023507/nhkradiruakfm/master48k.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -6540,22 +6552,10 @@
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTm3sRV1dGXPNeiBDKi0k5595Kmc7_xtI4xQ&s"
   },
   {
-    "name": "NHK-RADIO 1",
-    "type": "QUỐC TẾ",
-    "url": "https://radio-stream.nhk.jp/hls/live/2023229/nhkradiruakr1/master48k.m3u8",
-    "img": "https://static.wikia.nocookie.net/logopedia/images/b/bf/NHK_Radio_1_%282020%29.svg/revision/latest?cb=20210516114917"
-  },
-  {
     "name": "NHK Radio 2",
     "type": "QUỐC TẾ",
     "url": "https://ap.fd7.site/hls/radio-stream.nhk.jp/hls/live/2023501/nhkradiruakr2/master48k.m3u8",
     "img": "http://gg.gg/19dbe9"
-  },
-  {
-    "name": "NHK-FM",
-    "type": "QUỐC TẾ",
-    "url": "https://radio-stream.nhk.jp/hls/live/2023507/nhkradiruakfm/master48k.m3u8",
-    "img": "http://gg.gg/19dbed"
   },
   {
     "name": "American Forces Radio Tokyo",
