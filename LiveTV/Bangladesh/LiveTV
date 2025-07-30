@@ -1,5 +1,11 @@
 [
   {
+    "name": "BTV",
+    "type": "BANGLA",
+    "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8",
+    "img": "https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png"
+  },
+  {
     "name": "BTV World",
     "type": "BANGLA",
     "url": "http://103.230.105.252:1935/live/btv/manifest.m3u8",
@@ -10,6 +16,24 @@
     "type": "BANGLA",
     "url": "https://tvsen6.aynaott.com/somoytv/tracks-v1a1/mono.ts.m3u8",
     "img": "https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png"
+  },
+  {
+    "name": "SOMOY TV-[2]",
+    "type": "BANGLA",
+    "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8",
+    "img": "https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png"
+  },
+  {
+    "name": "Ekattor TV",
+    "type": "BANGLA",
+    "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8",
+    "img": "https://s4.gifyu.com/images/imagea02f4314e761661d.png"
+  },
+  {
+    "name": "Ekon tv",
+    "type": "BANGLA",
+    "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/globaltv.stream/playlist.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/en/0/0d/Ekhon_Logo.png"
   },
   {
     "name": "Channel 24",
@@ -26,7 +50,7 @@
   {
     "name": "JAMUNA TV",
     "type": "BANGLA",
-    "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/1701-audio_113312_eng=113200-video=1692000.m3u8",
+    "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8",
     "img": "https://dl.dropbox.com/s/k7z1dsec1jfjbkn/jamuna_tv_bd.png"
   },
   {
@@ -40,6 +64,12 @@
     "type": "BANGLA",
     "url": "https://tvsen6.aynaott.com/atnnews/tracks-v1a1/mono.ts.m3u8",
     "img": "https://dl.dropbox.com/s/4ldi1dp09s8o6bm/atn_news_bd.png"
+  },
+  {
+    "name": "ATN Bangla",
+    "type": "BANGLA",
+    "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8",
+    "img": "https://s6.gifyu.com/images/image27cfa7002786c232.png"
   },
   {
     "name": "NTV",
@@ -96,6 +126,18 @@
     "img": "https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg"
   },
   {
+    "name": "Channel 9",
+    "type": "BANGLA",
+    "url": "https://tvsen6.aynaott.com/channel9/index.m3u8",
+    "img": "https://i.ibb.co/xgfM1sf/2021-06-14-fff22-19-07.jpg"
+  },
+  {
+    "name": "Desh TV",
+    "type": "BANGLA",
+    "url": "https://tvsen6.aynaott.com/deshtv/index.m3u8",
+    "img": "https://www.tradebangla.com.bd/images/business/profile/2017/12/12/222121217071805.jpg"
+  },
+  {
     "name": "MY TV HD",
     "type": "BANGLA",
     "url": "https://mytvbangla.com/0.m3u8",
@@ -106,6 +148,12 @@
     "type": "BANGLA",
     "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/mohonatv.stream/playlist.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/en/thumb/9/94/Mohona_tv_Logo.svg/1200px-Mohona_tv_Logo.svg.png"
+  },
+  {
+    "name": "Bijoy tv",
+    "type": "BANGLA",
+    "url": "https://tvsen6.aynaott.com/bijoytv/index.m3u8",
+    "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Nexus%20TV.png"
   },
   {
     "name": "Me-tv",
@@ -136,6 +184,12 @@
     "type": "BANGLA",
     "url": "https://live-stream.utkalbongo.com/utkalbongo/stream2/hls/amarbanglatwolivestream.m3u8",
     "img": "https://i.ibb.co/CPmLfGs/Amar-Bangla.png"
+  },
+  {
+    "name": "Sananda tv",
+    "type": "BANGLA",
+    "url": "https://smart.bengaldigital.live/Zee-Bangla/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "Ekushey TV",
@@ -312,10 +366,22 @@
     "img": "https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png"
   },
   {
+    "name": "PTV Sports-[2]",
+    "type": "SPORTS",
+    "url": "https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=ptvpk",
+    "img": "https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png"
+  },
+  {
     "name": "Ten Sports",
     "type": "SPORTS",
     "url": "http://filex.tv:8080/live/Multicity/1234/52106.ts",
     "img": "https://iconape.com/wp-content/files/da/323865/png/323865.png"
+  },
+  {
+    "name": "A Sports",
+    "type": "SPORTS",
+    "url": "https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=asportshd",
+    "img": "https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png"
   },
   {
     "name": "Geo Super TV",
@@ -626,7 +692,7 @@
   {
     "name": "Discovery Bangla",
     "type": "Documentary",
-    "url": "https://denver1769.pages.dev/Discovery/discovery_hd_hindi.m3u8",
+    "url": "https://tvsen6.aynaott.com/discovery_hd_bangla/index.m3u8",
     "img": "https://bdiptv.stream/uploads/tv_image/discovery.png"
   },
   {
@@ -682,6 +748,12 @@
     "type": "Indian-Bangla",
     "url": "http://kst.moonplex.net:8080/CH4/tracks-v1a1/mono.m3u8",
     "img": "https://dl.dropbox.com/s/8z5yuaoyryedp6l/ZB.jpg"
+  },
+  {
+    "name": "Zee Bangla Cinema",
+    "type": "Indian-Bangla",
+    "url": "https://smart.bengaldigital.live/Zee-Bangla-Cinema/index.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/en/thumb/3/31/Zee_Bangla_Cinema.jpeg/200px-Zee_Bangla_Cinema.jpeg"
   },
   {
     "name": "Colors Bangla",
@@ -1516,12 +1588,6 @@
     "type": "Uncategorized",
     "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/ekattor.stream/playlist.m3u8",
     "img": "https://appv10static.jaagobd.com/media/channel_logos/ekattor_WUdMZon.png"
-  },
-  {
-    "name": "Ekhon TV",
-    "type": "Uncategorized",
-    "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/globaltv.stream/playlist.m3u8",
-    "img": "https://appv10static.jaagobd.com/media/channel_logos/m-t3v3rj1693812964839_oVRbPzq.jpg"
   },
   {
     "name": "Jamuna TV",
@@ -6129,6 +6195,12 @@
     "name": "ABP Ananda",
     "type": "Uncategorized",
     "url": "https://abplivetv.akamaized.net/hls/live/2043012/ananda/master_720p.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Discovery Channel - Hindi",
+    "type": "Uncategorized",
+    "url": "https://denver1769.pages.dev/Discovery/discovery_hd_hindi.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
