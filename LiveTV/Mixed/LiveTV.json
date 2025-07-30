@@ -1,5 +1,5 @@
 {
-  "date": "2025-07-30 13:43:23",
+  "date": "2025-07-30 21:41:04",
   "channels": {
     "STREAMING": [
       {
@@ -50,6 +50,13 @@
         "group": "STREAMING",
         "source": "https://raw.githubusercontent.com/LiveTvWorldwide/IPTV/refs/heads/main/live.m3u",
         "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=6640"
+      },
+      {
+        "name": "DD NATIONAL HD (IND)",
+        "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhD9m4_yYjW_19JBGvpxy0OQEEXzONPpIs0_2dZH4sNpwax4YeP6KbH84-QVLUuAac3LU3CNr5v1rqXxtjNTOcHmd4hshv3dxrjrlN9H9Ky7ufE32rvuSIHGdkF-sZbXxCJof5ni9gqmRjErbWicUKhNRdH2xPPePEFsNz8Aj6jaxkUCr7YBz04oRMQNsk/s320/1000096233.jpg",
+        "group": "STREAMING",
+        "source": "https://raw.githubusercontent.com/LiveTvWorldwide/IPTV/refs/heads/main/live.m3u",
+        "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index.m3u8"
       }
     ],
     "ADULT TV": [
@@ -856,7 +863,7 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "notizie",
         "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/heads/master/output/rakuten.m3u",
-        "url": "https://dab794fcc38647efbf5f86bf01fa5c21.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6570/bitok/eyJzdGlkIjoiOGUyYzYwYTAtZDFiMC00YmQwLTgzMzAtZDVjMmU5YmU5NTdhIiwibWt0IjoiaXQiLCJjaCI6NjU3MCwicHRmIjo1fQ%3D%3D/25674/euronews-it.m3u8"
+        "url": "https://dab794fcc38647efbf5f86bf01fa5c21.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6570/bitok/eyJzdGlkIjoiNDk3MTQwMDYtNzc0MC00OTJjLThiNzktNTZiOGRmNTc5MTlmIiwibWt0IjoiaXQiLCJjaCI6NjU3MCwicHRmIjo1fQ%3D%3D/25674/euronews-it.m3u8"
       },
       {
         "name": "The Reuters 60",
@@ -898,7 +905,7 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "notizie",
         "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/heads/master/output/rakuten.m3u",
-        "url": "https://c3c275b999764df8a2dd55ffe2996818.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576/bitok/eyJzdGlkIjoiMTNkZWI4ZDctNTE4YS00ZjM5LWE4ZjQtODE4N2Y3OTJjNGU2IiwibWt0IjoiaXQiLCJjaCI6NjU4NywicHRmIjo1fQ%3D%3D/26036/africanews-en.m3u8"
+        "url": "https://c3c275b999764df8a2dd55ffe2996818.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576/bitok/eyJzdGlkIjoiYWFlMjQ5M2ItYjg0Ny00ZmEyLWIzZmYtY2ViNWM4MjVlMDI5IiwibWt0IjoiaXQiLCJjaCI6NjU4NywicHRmIjo1fQ%3D%3D/26036/africanews-en.m3u8"
       },
       {
         "name": "CGTN",
@@ -966,25 +973,11 @@
         "url": "https://677c038a28f30.streamlock.net/blictv-secure/smil:blictv-secure.smil/playlist.m3u8"
       },
       {
-        "name": "like Gecko) Chrome/81.0.4044.138 Safari/537.36\",Superstar TV",
-        "logo": "https://i.imgur.com/Uqt6nEX.png",
-        "group": "Entertainment",
-        "source": "https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u",
-        "url": "http://91.132.74.5:8000/play/a00n"
-      },
-      {
         "name": "like Gecko) Chrome/81.0.4044.138 Safari/537.36\",Nova S",
         "logo": "https://i.imgur.com/mHJAqqS.png",
         "group": "Entertainment",
         "source": "https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u",
         "url": "https://n1-bg-ku-r1-2.umn.cdn.united.cloud/stream?i=H9FAErjFl1QBwEedJgdWqQ&a=RyqZAfXpLzotsDGgYgnw78siAfqVm4mgb4ZDkxyXwzzt9ZIfmBixU3E6rmniY-ysjiI49j9MkTtSplU1H3uIvUN59ftih6Cd5rBan_nrKRLFTJsFvNKr2bxcKkIuF6WvTcM5bAg55G_i1B-7devbnvS0li1Y2RUfksV_hUYJJwvflJJxMwUZTnJhRds0tehuNOdzPWSJz9qclkdFr4FiegiOAlwIWAkfzybqEpeMe34&sp=novas&u=novas&session=206c0697-4b8e-2322-2a08-718e206505df&player=m3u8"
-      },
-      {
-        "name": "like Gecko) Chrome/81.0.4044.138 Safari/537.36\",Nova BH",
-        "logo": "https://i.imgur.com/eJKP502.png",
-        "group": "Entertainment",
-        "source": "https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u",
-        "url": "http://91.132.74.5:8000/play/a005"
       },
       {
         "name": "like Gecko) Chrome/81.0.4044.138 Safari/537.36\",Red TV",
@@ -1125,13 +1118,6 @@
         "group": "Entertainment",
         "source": "https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u",
         "url": "https://de1.adriatelekom.com/AdriaYachting4K-www/index.m3u8"
-      },
-      {
-        "name": "like Gecko) Chrome/81.0.4044.138 Safari/537.36\",H2 History",
-        "logo": "https://i.imgur.com/yWk5KbM.png",
-        "group": "Entertainment",
-        "source": "https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u",
-        "url": "http://91.132.74.5:8000/play/a007"
       },
       {
         "name": "like Gecko) Chrome/81.0.4044.138 Safari/537.36\",Filmbox Extra",
@@ -1395,13 +1381,6 @@
         "url": "https://stream.rtvze.ba/live/123/123.m3u8"
       },
       {
-        "name": "like Gecko) Chrome/81.0.4044.138 Safari/537.36\",Mini TV",
-        "logo": "https://i.imgur.com/TMQnWxj.png",
-        "group": "General",
-        "source": "https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u",
-        "url": "http://91.132.74.5:8000/play/a00d"
-      },
-      {
         "name": "Tropik TV",
         "logo": "https://i.imgur.com/9kVyHir.png",
         "group": "General",
@@ -1535,48 +1514,6 @@
         "group": "Sports",
         "source": "https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u",
         "url": "https://de1.adriatelekom.com/AdriaKitchen-www/index.m3u8"
-      },
-      {
-        "name": "like Gecko) Chrome/81.0.4044.138 Safari/537.36\",Arena Sport 1",
-        "logo": "https://i.imgur.com/MkCDXfU.png",
-        "group": "Sports",
-        "source": "https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u",
-        "url": "http://91.132.74.5:8000/play/a00k"
-      },
-      {
-        "name": "like Gecko) Chrome/81.0.4044.138 Safari/537.36\",Arena Sport 2",
-        "logo": "https://i.imgur.com/7MPRvLI.png",
-        "group": "Sports",
-        "source": "https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u",
-        "url": "http://91.132.74.5:8000/play/a00i"
-      },
-      {
-        "name": "like Gecko) Chrome/81.0.4044.138 Safari/537.36\",Arena Sport 3",
-        "logo": "https://i.imgur.com/ae5GtSY.png",
-        "group": "Sports",
-        "source": "https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u",
-        "url": "http://91.132.74.5:8000/play/a00j"
-      },
-      {
-        "name": "like Gecko) Chrome/81.0.4044.138 Safari/537.36\",Arena Sport Premium 1",
-        "logo": "https://i.imgur.com/zfLzVqV.png",
-        "group": "Sports",
-        "source": "https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u",
-        "url": "http://91.132.74.5:8000/play/a00g"
-      },
-      {
-        "name": "like Gecko) Chrome/81.0.4044.138 Safari/537.36\",Arena Sport Premium 2",
-        "logo": "https://i.imgur.com/zTCwdf9.png",
-        "group": "Sports",
-        "source": "https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u",
-        "url": "http://91.132.74.5:8000/play/a00l"
-      },
-      {
-        "name": "like Gecko) Chrome/81.0.4044.138 Safari/537.36\",Arena Sport Premium 3",
-        "logo": "https://i.imgur.com/aK3SNFW.png",
-        "group": "Sports",
-        "source": "https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u",
-        "url": "http://91.132.74.5:8000/play/a00h"
       },
       {
         "name": "like Gecko) Chrome/81.0.4044.138 Safari/537.36\",Adria eSports",
