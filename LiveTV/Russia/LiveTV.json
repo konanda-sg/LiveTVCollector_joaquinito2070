@@ -1,5 +1,5 @@
 {
-  "date": "2025-08-05 13:46:22",
+  "date": "2025-08-05 21:42:05",
   "channels": {
     "Кино": [
       {
@@ -7007,6 +7007,13 @@
     ],
     "General": [
       {
+        "name": "5 канал",
+        "logo": "https://i.imgur.com/KPXMa3U.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
+        "url": "http://178.217.72.66:8080/5_Kanal/index.m3u8"
+      },
+      {
         "name": "12 канал",
         "logo": "https://i.imgur.com/OA9hm6e.png",
         "group": "General",
@@ -7014,11 +7021,11 @@
         "url": "https://12channel.bonus-tv.ru/cdn/12channel_blackout/playlist.m3u8"
       },
       {
-        "name": "360° (1080p) [Not 24/7]",
+        "name": "360° (1080p)",
         "logo": "https://i.imgur.com/VTJqdoX.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "https://edge2-tv-ll.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/index.m3u8"
+        "url": "https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJli/index.m3u8"
       },
       {
         "name": "Abaza TV",
@@ -7028,53 +7035,11 @@
         "url": "https://public.apsny.camera/tv_abaza_tv_to_site/index.m3u8"
       },
       {
-        "name": "Channel 5",
-        "logo": "https://i.imgur.com/KPXMa3U.png",
+        "name": "Luch",
+        "logo": "https://i.imgur.com/tXH51br.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "http://178.217.72.66:8080/5_Kanal/index.m3u8"
-      },
-      {
-        "name": "KTOKUDA",
-        "logo": "https://ntvplus.tv/files/image/68/79/06/9wn.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "https://s7.merlive.am/ktokuda/index.m3u8"
-      },
-      {
-        "name": "Novy Vek",
-        "logo": "https://i.imgur.com/8aYYi3r.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Tambov/hls/index.m3u8"
-      },
-      {
-        "name": "OTR",
-        "logo": "https://i.imgur.com/VaWlnjZ.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "http://178.217.72.66:8080/OTR/index.m3u8"
-      },
-      {
-        "name": "REN TV",
-        "logo": "https://i.imgur.com/0Tu5lte.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "http://178.217.72.66:8080/REN_TV/index.m3u8"
-      },
-      {
-        "name": "REN TV International",
-        "logo": "https://i.imgur.com/gBjk9oF.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "https://cdn4.skygo.mn/live/disk1/RenTV/HLSv3-FTA/RenTV.m3u8"
-      },
-      {
-        "name": "Sochi Live HD (720p) [Not 24/7]",
-        "logo": "https://www.cableman.ru/sites/default/files/sochi_live.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8"
+        "url": "https://mow-9-ll.facecast.io:8443/hls_re/c631505e4fd6d14665c0.m3u8"
       },
       {
         "name": "TGRT Europe (1080p)",
@@ -7095,7 +7060,7 @@
         "logo": "https://i.imgur.com/vLpm8tN.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "http://brics.bonus-tv.ru/cdn/brics/russian/playlist.m3u8"
+        "url": "https://rusbrics.mediacdn.ru/cdn/brics/russian/playlist.m3u8"
       },
       {
         "name": "Аист ТВ",
@@ -7161,13 +7126,6 @@
         "url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/stavropol/kavkaz24-hd/index.m3u8"
       },
       {
-        "name": "Калейдоскоп ТВ",
-        "logo": "https://i.imgur.com/Ub3gojM.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "https://cdn-01.bonus-tv.ru/Kaleidoskop_edge/playlist.m3u8"
-      },
-      {
         "name": "Курай (Уфа) (576p)",
         "logo": "https://i.imgur.com/hZXBD9F.png",
         "group": "General",
@@ -7182,11 +7140,11 @@
         "url": "http://46.46.143.222:1935/live/mp4:ldpr.stream/playlist.m3u8"
       },
       {
-        "name": "like Gecko) Mobile/15E148\",Мир (480p) [Not 24/7]",
-        "logo": "https://i.imgur.com/AqWaJT8.png",
+        "name": "Лен ТВ 24 (540p) [Geo-blocked]",
+        "logo": "https://i.imgur.com/d02uxkB.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "http://ott-cdn.ucom.am/s39/index.m3u8"
+        "url": "https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_LENTVSD/variant.m3u8"
       },
       {
         "name": "Мир +2 (540p) [Not 24/7]",
@@ -7238,6 +7196,20 @@
         "url": "https://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8"
       },
       {
+        "name": "Новый Век",
+        "logo": "https://i.imgur.com/8aYYi3r.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
+        "url": "https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Tambov/hls/index.m3u8"
+      },
+      {
+        "name": "НТВ",
+        "logo": "https://i.imgur.com/9r1BKzK.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
+        "url": "https://streaming.televizor-24-tochka.ru/live/7.m3u8"
+      },
+      {
         "name": "НТВ HD",
         "logo": "https://i.imgur.com/9r1BKzK.png",
         "group": "General",
@@ -7266,18 +7238,39 @@
         "url": "http://osnmedia.servicecdn.ru/streams/17603_88089/playlist.m3u8"
       },
       {
-        "name": "like Gecko) Mobile/15E148\",Первый канал (480p) [Not 24/7]",
+        "name": "ОТР",
+        "logo": "https://i.imgur.com/VaWlnjZ.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
+        "url": "http://178.217.72.66:8080/OTR/index.m3u8"
+      },
+      {
+        "name": "Первый канал",
         "logo": "https://i.imgur.com/RUSX0rX.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "http://ott-cdn.ucom.am/s14/index.m3u8"
+        "url": "https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd"
       },
       {
-        "name": "like Gecko) Mobile/15E148\",Россия РТР (480p) [Not 24/7]",
+        "name": "РЕН ТВ",
+        "logo": "https://i.imgur.com/0Tu5lte.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
+        "url": "http://178.217.72.66:8080/REN_TV/index.m3u8"
+      },
+      {
+        "name": "РЕН ТВ International",
+        "logo": "https://i.imgur.com/gBjk9oF.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
+        "url": "https://cdn4.skygo.mn/live/disk1/RenTV/HLSv3-FTA/RenTV.m3u8"
+      },
+      {
+        "name": "Россия 1 (VGTRK Official)",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/11-%D0%B9_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F-1.svg/512px-11-%D0%B9_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F-1.svg.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "http://ott-cdn.ucom.am/s15/index.m3u8"
+        "url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8"
       },
       {
         "name": "РТР Планета Евро",
@@ -7313,20 +7306,6 @@
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
         "url": "https://stream.tck.tv/hd.m3u8"
-      },
-      {
-        "name": "like Gecko) Mobile/15E148\",Центральное телевидение (ЦТВ) (480p) [Not 24/7]",
-        "logo": "https://i.imgur.com/9r1BKzK.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "http://ott-cdn.ucom.am/s20/index.m3u8"
-      },
-      {
-        "name": "Эхо TV (Рязань) (576p) [Not 24/7]",
-        "logo": "https://i.imgur.com/YWKJA1O.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "https://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8"
       }
     ],
     "News": [
@@ -7343,13 +7322,6 @@
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
         "url": "https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8"
-      },
-      {
-        "name": "like Gecko) Mobile/15E148\",BBC World News (480p) [Not 24/7]",
-        "logo": "https://i.imgur.com/vSz2WEp.png",
-        "group": "News",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "http://ott-cdn.ucom.am/s24/index.m3u8"
       },
       {
         "name": "Current Time TV",
@@ -7401,111 +7373,11 @@
         "url": "http://video.govoritmoskva.ru:8080/live/rufmbk-1/index.m3u8"
       },
       {
-        "name": "like Gecko) Mobile/15E148\",Россия 24 (480p) [Not 24/7]",
+        "name": "Россия 24 (576p) [Not 24/7]",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/512px-Rossiya-24_Logo.svg.png",
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "http://ott-cdn.ucom.am/s21/index.m3u8"
-      },
-      {
-        "name": "Толк HD",
-        "logo": "https://i.imgur.com/l7JZ79P.png",
-        "group": "News",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "http://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8"
-      }
-    ],
-    "Entertainment": [
-      {
-        "name": ".black",
-        "logo": "https://i.imgur.com/Q4A6ci4.png",
-        "group": "Entertainment",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "http://s1.merlive.am/black/index.m3u8"
-      },
-      {
-        "name": "Che!",
-        "logo": "https://i.imgur.com/ZOcDGpB.png",
-        "group": "Entertainment",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "http://31.148.48.15/Che/index.m3u8"
-      },
-      {
-        "name": "Friday!",
-        "logo": "https://i.imgur.com/UfmlXxe.png",
-        "group": "Entertainment",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "https://livetv.mylifeisgood.net.ru/channels/fridayhd.m3u8"
-      },
-      {
-        "name": "India",
-        "logo": "https://i.imgur.com/xDVcDOc.png",
-        "group": "Entertainment",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "http://31.148.48.15/Zee_TV_Russia/index.m3u8"
-      },
-      {
-        "name": "TV-3",
-        "logo": "https://i.imgur.com/JLAvq8O.png",
-        "group": "Entertainment",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "https://livetv.mylifeisgood.net.ru/channels/tv3hd.m3u8"
-      },
-      {
-        "name": "Tvoe TV HD",
-        "logo": "https://i.imgur.com/kKAM7dP.png",
-        "group": "Entertainment",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "http://tvoetv.space:8080/tvoetv/index.m3u8"
-      },
-      {
-        "name": "МТВ (Волгоград) (720p) [Not 24/7]",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/MTV-2021.svg/512px-MTV-2021.svg.png",
-        "group": "Entertainment",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "http://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8"
-      },
-      {
-        "name": "Поехали!",
-        "logo": "https://i.imgur.com/ZNCpbII.png",
-        "group": "Entertainment",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "http://31.148.48.15/Poehali/index.m3u8"
-      },
-      {
-        "name": "like Gecko) Mobile/15E148\",Пятница! International (480p) [Not 24/7]",
-        "logo": "https://i.imgur.com/N2z3EZC.png",
-        "group": "Entertainment",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "http://ott-cdn.ucom.am/s50/index.m3u8"
-      },
-      {
-        "name": "Ратник (1080p) [Geo-blocked]",
-        "logo": "https://i.imgur.com/vhLQtSd.png",
-        "group": "Entertainment",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "https://live-ratnik.cdnvideo.ru/ratnik/ratnik.sdp/playlist.m3u8"
-      },
-      {
-        "name": "like Gecko) Mobile/15E148\",ТНТ (480p) [Not 24/7]",
-        "logo": "https://i.imgur.com/T4A6rEI.png",
-        "group": "Entertainment",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "http://ott-cdn.ucom.am/s19/index.m3u8"
-      },
-      {
-        "name": "like Gecko) Mobile/15E148\",ТНТ4 (480p) [Not 24/7]",
-        "logo": "https://i.imgur.com/gBokU5i.png",
-        "group": "Entertainment",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "http://ott-cdn.ucom.am/s100/index.m3u8"
-      },
-      {
-        "name": "Ю",
-        "logo": "https://i.imgur.com/KDZvt0Q.png",
-        "group": "Entertainment",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "https://cdn-01.bonus-tv.ru/u/playlist.m3u8"
+        "url": "https://uiptv.do.am/1ufc/000000006/playlist.m3u8"
       }
     ],
     "Science": [
@@ -7515,13 +7387,6 @@
         "group": "Science",
         "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
         "url": "http://178.124.179.122:8088/Sci-Fi/index.m3u8"
-      },
-      {
-        "name": "like Gecko) Mobile/15E148\",Космический (480p) [Not 24/7]",
-        "logo": "https://i.imgur.com/N1Ze5IE.png",
-        "group": "Science",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "http://ott-cdn.ucom.am/s44/index.m3u8"
       }
     ],
     "Music": [
@@ -7533,11 +7398,11 @@
         "url": "http://31.148.48.15/A1/index.m3u8"
       },
       {
-        "name": "like Gecko) Mobile/15E148\",BRIDGE (480p) [Not 24/7]",
+        "name": "Bridge",
         "logo": "https://i.imgur.com/qYObfrG.png",
         "group": "Music",
         "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "http://ott-cdn.ucom.am/s34/index.m3u8"
+        "url": "http://31.148.48.15/Bridge_TV/index.m3u8"
       },
       {
         "name": "BRIDGE Deluxe",
@@ -7561,25 +7426,11 @@
         "url": "http://31.148.48.15/Europa_Plus_HD/index.m3u8"
       },
       {
-        "name": "like Gecko) Mobile/15E148\",Mezzo (480p) [Not 24/7]",
-        "logo": "https://i.imgur.com/auNdGeW.png",
-        "group": "Music",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "http://ott-cdn.ucom.am/s35/index.m3u8"
-      },
-      {
         "name": "MTV Hits Europe",
         "logo": "https://i.imgur.com/zNscEST.png",
         "group": "Music",
         "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
         "url": "http://45.88.92.3/tr3_MTVHits_SD/index.m3u8?token=test"
-      },
-      {
-        "name": "Muz-TV",
-        "logo": "https://i.imgur.com/BtqrHmz.png",
-        "group": "Music",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "https://livetv.mylifeisgood.net.ru/channels/muztvhd.m3u8"
       },
       {
         "name": "o2tv",
@@ -7596,25 +7447,11 @@
         "url": "https://hls-03-video.webcaramba.com/rutv/live.m3u8"
       },
       {
-        "name": "Russian MusicBox (1080p)",
-        "logo": "https://i.imgur.com/ZkJ3Rh9.png",
-        "group": "Music",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "https://livetv.mylifeisgood.net.ru/channels/rusmusicbox.m3u8"
-      },
-      {
         "name": "SONGTV Russia (720p)",
         "logo": "https://i.imgur.com/nM7LbmV.png",
         "group": "Music",
         "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
         "url": "https://songtv.hls.iptvdc.com/web-russia/index.m3u8"
-      },
-      {
-        "name": "TMTV",
-        "logo": "https://pic.rutubelist.ru/user/e4/1a/e41adeea8bab9f9e5c557709e82ecc95.jpg",
-        "group": "Music",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "https://mhd.iptv2022.com/p/QHmtCSGCeIyYJ5QKsJxlOw,1754280680/streaming/tmtv/324/5/index.m3u8"
       },
       {
         "name": "Жар Птица (404p) [Geo-blocked]",
@@ -7629,6 +7466,13 @@
         "group": "Music",
         "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
         "url": "https://public.streaming.matur-tv.ru/hls/h264_aac/stream.m3u8"
+      },
+      {
+        "name": "Муз-ТВ",
+        "logo": "https://i.imgur.com/BtqrHmz.png",
+        "group": "Music",
+        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
+        "url": "https://livetv.mylifeisgood.net.ru/channels/muztvhd.m3u8"
       },
       {
         "name": "Музыка Первого",
@@ -7680,11 +7524,11 @@
         "url": "https://cdn-01.bonus-tv.ru/tntmusic/playlist.m3u8"
       },
       {
-        "name": "like Gecko) Mobile/15E148\",Шансон ТВ (480p) [Not 24/7]",
+        "name": "Шансон ТВ (576p) [Geo-blocked]",
         "logo": "https://i.imgur.com/Fk4sd8t.png",
         "group": "Music",
         "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "http://ott-cdn.ucom.am/s43/index.m3u8"
+        "url": "https://uiptv.do.am/1ufc/602079679/playlist.m3u8"
       }
     ],
     "Series": [
@@ -7703,27 +7547,11 @@
         "url": "https://cdn.ntv.ru/th_serial/playlist.m3u8"
       },
       {
-        "name": "like Gecko) Mobile/15E148\",НТВ Хит (480p) [Not 24/7]",
+        "name": "НТВ Хит",
         "logo": "https://i.imgur.com/FfKBvz5.png",
         "group": "Series",
         "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "http://ott-cdn.ucom.am/s77/index.m3u8"
-      }
-    ],
-    "Movies;Series": [
-      {
-        "name": "like Gecko) Mobile/15E148\",Amedia Premium (480p) [Not 24/7]",
-        "logo": "https://i.imgur.com/UUjehw9.png",
-        "group": "Movies;Series",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "http://ott-cdn.ucom.am/s64/index.m3u8"
-      },
-      {
-        "name": "Bolt",
-        "logo": "https://i.imgur.com/YdIHXOR.png",
-        "group": "Movies;Series",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "http://95.142.88.250:80/Bolt/index.m3u8"
+        "url": "https://cdn.ntv.ru/th_hit/playlist.m3u8"
       }
     ],
     "Kids": [
@@ -7735,46 +7563,11 @@
         "url": "http://stv.mediacdn.ru/live/cdn/ani/playlist.m3u8"
       },
       {
-        "name": "Carousel International",
-        "logo": "https://i.imgur.com/DnlngRZ.png",
-        "group": "Kids",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "https://cdn4.skygo.mn/live/disk1/Karusel/HLSv3-FTA/Karusel.m3u8"
-      },
-      {
         "name": "ducktv (720p)",
         "logo": "https://i.imgur.com/gRFQ35W.png",
         "group": "Kids",
         "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
         "url": "https://jmp2.uk/sam-ESBC4700001GR.m3u8"
-      },
-      {
-        "name": "Mama",
-        "logo": "https://i.imgur.com/kmMIjjf.png",
-        "group": "Kids",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "http://stv.mediacdn.ru/live/cdn/mama/playlist.m3u8"
-      },
-      {
-        "name": "Mult",
-        "logo": "https://i.imgur.com/xi351Fx.png",
-        "group": "Kids",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "http://stv.mediacdn.ru/live/cdn/mult/playlist.m3u8"
-      },
-      {
-        "name": "Mult i muzyka",
-        "logo": "https://i.imgur.com/SYt6BZP.png",
-        "group": "Kids",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "http://stv.mediacdn.ru/live/cdn/multimuzika/playlist.m3u8"
-      },
-      {
-        "name": "Multilandia",
-        "logo": "https://i.imgur.com/ccwijY0.png",
-        "group": "Kids",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "http://178.217.72.66:8080/multilandiya/index.m3u8"
       },
       {
         "name": "Nickelodeon",
@@ -7784,13 +7577,6 @@
         "url": "http://31.148.48.15/Nickelodeon/index.m3u8"
       },
       {
-        "name": "Smaylik TV",
-        "logo": "https://static.tildacdn.com/tild3936-3138-4234-b536-326531343933/-_13x.png",
-        "group": "Kids",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "https://5f05e059699ae.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8"
-      },
-      {
         "name": "STS kids",
         "logo": "https://i.imgur.com/o9kLpAL.png",
         "group": "Kids",
@@ -7798,46 +7584,46 @@
         "url": "http://31.148.48.15/STS_Kids_HD/index.m3u8"
       },
       {
-        "name": "SuperGeroi",
-        "logo": "https://i.imgur.com/c0zZUR1.png",
-        "group": "Kids",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "http://178.124.179.122:8088/Malish/index.m3u8"
-      },
-      {
-        "name": "Tamyr",
-        "logo": "https://i.imgur.com/Ia3acCB.png",
-        "group": "Kids",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "https://bstonline.mediacdn.ru/cdn/tamyr/playlist.m3u8"
-      },
-      {
-        "name": "like Gecko) Mobile/15E148\",Tiji (480p) [Not 24/7]",
-        "logo": "https://i.imgur.com/QCOUJ30.png",
-        "group": "Kids",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "http://ott-cdn.ucom.am/s59/index.m3u8"
-      },
-      {
-        "name": "V gostyakh u skazki",
-        "logo": "https://i.imgur.com/jNJkLHl.png",
-        "group": "Kids",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "https://s1.merlive.am/vgostyaxuskazki/index.m3u8"
-      },
-      {
-        "name": "like Gecko) Mobile/15E148\",Детский мир (480p) [Not 24/7]",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Logo_Detskiy_Mir_15_January_2013.jpg",
-        "group": "Kids",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "http://ott-cdn.ucom.am/s58/index.m3u8"
-      },
-      {
         "name": "Карусель",
         "logo": "https://i.imgur.com/4wmnx1W.png",
         "group": "Kids",
         "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "https://streaming.skynetconnect.online/live/232.m3u8"
+        "url": "https://streaming.televizor-24-tochka.ru/live/11.m3u8"
+      },
+      {
+        "name": "Карусель International",
+        "logo": "https://i.imgur.com/DnlngRZ.png",
+        "group": "Kids",
+        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
+        "url": "https://cdn4.skygo.mn/live/disk1/Karusel/HLSv3-FTA/Karusel.m3u8"
+      },
+      {
+        "name": "Мама",
+        "logo": "https://i.imgur.com/kmMIjjf.png",
+        "group": "Kids",
+        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
+        "url": "http://stv.mediacdn.ru/live/cdn/mama/playlist.m3u8"
+      },
+      {
+        "name": "Мульт",
+        "logo": "https://i.imgur.com/xi351Fx.png",
+        "group": "Kids",
+        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
+        "url": "http://stv.mediacdn.ru/live/cdn/mult/playlist.m3u8"
+      },
+      {
+        "name": "Мульт и музыка",
+        "logo": "https://i.imgur.com/SYt6BZP.png",
+        "group": "Kids",
+        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
+        "url": "http://stv.mediacdn.ru/live/cdn/multimuzika/playlist.m3u8"
+      },
+      {
+        "name": "Мультиландия",
+        "logo": "https://i.imgur.com/ccwijY0.png",
+        "group": "Kids",
+        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
+        "url": "http://178.217.72.66:8080/multilandiya/index.m3u8"
       },
       {
         "name": "Радость моя",
@@ -7847,37 +7633,477 @@
         "url": "https://radm.mediacdn.ru/cdn/radost/playlist.m3u8"
       },
       {
-        "name": "like Gecko) Mobile/15E148\",Рыжий (480p) [Not 24/7]",
-        "logo": "https://i.imgur.com/acrU2IE.png",
+        "name": "СуперГерои",
+        "logo": "https://i.imgur.com/c0zZUR1.png",
         "group": "Kids",
         "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "http://ott-cdn.ucom.am/s57/index.m3u8"
+        "url": "http://178.124.179.122:8088/Malish/index.m3u8"
+      },
+      {
+        "name": "Тамыр (Уфа)",
+        "logo": "https://i.imgur.com/Ia3acCB.png",
+        "group": "Kids",
+        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
+        "url": "https://bstonline.mediacdn.ru/cdn/tamyr/playlist.m3u8"
       }
     ],
-    "Auto": [
+    "Business": [
       {
-        "name": "Auto Plus",
-        "logo": "https://i.imgur.com/sVc8cFt.png",
-        "group": "Auto",
+        "name": "Bloomberg TV EMEA Live Event (720p)",
+        "logo": "https://i.imgur.com/OuogLHx.png",
+        "group": "Business",
         "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "http://31.148.48.15/Avto_Plus/index.m3u8"
+        "url": "https://bloomberg.com/media-manifest/streams/eu-event.m3u8"
+      },
+      {
+        "name": "Bloomberg TV Europe (720p)",
+        "logo": "https://i.imgur.com/OuogLHx.png",
+        "group": "Business",
+        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
+        "url": "https://bloomberg.com/media-manifest/streams/eu.m3u8"
+      },
+      {
+        "name": "РБК (576p)",
+        "logo": "https://i.imgur.com/CwhmJby.png",
+        "group": "Business",
+        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
+        "url": "https://uiptv.do.am/1ufc/701293058/playlist.m3u8"
+      }
+    ],
+    "Movies;Series": [
+      {
+        "name": "Bolt",
+        "logo": "https://i.imgur.com/YdIHXOR.png",
+        "group": "Movies;Series",
+        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
+        "url": "http://95.142.88.250:80/Bolt/index.m3u8"
+      }
+    ],
+    "Classic;Music": [
+      {
+        "name": "BRIDGE Classic",
+        "logo": "https://i.imgur.com/JJTQq81.png",
+        "group": "Classic;Music",
+        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
+        "url": "http://31.148.48.15/Bridge_TV_Classic/index.m3u8"
+      }
+    ],
+    "Movies": [
+      {
+        "name": "Cinema",
+        "logo": "https://i.imgur.com/b5e9qUA.png",
+        "group": "Movies",
+        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
+        "url": "http://catchup.videoline.ru/cinema/tracks-v1a1/mono.m3u8"
+      },
+      {
+        "name": "Kino 24",
+        "logo": "https://i.imgur.com/QAdDARF.png",
+        "group": "Movies",
+        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
+        "url": "http://sirius.greenhosting.ru/Kino24Ru/video.m3u8"
+      },
+      {
+        "name": "Kino TV",
+        "logo": "https://i.imgur.com/sMpamNO.png",
+        "group": "Movies",
+        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
+        "url": "https://vod.tuva.ru/kinotv/index.m3u8"
+      },
+      {
+        "name": "Дом Кино",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%D0%94%D0%BE%D0%BC_%D0%9A%D0%B8%D0%BD%D0%BE.png/512px-%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%D0%94%D0%BE%D0%BC_%D0%9A%D0%B8%D0%BD%D0%BE.png",
+        "group": "Movies",
+        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
+        "url": "https://streaming.thestream.cyou/live/44.m3u8"
+      },
+      {
+        "name": "Дом Кино Премиум HD",
+        "logo": "https://i.imgur.com/rJpQtvK.png",
+        "group": "Movies",
+        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
+        "url": "http://31.148.48.15/Dom_Kino_Premium_HD/index.m3u8"
+      },
+      {
+        "name": "Еврокино",
+        "logo": "https://i.imgur.com/8LPtPf6.png",
+        "group": "Movies",
+        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
+        "url": "http://31.148.48.15/Evrokino/index.m3u8"
+      },
+      {
+        "name": "Иллюзион+",
+        "logo": "https://i.imgur.com/9GvuHQ5.png",
+        "group": "Movies",
+        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
+        "url": "http://31.148.48.15/Illusion_plus/index.m3u8"
+      },
+      {
+        "name": "Кинеко",
+        "logo": "https://i.imgur.com/Otfvlmf.png",
+        "group": "Movies",
+        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
+        "url": "http://194.143.148.28:8080/KINEKO/index.m3u8"
+      },
+      {
+        "name": "Кинопоказ",
+        "logo": "https://i.imgur.com/nNjMyAq.png",
+        "group": "Movies",
+        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
+        "url": "http://31.148.48.15/Kinopokaz/index.m3u8"
+      },
+      {
+        "name": "Мосфильм Золотая Коллекция",
+        "logo": "https://i.imgur.com/95Y8jb6.png",
+        "group": "Movies",
+        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
+        "url": "http://178.217.72.66:8080/mosfilm/index.m3u8"
+      },
+      {
+        "name": "Русский Бестселлер",
+        "logo": "https://i.imgur.com/w0ZE9QJ.png",
+        "group": "Movies",
+        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
+        "url": "http://31.148.48.15/Russkiy_Bestseller/index.m3u8"
+      },
+      {
+        "name": "Русский Иллюзион",
+        "logo": "https://i.imgur.com/RlsqFN8.png",
+        "group": "Movies",
+        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
+        "url": "http://178.217.72.66:8080/Russkiy_Illyuzion/index.m3u8"
+      },
+      {
+        "name": "Русский роман",
+        "logo": "https://i.imgur.com/cQN0P2B.png",
+        "group": "Movies",
+        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
+        "url": "http://31.148.48.15/Russkiy_Roman_HD/index.m3u8"
+      },
+      {
+        "name": "Феникс плюс Кино",
+        "logo": "https://i.imgur.com/S9OPMLE.png",
+        "group": "Movies",
+        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
+        "url": "http://31.148.48.15/Feniks_plus_kino/index.m3u8"
+      }
+    ],
+    "Education": [
+      {
+        "name": "Da Vinci",
+        "logo": "https://i.imgur.com/iBx7K1M.png",
+        "group": "Education",
+        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
+        "url": "http://178.217.72.66:8080/Da_Vinchi/index.m3u8"
+      },
+      {
+        "name": "MOSOBR.TV (720p)",
+        "logo": "https://i.imgur.com/t6PmOD5.png",
+        "group": "Education",
+        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
+        "url": "http://retj.educom.ru/mosobrtv/tv1/index.m3u8"
+      },
+      {
+        "name": "ЕГЭ ТВ",
+        "logo": "https://i.imgur.com/XxJBLt4.png",
+        "group": "Education",
+        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
+        "url": "http://194.143.148.28:8080/RT_DOC/index.m3u8"
+      }
+    ],
+    "Religious": [
+      {
+        "name": "EWTN Africa Asia (720p)",
+        "logo": "https://i.imgur.com/sua70RO.png",
+        "group": "Religious",
+        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
+        "url": "https://cdn3.wowza.com/1/ZVBYYXFLLzE0c3NC/Qk1FMURC/hls/live/playlist.m3u8"
+      },
+      {
+        "name": "EWTN Europe (720p) [Not 24/7]",
+        "logo": "https://i.imgur.com/sua70RO.png",
+        "group": "Religious",
+        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
+        "url": "https://cdn3.wowza.com/1/T2NXeHF6UGlGbHY3/WFluRldQ/hls/live/playlist.m3u8"
+      },
+      {
+        "name": "Вера 24",
+        "logo": "https://i.imgur.com/Qer5Lnh.png",
+        "group": "Religious",
+        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
+        "url": "https://5f05e059699ae.streamlock.net/WEB_Vera24/ngrp:Vera24.stream-adaptive/playlist.m3u8"
+      },
+      {
+        "name": "Каббала ТВ (360p) [Not 24/7]",
+        "logo": "https://i.imgur.com/uaffIpV.png",
+        "group": "Religious",
+        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
+        "url": "https://edge2.uk.kab.tv/live/tvrus-rus-medium/playlist.m3u8"
+      },
+      {
+        "name": "Надежда (720p)",
+        "logo": "https://i.imgur.com/ah6VnFJ.png",
+        "group": "Religious",
+        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
+        "url": "https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8"
+      },
+      {
+        "name": "Союз (576p)",
+        "logo": "https://i.imgur.com/w3OewHc.png",
+        "group": "Religious",
+        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
+        "url": "https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8"
+      },
+      {
+        "name": "Спас",
+        "logo": "https://i.imgur.com/yY39nMg.png",
+        "group": "Religious",
+        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
+        "url": "https://streaming.televizor-24-tochka.ru/live/15.m3u8"
+      },
+      {
+        "name": "Три Ангела (720p)",
+        "logo": "https://i.imgur.com/4fhBbam.png",
+        "group": "Religious",
+        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
+        "url": "https://hls.tv.3angels.ru/stream.m3u8"
+      },
+      {
+        "name": "Хузур ТВ (1080p) [Not 24/7]",
+        "logo": "https://i.imgur.com/Abg1fct.png",
+        "group": "Religious",
+        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
+        "url": "https://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/playlist.m3u8"
+      }
+    ],
+    "Comedy": [
+      {
+        "name": "Fail Army (720p)",
+        "logo": "https://i.imgur.com/VIpQJxL.png",
+        "group": "Comedy",
+        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
+        "url": "https://bd93cfed.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZhaWxBcm15X0hMUw/playlist.m3u8"
+      },
+      {
+        "name": "КВН ТВ",
+        "logo": "https://i.imgur.com/Vw3LFLX.png",
+        "group": "Comedy",
+        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
+        "url": "http://31.148.48.15/KVN_TV/index.m3u8"
+      },
+      {
+        "name": "Твое ТВ Юмор",
+        "logo": "https://smotret.tv/images/tvoe-tv-yumor.webp",
+        "group": "Comedy",
+        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
+        "url": "http://tvoetv.space:8080/tvoetv_humor/index.m3u8"
+      }
+    ],
+    "Lifestyle": [
+      {
+        "name": "FashionTV Europe (1080p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/512px-Fashion_TV_logo.svg.png",
+        "group": "Lifestyle",
+        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
+        "url": "https://68f1accef2154d2195cae87dec183843.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_FashionTV/playlist.m3u8"
+      },
+      {
+        "name": "Домашние животные",
+        "logo": "https://i.imgur.com/ISJzQGP.png",
+        "group": "Lifestyle",
+        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
+        "url": "http://178.217.72.66:8080/Domashnie_Zhivotnye/index.m3u8"
+      },
+      {
+        "name": "Домашний",
+        "logo": "https://i.imgur.com/XVRwgom.png",
+        "group": "Lifestyle",
+        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
+        "url": "http://178.217.72.66:8080/Domashniy/index.m3u8"
+      },
+      {
+        "name": "Домашний International",
+        "logo": "https://i.imgur.com/nf7GRXb.png",
+        "group": "Lifestyle",
+        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
+        "url": "https://cdn4.skygo.mn/live/disk1/Domashni/HLSv3-FTA/Domashni.m3u8"
+      },
+      {
+        "name": "ЖИВИ!",
+        "logo": "https://i.imgur.com/LPqySGk.png",
+        "group": "Lifestyle",
+        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
+        "url": "http://31.148.48.15/Zhivi/index.m3u8"
+      },
+      {
+        "name": "НТВ Стиль",
+        "logo": "https://i.imgur.com/rX6K6qT.png",
+        "group": "Lifestyle",
+        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
+        "url": "https://cdn.ntv.ru/th_style/playlist.m3u8"
+      },
+      {
+        "name": "Открытый мир. Здоровье",
+        "logo": "https://i.imgur.com/7orZOJA.png",
+        "group": "Lifestyle",
+        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
+        "url": "https://v4.proofix.ru/0mir/index.m3u8"
+      }
+    ],
+    "Sports": [
+      {
+        "name": "FIFA+ (720p)",
+        "logo": "https://i.imgur.com/l5iax42.png",
+        "group": "Sports",
+        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
+        "url": "https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8"
+      },
+      {
+        "name": "KHL Prime",
+        "logo": "https://i.imgur.com/pwxT0ON.png",
+        "group": "Sports",
+        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
+        "url": "http://194.143.148.28:8080/KHL_HD/index.m3u8"
+      },
+      {
+        "name": "MMA-TV.com",
+        "logo": "https://i.imgur.com/QhdxNsB.png",
+        "group": "Sports",
+        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
+        "url": "https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8"
+      },
+      {
+        "name": "World Poker Tour (1080p)",
+        "logo": "https://i.imgur.com/98kLMjj.png",
+        "group": "Sports",
+        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
+        "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/15d59f2f-80da-4448-9bce-775cc9f470f7/1.m3u8"
+      },
+      {
+        "name": "Астрахань.Ru Sport (720p)",
+        "logo": "https://i.imgur.com/BKaEtqL.png",
+        "group": "Sports",
+        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
+        "url": "https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8"
+      },
+      {
+        "name": "Матч! Арена",
+        "logo": "https://i.imgur.com/udTzwzu.png",
+        "group": "Sports",
+        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
+        "url": "http://194.143.148.28:8080/MatchArena/index.m3u8"
+      },
+      {
+        "name": "СТАРТ Триумф",
+        "logo": "https://i.imgur.com/L9jTieL.png",
+        "group": "Sports",
+        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
+        "url": "https://bl.webcaster.pro/media/playlist/free_fe8dc1b768a84b8b0333db826471f17e_hd/33_85479982/1080p/8666c3e935faf6ef47ffd601e8e48868/4821408969.m3u8"
+      },
+      {
+        "name": "Футбол",
+        "logo": "https://i.imgur.com/pEuaZVx.png",
+        "group": "Sports",
+        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
+        "url": "http://31.148.48.15/Futbol_HD/index.m3u8"
+      }
+    ],
+    "Cooking": [
+      {
+        "name": "FoodTime",
+        "logo": "https://i.imgur.com/gxCYAwH.png",
+        "group": "Cooking",
+        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
+        "url": "http://31.148.48.15/Eda_Premium_HD/index.m3u8"
+      },
+      {
+        "name": "Кухня ТВ",
+        "logo": "https://i.imgur.com/7jxZnuS.png",
+        "group": "Cooking",
+        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
+        "url": "http://31.148.48.15/Kuhnya_TV/index.m3u8"
+      },
+      {
+        "name": "Телекафе",
+        "logo": "https://i.imgur.com/1H3h1HL.png",
+        "group": "Cooking",
+        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
+        "url": "http://31.148.48.15/Telekafe/index.m3u8"
+      }
+    ],
+    "Entertainment": [
+      {
+        "name": "Friday! International",
+        "logo": "https://i.imgur.com/N2z3EZC.png",
+        "group": "Entertainment",
+        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
+        "url": "https://cdn4.skygo.mn/live/disk1/Friday/HLSv3-FTA/Friday.m3u8"
+      },
+      {
+        "name": "Tvoe TV HD",
+        "logo": "https://i.imgur.com/kKAM7dP.png",
+        "group": "Entertainment",
+        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
+        "url": "http://tvoetv.space:8080/tvoetv/index.m3u8"
+      },
+      {
+        "name": "Индия",
+        "logo": "https://i.imgur.com/xDVcDOc.png",
+        "group": "Entertainment",
+        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
+        "url": "http://31.148.48.15/Zee_TV_Russia/index.m3u8"
+      },
+      {
+        "name": "МТВ (Волгоград) (720p) [Not 24/7]",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/MTV-2021.svg/512px-MTV-2021.svg.png",
+        "group": "Entertainment",
+        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
+        "url": "http://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8"
+      },
+      {
+        "name": "Поехали!",
+        "logo": "https://i.imgur.com/ZNCpbII.png",
+        "group": "Entertainment",
+        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
+        "url": "http://31.148.48.15/Poehali/index.m3u8"
+      },
+      {
+        "name": "Пятница!",
+        "logo": "https://i.imgur.com/UfmlXxe.png",
+        "group": "Entertainment",
+        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
+        "url": "https://livetv.mylifeisgood.net.ru/channels/fridayhd.m3u8"
+      },
+      {
+        "name": "ТВ-3",
+        "logo": "https://i.imgur.com/JLAvq8O.png",
+        "group": "Entertainment",
+        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
+        "url": "https://livetv.mylifeisgood.net.ru/channels/tv3hd.m3u8"
+      },
+      {
+        "name": "ТНТ",
+        "logo": "https://i.imgur.com/T4A6rEI.png",
+        "group": "Entertainment",
+        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
+        "url": "https://livetv.mylifeisgood.net.ru/channels/tnthd.m3u8"
+      },
+      {
+        "name": "Че!",
+        "logo": "https://i.imgur.com/ZOcDGpB.png",
+        "group": "Entertainment",
+        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
+        "url": "http://31.148.48.15/Che/index.m3u8"
+      },
+      {
+        "name": "Ю",
+        "logo": "https://i.imgur.com/KDZvt0Q.png",
+        "group": "Entertainment",
+        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
+        "url": "https://cdn-01.bonus-tv.ru/u/playlist.m3u8"
       }
     ],
     "Undefined": [
-      {
-        "name": "Big Planet",
-        "logo": "https://i.imgur.com/wyuqWTR.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "http://178.217.72.66:8080/big_planet/index.m3u8"
-      },
-      {
-        "name": "Bober",
-        "logo": "https://i.imgur.com/clWWhB8.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "http://178.217.72.66:8080/Bober/index.m3u8"
-      },
       {
         "name": "Hard Knocks Fighting Championship (720p)",
         "logo": "https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/13b0a6c7-4307-4c8d-9fc4-df2a4f8e8b38-hard-knocks-fighting-1602077398-width200-quality90.jpeg",
@@ -7893,13 +8119,6 @@
         "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65c33f833ef47d00084f47ad/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1e7521-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8a8e6e9e-1da8-4436-9538-aa678b671447"
       },
       {
-        "name": "NST",
-        "logo": "https://i.imgur.com/uv2yxa5.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "http://178.217.72.66:8080/NSTV/index.m3u8"
-      },
-      {
         "name": "People Are Awesome (720p)",
         "logo": "https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/1cc9ab7e-8283-4c32-a3f3-e2a4d0e1d33f-width200-quality90.jpeg",
         "group": "Undefined",
@@ -7912,13 +8131,6 @@
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
         "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/654a620d53fc9700083b2e21/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e074d40-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8f8fcc86-3a94-4ce2-9955-c103e94fd2b9"
-      },
-      {
-        "name": "Pobeda",
-        "logo": "https://i.imgur.com/4KiYSln.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "http://178.217.72.66:8080/pobeda/index.m3u8"
       },
       {
         "name": "Rakuten VIKI (720p)",
@@ -7956,13 +8168,6 @@
         "url": "http://178.219.128.68:64888/RTL2"
       },
       {
-        "name": "Sarafan",
-        "logo": "https://i.imgur.com/u4q1rMT.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "http://95.142.88.250:80/sarafan/index.m3u8"
-      },
-      {
         "name": "SGDF24.RU",
         "logo": "https://i.imgur.com/73XseJs.png",
         "group": "Undefined",
@@ -7984,32 +8189,11 @@
         "url": "https://rightsboosterltd-scl-1-nl.samsung.wurl.tv/playlist.m3u8"
       },
       {
-        "name": "Studiya Fakt",
-        "logo": "https://i.imgur.com/y73pRGZ.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "https://042auhsnh0x.a.trbcdn.net/livemaster/rmhtb_live-7td9v6w34o6.smil/playlist.m3u8"
-      },
-      {
-        "name": "Subbota!",
-        "logo": "https://i.imgur.com/nsk8PpB.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "https://livetv.mylifeisgood.net.ru/channels/subbota.m3u8"
-      },
-      {
         "name": "TNA Wrestling",
         "logo": "https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/11e7c52e-a7fd-48f3-b4c4-9f25dd37c36b-width200-quality90.jpeg",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
         "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62ea4dadce395f0007086df2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c7788-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=649aa9eb-97bb-42d6-85e0-d0595821c87a"
-      },
-      {
-        "name": "Tochka otryva",
-        "logo": "https://i.imgur.com/TZiBQDK.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "http://s1.merlive.am/tochkaotriva/index.m3u8"
       },
       {
         "name": "TOP Barca (1080p)",
@@ -8024,20 +8208,6 @@
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
         "url": "http://rtmp.tvpro-online.ru/hls/ch1.m3u8"
-      },
-      {
-        "name": "TVM Channel",
-        "logo": "https://i.imgur.com/ZX6crqH.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "https://cdn-01.bonus-tv.ru/tvm_edge/playlist.m3u8"
-      },
-      {
-        "name": "Unikum",
-        "logo": "https://i.imgur.com/kSJZjDL.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "http://31.148.48.15/Detskiy/index.m3u8"
       },
       {
         "name": "Univer TV (1080p)",
@@ -8061,13 +8231,6 @@
         "url": "https://rakutenaa-mainstreammediafreesportsintl-rakuten-t7dc0.amagi.tv/playlist/rakutenAA-mainstreammediafreesportsintl-rakuten/playlist.m3u8"
       },
       {
-        "name": "YuTV",
-        "logo": "https://i.imgur.com/b8CXEr7.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "https://livetv.mylifeisgood.net.ru/channels/u_ott_tv_hq.m3u8"
-      },
-      {
         "name": "Z Nation (720p)",
         "logo": "https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/dff3a92e-c4aa-49c4-b1b6-4a847428b8d5-width200-quality90.png",
         "group": "Undefined",
@@ -8075,46 +8238,11 @@
         "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883098"
       },
       {
-        "name": "Zagorodnaya Zhizn",
-        "logo": "https://i.imgur.com/RoYd5pz.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "https://s7.merlive.am/zagorodnayajizn/index.m3u8"
-      },
-      {
-        "name": "Zagorodnyy Int",
-        "logo": "https://i.imgur.com/n7zOS06.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "http://livetv.mylifeisgood.net.ru/channels/zagorodint.m3u8"
-      },
-      {
         "name": "Zee One (720p)",
         "logo": "https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/b2b4d09d-3471-4dbf-a831-3191cfc66bec-width200-quality90.jpeg",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
         "url": "https://89ec2d15e090480bb419d940b8793b9c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_ZeeWorld-1/playlist.m3u8"
-      },
-      {
-        "name": "Zhivaya Planeta",
-        "logo": "https://i.imgur.com/onNv1tM.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "http://31.148.48.15/Zhivaya_Planeta/index.m3u8"
-      },
-      {
-        "name": "Zhivaya priroda",
-        "logo": "https://i.imgur.com/9lHQPdN.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "https://s1.merlive.am/Jivaiapriroda/index.m3u8"
-      },
-      {
-        "name": "Zoopark",
-        "logo": "https://i.imgur.com/IO5jegK.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "https://s1.merlive.am/Zoopark/index.m3u8"
       },
       {
         "name": "Архыз 24 (1080p)",
@@ -8131,11 +8259,25 @@
         "url": "https://streaming.astrakhan.ru/astrakhanrulivehd/playlist.m3u8"
       },
       {
+        "name": "Бобер",
+        "logo": "https://i.imgur.com/clWWhB8.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
+        "url": "http://178.217.72.66:8080/Bober/index.m3u8"
+      },
+      {
         "name": "Большая Азия",
         "logo": "https://i.imgur.com/vruuPKF.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
         "url": "http://live-bigasia.cdnvideo.ru/bigasia/bigasia.smil/playlist.m3u8"
+      },
+      {
+        "name": "Большая Планета",
+        "logo": "https://i.imgur.com/wyuqWTR.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
+        "url": "http://178.217.72.66:8080/big_planet/index.m3u8"
       },
       {
         "name": "БСТ 24 (Братск)",
@@ -8187,18 +8329,18 @@
         "url": "https://wl.tvrain.tv/transcode/ngrp:ses_all/playlist.m3u8"
       },
       {
-        "name": "like Gecko) Mobile/15E148\",Загородный (480p) [Not 24/7]",
-        "logo": "https://i.imgur.com/YGqO3Us.png",
+        "name": "Живая Планета",
+        "logo": "https://i.imgur.com/onNv1tM.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "http://ott-cdn.ucom.am/s31/index.m3u8"
+        "url": "http://31.148.48.15/Zhivaya_Planeta/index.m3u8"
       },
       {
         "name": "Звезда Плюс",
         "logo": "https://i.imgur.com/NNmjD9Z.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "http://tvchannelstream1.tvzvezda.ru/cdn/zvezdaplus/playlist.m3u8"
+        "url": "http://tvzvezda.bonus-tv.ru/cdn/zvezdaplus/playlist.m3u8"
       },
       {
         "name": "Зоо ТВ",
@@ -8229,6 +8371,13 @@
         "url": "https://cdn.ntv.ru/unknown_russia/playlist.m3u8"
       },
       {
+        "name": "НСТ",
+        "logo": "https://i.imgur.com/uv2yxa5.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
+        "url": "http://178.217.72.66:8080/NSTV/index.m3u8"
+      },
+      {
         "name": "НТВ Право",
         "logo": "https://i.imgur.com/3ChnWGg.png",
         "group": "Undefined",
@@ -8236,11 +8385,11 @@
         "url": "https://cdn.ntv.ru/th_pravo/playlist.m3u8"
       },
       {
-        "name": "like Gecko) Mobile/15E148\",Приключения (480p) [Not 24/7]",
-        "logo": "https://i.imgur.com/qQ6pPPQ.png",
+        "name": "Победа",
+        "logo": "https://i.imgur.com/4KiYSln.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "http://ott-cdn.ucom.am/s99/index.m3u8"
+        "url": "http://178.217.72.66:8080/pobeda/index.m3u8"
       },
       {
         "name": "Прима (1080p)",
@@ -8292,6 +8441,13 @@
         "url": "http://45.67.57.9:8080/new/new/playlist.m3u8"
       },
       {
+        "name": "Сарафан",
+        "logo": "https://i.imgur.com/u4q1rMT.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
+        "url": "http://95.142.88.250:80/sarafan/index.m3u8"
+      },
+      {
         "name": "Своё HD",
         "logo": "https://i.imgur.com/3cP2fmX.png",
         "group": "Undefined",
@@ -8303,7 +8459,7 @@
         "logo": "https://i.imgur.com/sTOQLYl.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "https://live2.mediacdn.ru/sr1/sever/playlist.m3u8"
+        "url": "https://live.mediacdn.ru/sr1/sever/playlist.m3u8"
       },
       {
         "name": "Соловьев LIVE",
@@ -8313,11 +8469,32 @@
         "url": "https://player.smotrim.ru/iframe/stream/live_id/985d5c7b-9727-4942-a4ba-a6e852caf0c1"
       },
       {
+        "name": "Студия Факт",
+        "logo": "https://i.imgur.com/y73pRGZ.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
+        "url": "https://042auhsnh0x.a.trbcdn.net/livemaster/rmhtb_live-7td9v6w34o6.smil/playlist.m3u8"
+      },
+      {
+        "name": "Суббота! (450p) [Geo-blocked]",
+        "logo": "https://i.imgur.com/nsk8PpB.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
+        "url": "https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER/variant.m3u8"
+      },
+      {
         "name": "Сургут 24 (720p) [Not 24/7]",
         "logo": "https://i.imgur.com/OxvqXMt.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
         "url": "https://video1.in-news.ru/c24/index.m3u8"
+      },
+      {
+        "name": "ТВ Центр",
+        "logo": "https://upload.wikimedia.org/wikipedia/ru/7/72/TV_Tsentr_2013_Logo.svg",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
+        "url": "https://tvc-hls.cdnvideo.ru/tvc-res/smil:vd9221.smil/playlist.m3u8"
       },
       {
         "name": "ТВК 24 (576p)",
@@ -8327,25 +8504,11 @@
         "url": "https://air.tvk6.ru/tvk24/playlist.m3u8"
       },
       {
-        "name": "like Gecko) Mobile/15E148\",ТВЦ (480p) [Not 24/7]",
-        "logo": "https://upload.wikimedia.org/wikipedia/ru/7/72/TV_Tsentr_2013_Logo.svg",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "http://ott-cdn.ucom.am/s54/index.m3u8"
-      },
-      {
         "name": "Телплюс ТВ (Астрахань) (360p) [Not 24/7]",
         "logo": "https://i.imgur.com/1zbcZ3p.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
         "url": "https://streaming.astrakhan.ru/telplushd/playlist.m3u8"
-      },
-      {
-        "name": "Тивиком (Улан-Удэ) (1080p) [Not 24/7]",
-        "logo": "https://i.imgur.com/qcJ4EBl.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "http://tvcom.stream.intelema.ru/tvcom/studio/playlist.m3u8"
       },
       {
         "name": "ТКР (Рязань) (1080p) [Not 24/7]",
@@ -8362,18 +8525,11 @@
         "url": "https://planeta.mediacdn.ru/cdn/tnvplanet/playlist.m3u8"
       },
       {
-        "name": "Точка ТВ",
-        "logo": "https://i.imgur.com/yyNR5jG.png",
+        "name": "Уникум",
+        "logo": "https://i.imgur.com/kSJZjDL.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "https://tochkatv-live.cdnvideo.ru/tochkatv2/tochkatv-sd.stream/playlist.m3u8"
-      },
-      {
-        "name": "Тюменское время",
-        "logo": "https://i.imgur.com/kgNEVIr.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "https://hls-sibinformburo.cdnvideo.ru/sibinformburo-srt/sibinformburo/playlist.m3u8"
+        "url": "http://31.148.48.15/Detskiy/index.m3u8"
       },
       {
         "name": "Шаян ТВ (Татарстан)",
@@ -8383,486 +8539,18 @@
         "url": "https://shayan.bonus-tv.ru/cdn/shayan/playlist.m3u8"
       },
       {
+        "name": "Ю",
+        "logo": "https://i.imgur.com/b8CXEr7.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
+        "url": "https://livetv.mylifeisgood.net.ru/channels/u_ott_tv_hq.m3u8"
+      },
+      {
         "name": "Югра",
         "logo": "https://i.imgur.com/561FRwI.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
         "url": "https://live-ugratv.cdnvideo.ru/ugratv/ugratv/playlist.m3u8"
-      }
-    ],
-    "Business": [
-      {
-        "name": "Bloomberg TV EMEA Live Event (720p)",
-        "logo": "https://i.imgur.com/OuogLHx.png",
-        "group": "Business",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "https://bloomberg.com/media-manifest/streams/eu-event.m3u8"
-      },
-      {
-        "name": "Bloomberg TV Europe (720p)",
-        "logo": "https://i.imgur.com/OuogLHx.png",
-        "group": "Business",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "https://bloomberg.com/media-manifest/streams/eu.m3u8"
-      },
-      {
-        "name": "like Gecko) Mobile/15E148\",РБК (480p) [Not 24/7]",
-        "logo": "https://i.imgur.com/CwhmJby.png",
-        "group": "Business",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "http://ott-cdn.ucom.am/s36/index.m3u8"
-      }
-    ],
-    "Classic;Music": [
-      {
-        "name": "BRIDGE Classic",
-        "logo": "https://i.imgur.com/JJTQq81.png",
-        "group": "Classic;Music",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "http://31.148.48.15/Bridge_TV_Classic/index.m3u8"
-      }
-    ],
-    "Movies": [
-      {
-        "name": "Cinema",
-        "logo": "https://i.imgur.com/b5e9qUA.png",
-        "group": "Movies",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "http://catchup.videoline.ru/cinema/tracks-v1a1/mono.m3u8"
-      },
-      {
-        "name": "Evrokino",
-        "logo": "https://i.imgur.com/8LPtPf6.png",
-        "group": "Movies",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "http://31.148.48.15/Evrokino/index.m3u8"
-      },
-      {
-        "name": "Feniks plus Kino",
-        "logo": "https://i.imgur.com/S9OPMLE.png",
-        "group": "Movies",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "http://31.148.48.15/Feniks_plus_kino/index.m3u8"
-      },
-      {
-        "name": "Illusion+",
-        "logo": "https://i.imgur.com/9GvuHQ5.png",
-        "group": "Movies",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "http://31.148.48.15/Illusion_plus/index.m3u8"
-      },
-      {
-        "name": "Kineko",
-        "logo": "https://i.imgur.com/Otfvlmf.png",
-        "group": "Movies",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "http://194.143.148.28:8080/KINEKO/index.m3u8"
-      },
-      {
-        "name": "Kino 1 International",
-        "logo": "https://i.imgur.com/U3TC4yz.png",
-        "group": "Movies",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "https://kino-1.catcast.tv/content/38617/index.m3u8"
-      },
-      {
-        "name": "Kino 24",
-        "logo": "https://i.imgur.com/QAdDARF.png",
-        "group": "Movies",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "http://sirius.greenhosting.ru/Kino24Ru/video.m3u8"
-      },
-      {
-        "name": "Kino TV",
-        "logo": "https://i.imgur.com/sMpamNO.png",
-        "group": "Movies",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "https://vod.tuva.ru/kinotv/index.m3u8"
-      },
-      {
-        "name": "Mosfilm Gold Collection",
-        "logo": "https://i.imgur.com/95Y8jb6.png",
-        "group": "Movies",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "http://178.217.72.66:8080/mosfilm/index.m3u8"
-      },
-      {
-        "name": "Muzhskoy",
-        "logo": "https://i.imgur.com/xyztpBf.png",
-        "group": "Movies",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "https://s1.merlive.am/mujskoy/index.m3u8"
-      },
-      {
-        "name": "Nashe Lubimoe Kino",
-        "logo": "https://i.imgur.com/iKPfM5K.png",
-        "group": "Movies",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "https://s7.merlive.am/lubimoekino/index.m3u8"
-      },
-      {
-        "name": "Russkiy Illusion",
-        "logo": "https://i.imgur.com/RlsqFN8.png",
-        "group": "Movies",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "http://178.217.72.66:8080/Russkiy_Illyuzion/index.m3u8"
-      },
-      {
-        "name": "Russkiy roman",
-        "logo": "https://i.imgur.com/cQN0P2B.png",
-        "group": "Movies",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "http://31.148.48.15/Russkiy_Roman_HD/index.m3u8"
-      },
-      {
-        "name": "Star Cinema",
-        "logo": "https://i.imgur.com/5sis895.png",
-        "group": "Movies",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "http://s1.merlive.am/starsinema/index.m3u8"
-      },
-      {
-        "name": "viju TV1000 action (1080p)",
-        "logo": "https://i.imgur.com/TMmyuzh.png",
-        "group": "Movies",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "http://65.21.85.175:8000/play/a012/index.m3u8?token=livetv"
-      },
-      {
-        "name": "Дом Кино",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%D0%94%D0%BE%D0%BC_%D0%9A%D0%B8%D0%BD%D0%BE.png/512px-%D0%9B%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%BA%D0%B0%D0%BD%D0%B0%D0%BB%D0%B0_%D0%94%D0%BE%D0%BC_%D0%9A%D0%B8%D0%BD%D0%BE.png",
-        "group": "Movies",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "https://streaming.skynetconnect.online/live/44.m3u8"
-      },
-      {
-        "name": "Дом Кино Премиум HD",
-        "logo": "https://i.imgur.com/rJpQtvK.png",
-        "group": "Movies",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "http://31.148.48.15/Dom_Kino_Premium_HD/index.m3u8"
-      },
-      {
-        "name": "like Gecko) Mobile/15E148\",Дорама (480p) [Not 24/7]",
-        "logo": "https://i.imgur.com/ZH5LuXU.png",
-        "group": "Movies",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "http://ott-cdn.ucom.am/s95/index.m3u8"
-      },
-      {
-        "name": "Кинопоказ",
-        "logo": "https://i.imgur.com/nNjMyAq.png",
-        "group": "Movies",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "http://31.148.48.15/Kinopokaz/index.m3u8"
-      },
-      {
-        "name": "Русский Бестселлер",
-        "logo": "https://i.imgur.com/w0ZE9QJ.png",
-        "group": "Movies",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "http://31.148.48.15/Russkiy_Bestseller/index.m3u8"
-      }
-    ],
-    "Education": [
-      {
-        "name": "Da Vinci",
-        "logo": "https://i.imgur.com/iBx7K1M.png",
-        "group": "Education",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "http://178.217.72.66:8080/Da_Vinchi/index.m3u8"
-      },
-      {
-        "name": "EGE TV",
-        "logo": "https://i.imgur.com/XxJBLt4.png",
-        "group": "Education",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "http://194.143.148.28:8080/RT_DOC/index.m3u8"
-      },
-      {
-        "name": "MOSOBR.TV (720p)",
-        "logo": "https://i.imgur.com/t6PmOD5.png",
-        "group": "Education",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "http://retj.educom.ru/mosobrtv/tv1/index.m3u8"
-      }
-    ],
-    "Outdoor": [
-      {
-        "name": "Dikaya okhota",
-        "logo": "https://i.imgur.com/EOue13e.png",
-        "group": "Outdoor",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "https://s1.merlive.am/dikayaoxota/index.m3u8"
-      },
-      {
-        "name": "Dikaya rybalka",
-        "logo": "https://i.imgur.com/e3BFVgt.png",
-        "group": "Outdoor",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "https://s1.merlive.am/dikaiaribalka/index.m3u8"
-      },
-      {
-        "name": "Konniy mir",
-        "logo": "https://i.imgur.com/X6otbK0.png",
-        "group": "Outdoor",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "https://cdn-01.bonus-tv.ru/kmir/playlist.m3u8"
-      },
-      {
-        "name": "Moya Planeta",
-        "logo": "https://i.imgur.com/uIiAdBv.png",
-        "group": "Outdoor",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "http://194.143.148.28:8080/MoyaPlanetaHD/index.m3u8"
-      },
-      {
-        "name": "Okhota i rybalka",
-        "logo": "https://i.imgur.com/nZwBaeW.png",
-        "group": "Outdoor",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "https://s1.merlive.am/oxotairibalka/index.m3u8"
-      }
-    ],
-    "Lifestyle": [
-      {
-        "name": "Domashnie Zhivotnye",
-        "logo": "https://i.imgur.com/ISJzQGP.png",
-        "group": "Lifestyle",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "http://178.217.72.66:8080/Domashnie_Zhivotnye/index.m3u8"
-      },
-      {
-        "name": "Domashniy International",
-        "logo": "https://i.imgur.com/nf7GRXb.png",
-        "group": "Lifestyle",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "https://cdn4.skygo.mn/live/disk1/Domashni/HLSv3-FTA/Domashni.m3u8"
-      },
-      {
-        "name": "FashionTV Europe (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/512px-Fashion_TV_logo.svg.png",
-        "group": "Lifestyle",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "https://68f1accef2154d2195cae87dec183843.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_FashionTV/playlist.m3u8"
-      },
-      {
-        "name": "Otkritiy mir. Zdorove",
-        "logo": "https://i.imgur.com/7orZOJA.png",
-        "group": "Lifestyle",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "https://v4.proofix.ru/0mir/index.m3u8"
-      },
-      {
-        "name": "like Gecko) Mobile/15E148\",Домашний (480p) [Not 24/7]",
-        "logo": "https://i.imgur.com/XVRwgom.png",
-        "group": "Lifestyle",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "http://ott-cdn.ucom.am/s88/index.m3u8"
-      },
-      {
-        "name": "ЖИВИ!",
-        "logo": "https://i.imgur.com/LPqySGk.png",
-        "group": "Lifestyle",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "http://31.148.48.15/Zhivi/index.m3u8"
-      },
-      {
-        "name": "НТВ Стиль",
-        "logo": "https://i.imgur.com/rX6K6qT.png",
-        "group": "Lifestyle",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "https://cdn.ntv.ru/th_hit/playlist.m3u8"
-      }
-    ],
-    "Religious": [
-      {
-        "name": "EWTN Africa Asia (720p)",
-        "logo": "https://i.imgur.com/sua70RO.png",
-        "group": "Religious",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "https://cdn3.wowza.com/1/ZVBYYXFLLzE0c3NC/Qk1FMURC/hls/live/playlist.m3u8"
-      },
-      {
-        "name": "EWTN Europe (720p) [Not 24/7]",
-        "logo": "https://i.imgur.com/sua70RO.png",
-        "group": "Religious",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "https://cdn3.wowza.com/1/T2NXeHF6UGlGbHY3/WFluRldQ/hls/live/playlist.m3u8"
-      },
-      {
-        "name": "Vera 24",
-        "logo": "https://i.imgur.com/Qer5Lnh.png",
-        "group": "Religious",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "https://5f05e059699ae.streamlock.net/WEB_Vera24/ngrp:Vera24.stream-adaptive/playlist.m3u8"
-      },
-      {
-        "name": "Каббала ТВ (360p) [Not 24/7]",
-        "logo": "https://i.imgur.com/uaffIpV.png",
-        "group": "Religious",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "https://edge2.uk.kab.tv/live/tvrus-rus-medium/playlist.m3u8"
-      },
-      {
-        "name": "Надежда (720p)",
-        "logo": "https://i.imgur.com/ah6VnFJ.png",
-        "group": "Religious",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8"
-      },
-      {
-        "name": "Союз (576p)",
-        "logo": "https://i.imgur.com/w3OewHc.png",
-        "group": "Religious",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8"
-      },
-      {
-        "name": "СПАС (576p)",
-        "logo": "https://i.imgur.com/yY39nMg.png",
-        "group": "Religious",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "https://spas.mediacdn.ru/cdn/spas/playlist.m3u8"
-      },
-      {
-        "name": "Три Ангела (720p)",
-        "logo": "https://i.imgur.com/4fhBbam.png",
-        "group": "Religious",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "https://hls.tv.3angels.ru/stream.m3u8"
-      },
-      {
-        "name": "Хузур ТВ (1080p) [Not 24/7]",
-        "logo": "https://i.imgur.com/Abg1fct.png",
-        "group": "Religious",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "https://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/playlist.m3u8"
-      }
-    ],
-    "Comedy": [
-      {
-        "name": "Fail Army (720p)",
-        "logo": "https://i.imgur.com/VIpQJxL.png",
-        "group": "Comedy",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "https://bd93cfed.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZhaWxBcm15X0hMUw/playlist.m3u8"
-      },
-      {
-        "name": "Gagsnetwork",
-        "logo": "https://i.imgur.com/ENj5GIp.png",
-        "group": "Comedy",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "https://s7.merlive.am/gagsnetwork/index.m3u8"
-      },
-      {
-        "name": "Komedia",
-        "logo": "https://i.imgur.com/VRC5juh.png",
-        "group": "Comedy",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "https://s1.merlive.am/Komedia/index.m3u8"
-      },
-      {
-        "name": "KVN TV",
-        "logo": "https://i.imgur.com/Vw3LFLX.png",
-        "group": "Comedy",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "http://31.148.48.15/KVN_TV/index.m3u8"
-      },
-      {
-        "name": "Твое ТВ Юмор",
-        "logo": "https://smotret.tv/images/tvoe-tv-yumor.webp",
-        "group": "Comedy",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "http://tvoetv.space:8080/tvoetv_humor/index.m3u8"
-      }
-    ],
-    "Sports": [
-      {
-        "name": "FIFA+ (720p)",
-        "logo": "https://i.imgur.com/l5iax42.png",
-        "group": "Sports",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8"
-      },
-      {
-        "name": "Football",
-        "logo": "https://i.imgur.com/pEuaZVx.png",
-        "group": "Sports",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "http://31.148.48.15/Futbol_HD/index.m3u8"
-      },
-      {
-        "name": "KHL Prime",
-        "logo": "https://i.imgur.com/pwxT0ON.png",
-        "group": "Sports",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "http://194.143.148.28:8080/KHL_HD/index.m3u8"
-      },
-      {
-        "name": "Match! Arena",
-        "logo": "https://i.imgur.com/udTzwzu.png",
-        "group": "Sports",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "http://194.143.148.28:8080/MatchArena/index.m3u8"
-      },
-      {
-        "name": "MMA-TV.com",
-        "logo": "https://i.imgur.com/QhdxNsB.png",
-        "group": "Sports",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8"
-      },
-      {
-        "name": "like Gecko) Mobile/15E148\",Viju Sport (480p) [Not 24/7]",
-        "logo": "https://i.imgur.com/fXESG0l.png",
-        "group": "Sports",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "http://ott-cdn.ucom.am/s38/index.m3u8"
-      },
-      {
-        "name": "World Poker Tour (1080p)",
-        "logo": "https://i.imgur.com/98kLMjj.png",
-        "group": "Sports",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/15d59f2f-80da-4448-9bce-775cc9f470f7/1.m3u8"
-      },
-      {
-        "name": "Астрахань.Ru Sport (720p)",
-        "logo": "https://i.imgur.com/BKaEtqL.png",
-        "group": "Sports",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "https://streaming.astrakhan.ru/astrakhanrusporthd/playlist.m3u8"
-      },
-      {
-        "name": "СТАРТ Триумф",
-        "logo": "https://i.imgur.com/L9jTieL.png",
-        "group": "Sports",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "https://bl.webcaster.pro/media/playlist/free_fe8dc1b768a84b8b0333db826471f17e_hd/33_85479982/1080p/8666c3e935faf6ef47ffd601e8e48868/4821408969.m3u8"
-      }
-    ],
-    "Cooking": [
-      {
-        "name": "FoodTime",
-        "logo": "https://i.imgur.com/gxCYAwH.png",
-        "group": "Cooking",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "http://31.148.48.15/Eda_Premium_HD/index.m3u8"
-      },
-      {
-        "name": "Kukhnya TV",
-        "logo": "https://i.imgur.com/7jxZnuS.png",
-        "group": "Cooking",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "http://31.148.48.15/Kuhnya_TV/index.m3u8"
-      },
-      {
-        "name": "like Gecko) Mobile/15E148\",ТЕЛЕКАФЕ (480p) [Not 24/7]",
-        "logo": "https://i.imgur.com/1H3h1HL.png",
-        "group": "Cooking",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "http://ott-cdn.ucom.am/s56/index.m3u8"
       }
     ],
     "Documentary": [
@@ -8881,13 +8569,6 @@
         "url": "https://cdn-01.bonus-tv.ru/rtdoc/playlist.m3u8"
       },
       {
-        "name": "Tayny Galaktiki",
-        "logo": "https://i.imgur.com/fR3abSD.png",
-        "group": "Documentary",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "https://s1.merlive.am/TainiGalaktiki/index.m3u8"
-      },
-      {
         "name": "TERRA",
         "logo": "https://i.imgur.com/ZxUjCpF.png",
         "group": "Documentary",
@@ -8895,18 +8576,18 @@
         "url": "https://livetv.mylifeisgood.net.ru/channels/terra.m3u8"
       },
       {
-        "name": "like Gecko) Mobile/15E148\",Арсенал (480p) [Not 24/7]",
+        "name": "Арсенал",
         "logo": "https://i.imgur.com/DBpVeb0.png",
         "group": "Documentary",
         "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "http://ott-cdn.ucom.am/s68/index.m3u8"
+        "url": "http://178.217.72.66:8080/arsenalhd/index.m3u8"
       },
       {
-        "name": "like Gecko) Mobile/15E148\",История (480p) [Not 24/7]",
+        "name": "История",
         "logo": "https://i.imgur.com/eEjPail.png",
         "group": "Documentary",
         "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "http://ott-cdn.ucom.am/s40/index.m3u8"
+        "url": "http://31.148.48.15/Istoriya/index.m3u8"
       },
       {
         "name": "Нано ТВ HD",
@@ -8916,11 +8597,11 @@
         "url": "http://s1.tv-nano.com/Nano_rec/index.m3u8"
       },
       {
-        "name": "like Gecko) Mobile/15E148\",Наука (480p) [Not 24/7]",
+        "name": "Наука",
         "logo": "https://i.imgur.com/ZZxzueO.png",
         "group": "Documentary",
         "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "http://ott-cdn.ucom.am/s98/index.m3u8"
+        "url": "https://vod.tuva.ru/nauka2/index.m3u8"
       }
     ],
     "Shop": [
@@ -8962,25 +8643,18 @@
         "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtven-xiaomi/playlist.m3u8"
       },
       {
-        "name": "Teatr",
+        "name": "Россия К",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Russia-Cultura.svg/512px-Russia-Cultura.svg.png",
+        "group": "Culture",
+        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
+        "url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/kultura-hd/index.m3u8"
+      },
+      {
+        "name": "Театр",
         "logo": "https://i.imgur.com/nc2ijCH.png",
         "group": "Culture",
         "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
         "url": "http://31.148.48.15/Sochi_HD/index.m3u8"
-      },
-      {
-        "name": "like Gecko) Mobile/15E148\",Культура (480p) [Not 24/7]",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Russia-Cultura.svg/512px-Russia-Cultura.svg.png",
-        "group": "Culture",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "http://ott-cdn.ucom.am/s16/index.m3u8"
-      },
-      {
-        "name": "like Gecko) Mobile/15E148\",НТВ Мир (480p) [Not 24/7]",
-        "logo": "https://i.imgur.com/pUcV46F.png",
-        "group": "Culture",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "http://ott-cdn.ucom.am/s17/index.m3u8"
       }
     ],
     "Animation;Classic;Entertainment;Family;Movies": [
@@ -9001,7 +8675,7 @@
         "url": "http://194.143.148.28:8080/RTG_HD/index.m3u8"
       },
       {
-        "name": "Teleputeshestviya",
+        "name": "Телепутешествия",
         "logo": "https://i.imgur.com/eXJm1n3.png",
         "group": "Travel",
         "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
@@ -9015,22 +8689,6 @@
         "group": "General;News",
         "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
         "url": "http://serv30.vintera.tv:8081/sochi/sochi24_tv/playlist.m3u8"
-      }
-    ],
-    "Animation;Kids": [
-      {
-        "name": "Solnce",
-        "logo": "https://i.imgur.com/HCefxaK.png",
-        "group": "Animation;Kids",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "http://tv.mediacdn.ru/live/solntse/playlist.m3u8"
-      },
-      {
-        "name": "Мультимания (576p)",
-        "logo": "https://i.imgur.com/abh8ZBA.png",
-        "group": "Animation;Kids",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "https://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8"
       }
     ],
     "Family": [
@@ -9049,11 +8707,20 @@
         "url": "https://6ec8627d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1RoZVBldENvbGxlY3RpdmVfSExT/playlist.m3u8"
       },
       {
-        "name": "like Gecko) Mobile/15E148\",СТС (480p) [Not 24/7]",
+        "name": "СТС",
         "logo": "https://i.imgur.com/ilUzAeb.png",
         "group": "Family",
         "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "http://ott-cdn.ucom.am/s52/index.m3u8"
+        "url": "https://streaming.televizor-24-tochka.ru/live/16.m3u8"
+      }
+    ],
+    "Auto": [
+      {
+        "name": "Авто Плюс",
+        "logo": "https://i.imgur.com/sVc8cFt.png",
+        "group": "Auto",
+        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
+        "url": "http://31.148.48.15/Avto_Plus/index.m3u8"
       }
     ],
     "Legislative": [
@@ -9065,6 +8732,22 @@
         "url": "https://dumatv.iptv2022.com/index.m3u8"
       }
     ],
+    "Outdoor": [
+      {
+        "name": "Конный Мир",
+        "logo": "https://i.imgur.com/X6otbK0.png",
+        "group": "Outdoor",
+        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
+        "url": "https://cdn-01.bonus-tv.ru/kmir/playlist.m3u8"
+      },
+      {
+        "name": "Моя Планета",
+        "logo": "https://i.imgur.com/uIiAdBv.png",
+        "group": "Outdoor",
+        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
+        "url": "http://194.143.148.28:8080/MoyaPlanetaHD/index.m3u8"
+      }
+    ],
     "Music;Religious": [
       {
         "name": "Муз союз (576p)",
@@ -9072,6 +8755,22 @@
         "group": "Music;Religious",
         "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
         "url": "https://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8"
+      }
+    ],
+    "Animation;Kids": [
+      {
+        "name": "Мультимания (576p)",
+        "logo": "https://i.imgur.com/abh8ZBA.png",
+        "group": "Animation;Kids",
+        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
+        "url": "https://sirius.greenhosting.ru/MultimaniaRu/tracks-v1a1/mono.m3u8"
+      },
+      {
+        "name": "Солнце",
+        "logo": "https://i.imgur.com/HCefxaK.png",
+        "group": "Animation;Kids",
+        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
+        "url": "http://tv.mediacdn.ru/live/solntse/playlist.m3u8"
       }
     ]
   }
