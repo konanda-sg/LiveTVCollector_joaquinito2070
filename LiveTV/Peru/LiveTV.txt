@@ -30,11 +30,6 @@ URL: https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=ZZDemoIPTVGH
 Logo: https://cdn.energeek.cl/logos/Marca-512.png
 Source: https://iptv-org.github.io/iptv/countries/pe.m3u
 --------------------------------------------------
-Name: Locomotion TV (480p) [Not 24/7]
-URL: http://51.222.85.85:81/hls/loco/index.m3u8
-Logo: https://i.imgur.com/1CftDPB.png
-Source: https://iptv-org.github.io/iptv/countries/pe.m3u
---------------------------------------------------
 Name: EnerGeek Retro (720p)
 URL: https://wifiexpert-1.energeek.cl/energeek/radio/chunks.m3u8
 Logo: https://i.imgur.com/jJGbtHm.png
@@ -368,7 +363,7 @@ Source: https://iptv-org.github.io/iptv/countries/pe.m3u
 
 Group: General
 Name: America Television
-URL: https://live-evg1.tv360.bitel.com.pe/bitel/americatv/playlist.m3u8
+URL: http://181.188.216.5:18000/play/a014/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Am%C3%A9rica_Televisi%C3%B3n.svg/512px-Am%C3%A9rica_Televisi%C3%B3n.svg.png
 Source: https://iptv-org.github.io/iptv/countries/pe.m3u
 --------------------------------------------------
@@ -418,7 +413,7 @@ Logo: https://i.imgur.com/s59AaqG.png
 Source: https://iptv-org.github.io/iptv/countries/pe.m3u
 --------------------------------------------------
 Name: Global TV
-URL: https://live-evg1.tv360.bitel.com.pe/bitel/global/playlist.m3u8
+URL: http://181.188.216.5:18000/play/a0m5/index.m3u8
 Logo: https://i.imgur.com/yuEou9C.png
 Source: https://iptv-org.github.io/iptv/countries/pe.m3u
 --------------------------------------------------
@@ -2470,11 +2465,6 @@ Source: https://iptv-org.github.io/iptv/countries/pe.m3u
 Name: Super Canal Yurimaguas (720p) [Not 24/7]
 URL: https://live.obslivestream.com/supercanal/index.m3u8
 Logo: https://i.imgur.com/eotfCMd.png
-Source: https://iptv-org.github.io/iptv/countries/pe.m3u
---------------------------------------------------
-Name: Telemicro Internacional
-URL: http://45.190.13.8:80/TelemicroHD/index.m3u8
-Logo: https://i.imgur.com/507tvMY.png
 Source: https://iptv-org.github.io/iptv/countries/pe.m3u
 --------------------------------------------------
 Name: Teleselva
