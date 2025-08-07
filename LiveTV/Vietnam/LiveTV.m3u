@@ -399,8 +399,8 @@ http://125hvt.ddns.net:21585/vtv9/tracks-v1a1/mono.m3u8
 https://hls.mskycdn.online/tv/vtv9fhd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Mqmbsj4.png" group-title="Undefined",VTV Cần Thơ HD (1080p)
 https://hls.mskycdn.online/tv/vtvctfhd/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png" group-title="Movies",AXN Vietnam (1080p)
-https://tv.ddns.vn/tv/axnhd/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png" group-title="Movies",AXN Asia (576p)
+http://125hvt.ddns.net:21585/axn/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D2qNVZ7.png" group-title="Movies",CinemaWorld (576p)
 http://210.210.155.37/dr9445/h/h04/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D2qNVZ7.png" group-title="Movies",CinemaWorld Vietnam (1080p)
@@ -421,8 +421,8 @@ http://125hvt.ddns.net:21585/htv9/index.m3u8
 https://bloomberg.com/media-manifest/streams/asia.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OuogLHx.png" group-title="Business",Bloomberg TV Asia Live Event (720p)
 https://bloomberg.com/media-manifest/streams/asia-event.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Mn8Rsup.png" group-title="Business",CNBC Asia HD (720p) [Geo-blocked]
-https://cdn09jtedge.indihometv.com/joss/134/cnbcasia/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Mn8Rsup.png" group-title="Business",CNBC Asia (576p) [Geo-blocked]
+https://live.fptplay53.net/fnxsd1/cnbc_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Crime_%2B_Investigation_Logo_10.2019.svg" group-title="Entertainment",Crime + Investigation Asia HD (720p) [Geo-blocked]
 https://cdn09jtedge.indihometv.com/joss/133/crimeinvestigation/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/3J83gWVQ/ON-Vie-Dramas.png" group-title="Entertainment",ON Vie Drama
