@@ -3896,7 +3896,7 @@
   {
     "name": "Maya Channel",
     "type": "Entertainment",
-    "url": "http://146.88.62.69:1935/Transcoder/%E0%B8%A1%E0%B8%B2%E0%B8%A2%E0%B8%B2HD.stream_576p/playlist.m3u8",
+    "url": "http://146.88.62.69:1935/Transcoder/มายาHD.stream_576p/playlist.m3u8",
     "img": "https://i.imgur.com/UropueN.png"
   },
   {
@@ -3990,12 +3990,6 @@
     "img": "https://i.imgur.com/OuogLHx.png"
   },
   {
-    "name": "CNBC Asia HD (720p) [Geo-blocked]",
-    "type": "Business",
-    "url": "https://cdn09jtedge.indihometv.com/joss/134/cnbcasia/index.m3u8",
-    "img": "https://i.imgur.com/Mn8Rsup.png"
-  },
-  {
     "name": "CinemaWorld (576p)",
     "type": "Movies",
     "url": "http://210.210.155.37/dr9445/h/h04/index.m3u8",
@@ -4016,8 +4010,14 @@
   {
     "name": "Kaset Channel",
     "type": "Undefined",
-    "url": "http://103.120.113.107:80/Kasat70/video.m3u8",
+    "url": "http://103.120.113.107/Kasat70/video.m3u8",
     "img": "https://www.lyngsat.com/logo/tv/kk/kaset-th.png"
+  },
+  {
+    "name": "Lanthung TV",
+    "type": "Undefined",
+    "url": "https://live-us1.thaimomo.com/live-as/chlantung-2/playlist.m3u8",
+    "img": "https://www.lyngsat.com/logo/tv/ll/lanthung-tv-th.png"
   },
   {
     "name": "Media TV",
@@ -4034,7 +4034,7 @@
   {
     "name": "PSI Saradee 99",
     "type": "Undefined",
-    "url": "http://103.120.113.107:80/Saradee/index.m3u8",
+    "url": "http://103.120.113.107/Saradee/index.m3u8",
     "img": "https://i.imgur.com/TmDI6Tz.png"
   },
   {

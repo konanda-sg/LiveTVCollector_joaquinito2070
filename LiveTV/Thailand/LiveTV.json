@@ -1,5 +1,5 @@
 {
-  "date": "2025-08-06 21:55:04",
+  "date": "2025-08-07 07:11:52",
   "channels": {
     "VTV": [
       {
@@ -4604,7 +4604,7 @@
         "logo": "https://i.imgur.com/UropueN.png",
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/th.m3u",
-        "url": "http://146.88.62.69:1935/Transcoder/%E0%B8%A1%E0%B8%B2%E0%B8%A2%E0%B8%B2HD.stream_576p/playlist.m3u8"
+        "url": "http://146.88.62.69:1935/Transcoder/มายาHD.stream_576p/playlist.m3u8"
       },
       {
         "name": "MONO 29 (1080p)",
@@ -4716,13 +4716,6 @@
         "group": "Business",
         "source": "https://iptv-org.github.io/iptv/countries/th.m3u",
         "url": "https://bloomberg.com/media-manifest/streams/asia-event.m3u8"
-      },
-      {
-        "name": "CNBC Asia HD (720p) [Geo-blocked]",
-        "logo": "https://i.imgur.com/Mn8Rsup.png",
-        "group": "Business",
-        "source": "https://iptv-org.github.io/iptv/countries/th.m3u",
-        "url": "https://cdn09jtedge.indihometv.com/joss/134/cnbcasia/index.m3u8"
       }
     ],
     "Movies": [
@@ -4754,7 +4747,14 @@
         "logo": "https://www.lyngsat.com/logo/tv/kk/kaset-th.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/th.m3u",
-        "url": "http://103.120.113.107:80/Kasat70/video.m3u8"
+        "url": "http://103.120.113.107/Kasat70/video.m3u8"
+      },
+      {
+        "name": "Lanthung TV",
+        "logo": "https://www.lyngsat.com/logo/tv/ll/lanthung-tv-th.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/th.m3u",
+        "url": "https://live-us1.thaimomo.com/live-as/chlantung-2/playlist.m3u8"
       },
       {
         "name": "Media TV",
@@ -4775,7 +4775,7 @@
         "logo": "https://i.imgur.com/TmDI6Tz.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/th.m3u",
-        "url": "http://103.120.113.107:80/Saradee/index.m3u8"
+        "url": "http://103.120.113.107/Saradee/index.m3u8"
       },
       {
         "name": "RAI Italia Asia (576p)",
