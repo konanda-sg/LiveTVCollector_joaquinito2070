@@ -258,9 +258,9 @@
     "img": "https://i.imgur.com/jOroeJZ.png"
   },
   {
-    "name": "TAM TV (240p)",
+    "name": "TAM TV (720p)",
     "type": "General",
-    "url": "https://tv.webtuya.com:3726/live/tammeridalive.m3u8",
+    "url": "https://tv.webtuya.com:3726/hybrid/play.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/5/56/Logo_TAM.png"
   },
   {
@@ -268,12 +268,6 @@
     "type": "General",
     "url": "https://ssh101stream.ssh101.com/akamaissh101/ssh101/tcbstreaming/playlist.m3u8",
     "img": "https://i.imgur.com/YDE4Jsi.jpg"
-  },
-  {
-    "name": "Telecentro (480p) [Not 24/7]",
-    "type": "General",
-    "url": "https://streamtv.intervenhosting.net:3698/live/telecentrolive.m3u8",
-    "img": "https://i.imgur.com/QtRNfaj.png"
   },
   {
     "name": "Telesol TV (720p)",
@@ -572,7 +566,7 @@
   {
     "name": "Suyai TV (1080p)",
     "type": "Culture",
-    "url": "https://signal.suyaitv.cl/live/35/playlist.m3u8?username=ZZDemoIPTVGH&password=9PcdCnFxUe",
+    "url": "https://signal.suyaitv.cl/live/35/playlist.m3u8?password=9PcdCnFxUe&username=ZZDemoIPTVGH",
     "img": "https://suyaitv.cl/wp-content/uploads/2024/10/ico_Suyai_TV_512.png"
   },
   {
@@ -866,13 +860,13 @@
   {
     "name": "Pluto TV Cine Accion",
     "type": "Movies",
-    "url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bfef8b40-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=787d09fb-c219-46d0-b022-07fb4d7f7395&userId=&serverSideAds=false",
+    "url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=unknown&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bfef8b40-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=787d09fb-c219-46d0-b022-07fb4d7f7395&userId=",
     "img": "https://i.imgur.com/PXhCzXn.png"
   },
   {
     "name": "Pluto TV Cine Estelar",
     "type": "Movies",
-    "url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde437229eff00091b6c30/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff0c3c1-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=20f53e04-9cb8-454e-ad8b-838686c353e7&userId=&serverSideAds=false",
+    "url": "http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde437229eff00091b6c30/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=unknown&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff0c3c1-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=20f53e04-9cb8-454e-ad8b-838686c353e7&userId=",
     "img": "https://i.imgur.com/v3BO4nW.png"
   },
   {
@@ -1004,7 +998,7 @@
   {
     "name": "Radio Suyai TV (1080p)",
     "type": "Culture;Music",
-    "url": "https://signal.suyaitv.cl/live/26/playlist.m3u8?username=ZZDemoIPTVGH&password=9PcdCnFxUe",
+    "url": "https://signal.suyaitv.cl/live/26/playlist.m3u8?password=9PcdCnFxUe&username=ZZDemoIPTVGH",
     "img": "https://radio.suyaitv.cl/wp-content/uploads/2024/04/cropped-radiosuyaitvcuadrado512.png"
   },
   {

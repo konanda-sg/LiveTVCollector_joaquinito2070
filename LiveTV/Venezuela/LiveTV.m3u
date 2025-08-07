@@ -85,12 +85,10 @@ http://vcp1.myplaytv.com:1935/promar/promar/playlist.m3u8
 https://cloud2.streaminglivehd.com:1936/siembratv/siembratv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jOroeJZ.png" group-title="General",Somos TV (720p) [Not 24/7]
 https://vcp3.myplaytv.com/somostv/somostv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/Logo_TAM.png" group-title="General",TAM TV (240p)
-https://tv.webtuya.com:3726/live/tammeridalive.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/Logo_TAM.png" group-title="General",TAM TV (720p)
+https://tv.webtuya.com:3726/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YDE4Jsi.jpg" group-title="General",Teleboconó (720p) [Not 24/7]
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/tcbstreaming/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QtRNfaj.png" group-title="General",Telecentro (480p) [Not 24/7]
-https://streamtv.intervenhosting.net:3698/live/telecentrolive.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iagCG6y.png" group-title="General",Telesol TV (720p)
 https://vcp15.myplaytv.com/telesoltv/telesoltv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9N7Scn8/1400-Torococo-TV.png" group-title="General",Torococo TV (720p) [Not 24/7]
@@ -190,7 +188,7 @@ https://vcp2.myplaytv.com/pltv/pltv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kWR3END.png" group-title="Culture",Somos Cultura TV (720p)
 https://srv.tropicalmoonmedia.com/somosculturatv/somosculturatv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://suyaitv.cl/wp-content/uploads/2024/10/ico_Suyai_TV_512.png" group-title="Culture",Suyai TV (1080p)
-https://signal.suyaitv.cl/live/35/playlist.m3u8?username=ZZDemoIPTVGH&password=9PcdCnFxUe
+https://signal.suyaitv.cl/live/35/playlist.m3u8?password=9PcdCnFxUe&username=ZZDemoIPTVGH
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/Motorsport.tvUK/picture?width=200&height=200" group-title="Sports",MotorSport TV (480p)
 https://6b3b2599.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/U3BvcnRzVHJpYmFsLWdiX01vdG9yc3BvcnRUVl9ITFM/c785989e-0239-4916-acfc-ab870521190d/1.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/10/El-Garage-TV-en-VIVO-Online-1.png?resize=696%2C392&ssl=1" group-title="Sports",Garage TV (480p)
@@ -288,9 +286,9 @@ https://linear-354.frequency.stream/mt/studio/354/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MMhSmDK.png" group-title="Movies",De Película Plus (576p)
 https://linear-404.frequency.stream/mt/studio/404/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PXhCzXn.png" group-title="Movies",Pluto TV Cine Accion
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bfef8b40-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=787d09fb-c219-46d0-b022-07fb4d7f7395&userId=&serverSideAds=false
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=unknown&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bfef8b40-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=787d09fb-c219-46d0-b022-07fb4d7f7395&userId=
 #EXTINF:-1 tvg-logo="https://i.imgur.com/v3BO4nW.png" group-title="Movies",Pluto TV Cine Estelar
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde437229eff00091b6c30/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff0c3c1-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=20f53e04-9cb8-454e-ad8b-838686c353e7&userId=&serverSideAds=false
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde437229eff00091b6c30/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=unknown&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff0c3c1-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=20f53e04-9cb8-454e-ad8b-838686c353e7&userId=
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GnUmEZn.png" group-title="Movies",Pluto TV Cine Suspenso (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddc4e8bcbb9010009b4e84f/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ifarQil.png" group-title="Undefined",CSI en Español
@@ -334,7 +332,7 @@ https://vcp.myplaytv.com/glowtv/glowtv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://neotv.cl/img/pridetv-512.png" group-title="Entertainment;Lifestyle;Music",PRIDEtv LATAM (1080p)
 https://backend.energeek.cl/webtv/pridetvweb/index.m3u8?token=ZZDemoIPTVGH
 #EXTINF:-1 tvg-logo="https://radio.suyaitv.cl/wp-content/uploads/2024/04/cropped-radiosuyaitvcuadrado512.png" group-title="Culture;Music",Radio Suyai TV (1080p)
-https://signal.suyaitv.cl/live/26/playlist.m3u8?username=ZZDemoIPTVGH&password=9PcdCnFxUe
+https://signal.suyaitv.cl/live/26/playlist.m3u8?password=9PcdCnFxUe&username=ZZDemoIPTVGH
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8s6aRwv.png" group-title="Cooking",Tastemade en Espanol [Geo-blocked]
 https://tastemadees16us-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FnInQRd.png" group-title="Business",Tevex (720p) [Not 24/7]
