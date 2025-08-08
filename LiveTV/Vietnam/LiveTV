@@ -942,12 +942,6 @@
     "img": "https://thainguyentv.vn/modules/frontend/themes/ptthtn/images/logo.png"
   },
   {
-    "name": "Tra Vinh TV 2 (720p)",
-    "type": "General",
-    "url": "https://618b88f69e53b.streamlock.net/THTV2/travinhtv2/playlist.m3u8",
-    "img": "https://i.imgur.com/uqMu5Fb.png"
-  },
-  {
     "name": "VBS TV (480p) [Not 24/7]",
     "type": "General",
     "url": "http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/playlist.m3u8",
@@ -1110,12 +1104,6 @@
     "img": "https://i.imgur.com/mfZOYZI.png"
   },
   {
-    "name": "Vinh Long TV 1 (576p)",
-    "type": "Undefined",
-    "url": "http://125hvt.ddns.net:21585/thvl1/tracks-v1a1/mono.m3u8",
-    "img": "https://i.imgur.com/5YFsqPx.png"
-  },
-  {
     "name": "VTV1 (576p)",
     "type": "Undefined",
     "url": "http://125hvt.ddns.net:21585/vtv1/tracks-v1a1/mono.m3u8",
@@ -1254,6 +1242,12 @@
     "img": "https://i.postimg.cc/DzGTbNmH/HTV9-logo-2015.png"
   },
   {
+    "name": "Vinh Long TV 1 (576p)",
+    "type": "General;News",
+    "url": "http://125hvt.ddns.net:21585/thvl1/tracks-v1a1/mono.m3u8",
+    "img": "https://i.imgur.com/5YFsqPx.png"
+  },
+  {
     "name": "Bloomberg TV Asia (720p)",
     "type": "Business",
     "url": "https://bloomberg.com/media-manifest/streams/asia.m3u8",
@@ -1354,5 +1348,11 @@
     "type": "Lifestyle",
     "url": "http://dvrfl05.bozztv.com/vch_vchannel10/index.m3u8",
     "img": "https://i.postimg.cc/x8RYwSkZ/ON-Style-TV.png"
+  },
+  {
+    "name": "Tra Vinh TV 2 (720p)",
+    "type": "Education;Science",
+    "url": "https://618b88f69e53b.streamlock.net/THTV2/travinhtv2/playlist.m3u8",
+    "img": "https://i.imgur.com/uqMu5Fb.png"
   }
 ]

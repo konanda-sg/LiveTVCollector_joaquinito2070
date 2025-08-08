@@ -1,5 +1,5 @@
 {
-  "date": "2025-08-07 21:56:42",
+  "date": "2025-08-08 07:14:27",
   "channels": {
     "Uncategorized": [
       {
@@ -1104,13 +1104,6 @@
         "url": "https://streaming.thainguyentv.vn/hls/livestream.m3u8"
       },
       {
-        "name": "Tra Vinh TV 2 (720p)",
-        "logo": "https://i.imgur.com/uqMu5Fb.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/countries/vn.m3u",
-        "url": "https://618b88f69e53b.streamlock.net/THTV2/travinhtv2/playlist.m3u8"
-      },
-      {
         "name": "VBS TV (480p) [Not 24/7]",
         "logo": "https://i.imgur.com/OkslYzP.png",
         "group": "General",
@@ -1304,13 +1297,6 @@
         "url": "https://ott.tv5monde.com/Content/HLS/Live/channel(pacifique)/variant.m3u8"
       },
       {
-        "name": "Vinh Long TV 1 (576p)",
-        "logo": "https://i.imgur.com/5YFsqPx.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/vn.m3u",
-        "url": "http://125hvt.ddns.net:21585/thvl1/tracks-v1a1/mono.m3u8"
-      },
-      {
         "name": "VTV1 (576p)",
         "logo": "https://i.imgur.com/vZYlGIW.png",
         "group": "Undefined",
@@ -1476,6 +1462,13 @@
         "group": "General;News",
         "source": "https://iptv-org.github.io/iptv/countries/vn.m3u",
         "url": "http://125hvt.ddns.net:21585/htv9/index.m3u8"
+      },
+      {
+        "name": "Vinh Long TV 1 (576p)",
+        "logo": "https://i.imgur.com/5YFsqPx.png",
+        "group": "General;News",
+        "source": "https://iptv-org.github.io/iptv/countries/vn.m3u",
+        "url": "http://125hvt.ddns.net:21585/thvl1/tracks-v1a1/mono.m3u8"
       }
     ],
     "Business": [
@@ -1613,6 +1606,15 @@
         "group": "Lifestyle",
         "source": "https://iptv-org.github.io/iptv/countries/vn.m3u",
         "url": "http://dvrfl05.bozztv.com/vch_vchannel10/index.m3u8"
+      }
+    ],
+    "Education;Science": [
+      {
+        "name": "Tra Vinh TV 2 (720p)",
+        "logo": "https://i.imgur.com/uqMu5Fb.png",
+        "group": "Education;Science",
+        "source": "https://iptv-org.github.io/iptv/countries/vn.m3u",
+        "url": "https://618b88f69e53b.streamlock.net/THTV2/travinhtv2/playlist.m3u8"
       }
     ]
   }
