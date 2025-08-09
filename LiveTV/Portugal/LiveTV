@@ -2,7 +2,7 @@
   {
     "name": "RTP 1",
     "type": "TV",
-    "url": "https://streaming-live.rtp.pt/liverepeater/rtpClean1HD.smil/manifest.mpd",
+    "url": "https://streaming-live.rtp.pt/liverepeater/smil:rtp1HD.smil/playlist.m3u8",
     "img": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP1.png"
   },
   {
@@ -20,7 +20,7 @@
   {
     "name": "TVI",
     "type": "TV",
-    "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMjUgODo4OjI0IEFNJmhhc2hfdmFsdWU9M0Fyc3hiY3JML1YvUUdsUVF3Rkh5UT09JnZhbGlkbWludXRlcz0xNDQwJmlkPThiNzNiMjRmLWYwNjUtNGNjZC04YTEyLTYxNGNmNjc3NWRiMg==/",
+    "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMjUgNDo3OjI2IFBNJmhhc2hfdmFsdWU9ejdvTGdmZ0M0SjhaTFpKNnBCc3A3dz09JnZhbGlkbWludXRlcz0xNDQwJmlkPTJiOTdiOGE0LTFmNDktNDc4YS1iMDgwLTlhYWM4ZTliMzg3NA==/",
     "img": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI.png"
   },
   {
@@ -38,7 +38,7 @@
   {
     "name": "CNN Portugal",
     "type": "TV",
-    "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMjUgODo4OjI1IEFNJmhhc2hfdmFsdWU9ZlBuVThISFN2aEhyZWZHTWRHaUV4Zz09JnZhbGlkbWludXRlcz0xNDQwJmlkPTA1NWFhZGE2LWZiZjAtNDUwMy05ZTM0LWM3NzQ5YWIzOGIwZA==/",
+    "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMjUgNDo3OjI3IFBNJmhhc2hfdmFsdWU9RHZhaG5uN3RUeGp6bEJ6dnVrRndPZz09JnZhbGlkbWludXRlcz0xNDQwJmlkPWVkYzRjODY2LTBhN2YtNDVmYi04ZDQyLTY3YWI1OTFmYzMyOQ==/",
     "img": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png"
   },
   {
@@ -92,7 +92,7 @@
   {
     "name": "TVI Internacional",
     "type": "TV",
-    "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMjUgODo4OjI2IEFNJmhhc2hfdmFsdWU9ejl6aERkdHUrbHkzeVZFU0NrNm9PZz09JnZhbGlkbWludXRlcz0xNDQwJmlkPTZjOWNkMDRiLTczNjctNGUxYS05NDZlLTI2NWJiMjM0YjBlMg==/",
+    "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMjUgNDo3OjI4IFBNJmhhc2hfdmFsdWU9WkxkZGY2aitMWmdSME8wN1J0T2dCZz09JnZhbGlkbWludXRlcz0xNDQwJmlkPWNkMmQxOTFhLTk5YWMtNGUzNi05YTY3LWNhZDlmMWE5YThlMg==/",
     "img": "https://github.com/LITUATUI/M3UPT/raw/main/logos/TVI-Internacional.png"
   },
   {
