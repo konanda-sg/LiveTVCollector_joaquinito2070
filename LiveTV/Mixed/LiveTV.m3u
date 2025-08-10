@@ -234,7 +234,7 @@ https://videosolutions-wedobigstories-rakuten.amagi.tv/hls/amagi_hls_data_rakute
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="documentari",CGTN Documentary
 https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="notizie",Euronews IN DIRETTA
-https://dab794fcc38647efbf5f86bf01fa5c21.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6570/bitok/eyJzdGlkIjoiZDk1ODFlY2QtZDM5Yi00MzBlLTg4OTEtZTMyOTM1ZDdlODE0IiwibWt0IjoiaXQiLCJjaCI6NjU3MCwicHRmIjo1fQ%3D%3D/25674/euronews-it.m3u8
+https://dab794fcc38647efbf5f86bf01fa5c21.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6570/bitok/eyJzdGlkIjoiYjI5ZmZhZWQtZjEzYS00NGZmLTgzMmItY2Y3ZDBlMTliNDVlIiwibWt0IjoiaXQiLCJjaCI6NjU3MCwicHRmIjo1fQ%3D%3D/25674/euronews-it.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="notizie",The Reuters 60
 https://amg00453-reuters-amg00453c1-rakuten-uk-2110.playouts.now.amagi.tv/playlist/amg00453-reuters-reuters-rakutenuk/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="notizie",Urania News
@@ -246,7 +246,7 @@ https://e96a7526.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="notizie",Bloomberg TV+
 https://86ebec83.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0Jsb29tYmVyZ1RWUGx1c19ITFM/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="notizie",Africanews
-https://c3c275b999764df8a2dd55ffe2996818.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576/bitok/eyJzdGlkIjoiZmExYjhiNzctOWU4Yi00OGVlLTg5ODQtN2FkNjg3YjIzYjM0IiwibWt0IjoiaXQiLCJjaCI6NjU4NywicHRmIjo1fQ%3D%3D/26036/africanews-en.m3u8
+https://c3c275b999764df8a2dd55ffe2996818.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576/bitok/eyJzdGlkIjoiMWM1ZGZmMWYtNTI5OS00MjE4LWI3NTItM2UyNTNjYjhiMjA1IiwibWt0IjoiaXQiLCJjaCI6NjU4NywicHRmIjo1fQ%3D%3D/26036/africanews-en.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="notizie",CGTN
 https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="notizie",NewsWorld
@@ -1337,6 +1337,8 @@ https://unifi-live07.secureswiftcontent.com/UnifiHD/live11.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/5060/default_ott.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8c/WWE_Network_logo.jpeg" group-title="SPORTS",WWE NETWORK
 https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/50/HeroesTVchannel.png" group-title="MALAYSIA🇲🇾",HEROES
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5183/default_ott.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/My-Logo/main/RTM%20ASEAN%20Malay.png" group-title="MALAYSIA🇲🇾",RTM ASEAN
 https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/ms/thumb/d/d7/TV_1%28Malaysia%29baru.png/440px-TV_1%28Malaysia%29baru.png" group-title="MALAYSIA🇲🇾",TV1 HD
@@ -2141,34 +2143,14 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/cinemaworld/manifest.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/603/default_ott.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Logo_Citra_Bioskop.png/1598px-Logo_Citra_Bioskop.png" group-title="MOVIES",CITRA BIOSKOP
 https://atemecdnbalancer-voe.sysln.id/live/eds/CitraBioskopHD/mpd/CitraBioskopHD.mpd
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/Colors_Cineplex.svg/revision/latest/scale-to-width-down/250?cb=20210605153257" group-title="MOVIES",COLORS CINEPLEX BOLLYWOOD
-http://sansat.cc:88/g25/ZNaMXGCdLDVne0g/96345
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Colors_tv2017.png" group-title="MOVIES",COLORS HINDI HD
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2611/default_ott.mpd
 #EXTINF:-1 tvg-logo="https://astromedia.com.my/wp-content/uploads/2023/12/colorstamil.png" group-title="MOVIES",COLORS TAMIL HD
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2101/default_ott.mpd
-#EXTINF:-1 tvg-logo="https://i.ibb.co/B4xvBb8/600px-Douyu-TV-logo.png" group-title="MOVIES",DOUYU TV MOVIES
-https://hlsa-akm.douyucdn.cn/live/20415rnWbjg6Ex1K_900/playlist.m3u8?wsAuth=014b39c4437d974e4d70045eb2d23e67&token=web-h5-0-20415-b6774b3b3249db179435e1a37410043c7827528d80fff5fe&logo=0&expire=0&did=c2d6f221fb67b0e8f4e820a300001601&ver=Douyu_221090605&pt=2&st=0&origin=tct&mix=0&isp=
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/6f/Dove_Channel_%28streaming_service%29_logo.png" group-title="MOVIES",DOVE CHANNEL
-https://dai.google.com/linear/hls/event/dfbBGQhPQQqypdEAjpUGlA/master.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/My-Logo/main/Dragon%20TV.png" group-title="MOVIES",DRAGON TV
 https://atemeshield1-voe.sysln.id/live/eds/DragonTV/mpd/DragonTV.mpd
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/My-Logo/main/Etv%20Bioskop.jpeg" group-title="MOVIES",ETV BIOSKOP 1
-https://WahyuIPTV.short.gy/ETVBioskop1.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/My-Logo/main/Etv%20Bioskop.jpeg" group-title="MOVIES",ETV BIOSKOP 2
-https://WahyuIPTV.short.gy/ETVBioskop2.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/My-Logo/main/Etv%20Bioskop.jpeg" group-title="MOVIES",ETV BIOSKOP 3
-https://WahyuIPTV.short.gy/ETVBioskop3.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/My-Logo/main/Etv%20Bioskop.jpeg" group-title="MOVIES",ETV BIOSKOP 4
-https://WahyuIPTV.short.gy/ETVBioskop4.ts
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/pluto-tv/images/9/99/FlicksofFury.svg/revision/latest/thumbnail/width/360/height/360?cb=20220803003107" group-title="MOVIES",FLICKS OF FURY
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/58e55b14ad8e9c364d55f717/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=112&deviceId=58e55b14ad8e9c364d55f717&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&checkedby:hlscat.com
-#EXTINF:-1 tvg-logo="https://rec.id/wp-content/uploads/2022/07/FLIK-1080X1080.png" group-title="MOVIES",FLIK
-https://cdn08jtedge.indihometv.com/dassdvr/133/flik/manifest.mpd
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/Galaxy.png" group-title="MOVIES",GALAXY
-https://cdn08jtedge.indihometv.com/dassdvr/133/galaxy/manifest.mpd
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mystery75/logo/main/GalaxyPremium.png" group-title="MOVIES",GALAXY PREMIUM
-https://cdn08jtedge.indihometv.com/dassdvr/133/galaxypremium/manifest.mpd
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/143_144.png" group-title="MOVIES",HBO HD
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2304/default_ott.mpd
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/450_144.png" group-title="MOVIES",HBO FAMILY HD
@@ -2179,8 +2161,6 @@ http://linearjitp-playback.astro.com.my/dash-wv/linear/5055/default_ott.mpd
 https://linearjitp-playback.astro.com.my/dash-wv/linear/606/default_ott.mpd
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/391_144.png" group-title="MOVIES",HITS MOVIES
 http://linearjitp-playback.astro.com.my/dash-wv/linear/2305/default_ott.mpd
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/524_144.png" group-title="MOVIES",HITS NOW
-https://linear05-playback.sooka.my/CH3/masterCH3.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/My-Logo/main/Hunan%20TV.png" group-title="MOVIES",HUNAN TV
 https://atemeshield1-voe.sysln.id/live/eds/HunanTV/mpd/HunanTV.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/My-Logo/main/IMC.jpeg" group-title="MOVIES",IMC
@@ -2207,10 +2187,6 @@ http://rasinetworks.in:1935/rasitamil/rasitamil.stream_aac/playlist.m3u8
 http://rasinetworks.in:1935/rasitvhd/rasitvhd.stream_aac/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://tataprime.files.wordpress.com/2024/04/20240407_1518425091386983341611136.png" group-title="MOVIES",RASI MOVIES
 http://rasinetworks.in:1935/rasimovies/rasimovies.stream_aac/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.prod.website-files.com/64e961c3862892bff815289d/64f5706309cfeef5f1d4bc1f_logo_act_web.png" group-title="MOVIES",ROCK ACTION
-https://web.hypp.tv:443/PLTV/88888888/224/3221227656/3221227656.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=P9WRHqSrUsuy%2BJikuzsnbKOcX%2BP3Grqi2KkTyat%2BkYBRTE8BQtzQEk9tepGqmM8PvqR%2FW6%2FmAu25c2abohrK7O83m3EeQ0m%2BBo4btd%2BuniyVFRTQiCcWXuFIeO21qkbF%3A20230405093857%3AUTC%2C10001002129788%2C180.75.253.113%2C20230405093857%2Curn:Huawei:liveTV:SP000002372888%2C10001002129788%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C10000104360778%2C0%2C10000103736904%2C3484991609%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOQYvCMBhE_02OIYlS7SEnRViQKlj3KpPka7aYNppUwX9vu9brzLzhDQmWfrZaCWelcQpwYknKQTZUEkxRmma1WBiW6V5FrZhFCG3vq-gm7Pe0uUjBBVdK8hWrp7ddgJ-H1aMzlLT8UidKz9aSdrnhT2QO7xN5DG3s-THgdU5hnjCqZzNZrEVRKjFaiIINU1ojX8eG_SFvYndDIreP_h_QDUImdoO9wlOFjnT_COHDHZIbbd55AAsT8wAAAA&tenantId=6003
-#EXTINF:-1 tvg-logo="https://cdn.prod.website-files.com/64e961c3862892bff815289d/64f55d8481052e45d515eb50_logo_ent_red_web.png" group-title="MOVIES",ROCK ENTERTAINMENT
-https://web.hypp.tv:443/PLTV/88888888/224/3221227637/3221227637.mpd?rrsip=web.hypp.tv:443&zoneoffset=0&servicetype=1&icpid=&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=P9WRHqSrUsuy%2BJikuzsnbLh6LO9cwFJbX0ifkqBLs1eEm6R1BFTj%2F%2B5BveDnXMJVLMXaMDHd%2BOB7wHYKNx8pLeV3eB1im9yO2zVHwdc0cAWVFRTQiCcWXuFIeO21qkbF%3A20230413072448%3AUTC%2C10001002129842%2C115.135.197.250%2C20230413072448%2Curn:Huawei:liveTV:iptv42337%2C10001002129842%2C-1%2C0%2C1%2C%2C%2C2%2C%2C%2C%2C2%2C10000104360778%2C0%2C10000103736904%2C884179594%2C%2C%2C2%2C1%2CEND&GuardEncType=2&it=H4sIAAAAAAAAADWOwW7DIBQE_4YjCjgCfOCUqlKlyo0Ut9dqDQ9qBZsEnEj9-8ate93dWc1S4OjlyTrT6tYFTYPa740boGVAE5SAkF6bhlW6dtlK5pDSOMcu-xX7OB0-xY7vuJSCG9avb88JcRt2t2mgYsU_daJyHx1ZXwO_o3LEWChiGfPMjwnf7yVtE0b9ZiaUEY1WrVJKN2xZ0x71_GjYF-ohTxcU8q85_gI2IFViF7gzInWYyM63lP64t-IfNj_9atHa8wAAAA&tenantId=6003
 #EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/aca5fb4a-3f31-4527-82d4-80b718821f1f/ShemarooBollywood_logo_dark_-_Shemaroo_USArdx.png" group-title="MOVIES",SHEMAROO BOLLYWOOD
 https://amg00864-shemarooenterta-shemabollywood-ono-nlwbw.amagi.tv/playlist/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/PuteraPerlis74/My-Logo/main/Shenzen%20TV.png" group-title="MOVIES",SHENZEN TV
@@ -2221,18 +2197,8 @@ https://linearjitp-playback.astro.com.my/dash-wv/linear/5054/default_ott.mpd
 https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b6/Sony_Max_new.png?20221215000338" group-title="MOVIES",SONY MAX
 https://atemeshield1-voe.sysln.id/live/eds/SonyMax/mpd/SonyMax.mpd
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Sony_Pix_new.png/300px-Sony_Pix_new.png" group-title="MOVIES",SONY PIX
-http://tv.cloudcdn.me:80/live.ts?channelId=189&uid=14505&deviceMac=00:1A:79:A7:53:75
-#EXTINF:-1 tvg-logo="https://i.ibb.co/nCKHDbX/806a31b4-7b66-4fbe-a417-a818b36e89f4.png" group-title="MOVIES",SOUTH STATION
-https://cc-tke03xaj1wszc.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-tke03xaj1wszc/South_Station_IN/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Syfy.svg/400px-Syfy.svg.png" group-title="MOVIES",SYFY
-https://ott.zapitv.com/live/eds_c2/syfy/dash_live_enc/syfy.mpd
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YcFFYrx/1191464e-d73f-4277-985f-f61b6fbcd587.png" group-title="MOVIES",THE MOVIE CLUB
-https://cc-jytb1qhmgqh5a.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-jytb1qhmgqh5a/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Thrilllogo.webp/390px-Thrilllogo.webp.png" group-title="MOVIES",THRILL
 https://cdn09jtedge.indihometv.com/atm/hlsv3/thrill/thrill-avc1_1200000=4-mp4a_96000=2.m3u8
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/270_144.png" group-title="MOVIES",WARNER TV
-https://streaming.indihometv.com/atm/DASH/warner/manifest.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a4/Zee_Action_2023_logo.png?20230801125521" group-title="MOVIES",ZEE ACTION
 http://sansat.cc:88/g25/ZNaMXGCdLDVne0g/96169
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d2/Zee_bioskop.svg/revision/latest/scale-to-width-down/300?cb=20210517184835" group-title="MOVIES",ZEE BIOSKOP
