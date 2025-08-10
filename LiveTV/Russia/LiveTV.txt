@@ -71,6 +71,11 @@ URL: http://31.148.48.15/Eda_Premium_HD/index.m3u8
 Logo: https://i.imgur.com/gxCYAwH.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
+Name: Kulinar TV
+URL: https://api.alpaca.t62a.com/hls/9110/index.m3u8
+Logo: https://smotret.tv/images/kulinar-tv.webp
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
 Name: Кухня ТВ
 URL: http://31.148.48.15/Kuhnya_TV/index.m3u8
 Logo: https://i.imgur.com/7jxZnuS.png
@@ -83,9 +88,9 @@ Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
 
 Group: Culture
-Name: Museum TV English (1080p)
-URL: https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtven-xiaomi/playlist.m3u8
-Logo: https://i.imgur.com/WbjURLo.png
+Name: НТВ Мир
+URL: https://streaming.thestream.cyou/live/213.m3u8
+Logo: https://i.imgur.com/pUcV46F.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
 Name: Россия К
@@ -136,15 +141,17 @@ Logo: https://i.imgur.com/ZZxzueO.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
 
+Group: Documentary;Series
+Name: Сити Эдем КиноДок [Not 24/7]
+URL: https://v2.catcast.tv/content/40783/index.m3u8
+Logo: https://i.imgur.com/itRbMX3.png
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
+
 Group: Education
 Name: Da Vinci
 URL: http://178.217.72.66:8080/Da_Vinchi/index.m3u8
 Logo: https://i.imgur.com/iBx7K1M.png
-Source: https://iptv-org.github.io/iptv/countries/ru.m3u
---------------------------------------------------
-Name: MOSOBR.TV (720p)
-URL: http://retj.educom.ru/mosobrtv/tv1/index.m3u8
-Logo: https://i.imgur.com/t6PmOD5.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
 Name: ЕГЭ ТВ
@@ -152,16 +159,16 @@ URL: http://194.143.148.28:8080/RT_DOC/index.m3u8
 Logo: https://i.imgur.com/XxJBLt4.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
-
-Group: Entertainment
-Name: Friday! International
-URL: https://cdn4.skygo.mn/live/disk1/Friday/HLSv3-FTA/Friday.m3u8
-Logo: https://i.imgur.com/N2z3EZC.png
+Name: МосОбрТВ (720p)
+URL: http://retj.educom.ru/mosobrtv/tv1/index.m3u8
+Logo: https://i.imgur.com/t6PmOD5.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
-Name: Tvoe TV HD
-URL: http://tvoetv.space:8080/tvoetv/index.m3u8
-Logo: https://i.imgur.com/kKAM7dP.png
+
+Group: Entertainment
+Name: 2х2 [Geo-blocked]
+URL: https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2/variant.m3u8
+Logo: https://i.imgur.com/fhQFLEl.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
 Name: Индия
@@ -184,9 +191,19 @@ URL: https://livetv.mylifeisgood.net.ru/channels/fridayhd.m3u8
 Logo: https://i.imgur.com/UfmlXxe.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
+Name: Пятница! International
+URL: https://cdn4.skygo.mn/live/disk1/Friday/HLSv3-FTA/Friday.m3u8
+Logo: https://i.imgur.com/N2z3EZC.png
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
 Name: ТВ-3
 URL: https://livetv.mylifeisgood.net.ru/channels/tv3hd.m3u8
 Logo: https://i.imgur.com/JLAvq8O.png
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
+Name: Твое TV HD
+URL: http://tvoetv.space:8080/tvoetv/index.m3u8
+Logo: https://i.imgur.com/kKAM7dP.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
 Name: ТНТ
@@ -238,13 +255,13 @@ URL: https://cdn-evacoder-tv.facecast.io/evacoder_hls_hi/CkxfR1xNUAJwTgtXTBZTAJl
 Logo: https://i.imgur.com/VTJqdoX.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
-Name: Luch
-URL: https://mow-9-ll.facecast.io:8443/hls_re/c631505e4fd6d14665c0.m3u8
-Logo: https://i.imgur.com/tXH51br.png
+Name: Sochi Live HD (720p) [Not 24/7]
+URL: http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
+Logo: https://www.cableman.ru/sites/default/files/sochi_live.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
-Name: TGRT Europe (1080p)
-URL: https://canli.tgrteu.com/tgrteu.m3u8
+Name: TGRT Europe (576p)
+URL: https://tv.ensonhaber.com/tv/tr/tgrteu/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TGRT_EU.png/512px-TGRT_EU.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
@@ -263,6 +280,16 @@ URL: http://live2-aisttv.cdnvideo.ru/aisttv2/aisttv.sdp/playlist.m3u8
 Logo: https://i.imgur.com/bcw0s4V.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
+Name: Арктика 24 (Архангельск)
+URL: https://vgtrkregion-reg.cdnvideo.ru/vgtrk/arhangelsk/arktika24-hd/index.m3u8
+Logo: https://i.imgur.com/kmbdyr6.png
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
+Name: Башкортостан 24
+URL: https://vgtrkregion-reg.cdnvideo.ru/vgtrk/ufa/bashkortostan24-hd/index.m3u8
+Logo: https://i.imgur.com/s34Wtz6.png
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
 Name: Белгород 24 (1080p)
 URL: https://belnovosti.cdn.easyhoster.ru:8443/stream.m3u8
 Logo: https://i.imgur.com/EEirvyx.png
@@ -271,6 +298,11 @@ Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 Name: БелРос (576p)
 URL: https://live2.mediacdn.ru/sr1/tro/playlist.m3u8
 Logo: https://i.imgur.com/tUF33HD.png
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
+Name: Восток 24 (Владивосток)
+URL: https://vgtrkregion-reg.cdnvideo.ru/vgtrk/vladivostok/vostok24-hd/index.m3u8
+Logo: https://i.imgur.com/YEXDsMn.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
 Name: Губерния (Самара) (576p)
@@ -288,6 +320,11 @@ URL: https://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
 Logo: https://i.imgur.com/57deE7f.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
+Name: Запад 24 (Калининград)
+URL: https://vgtrkregion-reg.cdnvideo.ru/vgtrk/kaliningrad/zapad24-hd/index.m3u8
+Logo: https://i.imgur.com/HerCP0u.png
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
 Name: Звезда (1080p) [Not 24/7]
 URL: https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist.m3u8
 Logo: https://i.imgur.com/4PAcpfM.png
@@ -301,6 +338,11 @@ Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 Name: Кавказ 24 (Ставрополь)
 URL: https://vgtrkregion-reg.cdnvideo.ru/vgtrk/stavropol/kavkaz24-hd/index.m3u8
 Logo: https://i.imgur.com/DyJw1Pi.png
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
+Name: Кубань 24 [Geo-blocked]
+URL: https://rt-sth-krdar-htlive.cdn.ngenix.net/hls/CH_R04_KUBAN24/variant.m3u8
+Logo: https://i.imgur.com/atzrXcz.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
 Name: Курай (Уфа) (576p)
@@ -321,6 +363,11 @@ Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 Name: Луганск 24
 URL: https://streaming.televizor-24-tochka.ru/live/29.m3u8
 Logo: https://i.imgur.com/AihoVc0.png
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
+Name: Луч
+URL: https://mow-9-ll.facecast.io:8443/hls_re/c631505e4fd6d14665c0.m3u8
+Logo: https://i.imgur.com/tXH51br.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
 Name: Мир +2 (540p) [Not 24/7]
@@ -358,6 +405,11 @@ URL: https://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8
 Logo: https://i.imgur.com/dccsFAu.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
+Name: Новгородское областное телевидение [Geo-blocked]
+URL: https://rt-nw-novg-htlive.cdn.ngenix.net/hls/CH_R02_NOVGORODTV/variant.m3u8
+Logo: https://i.imgur.com/2JspHVY.png
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
 Name: Новый Век
 URL: https://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Tambov/hls/index.m3u8
 Logo: https://i.imgur.com/8aYYi3r.png
@@ -371,6 +423,11 @@ Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 Name: НТВ HD
 URL: https://cdn.ntv.ru/ntv0/playlist.m3u8
 Logo: https://i.imgur.com/9r1BKzK.png
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
+Name: НТК 21 (Биробиджан) [Geo-blocked]
+URL: https://s97982.cdn.ngenix.net/hls/CH_R79_OTT_DV_HVSK_NTK/variant.m3u8
+Logo: https://i.imgur.com/W9s1flH.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
 Name: НТМ (Народное телевидение Мордовии) (720p) [Not 24/7]
@@ -398,6 +455,16 @@ URL: https://edge1.1internet.tv/dash-live2/streams/1tv-dvr/1tvdash.mpd
 Logo: https://i.imgur.com/RUSX0rX.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
+Name: Первый канал Европа
+URL: https://streaming.thestream.cyou/live/210.m3u8
+Logo: https://i.imgur.com/RUSX0rX.png
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
+Name: Первый Ярославский
+URL: https://yaroslavl.mediacdn.ru/cdn/pervyaroslavsk/playlist.m3u8
+Logo: https://yarreg.ru/gallery/news/2025/03/293241/3.jpeg
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
 Name: РЕН ТВ
 URL: http://178.217.72.66:8080/REN_TV/index.m3u8
 Logo: https://i.imgur.com/0Tu5lte.png
@@ -423,14 +490,44 @@ URL: https://player.smotrim.ru/iframe/stream/live_id/3b73bf76-7245-4981-a865-384
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/RTR-Planeta_Logo.svg/512px-RTR-Planeta_Logo.svg.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
+Name: Самара 24
+URL: https://vgtrkregion-reg.cdnvideo.ru/vgtrk/samara/samara24-hd/index.m3u8
+Logo: https://i.imgur.com/YUe3Dwd.png
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
+Name: Сибирь 24 (Красноярск)
+URL: https://vgtrkregion-reg.cdnvideo.ru/vgtrk/krasnoyarsk/sibir24-hd/index.m3u8
+Logo: https://i.imgur.com/jgwQPl0.png
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
+Name: Сибирь 24 (Новосибирск)
+URL: https://vgtrkregion-reg.cdnvideo.ru/vgtrk/novosibirsk/sibir24-hd/index.m3u8
+Logo: https://i.imgur.com/jgwQPl0.png
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
+Name: Таврия
+URL: https://streaming.televizor-24-tochka.ru/live/24.m3u8
+Logo: https://i.imgur.com/gqung6i.png
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
 Name: Телеканал 86 (Сургут) (1080p) [Not 24/7]
 URL: https://sitv.ru/hls/s86.m3u8
 Logo: https://i.imgur.com/0dRS4Cb.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
+Name: Телеканал Краснодар
+URL: https://krasnodar.mediacdn.ru/live/cdn/krasnodar/playlist.m3u8
+Logo: https://i.imgur.com/YVtutzp.png
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
 Name: ТК Алмазный край (576p)
 URL: https://stream.almaz-media.tv:8080/hls/576.m3u8
 Logo: https://i.imgur.com/zErXTdF.png
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
+Name: Урал 24 (Челябинск)
+URL: https://vgtrkregion-reg.cdnvideo.ru/vgtrk/chelyabinsk/ural24-hd/index.m3u8
+Logo: https://i.imgur.com/eoI4KuB.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
 Name: Центр (Красноярск)
@@ -440,9 +537,16 @@ Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
 
 Group: General;News
-Name: Sochi 24 HD
+Name: Сочи 24 HD
 URL: http://serv30.vintera.tv:8081/sochi/sochi24_tv/playlist.m3u8
 Logo: https://i.imgur.com/iwWxkl6.png
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
+
+Group: General;Religious
+Name: Сити Эдем ТВ [Not 24/7]
+URL: https://v2.catcast.tv/content/34246/index.m3u8
+Logo: https://i.imgur.com/X9kACKi.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
 
@@ -502,6 +606,11 @@ URL: https://radm.mediacdn.ru/cdn/radost/playlist.m3u8
 Logo: https://i.imgur.com/B5FA62o.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
+Name: Смайл ТВ
+URL: https://5f05e059699ae.streamlock.net/WEB_Smilik/ngrp:Smilik.stream-adaptive/playlist.m3u8
+Logo: https://static.tildacdn.com/tild3936-3138-4234-b536-326531343933/-_13x.png
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
 Name: СуперГерои
 URL: http://178.124.179.122:8088/Malish/index.m3u8
 Logo: https://i.imgur.com/c0zZUR1.png
@@ -559,7 +668,7 @@ Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 
 Group: Movies
 Name: Cinema
-URL: http://catchup.videoline.ru/cinema/tracks-v1a1/mono.m3u8
+URL: http://catchup.videoline.ru/cinema/playlist.m3u8
 Logo: https://i.imgur.com/b5e9qUA.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
@@ -568,9 +677,14 @@ URL: http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
 Logo: https://i.imgur.com/QAdDARF.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
-Name: Kino TV
-URL: https://vod.tuva.ru/kinotv/index.m3u8
-Logo: https://i.imgur.com/sMpamNO.png
+Name: MGM HD [Not 24/7]
+URL: https://v2.catcast.tv/content/44051/index.m3u8
+Logo: https://i.imgur.com/FRbtrxo.png
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
+Name: Детское кино International [Not 24/7]
+URL: https://autopilot.catcast.tv/content/38720/index.m3u8
+Logo: https://i.imgur.com/dJqFRhQ.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
 Name: Дом Кино
@@ -598,9 +712,29 @@ URL: http://194.143.148.28:8080/KINEKO/index.m3u8
 Logo: https://i.imgur.com/Otfvlmf.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
+Name: Кино 1 International [Not 24/7]
+URL: http://kino-1.catcast.tv/content/38617/index.m3u8
+Logo: https://i.imgur.com/zsCPLs4.png
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
 Name: Кинопоказ
 URL: http://31.148.48.15/Kinopokaz/index.m3u8
 Logo: https://i.imgur.com/nNjMyAq.png
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
+Name: КИНОТВ
+URL: https://vod.tuva.ru/kinotv/index.m3u8
+Logo: https://i.imgur.com/sMpamNO.png
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
+Name: Любимое Индийское Кино [Not 24/7]
+URL: https://v2.catcast.tv/content/41596/index.m3u8
+Logo: https://i.imgur.com/hVptFue.png
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
+Name: Малдер Мегахит [Not 24/7]
+URL: https://v2.catcast.tv/content/47689/index.m3u8
+Logo: https://i.imgur.com/Ow2Pawt.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
 Name: Мосфильм Золотая Коллекция
@@ -623,6 +757,16 @@ URL: http://31.148.48.15/Russkiy_Roman_HD/index.m3u8
 Logo: https://i.imgur.com/cQN0P2B.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
+Name: Сити Эдем КиноКлассика [Not 24/7]
+URL: https://v2.catcast.tv/content/34185/index.m3u8
+Logo: https://i.imgur.com/0qGCS1S.png
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
+Name: Сити Эдем КиноЭкшен [Not 24/7]
+URL: https://v2.catcast.tv/content/41333/index.m3u8
+Logo: https://i.imgur.com/uuzuvD0.png
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
 Name: Феникс плюс Кино
 URL: http://31.148.48.15/Feniks_plus_kino/index.m3u8
 Logo: https://i.imgur.com/S9OPMLE.png
@@ -642,7 +786,7 @@ URL: http://31.148.48.15/A1/index.m3u8
 Logo: https://i.imgur.com/2pAHdAi.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
-Name: Bridge
+Name: BRIDGE
 URL: http://31.148.48.15/Bridge_TV/index.m3u8
 Logo: https://i.imgur.com/qYObfrG.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
@@ -657,6 +801,11 @@ URL: http://31.148.48.15/Bridge_TV_Dance/index.m3u8
 Logo: https://i.imgur.com/sIW9oR4.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
+Name: DanceHits80
+URL: http://dancehits80.denvs.ru:8080/index.m3u8
+Logo: https://i.imgur.com/uMw3kks.png
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
 Name: Europa Plus TV
 URL: http://31.148.48.15/Europa_Plus_HD/index.m3u8
 Logo: https://i.imgur.com/GLc4qrc.png
@@ -665,11 +814,6 @@ Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 Name: MTV Hits Europe
 URL: http://45.88.92.3/tr3_MTVHits_SD/index.m3u8?token=test
 Logo: https://i.imgur.com/zNscEST.png
-Source: https://iptv-org.github.io/iptv/countries/ru.m3u
---------------------------------------------------
-Name: o2tv
-URL: http://31.148.48.15/O2_HD/index.m3u8
-Logo: https://i.imgur.com/CM6z7fA.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
 Name: RU TV
@@ -697,9 +841,24 @@ URL: https://livetv.mylifeisgood.net.ru/channels/muztvhd.m3u8
 Logo: https://i.imgur.com/BtqrHmz.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
+Name: Музыка 1 International [Not 24/7]
+URL: https://kino-1.catcast.tv/content/37745/index.m3u8
+Logo: https://i.imgur.com/DIKe5vA.png
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
+Name: Музыка Кино International [Not 24/7]
+URL: https://kino-1.catcast.tv/content/37739/index.m3u8
+Logo: https://i.imgur.com/2SG0Swa.png
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
 Name: Музыка Первого
 URL: http://31.148.48.15/Muzika_Pervogo/index.m3u8
 Logo: https://i.imgur.com/U0vKj3P.png
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
+Name: о2тв
+URL: http://31.148.48.15/O2_HD/index.m3u8
+Logo: https://i.imgur.com/CM6z7fA.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
 Name: Первый Музыкальный Канал (576p)
@@ -720,6 +879,11 @@ Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 Name: Радио Шансон (720p) [Not 24/7]
 URL: http://chanson-video.hostingradio.ru:8080/hls/chansonabr/live.m3u8
 Logo: https://i.imgur.com/lbqM3K2.png
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
+Name: Сити Эдем ТВ Meditation Music [Not 24/7]
+URL: https://v2.catcast.tv/content/47410/index.m3u8
+Logo: https://i.imgur.com/HPWevWb.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
 Name: Страна FM (720p) [Not 24/7]
@@ -756,11 +920,6 @@ URL: https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil
 Logo: https://i.imgur.com/YXDeX8q.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
-Name: Current Time TV
-URL: https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8
-Logo: https://i.imgur.com/hKo8ApU.png
-Source: https://iptv-org.github.io/iptv/countries/ru.m3u
---------------------------------------------------
 Name: Polsat News Polityka (1080p) [Geo-blocked]
 URL: https://lb2-e3-20.pluscdn.pl/lv/1511888/322/dash/52a9b70b/live.mpd
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Polsat_News_Polityka_2024_gradient.svg/320px-Polsat_News_Polityka_2024_gradient.svg.png
@@ -769,6 +928,11 @@ Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 Name: Астрахань 24 (720p)
 URL: https://streaming.astrakhan.ru/astrakhan24/playlist.m3u8
 Logo: https://i.imgur.com/9WcnjQN.png
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
+Name: Вести ФМ
+URL: https://player.smotrim.ru/iframe/stream/live_id/0487fd79-60e6-4333-a545-909d6e015173
+Logo: https://i.imgur.com/ZBHqSZj.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
 Name: Дон 24
@@ -786,6 +950,11 @@ URL: http://cdn-01.bonus-tv.ru/kriktv_edge/playlist.m3u8
 Logo: https://i.imgur.com/rtuChZR.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
+Name: Настоящее Время
+URL: https://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8
+Logo: https://i.imgur.com/hKo8ApU.png
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
 Name: Радио Говорит Москва (404p) [Not 24/7]
 URL: http://video.govoritmoskva.ru:8080/live/rufmbk-1/index.m3u8
 Logo: https://i.imgur.com/z2mxf3E.png
@@ -794,6 +963,11 @@ Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 Name: Россия 24 (576p) [Not 24/7]
 URL: https://uiptv.do.am/1ufc/000000006/playlist.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Rossiya-24_Logo.svg/512px-Rossiya-24_Logo.svg.png
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
+Name: Толк HD
+URL: http://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8
+Logo: https://i.imgur.com/l7JZ79P.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
 
@@ -879,6 +1053,16 @@ URL: https://cdn.ntv.ru/th_hit/playlist.m3u8
 Logo: https://i.imgur.com/FfKBvz5.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
+Name: Сити Эдем ТелеНовелла [Not 24/7]
+URL: https://v2.catcast.tv/content/46209/index.m3u8
+Logo: https://i.imgur.com/mT5liTh.png
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
+Name: Смотрим Честный Детектив
+URL: https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
+Logo: https://cdn-st3.smotrim.ru/vh/pictures/svg/444/241/8.svg
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
 
 Group: Shop
 Name: Leomax 24 (1080p)
@@ -903,6 +1087,11 @@ Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
 
 Group: Sports
+Name: E
+URL: https://cdn-01.bonus-tv.ru/gsl/playlist.m3u8
+Logo: https://i.imgur.com/FbPFS8u.png
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
 Name: FIFA+ (720p)
 URL: https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8
 Logo: https://i.imgur.com/l5iax42.png
@@ -916,6 +1105,36 @@ Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 Name: MMA-TV.com
 URL: https://streams2.sofast.tv/vglive-sk-462904/playlist.m3u8
 Logo: https://i.imgur.com/QhdxNsB.png
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
+Name: VITAL Basketball [Not 24/7]
+URL: https://vslive.pw/stream/48684/index.m3u8
+Logo: https://i.imgur.com/E67CY0d.png
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
+Name: VITAL Drive [Not 24/7]
+URL: https://autopilot.catcast.tv/content/37909/index.m3u8
+Logo: https://i.imgur.com/XoR9zLh.png
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
+Name: VITAL Football [Not 24/7]
+URL: https://vslive.pw/stream/48682/index.m3u8
+Logo: https://i.imgur.com/wXf8nNf.png
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
+Name: VITAL Plus [Not 24/7]
+URL: https://vslive.pw/stream/48683/index.m3u8
+Logo: https://i.imgur.com/7NTLpDt.png
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
+Name: VITAL Sport [Not 24/7]
+URL: https://vslive.pw/stream/48527/index.m3u8
+Logo: https://i.imgur.com/2Kinxqb.png
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
+Name: VITAL Tennis [Not 24/7]
+URL: https://vslive.pw/stream/48685/index.m3u8
+Logo: https://i.imgur.com/RoCOuhJ.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
 Name: World Poker Tour (1080p)
@@ -1412,7 +1631,7 @@ Logo: https://images-1.rakuten.tv/storage/global-live-channel/translation/artwor
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
 Name: Monster Jam
-URL: http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65c33f833ef47d00084f47ad/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1e7521-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8a8e6e9e-1da8-4436-9538-aa678b671447
+URL: http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65bcc9c8d77d450008b34c6b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b17f4-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=4ef65ab7-424b-4423-93e5-e94da98d875f
 Logo: https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/0734ee9d-7417-4f53-a092-e29d6e8146ee-width200-quality90.jpeg
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
@@ -1444,11 +1663,6 @@ Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 Name: RTL HD
 URL: https://strm.hdtvizlecanli.com/live/rtl.m3u8
 Logo: https://i.imgur.com/94K94k2.png
-Source: https://iptv-org.github.io/iptv/countries/ru.m3u
---------------------------------------------------
-Name: RTL Zwei (1080p)
-URL: http://178.219.128.68:64888/RTL2
-Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/RTLZWEI_Logo_2019.svg/512px-RTLZWEI_Logo_2019.svg.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
 Name: SGDF24.RU
@@ -1561,6 +1775,11 @@ URL: https://dagestan.mediacdn.ru/cdn/dagestan/playlist.m3u8
 Logo: https://i.imgur.com/jumkRvc.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
+Name: Дождь (1080p) [Geo-blocked]
+URL: https://wl.tvrain.tv/transcode/ngrp:ses_all/playlist.m3u8
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Tvrain.svg/512px-Tvrain.svg.png
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
 Name: Живая Планета
 URL: http://31.148.48.15/Zhivaya_Planeta/index.m3u8
 Logo: https://i.imgur.com/onNv1tM.png
@@ -1641,6 +1860,11 @@ URL: http://45.67.57.9:8080/new/new/playlist.m3u8
 Logo: https://samaragis.ru/wp-includes/images/logo.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
+Name: Санкт-Петербург HD
+URL: https://rt-nw-spb-htlive.cdn.ngenix.net/hls/CH_R02_SPBREGIONALHD/variant.m3u8
+Logo: https://i.imgur.com/9At4oG7.png
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
 Name: Сарафан
 URL: http://95.142.88.250/sarafan/index.m3u8
 Logo: https://i.imgur.com/u4q1rMT.png
@@ -1709,11 +1933,6 @@ Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 Name: Шаян ТВ (Татарстан)
 URL: https://shayan.bonus-tv.ru/cdn/shayan/playlist.m3u8
 Logo: https://i.imgur.com/CvFwczN.png
-Source: https://iptv-org.github.io/iptv/countries/ru.m3u
---------------------------------------------------
-Name: Ю
-URL: https://livetv.mylifeisgood.net.ru/channels/u_ott_tv_hq.m3u8
-Logo: https://i.imgur.com/b8CXEr7.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
 Name: Югра
