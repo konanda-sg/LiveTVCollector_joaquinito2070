@@ -804,9 +804,9 @@ Source: https://iptv-org.github.io/iptv/countries/pt.m3u
 --------------------------------------------------
 
 Group: Culture
-Name: Museum TV English (1080p)
-URL: https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtven-xiaomi/playlist.m3u8
-Logo: https://i.imgur.com/WbjURLo.png
+Name: НТВ Мир
+URL: https://streaming.thestream.cyou/live/213.m3u8
+Logo: https://i.imgur.com/pUcV46F.png
 Source: https://iptv-org.github.io/iptv/countries/pt.m3u
 --------------------------------------------------
 
@@ -1637,8 +1637,8 @@ URL: https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8
 Logo: https://i.imgur.com/jCpfdiJ.png
 Source: https://iptv-org.github.io/iptv/countries/pt.m3u
 --------------------------------------------------
-Name: TGRT Europe (1080p)
-URL: https://canli.tgrteu.com/tgrteu.m3u8
+Name: TGRT Europe (576p)
+URL: https://tv.ensonhaber.com/tv/tr/tgrteu/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TGRT_EU.png/512px-TGRT_EU.png
 Source: https://iptv-org.github.io/iptv/countries/pt.m3u
 --------------------------------------------------
@@ -1650,6 +1650,11 @@ Source: https://iptv-org.github.io/iptv/countries/pt.m3u
 Name: TVI (720p)
 URL: https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tvi.m3u8
 Logo: https://i.imgur.com/H8Tgl7m.png
+Source: https://iptv-org.github.io/iptv/countries/pt.m3u
+--------------------------------------------------
+Name: Первый канал Европа
+URL: https://streaming.thestream.cyou/live/210.m3u8
+Logo: https://i.imgur.com/RUSX0rX.png
 Source: https://iptv-org.github.io/iptv/countries/pt.m3u
 --------------------------------------------------
 Name: РТР Планета Евро
@@ -1761,16 +1766,6 @@ Group: Legislative
 Name: ARTV Canal Parlamento (720p) [Not 24/7]
 URL: https://playout172.livextend.cloud/liveiframe/_definst_/liveartvabr/playlist.m3u8
 Logo: https://i.imgur.com/y00t9hr.png
-Source: https://iptv-org.github.io/iptv/countries/pt.m3u
---------------------------------------------------
-Name: EbS (1080p)
-URL: https://streams.prd.commavservices.eu/live/ebs/index.m3u8
-Logo: https://i.imgur.com/DIIRPNN.png
-Source: https://iptv-org.github.io/iptv/countries/pt.m3u
---------------------------------------------------
-Name: EbS+ (1080p)
-URL: https://streams.prd.commavservices.eu/live/ebsplus/index.m3u8
-Logo: https://i.imgur.com/7V012zQ.png
 Source: https://iptv-org.github.io/iptv/countries/pt.m3u
 --------------------------------------------------
 
@@ -3396,11 +3391,6 @@ URL: https://cdn3.wowza.com/1/T2NXeHF6UGlGbHY3/WFluRldQ/hls/live/playlist.m3u8
 Logo: https://i.imgur.com/sua70RO.png
 Source: https://iptv-org.github.io/iptv/countries/pt.m3u
 --------------------------------------------------
-Name: iesTV (1080p)
-URL: https://iescc.ddns.net/iestv/stream.m3u8
-Logo: https://i.imgur.com/zYj5pU5.png
-Source: https://iptv-org.github.io/iptv/countries/pt.m3u
---------------------------------------------------
 Name: KTO (404p) [Not 24/7]
 URL: https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8
 Logo: https://i.imgur.com/EY6TsdV.png
@@ -4237,7 +4227,7 @@ Logo: https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC.png
 Source: https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u
 --------------------------------------------------
 Name: TVI
-URL: https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMjUgNDo3OjI2IFBNJmhhc2hfdmFsdWU9ejdvTGdmZ0M0SjhaTFpKNnBCc3A3dz09JnZhbGlkbWludXRlcz0xNDQwJmlkPTJiOTdiOGE0LTFmNDktNDc4YS1iMDgwLTlhYWM4ZTliMzg3NA==/
+URL: https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMC8yMDI1IDEyOjM2OjM1IEFNJmhhc2hfdmFsdWU9aDVsNFA1cE5aZ0lrbjF2OGkvT3R1dz09JnZhbGlkbWludXRlcz0xNDQwJmlkPWE4YjlkN2RlLWIwZmQtNDUxOC04M2VlLTRjNDA2NTczZTI3Nw==/
 Logo: https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI.png
 Source: https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u
 --------------------------------------------------
@@ -4252,7 +4242,7 @@ Logo: https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/SIC-Notícias.
 Source: https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u
 --------------------------------------------------
 Name: CNN Portugal
-URL: https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMjUgNDo3OjI3IFBNJmhhc2hfdmFsdWU9RHZhaG5uN3RUeGp6bEJ6dnVrRndPZz09JnZhbGlkbWludXRlcz0xNDQwJmlkPWVkYzRjODY2LTBhN2YtNDVmYi04ZDQyLTY3YWI1OTFmYzMyOQ==/
+URL: https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMC8yMDI1IDEyOjM2OjM2IEFNJmhhc2hfdmFsdWU9aEpVTTJxVndMbE1Zc0EycDM0dDdLdz09JnZhbGlkbWludXRlcz0xNDQwJmlkPWJmNTcyNTA2LWE2MzYtNDVhYy05OWNkLTYxZTVjNjM2ZWU2MA==/
 Logo: https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png
 Source: https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u
 --------------------------------------------------
@@ -4297,7 +4287,7 @@ Logo: https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/RTP-Internacio
 Source: https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u
 --------------------------------------------------
 Name: TVI Internacional
-URL: https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMjUgNDo3OjI4IFBNJmhhc2hfdmFsdWU9WkxkZGY2aitMWmdSME8wN1J0T2dCZz09JnZhbGlkbWludXRlcz0xNDQwJmlkPWNkMmQxOTFhLTk5YWMtNGUzNi05YTY3LWNhZDlmMWE5YThlMg==/
+URL: https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMC8yMDI1IDEyOjM2OjM2IEFNJmhhc2hfdmFsdWU9bFBOZU5CdHhmNGxQaUc0dGtaczJWQT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTBiZmY1M2U0LTQ2MDUtNGJkYi1hYWRiLTcyZDUzZTg5ZWE3ZA==/
 Logo: https://github.com/LITUATUI/M3UPT/raw/main/logos/TVI-Internacional.png
 Source: https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u
 --------------------------------------------------
@@ -4979,7 +4969,7 @@ Logo: https://images-0.rakuten.tv/storage/global-live-channel/translation/artwor
 Source: https://iptv-org.github.io/iptv/countries/pt.m3u
 --------------------------------------------------
 Name: Monster Jam
-URL: http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65c33f833ef47d00084f47ad/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1e7521-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8a8e6e9e-1da8-4436-9538-aa678b671447
+URL: http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65bcc9c8d77d450008b34c6b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b17f4-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=4ef65ab7-424b-4423-93e5-e94da98d875f
 Logo: https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/0734ee9d-7417-4f53-a092-e29d6e8146ee-width200-quality90.jpeg
 Source: https://iptv-org.github.io/iptv/countries/pt.m3u
 --------------------------------------------------
@@ -5006,11 +4996,6 @@ Source: https://iptv-org.github.io/iptv/countries/pt.m3u
 Name: RTL HD
 URL: https://strm.hdtvizlecanli.com/live/rtl.m3u8
 Logo: https://i.imgur.com/94K94k2.png
-Source: https://iptv-org.github.io/iptv/countries/pt.m3u
---------------------------------------------------
-Name: RTL Zwei (1080p)
-URL: http://178.219.128.68:64888/RTL2
-Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/RTLZWEI_Logo_2019.svg/512px-RTLZWEI_Logo_2019.svg.png
 Source: https://iptv-org.github.io/iptv/countries/pt.m3u
 --------------------------------------------------
 Name: Shades of Black

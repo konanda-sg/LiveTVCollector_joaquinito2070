@@ -1,5 +1,5 @@
 {
-  "date": "2025-08-09 21:50:11",
+  "date": "2025-08-10 07:12:14",
   "channels": {
     "TV": [
       {
@@ -28,7 +28,7 @@
         "logo": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI.png",
         "group": "TV",
         "source": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u",
-        "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMjUgNDo3OjI2IFBNJmhhc2hfdmFsdWU9ejdvTGdmZ0M0SjhaTFpKNnBCc3A3dz09JnZhbGlkbWludXRlcz0xNDQwJmlkPTJiOTdiOGE0LTFmNDktNDc4YS1iMDgwLTlhYWM4ZTliMzg3NA==/"
+        "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMC8yMDI1IDEyOjM2OjM1IEFNJmhhc2hfdmFsdWU9aDVsNFA1cE5aZ0lrbjF2OGkvT3R1dz09JnZhbGlkbWludXRlcz0xNDQwJmlkPWE4YjlkN2RlLWIwZmQtNDUxOC04M2VlLTRjNDA2NTczZTI3Nw==/"
       },
       {
         "name": "RTP 3",
@@ -49,7 +49,7 @@
         "logo": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png",
         "group": "TV",
         "source": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u",
-        "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMjUgNDo3OjI3IFBNJmhhc2hfdmFsdWU9RHZhaG5uN3RUeGp6bEJ6dnVrRndPZz09JnZhbGlkbWludXRlcz0xNDQwJmlkPWVkYzRjODY2LTBhN2YtNDVmYi04ZDQyLTY3YWI1OTFmYzMyOQ==/"
+        "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMC8yMDI1IDEyOjM2OjM2IEFNJmhhc2hfdmFsdWU9aEpVTTJxVndMbE1Zc0EycDM0dDdLdz09JnZhbGlkbWludXRlcz0xNDQwJmlkPWJmNTcyNTA2LWE2MzYtNDVhYy05OWNkLTYxZTVjNjM2ZWU2MA==/"
       },
       {
         "name": "CNN Brasil",
@@ -112,7 +112,7 @@
         "logo": "https://github.com/LITUATUI/M3UPT/raw/main/logos/TVI-Internacional.png",
         "group": "TV",
         "source": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u",
-        "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMjUgNDo3OjI4IFBNJmhhc2hfdmFsdWU9WkxkZGY2aitMWmdSME8wN1J0T2dCZz09JnZhbGlkbWludXRlcz0xNDQwJmlkPWNkMmQxOTFhLTk5YWMtNGUzNi05YTY3LWNhZDlmMWE5YThlMg==/"
+        "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMC8yMDI1IDEyOjM2OjM2IEFNJmhhc2hfdmFsdWU9bFBOZU5CdHhmNGxQaUc0dGtaczJWQT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTBiZmY1M2U0LTQ2MDUtNGJkYi1hYWRiLTcyZDUzZTg5ZWE3ZA==/"
       },
       {
         "name": "TVI África",
@@ -6542,13 +6542,6 @@
         "url": "https://cdn3.wowza.com/1/T2NXeHF6UGlGbHY3/WFluRldQ/hls/live/playlist.m3u8"
       },
       {
-        "name": "iesTV (1080p)",
-        "logo": "https://i.imgur.com/zYj5pU5.png",
-        "group": "Religious",
-        "source": "https://iptv-org.github.io/iptv/countries/pt.m3u",
-        "url": "https://iescc.ddns.net/iestv/stream.m3u8"
-      },
-      {
         "name": "KTO (404p) [Not 24/7]",
         "logo": "https://i.imgur.com/EY6TsdV.png",
         "group": "Religious",
@@ -6661,20 +6654,6 @@
         "group": "Legislative",
         "source": "https://iptv-org.github.io/iptv/countries/pt.m3u",
         "url": "https://playout172.livextend.cloud/liveiframe/_definst_/liveartvabr/playlist.m3u8"
-      },
-      {
-        "name": "EbS (1080p)",
-        "logo": "https://i.imgur.com/DIIRPNN.png",
-        "group": "Legislative",
-        "source": "https://iptv-org.github.io/iptv/countries/pt.m3u",
-        "url": "https://streams.prd.commavservices.eu/live/ebs/index.m3u8"
-      },
-      {
-        "name": "EbS+ (1080p)",
-        "logo": "https://i.imgur.com/7V012zQ.png",
-        "group": "Legislative",
-        "source": "https://iptv-org.github.io/iptv/countries/pt.m3u",
-        "url": "https://streams.prd.commavservices.eu/live/ebsplus/index.m3u8"
       }
     ],
     "Undefined": [
@@ -6718,7 +6697,7 @@
         "logo": "https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/0734ee9d-7417-4f53-a092-e29d6e8146ee-width200-quality90.jpeg",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/pt.m3u",
-        "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65c33f833ef47d00084f47ad/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1e7521-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8a8e6e9e-1da8-4436-9538-aa678b671447"
+        "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65bcc9c8d77d450008b34c6b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b17f4-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=4ef65ab7-424b-4423-93e5-e94da98d875f"
       },
       {
         "name": "People Are Awesome (720p)",
@@ -6754,13 +6733,6 @@
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/pt.m3u",
         "url": "https://strm.hdtvizlecanli.com/live/rtl.m3u8"
-      },
-      {
-        "name": "RTL Zwei (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/RTLZWEI_Logo_2019.svg/512px-RTLZWEI_Logo_2019.svg.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/pt.m3u",
-        "url": "http://178.219.128.68:64888/RTL2"
       },
       {
         "name": "Shades of Black",
@@ -6940,15 +6912,6 @@
         "url": "https://stmv1.srvif.com/npc/npc/playlist.m3u8"
       }
     ],
-    "Culture": [
-      {
-        "name": "Museum TV English (1080p)",
-        "logo": "https://i.imgur.com/WbjURLo.png",
-        "group": "Culture",
-        "source": "https://iptv-org.github.io/iptv/countries/pt.m3u",
-        "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtven-xiaomi/playlist.m3u8"
-      }
-    ],
     "Outdoor;Travel": [
       {
         "name": "Peer TV Alto Adige (1280p)",
@@ -7016,11 +6979,11 @@
         "url": "https://streaming-live.rtp.pt/liverepeater/smil:rtpmem.smil/playlist.m3u8"
       },
       {
-        "name": "TGRT Europe (1080p)",
+        "name": "TGRT Europe (576p)",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TGRT_EU.png/512px-TGRT_EU.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/pt.m3u",
-        "url": "https://canli.tgrteu.com/tgrteu.m3u8"
+        "url": "https://tv.ensonhaber.com/tv/tr/tgrteu/index.m3u8"
       },
       {
         "name": "TV5Monde Europe (1080p) [Geo-blocked]",
@@ -7035,6 +6998,13 @@
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/pt.m3u",
         "url": "https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tvi.m3u8"
+      },
+      {
+        "name": "Первый канал Европа",
+        "logo": "https://i.imgur.com/RUSX0rX.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/countries/pt.m3u",
+        "url": "https://streaming.thestream.cyou/live/210.m3u8"
       },
       {
         "name": "РТР Планета Евро",
@@ -7060,6 +7030,15 @@
         "group": "Series",
         "source": "https://iptv-org.github.io/iptv/countries/pt.m3u",
         "url": "https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8"
+      }
+    ],
+    "Culture": [
+      {
+        "name": "НТВ Мир",
+        "logo": "https://i.imgur.com/pUcV46F.png",
+        "group": "Culture",
+        "source": "https://iptv-org.github.io/iptv/countries/pt.m3u",
+        "url": "https://streaming.thestream.cyou/live/213.m3u8"
       }
     ],
     "Entertainment": [

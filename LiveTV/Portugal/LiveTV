@@ -20,7 +20,7 @@
   {
     "name": "TVI",
     "type": "TV",
-    "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMjUgNDo3OjI2IFBNJmhhc2hfdmFsdWU9ejdvTGdmZ0M0SjhaTFpKNnBCc3A3dz09JnZhbGlkbWludXRlcz0xNDQwJmlkPTJiOTdiOGE0LTFmNDktNDc4YS1iMDgwLTlhYWM4ZTliMzg3NA==/",
+    "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMC8yMDI1IDEyOjM2OjM1IEFNJmhhc2hfdmFsdWU9aDVsNFA1cE5aZ0lrbjF2OGkvT3R1dz09JnZhbGlkbWludXRlcz0xNDQwJmlkPWE4YjlkN2RlLWIwZmQtNDUxOC04M2VlLTRjNDA2NTczZTI3Nw==/",
     "img": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI.png"
   },
   {
@@ -38,7 +38,7 @@
   {
     "name": "CNN Portugal",
     "type": "TV",
-    "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMjUgNDo3OjI3IFBNJmhhc2hfdmFsdWU9RHZhaG5uN3RUeGp6bEJ6dnVrRndPZz09JnZhbGlkbWludXRlcz0xNDQwJmlkPWVkYzRjODY2LTBhN2YtNDVmYi04ZDQyLTY3YWI1OTFmYzMyOQ==/",
+    "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMC8yMDI1IDEyOjM2OjM2IEFNJmhhc2hfdmFsdWU9aEpVTTJxVndMbE1Zc0EycDM0dDdLdz09JnZhbGlkbWludXRlcz0xNDQwJmlkPWJmNTcyNTA2LWE2MzYtNDVhYy05OWNkLTYxZTVjNjM2ZWU2MA==/",
     "img": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png"
   },
   {
@@ -92,7 +92,7 @@
   {
     "name": "TVI Internacional",
     "type": "TV",
-    "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC85LzIwMjUgNDo3OjI4IFBNJmhhc2hfdmFsdWU9WkxkZGY2aitMWmdSME8wN1J0T2dCZz09JnZhbGlkbWludXRlcz0xNDQwJmlkPWNkMmQxOTFhLTk5YWMtNGUzNi05YTY3LWNhZDlmMWE5YThlMg==/",
+    "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xMC8yMDI1IDEyOjM2OjM2IEFNJmhhc2hfdmFsdWU9bFBOZU5CdHhmNGxQaUc0dGtaczJWQT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTBiZmY1M2U0LTQ2MDUtNGJkYi1hYWRiLTcyZDUzZTg5ZWE3ZA==/",
     "img": "https://github.com/LITUATUI/M3UPT/raw/main/logos/TVI-Internacional.png"
   },
   {
@@ -5586,12 +5586,6 @@
     "img": "https://i.imgur.com/sua70RO.png"
   },
   {
-    "name": "iesTV (1080p)",
-    "type": "Religious",
-    "url": "https://iescc.ddns.net/iestv/stream.m3u8",
-    "img": "https://i.imgur.com/zYj5pU5.png"
-  },
-  {
     "name": "KTO (404p) [Not 24/7]",
     "type": "Religious",
     "url": "https://live-kto.akamaized.net/hls/live/2033284/KTO/master.m3u8",
@@ -5688,18 +5682,6 @@
     "img": "https://i.imgur.com/y00t9hr.png"
   },
   {
-    "name": "EbS (1080p)",
-    "type": "Legislative",
-    "url": "https://streams.prd.commavservices.eu/live/ebs/index.m3u8",
-    "img": "https://i.imgur.com/DIIRPNN.png"
-  },
-  {
-    "name": "EbS+ (1080p)",
-    "type": "Legislative",
-    "url": "https://streams.prd.commavservices.eu/live/ebsplus/index.m3u8",
-    "img": "https://i.imgur.com/7V012zQ.png"
-  },
-  {
     "name": "Bigtime (720p)",
     "type": "Undefined",
     "url": "https://103f01c3ff79408e83c9212f8a374ecc.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/RakutenTV-eu_BjgtjmeDarmoweFilmy/playlist.m3u8",
@@ -5732,7 +5714,7 @@
   {
     "name": "Monster Jam",
     "type": "Undefined",
-    "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65c33f833ef47d00084f47ad/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1e7521-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8a8e6e9e-1da8-4436-9538-aa678b671447",
+    "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65bcc9c8d77d450008b34c6b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b17f4-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=4ef65ab7-424b-4423-93e5-e94da98d875f",
     "img": "https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/0734ee9d-7417-4f53-a092-e29d6e8146ee-width200-quality90.jpeg"
   },
   {
@@ -5764,12 +5746,6 @@
     "type": "Undefined",
     "url": "https://strm.hdtvizlecanli.com/live/rtl.m3u8",
     "img": "https://i.imgur.com/94K94k2.png"
-  },
-  {
-    "name": "RTL Zwei (1080p)",
-    "type": "Undefined",
-    "url": "http://178.219.128.68:64888/RTL2",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/RTLZWEI_Logo_2019.svg/512px-RTLZWEI_Logo_2019.svg.png"
   },
   {
     "name": "Shades of Black",
@@ -5910,12 +5886,6 @@
     "img": "https://i.imgur.com/mw1lYWE.png"
   },
   {
-    "name": "Museum TV English (1080p)",
-    "type": "Culture",
-    "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtven-xiaomi/playlist.m3u8",
-    "img": "https://i.imgur.com/WbjURLo.png"
-  },
-  {
     "name": "Peer TV Alto Adige (1280p)",
     "type": "Outdoor;Travel",
     "url": "https://iptv.peer.biz/live/peertv-it.m3u8",
@@ -5970,9 +5940,9 @@
     "img": "https://i.imgur.com/jCpfdiJ.png"
   },
   {
-    "name": "TGRT Europe (1080p)",
+    "name": "TGRT Europe (576p)",
     "type": "General",
-    "url": "https://canli.tgrteu.com/tgrteu.m3u8",
+    "url": "https://tv.ensonhaber.com/tv/tr/tgrteu/index.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TGRT_EU.png/512px-TGRT_EU.png"
   },
   {
@@ -5986,6 +5956,12 @@
     "type": "General",
     "url": "https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tvi.m3u8",
     "img": "https://i.imgur.com/H8Tgl7m.png"
+  },
+  {
+    "name": "Первый канал Европа",
+    "type": "General",
+    "url": "https://streaming.thestream.cyou/live/210.m3u8",
+    "img": "https://i.imgur.com/RUSX0rX.png"
   },
   {
     "name": "РТР Планета Евро",
@@ -6004,6 +5980,12 @@
     "type": "Series",
     "url": "https://video-auth2.iol.pt/live_tvi_ficcao/live_tvi_ficcao/edge_servers/tvificcao-720p/playlist.m3u8",
     "img": "https://cdn.iol.pt/img/logostvi/branco/tvificcao.png"
+  },
+  {
+    "name": "НТВ Мир",
+    "type": "Culture",
+    "url": "https://streaming.thestream.cyou/live/213.m3u8",
+    "img": "https://i.imgur.com/pUcV46F.png"
   },
   {
     "name": "Перец International",
