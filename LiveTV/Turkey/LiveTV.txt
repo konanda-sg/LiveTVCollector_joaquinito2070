@@ -12272,14 +12272,14 @@ URL: http://185.234.111.229:8000/play/a06i
 Logo: https://i.imgur.com/9EruWIQ.png
 Source: https://iptv-org.github.io/iptv/countries/tr.m3u
 --------------------------------------------------
-Name: Museum TV English (1080p)
-URL: https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtven-xiaomi/playlist.m3u8
-Logo: https://i.imgur.com/WbjURLo.png
-Source: https://iptv-org.github.io/iptv/countries/tr.m3u
---------------------------------------------------
 Name: Natural TV (720p) [Not 24/7]
 URL: http://broadcasttr.com:1935/naturaltv/bant1/playlist.m3u8
 Logo: https://i.imgur.com/rfcJ674.png
+Source: https://iptv-org.github.io/iptv/countries/tr.m3u
+--------------------------------------------------
+Name: НТВ Мир
+URL: https://streaming.thestream.cyou/live/213.m3u8
+Logo: https://i.imgur.com/pUcV46F.png
 Source: https://iptv-org.github.io/iptv/countries/tr.m3u
 --------------------------------------------------
 
@@ -12690,8 +12690,8 @@ URL: https://tv.ensonhaber.com/tv/tr/tgrtbelgesel/index.m3u8
 Logo: https://i.imgur.com/VwWTnf0.png
 Source: https://iptv-org.github.io/iptv/countries/tr.m3u
 --------------------------------------------------
-Name: TGRT Europe (1080p)
-URL: https://canli.tgrteu.com/tgrteu.m3u8
+Name: TGRT Europe (576p)
+URL: https://tv.ensonhaber.com/tv/tr/tgrteu/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/TGRT_EU.png/512px-TGRT_EU.png
 Source: https://iptv-org.github.io/iptv/countries/tr.m3u
 --------------------------------------------------
@@ -12718,6 +12718,11 @@ Source: https://iptv-org.github.io/iptv/countries/tr.m3u
 Name: Yol TV (720p)
 URL: https://stream.yol.tv:9443/medialive/yol.m3u8
 Logo: https://i.imgur.com/rTBX6lS.png
+Source: https://iptv-org.github.io/iptv/countries/tr.m3u
+--------------------------------------------------
+Name: Первый канал Европа
+URL: https://streaming.thestream.cyou/live/210.m3u8
+Logo: https://i.imgur.com/RUSX0rX.png
 Source: https://iptv-org.github.io/iptv/countries/tr.m3u
 --------------------------------------------------
 Name: РТР Планета Евро
@@ -13401,7 +13406,7 @@ Logo: https://i.imgur.com/3CWV8bS.png
 Source: https://iptv-org.github.io/iptv/countries/tr.m3u
 --------------------------------------------------
 Name: Monster Jam
-URL: http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65c33f833ef47d00084f47ad/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1e7521-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8a8e6e9e-1da8-4436-9538-aa678b671447
+URL: http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65bcc9c8d77d450008b34c6b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b17f4-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=4ef65ab7-424b-4423-93e5-e94da98d875f
 Logo: https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/0734ee9d-7417-4f53-a092-e29d6e8146ee-width200-quality90.jpeg
 Source: https://iptv-org.github.io/iptv/countries/tr.m3u
 --------------------------------------------------
@@ -13458,11 +13463,6 @@ Source: https://iptv-org.github.io/iptv/countries/tr.m3u
 Name: RTL HD
 URL: https://strm.hdtvizlecanli.com/live/rtl.m3u8
 Logo: https://i.imgur.com/94K94k2.png
-Source: https://iptv-org.github.io/iptv/countries/tr.m3u
---------------------------------------------------
-Name: RTL Zwei (1080p)
-URL: http://178.219.128.68:64888/RTL2
-Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/RTLZWEI_Logo_2019.svg/512px-RTLZWEI_Logo_2019.svg.png
 Source: https://iptv-org.github.io/iptv/countries/tr.m3u
 --------------------------------------------------
 Name: Rumeli TV (576p)
