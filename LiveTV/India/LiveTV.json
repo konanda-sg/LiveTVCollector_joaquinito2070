@@ -1,5 +1,5 @@
 {
-  "date": "2025-08-09 21:51:00",
+  "date": "2025-08-10 07:15:01",
   "channels": {
     "News": [
       {
@@ -24,11 +24,11 @@
         "url": "https://cdn-1.pishow.tv/live/1211/master.m3u8"
       },
       {
-        "name": "A1 TV Rajasthan (720p)",
+        "name": "A1 TV Rajasthan (576p)",
         "logo": "https://i.imgur.com/XJA3bh1.png",
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "https://5b48d7e1b4bce.streamlock.net/myapp/a1live/playlist.m3u8"
+        "url": "https://yuppftalive.akamaized.net/080823/a1tv/playlist.m3u8"
       },
       {
         "name": "Aaj Tak (404p)",
@@ -66,11 +66,11 @@
         "url": "https://abplivetv.akamaized.net/hls/live/2043013/ganga/master.m3u8"
       },
       {
-        "name": "ABP Majha (720p)",
+        "name": "ABP Majha (360p)",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/ABP_Majha_logo.svg/512px-ABP_Majha_logo.svg.png",
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "https://abplivetv.akamaized.net/hls/live/2043011/manjha/master.m3u8"
+        "url": "https://in1.sunilprasad.com.np/yuppLive/abp-majha/master.m3u8"
       },
       {
         "name": "ABP News (720p)",
@@ -87,20 +87,6 @@
         "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/abp-sanjha/master.m3u8"
       },
       {
-        "name": "AJ Net News [Not 24/7]",
-        "logo": "https://i.imgur.com/DT9VB1Q.png",
-        "group": "News",
-        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "http://rtmp.logicwebs.in:1935/live/ajnet/playlist.m3u8"
-      },
-      {
-        "name": "AKD Calcutta News (540p) [Geo-blocked]",
-        "logo": "https://i.imgur.com/7Kl95WA.png",
-        "group": "News",
-        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "https://d39iawgzv3h0yo.cloudfront.net/out/v1/1ef4344a3b4a41908915d58ac7bd5e23/index.m3u8"
-      },
-      {
         "name": "ANN News (720p)",
         "logo": "https://asianewsnetwork.net/wp-content/uploads/2020/03/cropped-LOGO-NEW.png",
         "group": "News",
@@ -112,7 +98,7 @@
         "logo": "https://i.imgur.com/RhkbhZD.png",
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "https://cdn.smartstream.video/smartstream-us/apnnews/apnnews/chunks.m3u8"
+        "url": "https://yuppftalive.akamaized.net/080823/apnnews/playlist.m3u8"
       },
       {
         "name": "Argus News (1080p)",
@@ -143,11 +129,25 @@
         "url": "https://vidcdn.vidgyor.com/ptm-origin/aslive/playlist.m3u8"
       },
       {
+        "name": "Awaaz India TV (720p)",
+        "logo": "https://i.ytimg.com/vi/8BzmlfZm2xU/hqdefault.jpg",
+        "group": "News",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "http://awaazindia.livebox.co.in/AwaazIndaTVhls/Live.m3u8"
+      },
+      {
         "name": "Bada Khabar (720p)",
         "logo": "https://i.imgur.com/XiwygDJ.png",
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "https://badakhabar.livebox.co.in/Badakhabarhls/live.m3u8"
+      },
+      {
+        "name": "Bansal News (576p)",
+        "logo": "https://i.imgur.com/8QL8SiB.png",
+        "group": "News",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "https://yuppftalive.akamaized.net/080823/bansalnews/playlist.m3u8"
       },
       {
         "name": "BBC News Asia Pacific (1080p)",
@@ -164,11 +164,11 @@
         "url": "https://legitpro.co.in/bharat24live/bharat24live/index.m3u8"
       },
       {
-        "name": "Bharat Samachar TV (360p)",
+        "name": "Bharat Samachar TV (576p)",
         "logo": "https://i.imgur.com/x5f8E3K.png",
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "https://idvd.multitvsolution.com/idvo/bharatsamachar.m3u8"
+        "url": "https://yuppftalive.akamaized.net/080823/bharatsamachar/playlist.m3u8"
       },
       {
         "name": "BIG TV (720p)",
@@ -190,6 +190,13 @@
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "https://5a1178b42cc03.streamlock.net/8174/8174/playlist.m3u8"
+      },
+      {
+        "name": "CTVN AKD Plus (576p)",
+        "logo": "https://i.imgur.com/QThBcw4.png",
+        "group": "News",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "https://yuppftalive.akamaized.net/080823/ctvnakdplus/playlist.m3u8"
       },
       {
         "name": "CVR English (720p)",
@@ -311,11 +318,11 @@
         "url": "https://cdn-1.pishow.tv/live/280/master.m3u8"
       },
       {
-        "name": "Hornbill TV (720p)",
+        "name": "Hornbill TV (576p)",
         "logo": "https://i.imgur.com/7Y4vQnG.png",
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "http://172.104.191.216:1935/hornbilltv/hornbilltv/playlist.m3u8"
+        "url": "https://yuppftalive.akamaized.net/080823/hornbilltv/playlist.m3u8"
       },
       {
         "name": "IBC 24 (720p)",
@@ -388,6 +395,13 @@
         "url": "https://poclive-indiatvnews.akamaized.net/hlslive/Admin/px0219297/live/digital/master.m3u8"
       },
       {
+        "name": "India Voice (576p)",
+        "logo": "https://i.imgur.com/CwDznyQ.png",
+        "group": "News",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "https://yuppftalive.akamaized.net/080823/indiavoice/playlist.m3u8"
+      },
+      {
         "name": "INews (720p)",
         "logo": "https://i.imgur.com/IV1O11i.png",
         "group": "News",
@@ -414,6 +428,13 @@
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "https://live.wmncdn.net/jantatv/live.stream/index.m3u8"
+      },
+      {
+        "name": "Jantantra TV (576p)",
+        "logo": "https://i.imgur.com/IneOiic.png",
+        "group": "News",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "https://yuppftalive.akamaized.net/080823/jantantratv/playlist.m3u8"
       },
       {
         "name": "JK 24x7 News (720p)",
@@ -444,25 +465,25 @@
         "url": "http://103.199.160.85/Content/kalaignarseithikal/Live/Channel(KalaignarSeithikal)/index.m3u8"
       },
       {
-        "name": "Kalinga TV (864p) [Not 24/7]",
+        "name": "Kalinga TV (576p) [Not 24/7]",
         "logo": "https://i.imgur.com/zdAWlRo.png",
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "https://live.mycast.in/kalingatv/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8"
+        "url": "https://yuppftalive.akamaized.net/080823/kalingatv/playlist.m3u8"
       },
       {
         "name": "Kanak News (720p) [Not 24/7]",
         "logo": "https://i.imgur.com/OzFMOKH.png",
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "https://live.kanaknews.com:4443/live/stream/playlist.m3u8"
+        "url": "https://yuppftalive.akamaized.net/080823/kanaknews/playlist.m3u8"
       },
       {
-        "name": "Kashish News (720p)",
+        "name": "Kashish News (576p)",
         "logo": "https://i.imgur.com/qfINs2r.png",
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "https://kashishnews.livebox.co.in/kashishnewshls/live.m3u8"
+        "url": "https://yuppftalive.akamaized.net/080823/kashishnews/playlist.m3u8"
       },
       {
         "name": "Khabar Fast (720p) [Not 24/7]",
@@ -472,11 +493,11 @@
         "url": "https://live.gbtechnology.in/khabarfast/khabarfast/index.m3u8"
       },
       {
-        "name": "Khabrain Abhi Tak (480p) [Not 24/7]",
+        "name": "Khabrain Abhi Tak (576p) [Not 24/7]",
         "logo": "https://i.imgur.com/LIrolUQ.png",
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "https://vidcdn.vidgyor.com/kat-origin/liveabr/playlist.m3u8"
+        "url": "https://yuppftalive.akamaized.net/080823/khabrainabhitak/playlist.m3u8"
       },
       {
         "name": "Living India News (1080p)",
@@ -519,6 +540,13 @@
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "https://mmtvnews1.akamaized.net/v1/master/673630b269b766886555eebfddd4f27f3de3ab50/mmtvNewsCampaign1/index.m3u8"
+      },
+      {
+        "name": "Mantavya News (576p)",
+        "logo": "https://mantavya-news-img.b-cdn.net/wp-content/uploads/2022/11/logo.png",
+        "group": "News",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "https://yuppftalive.akamaized.net/080823/mantavya/playlist.m3u8"
       },
       {
         "name": "Mathrubhumi News (576p) [Not 24/7]",
@@ -575,6 +603,13 @@
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8"
+      },
+      {
+        "name": "News 1 India (576p)",
+        "logo": "https://i.imgur.com/J3EWn2J.png",
+        "group": "News",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "https://yuppftalive.akamaized.net/080823/news1india/playlist.m3u8"
       },
       {
         "name": "News 1st (576p) [Not 24/7]",
@@ -682,11 +717,11 @@
         "url": "https://livelegitpro.in/hls2/newstime/index.m3u8"
       },
       {
-        "name": "Pratidin Time (720p) [Not 24/7]",
+        "name": "Pratidin Time (576p) [Not 24/7]",
         "logo": "https://i.imgur.com/2kzS7y0.png",
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "https://5b48d7e1b4bce.streamlock.net/pratidintime/pratidintime/playlist.m3u8"
+        "url": "https://yuppftalive.akamaized.net/080823/protidintime/playlist.m3u8"
       },
       {
         "name": "Prudent Media (1080p)",
@@ -941,13 +976,6 @@
         "group": "Music",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/23886666-8fc5-470f-aab1-bd637ed607b1/3.m3u8"
-      },
-      {
-        "name": "Adipoli (1080p)",
-        "logo": "https://i.imgur.com/K62w3Hu.png",
-        "group": "Music",
-        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "https://live.hungama.com/linear/adipoli/playlist.m3u8"
       },
       {
         "name": "Artist Aloud (1080p) [Not 24/7]",
@@ -1577,6 +1605,13 @@
         "url": "http://131.153.22.8:1935/NCV/ncvstream/playlist.m3u8"
       },
       {
+        "name": "Nepal 1 (576p)",
+        "logo": "https://i.imgur.com/Pgg8dQ2.png",
+        "group": "Entertainment",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "https://yuppftalive.akamaized.net/080823/nepal1/playlist.m3u8"
+      },
+      {
         "name": "One TV (720p)",
         "logo": "https://i.imgur.com/6Jh8LRI.png",
         "group": "Entertainment",
@@ -1971,64 +2006,6 @@
         "url": "https://server.zillarbarta.com/zbbhakti/index.m3u8"
       }
     ],
-    "Kids": [
-      {
-        "name": "Akaram Kidz (460p) [Not 24/7]",
-        "logo": "https://i.imgur.com/ENImp3R.png",
-        "group": "Kids",
-        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "http://akaram.zecast.net/akaram-live/akaramkidz/index.m3u8"
-      },
-      {
-        "name": "Disney Channel (576p) [Not 24/7]",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg",
-        "group": "Kids",
-        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "http://116.90.120.149:8000/play/a0bx/index.m3u8"
-      },
-      {
-        "name": "Disney Junior (576p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/2019_Disney_Junior_logo.svg",
-        "group": "Kids",
-        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "http://116.90.120.149:8000/play/a0b3/index.m3u8"
-      },
-      {
-        "name": "Gubbare (1080p)",
-        "logo": "https://i.imgur.com/Bvbf9o7.png",
-        "group": "Kids",
-        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "https://epiconvh.akamaized.net/live/gubbare/master.m3u8"
-      },
-      {
-        "name": "Nick HD+ (1080p) [Not 24/7]",
-        "logo": "https://i.imgur.com/nJPbTet.png",
-        "group": "Kids",
-        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "http://116.90.120.149:8000/play/a0cw/index.m3u8"
-      },
-      {
-        "name": "Nick Jr India (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/512px-Nick_Jr._logo_2009.svg.png",
-        "group": "Kids",
-        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "https://prod-sports-north-gm.jiocinema.com/bpk-tv/Nick_Junior_voot_MOB/Fallback/index.m3u8"
-      },
-      {
-        "name": "Nickelodeon Sonic Hindi (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Nickelodeon_Sonic_logo.png/512px-Nickelodeon_Sonic_logo.png",
-        "group": "Kids",
-        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "https://prod-sports-north-gm.jiocinema.com/bpk-tv/Sonic_Nickelodeon_voot_MOB/Fallback/index.m3u8"
-      },
-      {
-        "name": "ZB Cartoon (1080p)",
-        "logo": "https://i.imgur.com/BbFNpMr.jpeg",
-        "group": "Kids",
-        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "https://server.zillarbarta.com/zbcatun/video.m3u8"
-      }
-    ],
     "Animation": [
       {
         "name": "Animax [Geo-blocked]",
@@ -2066,6 +2043,13 @@
         "group": "Lifestyle",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "https://yuppftalive.akamaized.net/080823/kappatv/playlist.m3u8"
+      },
+      {
+        "name": "NDTV Good Times (1080p)",
+        "logo": "https://i.imgur.com/7cruYvo.png",
+        "group": "Lifestyle",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "https://amg01448-samsungin-ndtvgoodtimes-samsungin-ad-gp.amagi.tv/playlist/amg01448-samsungin-ndtvgoodtimes-samsungin/playlist.m3u8"
       }
     ],
     "Undefined": [
@@ -2089,6 +2073,13 @@
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/5f0e3651-3393-41d2-a137-a4513be8f3d5/2.m3u8"
+      },
+      {
+        "name": "Disha TV (576p)",
+        "logo": "https://i.imgur.com/U4W0Rw8.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "https://yuppftalive.akamaized.net/080823/dishatv/playlist.m3u8"
       },
       {
         "name": "ET Now Swadesh (720p)",
@@ -2236,6 +2227,13 @@
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/2839e3d1e0f84a2e821c1708d5fdfdf0/index.m3u8"
+      },
+      {
+        "name": "Rengoni (576p)",
+        "logo": "https://i.imgur.com/Ss1OBn1.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "https://yuppftalive.akamaized.net/080823/rengonitv/playlist.m3u8"
       },
       {
         "name": "Republic Bangla (1080p)",
@@ -2390,6 +2388,13 @@
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "https://tv.bdixtv24.com/toffee/live.php?e=.m3u8&id=ea02096b0fbc"
+      },
+      {
+        "name": "Subharti TV (576p)",
+        "logo": "https://i.imgur.com/9hdNFtt.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "https://yuppftalive.akamaized.net/080823/subhartitv/playlist.m3u8"
       },
       {
         "name": "Subhavaartha TV (720p)",
@@ -2572,6 +2577,13 @@
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "https://d3vy3je10jkn7h.cloudfront.net/out/v1/f610383ba97c47e3b04d2e1593ff8549/index_4.m3u8"
+      },
+      {
+        "name": "Zee Punjab Haryana Himachal (720p)",
+        "logo": "https://i.imgur.com/wnALPbu.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "https://vg-zeefta.akamaized.net/ptnr-yupptv/title-zeepunjabharyanahima/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/65eed269-2f3a-4dd0-ac89-d18959af28e3/main.m3u8"
       },
       {
         "name": "Zee Rajasthan (720p)",
@@ -2865,6 +2877,13 @@
         "url": "https://5a1178b42cc03.streamlock.net/8068/8068/playlist.m3u8"
       },
       {
+        "name": "Jan TV (576p)",
+        "logo": "https://i.imgur.com/RfJBuf5.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "https://yuppftalive.akamaized.net/080823/jantv/playlist.m3u8"
+      },
+      {
         "name": "Jeevan TV (396p)",
         "logo": "https://i.imgur.com/zKDrzDq.png",
         "group": "General",
@@ -2942,11 +2961,18 @@
         "url": "https://www.nandighoshatvlive.com/hls/stream/index.m3u8"
       },
       {
-        "name": "News 11 (360p)",
+        "name": "Network 10 (576p)",
+        "logo": "https://i.imgur.com/xkWfruI.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "https://yuppftalive.akamaized.net/080823/network10/playlist.m3u8"
+      },
+      {
+        "name": "News 11 (576p)",
         "logo": "https://i.imgur.com/brLsWXU.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "https://rtmp.smartstream.video/news11/news11/playlist.m3u8"
+        "url": "https://yuppftalive.akamaized.net/080823/news11bharat/playlist.m3u8"
       },
       {
         "name": "Starnet (480p)",
@@ -3198,6 +3224,57 @@
         "group": "Sports",
         "source": "https://raw.githubusercontent.com/ar-rony/smartiptv-playlist/refs/heads/master/aurno-iptv.m3u",
         "url": "http://172.16.29.28:8080/hls/live1-fnet.m3u8"
+      }
+    ],
+    "Kids": [
+      {
+        "name": "Disney Channel (576p) [Not 24/7]",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg",
+        "group": "Kids",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "http://116.90.120.149:8000/play/a0bx/index.m3u8"
+      },
+      {
+        "name": "Disney Junior (576p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/3/36/2019_Disney_Junior_logo.svg",
+        "group": "Kids",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "http://116.90.120.149:8000/play/a0b3/index.m3u8"
+      },
+      {
+        "name": "Gubbare (1080p)",
+        "logo": "https://i.imgur.com/Bvbf9o7.png",
+        "group": "Kids",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "https://epiconvh.akamaized.net/live/gubbare/master.m3u8"
+      },
+      {
+        "name": "Nick HD+ (1080p) [Not 24/7]",
+        "logo": "https://i.imgur.com/nJPbTet.png",
+        "group": "Kids",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "http://116.90.120.149:8000/play/a0cw/index.m3u8"
+      },
+      {
+        "name": "Nick Jr India (1080p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Nick_Jr._logo_2009.svg/512px-Nick_Jr._logo_2009.svg.png",
+        "group": "Kids",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "https://prod-sports-north-gm.jiocinema.com/bpk-tv/Nick_Junior_voot_MOB/Fallback/index.m3u8"
+      },
+      {
+        "name": "Nickelodeon Sonic Hindi (1080p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Nickelodeon_Sonic_logo.png/512px-Nickelodeon_Sonic_logo.png",
+        "group": "Kids",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "https://prod-sports-north-gm.jiocinema.com/bpk-tv/Sonic_Nickelodeon_voot_MOB/Fallback/index.m3u8"
+      },
+      {
+        "name": "ZB Cartoon (1080p)",
+        "logo": "https://i.imgur.com/BbFNpMr.jpeg",
+        "group": "Kids",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "https://server.zillarbarta.com/zbcatun/video.m3u8"
       }
     ],
     "Cooking": [
