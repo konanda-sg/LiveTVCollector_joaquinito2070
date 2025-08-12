@@ -1,5 +1,5 @@
 {
-  "date": "2025-08-11 21:43:45",
+  "date": "2025-08-12 06:22:22",
   "channels": {
     "Кино": [
       {
@@ -7415,11 +7415,11 @@
         "url": "https://cdn4.skygo.mn/live/disk1/RenTV/HLSv3-FTA/RenTV.m3u8"
       },
       {
-        "name": "Россия 1 (+1)",
+        "name": "Россия 1",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/11-%D0%B9_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F-1.svg/512px-11-%D0%B9_%D0%BB%D0%BE%D0%B3%D0%BE%D1%82%D0%B8%D0%BF_%D0%A0%D0%BE%D1%81%D1%81%D0%B8%D1%8F-1.svg.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/1/russia1-hd/index.m3u8"
+        "url": "https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia1-hd/index.m3u8"
       },
       {
         "name": "РТР Планета Евро",
@@ -8070,6 +8070,13 @@
         "url": "https://v2.catcast.tv/content/34185/index.m3u8"
       },
       {
+        "name": "Сити Эдем КиноМистика [Not 24/7]",
+        "logo": "https://i.imgur.com/s1Pid0K.png",
+        "group": "Movies",
+        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
+        "url": "https://v2.catcast.tv/content/40783/index.m3u8"
+      },
+      {
         "name": "Сити Эдем КиноЭкшен [Not 24/7]",
         "logo": "https://i.imgur.com/uuzuvD0.png",
         "group": "Movies",
@@ -8104,7 +8111,7 @@
         "logo": "https://i.imgur.com/t6PmOD5.png",
         "group": "Education",
         "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "http://retj.educom.ru/mosobrtv/tv1/index.m3u8"
+        "url": "http://retc.educom.ru/mosobrtv/tv1/index.m3u8"
       }
     ],
     "Sports": [
@@ -9035,15 +9042,6 @@
         "group": "Culture",
         "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
         "url": "http://31.148.48.15/Sochi_HD/index.m3u8"
-      }
-    ],
-    "Documentary;Series": [
-      {
-        "name": "Сити Эдем КиноДок [Not 24/7]",
-        "logo": "https://i.imgur.com/itRbMX3.png",
-        "group": "Documentary;Series",
-        "source": "https://iptv-org.github.io/iptv/countries/ru.m3u",
-        "url": "https://v2.catcast.tv/content/40783/index.m3u8"
       }
     ],
     "General;Religious": [
