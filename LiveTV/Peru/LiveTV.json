@@ -1,5 +1,5 @@
 {
-  "date": "2025-08-12 22:03:29",
+  "date": "2025-08-13 07:34:18",
   "channels": {
     "News": [
       {
@@ -2955,46 +2955,25 @@
     ],
     "TV ESPANA": [
       {
-        "name": "1 | 24HORAS ᴴᴰ |",
+        "name": "2 | 24HORAS ᴴᴰ |",
         "logo": "https://i.imgur.com/fMZeVvR.jpeg",
         "group": "TV ESPANA",
         "source": "https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u",
         "url": "https://ztnr.rtve.es/ztnr/1694255.m3u8"
       },
       {
-        "name": "2 | TVE TV ᴴᴰ |",
-        "logo": "https://i.imgur.com/bnPjl4K.jpeg",
-        "group": "TV ESPANA",
-        "source": "https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u",
-        "url": "https://rtvelivestream.akamaized.net/rtvesec/int/tvei_ame_main.m3u8"
-      },
-      {
-        "name": "3 | LA 1 ᴴᴰ |",
+        "name": "3 | LA 1 TELEVISIÓN |",
         "logo": "https://i.imgur.com/uQOSpSe.jpeg",
         "group": "TV ESPANA",
         "source": "https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u",
-        "url": "https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_720.m3u8"
+        "url": "https://rtvelivestream.rtve.es/rtvesec/can/la1_can_main_720.m3u8"
       },
       {
-        "name": "3.1 | LA 1 CANARIAS |",
-        "logo": "https://i.imgur.com/uQOSpSe.jpeg",
+        "name": "4 | La 2 TELEVISIÓN. |",
+        "logo": "https://i.imgur.com/K4niYEM.jpeg",
         "group": "TV ESPANA",
         "source": "https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u",
-        "url": "https://ztnr.rtve.es/ztnr/5190066.m3u8"
-      },
-      {
-        "name": "4 | LA 2 SD |",
-        "logo": "https://i.imgur.com/ZHDqRku.jpeg",
-        "group": "TV ESPANA",
-        "source": "https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u",
-        "url": "https://rtvelivestream.akamaized.net/rtvesec/la2/la2_main_dvr.m3u8"
-      },
-      {
-        "name": "4.1 | LA 2 CATALUNYA |",
-        "logo": "https://i.imgur.com/ZHDqRku.jpeg",
-        "group": "TV ESPANA",
-        "source": "https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u",
-        "url": "https://ztnr.rtve.es/ztnr/3987218.m3u8"
+        "url": "https://d4g9wh8d4wiaw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-crbrakk0yedqb/La2ES.m3u8"
       },
       {
         "name": "5 | ANTENA 3 ᴴᴰ 1 |",
@@ -3146,11 +3125,11 @@
         "url": "https://daqnsnf5phf17.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-sde7fypd1420w-prod/fast-channel-elconfidencial/fast-channel-elconfidencial.m3u8"
       },
       {
-        "name": "19 | La 1 ᴴᴰ",
-        "logo": "https://i.imgur.com/uQOSpSe.jpeg",
+        "name": "20 | La 2 ᴴᴰ",
+        "logo": "https://i.imgur.com/ZHDqRku.jpeg",
         "group": "TV NOTICIAS",
         "source": "https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u",
-        "url": "https://rtvelivestream.rtve.es/rtvesec/can/la1_can_main_720.m3u8"
+        "url": "https://rtvelivestream.akamaized.net/rtvesec/la2/la2_main_dvr.m3u8"
       },
       {
         "name": "21 | NEGOCIOS TV ᴴᴰ",
@@ -3386,6 +3365,13 @@
     ],
     "DEPORTES": [
       {
+        "name": "1 | TELE DEPORTES ⚽ |",
+        "logo": "https://i.imgur.com/l6fmLPf.jpeg",
+        "group": "DEPORTES",
+        "source": "https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u",
+        "url": "https://d1cctoeg0n48w5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-mnixw9wn5ugmv/TeledeporteES.m3u8"
+      },
+      {
         "name": "2 | ONE SOCCER ⚽ |",
         "logo": "https://i.imgur.com/p4ZZY0P.jpeg",
         "group": "DEPORTES",
@@ -3511,7 +3497,7 @@
         "logo": "https://www.cxtv.com.br/img/Tvs/Logo/webp-m/0b8ba4e4d62638b77f1e34a316b213e1.webp",
         "group": "TV DOCUMENTALES",
         "source": "https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u",
-        "url": "https://stmv6.voxtvhd.com.br/xtremaanimal/xtremaanimal/chunklist_w1159794472.m3u8"
+        "url": "https://stmv6.voxtvhd.com.br/xtremaanimal/xtremaanimal/playlist.m3u8"
       },
       {
         "name": "| TAIWAN PLUS |",
@@ -3568,13 +3554,6 @@
         "group": "TV DOCUMENTALES",
         "source": "https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u",
         "url": "https://streaming.grupomediosdelnorte.com:19360/ecovision/ecovision.m3u8"
-      },
-      {
-        "name": "| TVE La 2 |",
-        "logo": "http://imgfz.com/i/ugvlY1s.jpeg",
-        "group": "TV DOCUMENTALES",
-        "source": "https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u",
-        "url": "https://d4g9wh8d4wiaw.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-crbrakk0yedqb/La2ES.m3u8"
       }
     ],
     "INFANTILES": [
@@ -3590,7 +3569,7 @@
         "logo": "https://i.imgur.com/NvdxH5Y.jpeg",
         "group": "INFANTILES",
         "source": "https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u",
-        "url": "https://live20.bozztv.com/akamaissh101/ssh101/chocobeats/chunks.m3u8"
+        "url": "https://live20.bozztv.com/akamaissh101/ssh101/retrotvcr2025/chunks.m3u8"
       },
       {
         "name": "| RETRO X TV |",
@@ -3614,13 +3593,6 @@
         "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/609e7e423e9173000706a681/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS"
       },
       {
-        "name": "| HIPER TV |",
-        "logo": "https://i.imgur.com/dirD80u.jpeg",
-        "group": "INFANTILES",
-        "source": "https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u",
-        "url": "https://stmv5.voxtvhd.com.br/hiperconectados/hiperconectados/chunklist_w1647274275.m3u8"
-      },
-      {
         "name": "| BENINI TV JUNIORS |",
         "logo": "https://i.imgur.com/t51uky5.jpeg",
         "group": "INFANTILES",
@@ -3633,6 +3605,20 @@
         "group": "INFANTILES",
         "source": "https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u",
         "url": "https://stmv6.voxtvhd.com.br/xtremacartoons/xtremacartoons/playlist.m3u8"
+      },
+      {
+        "name": "| ANIME VISION ᴴᴰ |",
+        "logo": "https://i.imgur.com/E9q9k16.jpeg",
+        "group": "INFANTILES",
+        "source": "https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u",
+        "url": "https://d1ujfw1zyymzyd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-a6fukwkbxmex8/live/fast-channel-animevision-64527ec0/fast-channel-animevision-64527ec0.m3u8"
+      },
+      {
+        "name": "| ANIME VISION CLASICS ᴴᴰ |",
+        "logo": "https://i.imgur.com/JqylIfE.jpeg",
+        "group": "INFANTILES",
+        "source": "https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u",
+        "url": "https://d82pyvmcw2kdc.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-swfivzrzwamaq/live/fast-channel-animevisionclassics-efc8dc6d/fast-channel-animevisionclassics-efc8dc6d.m3u8"
       },
       {
         "name": "Robot salvaje FHD",
