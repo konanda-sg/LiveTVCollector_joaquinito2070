@@ -1,183 +1,15 @@
 [
   {
     "name": "24 Horas HEVC",
-    "type": "News",
+    "type": "News;Public",
     "url": "https://d3pfmk89wc0vm9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-nlow3qkp9tmdm/24H_ES.m3u8",
     "img": "https://i.imgur.com/IUVRm5L.png"
   },
   {
     "name": "24 Horas Internacional [Geo-blocked]",
-    "type": "News",
+    "type": "News;Public",
     "url": "https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8",
     "img": "https://i.imgur.com/IUVRm5L.png"
-  },
-  {
-    "name": "ATV+",
-    "type": "News",
-    "url": "https://alba-pe-atv-atvmas.stream.mediatiquestream.com/index.m3u8",
-    "img": "https://i.imgur.com/fY9256H.png"
-  },
-  {
-    "name": "CGTN Español (1080p)",
-    "type": "News",
-    "url": "https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8",
-    "img": "https://i.imgur.com/Poz3xfi.png"
-  },
-  {
-    "name": "Conecta2TV (720p) [Not 24/7]",
-    "type": "News",
-    "url": "https://servilive.com:3114/live/liveulive.m3u8",
-    "img": "https://i.imgur.com/cfHaLt2.png"
-  },
-  {
-    "name": "DW Español (1080p)",
-    "type": "News",
-    "url": "https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8",
-    "img": "https://i.imgur.com/8MRNFb9.png"
-  },
-  {
-    "name": "Exitosa (720p)",
-    "type": "News",
-    "url": "https://luna-1-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a3cb0e3243c/video.m3u8",
-    "img": "https://i.imgur.com/pu0BSB7.png"
-  },
-  {
-    "name": "France 24 Español (1080p)",
-    "type": "News",
-    "url": "https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/c/c1/France_24_logo_%282013%29.svg"
-  },
-  {
-    "name": "Hispan TV",
-    "type": "News",
-    "url": "https://cdnlive.presstv.ir/live/smil:live.smil/playlist.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Hispantv_logo.jpg"
-  },
-  {
-    "name": "Like TV",
-    "type": "News",
-    "url": "https://live-evg1.tv360.bitel.com.pe/bitel/liketv/playlist.m3u8",
-    "img": "https://i.imgur.com/5IwS0sJ.png"
-  },
-  {
-    "name": "PBO",
-    "type": "News",
-    "url": "https://live-evg1.tv360.bitel.com.pe/bitel/pbo/playlist.m3u8",
-    "img": "https://i.imgur.com/vBpxX4S.png"
-  },
-  {
-    "name": "Red de Comunicación Regional (RCR) (720p) [Not 24/7]",
-    "type": "News",
-    "url": "https://5c3fb01839654.streamlock.net:1963/iptvrcrperu/livercrperutv/playlist.m3u8",
-    "img": "https://i.imgur.com/A8TRPrF.png"
-  },
-  {
-    "name": "RSelvaTV",
-    "type": "News",
-    "url": "https://live.obslivestream.com/selvatv/index.m3u8",
-    "img": "https://i.imgur.com/DAK5ZnD.png"
-  },
-  {
-    "name": "RT en Español (1080p)",
-    "type": "News",
-    "url": "https://cloud.odysee.live/content/9f638b94d11d879726ae55dd5a0923621b96a45b/master.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png"
-  },
-  {
-    "name": "TeleSUR (1080p)",
-    "type": "News",
-    "url": "https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8",
-    "img": "https://i.imgur.com/P50VjRX.png"
-  },
-  {
-    "name": "TV Perú Noticias",
-    "type": "News",
-    "url": "https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/TV_Per%C3%BA_Noticias_-_2019_logo.png/512px-TV_Per%C3%BA_Noticias_-_2019_logo.png"
-  },
-  {
-    "name": "VNP",
-    "type": "News",
-    "url": "https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8",
-    "img": "https://i.imgur.com/TOnknEW.png"
-  },
-  {
-    "name": "VPItv (1080p)",
-    "type": "News",
-    "url": "https://ott3.streann.com/loadbalancer/services/public/channels/5d23d5882cdce61dae029fd8/playlist.m3u8",
-    "img": "https://i.imgur.com/X5hyKU8.png"
-  },
-  {
-    "name": "KONGRESO TV (HD)",
-    "type": "News",
-    "url": "https://cdn2.eco.cdn.moderntv.eu/econocable/stream/CANALCONGRESO/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DCANALCONGRESO_stream_x7&_cdn_session=1584179347&_cdn_timestamp=1701923082&_cdn_token=69e21daaa6144e58fdb4d51fb00a933261992fc0",
-    "img": "https://comunicaciones.congreso.gob.pe/wpuploads/2023/09/logo.png"
-  },
-  {
-    "name": "TV Noticias 7.3 (480p)",
-    "type": "News",
-    "url": "https://live-evg25.tv360.bitel.com.pe/bitel/tvperu/bitel/tvperu_ori_source/chunks.m3u8",
-    "img": "https://yt3.ggpht.com/-TT4fesr5OEU/AAAAAAAAAAI/AAAAAAAAAAA/bcrXYkOAjdA/s900-c-k-no-mo-rj-c0xffffff/photo.jpg"
-  },
-  {
-    "name": "ATV+ Noticias HD",
-    "type": "News",
-    "url": "https://live-evg25.tv360.bitel.com.pe/bitel/atvmas/bitel/atvmas_ori_source/chunks.m3u8",
-    "img": "https://i.imgur.com/fY9256H.png"
-  },
-  {
-    "name": "PBO",
-    "type": "News",
-    "url": "https://live-evg25.tv360.bitel.com.pe/bitel/pbo/bitel/pbo_ori_source/chunks.m3u8",
-    "img": "https://pbo.pe/wp-content/uploads/2022/11/pbo.png"
-  },
-  {
-    "name": "DW Español (576p)",
-    "type": "News",
-    "url": "https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream03/streamPlaylist.m3u8",
-    "img": "https://i.imgur.com/A1xzjOI.png"
-  },
-  {
-    "name": "France 24 Español (720p)",
-    "type": "News",
-    "url": "https://ythls.armelin.one/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png"
-  },
-  {
-    "name": "HispanTV (480p)",
-    "type": "News",
-    "url": "https://live3.presstv.ir/hispantv/07.m3u8",
-    "img": "https://i.imgur.com/AfsVFfM.png"
-  },
-  {
-    "name": "Identidad TV (720p)",
-    "type": "News",
-    "url": "https://5c3fb01839654.streamlock.net:1963/iptvrci/livercitv/playlist.m3u8",
-    "img": "https://i.imgur.com/q5jxzr2.png"
-  },
-  {
-    "name": "RT en Español (540p)",
-    "type": "News",
-    "url": "https://rt-esp.rttv.com/dvr/rtesp/playlist_1600Kb.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png"
-  },
-  {
-    "name": "RTV Total (Yurimaguas) (480p)",
-    "type": "News",
-    "url": "https://7.innovatestream.pe:19360/rtvtotal/rtvtotal.m3u8",
-    "img": "https://i.imgur.com/f8XvDQs.png"
-  },
-  {
-    "name": "Visión Noticias Perú (VNP) (720p)",
-    "type": "News",
-    "url": "https://multimedia.tmcreativos.com:1936/visionnoticias/visionnoticias/playlist.m3u8",
-    "img": "https://i.imgur.com/TOnknEW.png"
-  },
-  {
-    "name": "Radio Uno Tacna (720p)",
-    "type": "News",
-    "url": "https://ythls.armelin.one/channel/UCK0lpuL9PQb3I5CDcu7Y7bA.m3u8",
-    "img": "https://i.imgur.com/PswowQP.png"
   },
   {
     "name": "Agro TV (Apurimac) (720p) [Not 24/7]",
@@ -244,12 +76,6 @@
     "type": "General",
     "url": "https://stmv1.voxhdnet.com/dmjsurtv/dmjsurtv/playlist.m3u8",
     "img": "https://i.imgur.com/KSePPeW.png"
-  },
-  {
-    "name": "Galicia TV América (720p)",
-    "type": "General",
-    "url": "https://america-crtvg.flumotion.com/playlist.m3u8",
-    "img": "https://i.imgur.com/s59AaqG.png"
   },
   {
     "name": "Global TV",
@@ -1074,16 +900,214 @@
     "img": "https://i.imgur.com/2mSwwpH.png"
   },
   {
+    "name": "Atreseries Internacional (480p)",
+    "type": "Series",
+    "url": "http://181.78.208.254:8080/play/a0d5/index.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/512px-Atreseries_2020_logo.svg.png"
+  },
+  {
+    "name": "Investiga",
+    "type": "Series",
+    "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf96b8f4f1ca3f0629f4bf1/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c293f99-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=28f850bd-0f1c-4ede-b97c-ebd1d9a28126",
+    "img": "https://i.imgur.com/Sb5adD7.png"
+  },
+  {
+    "name": "Latina Clasicos",
+    "type": "Series",
+    "url": "https://redirector.rudo.video/hls-video/plus226/latina2/latina2.smil/playlist.m3u8",
+    "img": "https://i.imgur.com/q0dAWyj.png"
+  },
+  {
+    "name": "Novelisima",
+    "type": "Series",
+    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380",
+    "img": "https://i.imgur.com/8dUS3Ih.png"
+  },
+  {
+    "name": "Series con Ñ",
+    "type": "Series",
+    "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60fb3087fbbc120007fc46be/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b8988-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8d10604b-577d-49d0-a6bc-03b028c6758f",
+    "img": "https://i.imgur.com/uQfzebn.png"
+  },
+  {
+    "name": "Kanal D Drama (1080p)",
+    "type": "Series",
+    "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8",
+    "img": "https://i.imgur.com/WIeZMKT.png"
+  },
+  {
+    "name": "ATV+",
+    "type": "News",
+    "url": "https://alba-pe-atv-atvmas.stream.mediatiquestream.com/index.m3u8",
+    "img": "https://i.imgur.com/fY9256H.png"
+  },
+  {
+    "name": "CGTN Español (1080p)",
+    "type": "News",
+    "url": "https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8",
+    "img": "https://i.imgur.com/Poz3xfi.png"
+  },
+  {
+    "name": "Conecta2TV (720p) [Not 24/7]",
+    "type": "News",
+    "url": "https://servilive.com:3114/live/liveulive.m3u8",
+    "img": "https://i.imgur.com/cfHaLt2.png"
+  },
+  {
+    "name": "DW Español (1080p)",
+    "type": "News",
+    "url": "https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8",
+    "img": "https://i.imgur.com/8MRNFb9.png"
+  },
+  {
+    "name": "Exitosa (720p)",
+    "type": "News",
+    "url": "https://luna-1-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a3cb0e3243c/video.m3u8",
+    "img": "https://i.imgur.com/pu0BSB7.png"
+  },
+  {
+    "name": "France 24 Español (1080p)",
+    "type": "News",
+    "url": "https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/c/c1/France_24_logo_%282013%29.svg"
+  },
+  {
+    "name": "Hispan TV",
+    "type": "News",
+    "url": "https://cdnlive.presstv.ir/live/smil:live.smil/playlist.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Hispantv_logo.jpg"
+  },
+  {
+    "name": "Like TV",
+    "type": "News",
+    "url": "https://live-evg1.tv360.bitel.com.pe/bitel/liketv/playlist.m3u8",
+    "img": "https://i.imgur.com/5IwS0sJ.png"
+  },
+  {
+    "name": "PBO",
+    "type": "News",
+    "url": "https://live-evg1.tv360.bitel.com.pe/bitel/pbo/playlist.m3u8",
+    "img": "https://i.imgur.com/vBpxX4S.png"
+  },
+  {
+    "name": "Red de Comunicación Regional (RCR) (720p) [Not 24/7]",
+    "type": "News",
+    "url": "https://5c3fb01839654.streamlock.net:1963/iptvrcrperu/livercrperutv/playlist.m3u8",
+    "img": "https://i.imgur.com/A8TRPrF.png"
+  },
+  {
+    "name": "RSelvaTV",
+    "type": "News",
+    "url": "https://live.obslivestream.com/selvatv/index.m3u8",
+    "img": "https://i.imgur.com/DAK5ZnD.png"
+  },
+  {
+    "name": "RT en Español (1080p)",
+    "type": "News",
+    "url": "https://cloud.odysee.live/content/9f638b94d11d879726ae55dd5a0923621b96a45b/master.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png"
+  },
+  {
+    "name": "TeleSUR (1080p)",
+    "type": "News",
+    "url": "https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8",
+    "img": "https://i.imgur.com/P50VjRX.png"
+  },
+  {
+    "name": "TV Perú Noticias",
+    "type": "News",
+    "url": "https://cdnhd.iblups.com/hls/902c1a0395264f269f1160efa00660e4.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/TV_Per%C3%BA_Noticias_-_2019_logo.png/512px-TV_Per%C3%BA_Noticias_-_2019_logo.png"
+  },
+  {
+    "name": "VNP",
+    "type": "News",
+    "url": "https://videoserver.tmcreativos.com:19360/visionnoticias/visionnoticias.m3u8",
+    "img": "https://i.imgur.com/TOnknEW.png"
+  },
+  {
+    "name": "VPItv (1080p)",
+    "type": "News",
+    "url": "https://ott3.streann.com/loadbalancer/services/public/channels/5d23d5882cdce61dae029fd8/playlist.m3u8",
+    "img": "https://i.imgur.com/X5hyKU8.png"
+  },
+  {
+    "name": "KONGRESO TV (HD)",
+    "type": "News",
+    "url": "https://cdn2.eco.cdn.moderntv.eu/econocable/stream/CANALCONGRESO/20-hls/live-media.m3u8?_cdn_attrs=account%3Deconocable%2Cresource%3DCANALCONGRESO_stream_x7&_cdn_session=1584179347&_cdn_timestamp=1701923082&_cdn_token=69e21daaa6144e58fdb4d51fb00a933261992fc0",
+    "img": "https://comunicaciones.congreso.gob.pe/wpuploads/2023/09/logo.png"
+  },
+  {
+    "name": "TV Noticias 7.3 (480p)",
+    "type": "News",
+    "url": "https://live-evg25.tv360.bitel.com.pe/bitel/tvperu/bitel/tvperu_ori_source/chunks.m3u8",
+    "img": "https://yt3.ggpht.com/-TT4fesr5OEU/AAAAAAAAAAI/AAAAAAAAAAA/bcrXYkOAjdA/s900-c-k-no-mo-rj-c0xffffff/photo.jpg"
+  },
+  {
+    "name": "ATV+ Noticias HD",
+    "type": "News",
+    "url": "https://live-evg25.tv360.bitel.com.pe/bitel/atvmas/bitel/atvmas_ori_source/chunks.m3u8",
+    "img": "https://i.imgur.com/fY9256H.png"
+  },
+  {
+    "name": "PBO",
+    "type": "News",
+    "url": "https://live-evg25.tv360.bitel.com.pe/bitel/pbo/bitel/pbo_ori_source/chunks.m3u8",
+    "img": "https://pbo.pe/wp-content/uploads/2022/11/pbo.png"
+  },
+  {
+    "name": "DW Español (576p)",
+    "type": "News",
+    "url": "https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream03/streamPlaylist.m3u8",
+    "img": "https://i.imgur.com/A1xzjOI.png"
+  },
+  {
+    "name": "France 24 Español (720p)",
+    "type": "News",
+    "url": "https://ythls.armelin.one/channel/UCUdOoVWuWmgo1wByzcsyKDQ.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/8/8a/France24.png"
+  },
+  {
+    "name": "HispanTV (480p)",
+    "type": "News",
+    "url": "https://live3.presstv.ir/hispantv/07.m3u8",
+    "img": "https://i.imgur.com/AfsVFfM.png"
+  },
+  {
+    "name": "Identidad TV (720p)",
+    "type": "News",
+    "url": "https://5c3fb01839654.streamlock.net:1963/iptvrci/livercitv/playlist.m3u8",
+    "img": "https://i.imgur.com/q5jxzr2.png"
+  },
+  {
+    "name": "RT en Español (540p)",
+    "type": "News",
+    "url": "https://rt-esp.rttv.com/dvr/rtesp/playlist_1600Kb.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png"
+  },
+  {
+    "name": "RTV Total (Yurimaguas) (480p)",
+    "type": "News",
+    "url": "https://7.innovatestream.pe:19360/rtvtotal/rtvtotal.m3u8",
+    "img": "https://i.imgur.com/f8XvDQs.png"
+  },
+  {
+    "name": "Visión Noticias Perú (VNP) (720p)",
+    "type": "News",
+    "url": "https://multimedia.tmcreativos.com:1936/visionnoticias/visionnoticias/playlist.m3u8",
+    "img": "https://i.imgur.com/TOnknEW.png"
+  },
+  {
+    "name": "Radio Uno Tacna (720p)",
+    "type": "News",
+    "url": "https://ythls.armelin.one/channel/UCK0lpuL9PQb3I5CDcu7Y7bA.m3u8",
+    "img": "https://i.imgur.com/PswowQP.png"
+  },
+  {
     "name": "BabyFirst Spanish",
     "type": "Kids",
     "url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/be6f9eac-280e-4748-b866-2eb2463c1844/manifest.m3u8",
     "img": "https://i.imgur.com/WxLHBwu.png"
-  },
-  {
-    "name": "Clan TVE Internacional (1080p)",
-    "type": "Kids",
-    "url": "https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main.m3u8",
-    "img": "https://i.imgur.com/03jFV68.png"
   },
   {
     "name": "Pluto TV Bob Esponja (720p)",
@@ -1186,6 +1210,12 @@
     "type": "Movies",
     "url": "https://video06.logicahost.com.br/retroplussenal3/retroplussenal3/chunklist_w1062652673.m3u8",
     "img": "https://i.imgur.com/i0rZsgG.png"
+  },
+  {
+    "name": "Clan TVE Internacional (1080p)",
+    "type": "Kids;Public",
+    "url": "https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main.m3u8",
+    "img": "https://i.imgur.com/03jFV68.png"
   },
   {
     "name": "Controversia TV (720p) [Not 24/7]",
@@ -1434,6 +1464,12 @@
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/512px-DistritoComediaLOGO2018.png"
   },
   {
+    "name": "Galicia TV América (720p)",
+    "type": "General;Public",
+    "url": "https://america-crtvg.flumotion.com/playlist.m3u8",
+    "img": "https://i.imgur.com/s59AaqG.png"
+  },
+  {
     "name": "Garage TV Latin America",
     "type": "Auto",
     "url": "https://stream1.sersat.com/hls/garagetv.m3u8",
@@ -1462,36 +1498,6 @@
     "type": "Documentary",
     "url": "https://stmv6.voxtvhd.com.br/elhistonautatv/elhistonautatv/chunklist_w368121454.m3u8",
     "img": "https://i.imgur.com/H4SFkx6.png"
-  },
-  {
-    "name": "Investiga",
-    "type": "Series",
-    "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf96b8f4f1ca3f0629f4bf1/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c293f99-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=28f850bd-0f1c-4ede-b97c-ebd1d9a28126",
-    "img": "https://i.imgur.com/Sb5adD7.png"
-  },
-  {
-    "name": "Latina Clasicos",
-    "type": "Series",
-    "url": "https://redirector.rudo.video/hls-video/plus226/latina2/latina2.smil/playlist.m3u8",
-    "img": "https://i.imgur.com/q0dAWyj.png"
-  },
-  {
-    "name": "Novelisima",
-    "type": "Series",
-    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380",
-    "img": "https://i.imgur.com/8dUS3Ih.png"
-  },
-  {
-    "name": "Series con Ñ",
-    "type": "Series",
-    "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60fb3087fbbc120007fc46be/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b8988-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8d10604b-577d-49d0-a6bc-03b028c6758f",
-    "img": "https://i.imgur.com/uQfzebn.png"
-  },
-  {
-    "name": "Kanal D Drama (1080p)",
-    "type": "Series",
-    "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01602-themahqfrance-vivekanald-samsungspain/playlist.m3u8",
-    "img": "https://i.imgur.com/WIeZMKT.png"
   },
   {
     "name": "JNE TV",
