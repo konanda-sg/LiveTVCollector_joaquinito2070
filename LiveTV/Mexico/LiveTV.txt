@@ -796,11 +796,6 @@ URL: https://5ca9af4645e15.streamlock.net/teleradio/smil:teleradio.smil/playlist
 Logo: https://i.imgur.com/kFVVGrg.png
 Source: https://iptv-org.github.io/iptv/countries/mx.m3u
 --------------------------------------------------
-Name: Galicia TV América (720p)
-URL: https://america-crtvg.flumotion.com/playlist.m3u8
-Logo: https://i.imgur.com/s59AaqG.png
-Source: https://iptv-org.github.io/iptv/countries/mx.m3u
---------------------------------------------------
 Name: IERTBCS Canal 8 La Paz (1080p) [Not 24/7]
 URL: https://60ed5b6d0df78.streamlock.net:1936/iertbcs/iertbcs/playlist.m3u8
 Logo: https://i.imgur.com/R3icGuG.png
@@ -1017,6 +1012,13 @@ Logo: https://i.imgur.com/QFI2OdJ.png
 Source: https://iptv-org.github.io/iptv/countries/mx.m3u
 --------------------------------------------------
 
+Group: General;Public
+Name: Galicia TV América (720p)
+URL: https://america-crtvg.flumotion.com/playlist.m3u8
+Logo: https://i.imgur.com/s59AaqG.png
+Source: https://iptv-org.github.io/iptv/countries/mx.m3u
+--------------------------------------------------
+
 Group: Investigación
 Name: Pluto TV Investiga
 URL: https://stitcher.pluto.tv/stitch/hls/channel/5dcde27ffae9520009c0c75a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=413f15df-796f-11f0-9fdb-66f928d62e6c
@@ -1135,14 +1137,16 @@ URL: https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772a
 Logo: https://i.imgur.com/WxLHBwu.png
 Source: https://iptv-org.github.io/iptv/countries/mx.m3u
 --------------------------------------------------
-Name: Clan TVE Internacional (1080p)
-URL: https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main.m3u8
-Logo: https://i.imgur.com/03jFV68.png
-Source: https://iptv-org.github.io/iptv/countries/mx.m3u
---------------------------------------------------
 Name: Pluto TV Bob Esponja (720p)
 URL: https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1aca0b4e448e00075e7c5e/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
 Logo: https://i.imgur.com/nmZ2nId.png
+Source: https://iptv-org.github.io/iptv/countries/mx.m3u
+--------------------------------------------------
+
+Group: Kids;Public
+Name: Clan TVE Internacional (1080p)
+URL: https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main.m3u8
+Logo: https://i.imgur.com/03jFV68.png
 Source: https://iptv-org.github.io/iptv/countries/mx.m3u
 --------------------------------------------------
 
@@ -1392,16 +1396,6 @@ Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/
 --------------------------------------------------
 
 Group: News
-Name: 24 Horas HEVC
-URL: https://d3pfmk89wc0vm9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-nlow3qkp9tmdm/24H_ES.m3u8
-Logo: https://i.imgur.com/IUVRm5L.png
-Source: https://iptv-org.github.io/iptv/countries/mx.m3u
---------------------------------------------------
-Name: 24 Horas Internacional [Geo-blocked]
-URL: https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
-Logo: https://i.imgur.com/IUVRm5L.png
-Source: https://iptv-org.github.io/iptv/countries/mx.m3u
---------------------------------------------------
 Name: BBC News (North America) (1080p)
 URL: https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 Logo: https://i.imgur.com/vSz2WEp.png
@@ -1495,6 +1489,18 @@ Source: https://iptv-org.github.io/iptv/countries/mx.m3u
 Name: VPItv (1080p)
 URL: https://ott3.streann.com/loadbalancer/services/public/channels/5d23d5882cdce61dae029fd8/playlist.m3u8
 Logo: https://i.imgur.com/X5hyKU8.png
+Source: https://iptv-org.github.io/iptv/countries/mx.m3u
+--------------------------------------------------
+
+Group: News;Public
+Name: 24 Horas HEVC
+URL: https://d3pfmk89wc0vm9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-nlow3qkp9tmdm/24H_ES.m3u8
+Logo: https://i.imgur.com/IUVRm5L.png
+Source: https://iptv-org.github.io/iptv/countries/mx.m3u
+--------------------------------------------------
+Name: 24 Horas Internacional [Geo-blocked]
+URL: https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
+Logo: https://i.imgur.com/IUVRm5L.png
 Source: https://iptv-org.github.io/iptv/countries/mx.m3u
 --------------------------------------------------
 
@@ -1914,6 +1920,11 @@ Name: Al Fondo Hay Sitio
 URL: https://stitcher.pluto.tv/stitch/hls/channel/66aa6e03fe11e500086038ed/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=413f15df-796f-11f0-9fdb-66f928d62e6c
 Logo: https://images.pluto.tv/channels/66aa6e03fe11e500086038ed/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
+--------------------------------------------------
+Name: Atreseries Internacional (480p)
+URL: http://181.78.208.254:8080/play/a0d5/index.m3u8
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/512px-Atreseries_2020_logo.svg.png
+Source: https://iptv-org.github.io/iptv/countries/mx.m3u
 --------------------------------------------------
 Name: Investiga
 URL: http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf96b8f4f1ca3f0629f4bf1/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c293f99-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=28f850bd-0f1c-4ede-b97c-ebd1d9a28126
