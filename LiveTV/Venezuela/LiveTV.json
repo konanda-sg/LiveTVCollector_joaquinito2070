@@ -1,5 +1,5 @@
 {
-  "date": "2025-08-15 14:04:38",
+  "date": "2025-08-15 22:02:36",
   "channels": {
     "News": [
       {
@@ -29,20 +29,6 @@
         "group": "News",
         "source": "https://raw.githubusercontent.com/Nuelmaos/ipTV/refs/heads/Inicio/modo_prueba_92430.m3u",
         "url": "https://1a-1791.com/live/r31jzt5k/slot-32/qyp9-ih3g_360p/chunklist_DVR.m3u8"
-      },
-      {
-        "name": "24 Horas HEVC",
-        "logo": "https://i.imgur.com/IUVRm5L.png",
-        "group": "News",
-        "source": "https://iptv-org.github.io/iptv/countries/ve.m3u",
-        "url": "https://d3pfmk89wc0vm9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-nlow3qkp9tmdm/24H_ES.m3u8"
-      },
-      {
-        "name": "24 Horas Internacional [Geo-blocked]",
-        "logo": "https://i.imgur.com/IUVRm5L.png",
-        "group": "News",
-        "source": "https://iptv-org.github.io/iptv/countries/ve.m3u",
-        "url": "https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8"
       },
       {
         "name": "Canal I (720p)",
@@ -234,13 +220,6 @@
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/ve.m3u",
         "url": "https://live20.bozztv.com/akamaissh101/ssh101/1234chivacoa/playlist.m3u8"
-      },
-      {
-        "name": "Galicia TV América (720p)",
-        "logo": "https://i.imgur.com/s59AaqG.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/countries/ve.m3u",
-        "url": "https://america-crtvg.flumotion.com/playlist.m3u8"
       },
       {
         "name": "Isla TV (480p)",
@@ -927,6 +906,22 @@
         "url": "https://live-hls-web-aje-fa.getaj.net/AJE/05.m3u8"
       }
     ],
+    "News;Public": [
+      {
+        "name": "24 Horas HEVC",
+        "logo": "https://i.imgur.com/IUVRm5L.png",
+        "group": "News;Public",
+        "source": "https://iptv-org.github.io/iptv/countries/ve.m3u",
+        "url": "https://d3pfmk89wc0vm9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-nlow3qkp9tmdm/24H_ES.m3u8"
+      },
+      {
+        "name": "24 Horas Internacional [Geo-blocked]",
+        "logo": "https://i.imgur.com/IUVRm5L.png",
+        "group": "News;Public",
+        "source": "https://iptv-org.github.io/iptv/countries/ve.m3u",
+        "url": "https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8"
+      }
+    ],
     "Outdoor": [
       {
         "name": "Agrotendencia TV (1080p)",
@@ -952,6 +947,36 @@
         "url": "https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=ZZDemoIPTVGH"
       }
     ],
+    "Series": [
+      {
+        "name": "Atreseries Internacional (480p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/512px-Atreseries_2020_logo.svg.png",
+        "group": "Series",
+        "source": "https://iptv-org.github.io/iptv/countries/ve.m3u",
+        "url": "http://181.78.208.254:8080/play/a0d5/index.m3u8"
+      },
+      {
+        "name": "Investiga",
+        "logo": "https://i.imgur.com/Sb5adD7.png",
+        "group": "Series",
+        "source": "https://iptv-org.github.io/iptv/countries/ve.m3u",
+        "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf96b8f4f1ca3f0629f4bf1/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c293f99-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=28f850bd-0f1c-4ede-b97c-ebd1d9a28126"
+      },
+      {
+        "name": "Novelisima",
+        "logo": "https://i.imgur.com/8dUS3Ih.png",
+        "group": "Series",
+        "source": "https://iptv-org.github.io/iptv/countries/ve.m3u",
+        "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380"
+      },
+      {
+        "name": "Series con Ñ",
+        "logo": "https://i.imgur.com/uQfzebn.png",
+        "group": "Series",
+        "source": "https://iptv-org.github.io/iptv/countries/ve.m3u",
+        "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60fb3087fbbc120007fc46be/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b8988-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8d10604b-577d-49d0-a6bc-03b028c6758f"
+      }
+    ],
     "Kids": [
       {
         "name": "BabyFirst Spanish",
@@ -959,13 +984,6 @@
         "group": "Kids",
         "source": "https://iptv-org.github.io/iptv/countries/ve.m3u",
         "url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/be6f9eac-280e-4748-b866-2eb2463c1844/manifest.m3u8"
-      },
-      {
-        "name": "Clan TVE Internacional (1080p)",
-        "logo": "https://i.imgur.com/03jFV68.png",
-        "group": "Kids",
-        "source": "https://iptv-org.github.io/iptv/countries/ve.m3u",
-        "url": "https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main.m3u8"
       },
       {
         "name": "Pluto TV Bob Esponja (720p)",
@@ -1061,6 +1079,15 @@
         "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddc4e8bcbb9010009b4e84f/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId="
       }
     ],
+    "Kids;Public": [
+      {
+        "name": "Clan TVE Internacional (1080p)",
+        "logo": "https://i.imgur.com/03jFV68.png",
+        "group": "Kids;Public",
+        "source": "https://iptv-org.github.io/iptv/countries/ve.m3u",
+        "url": "https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main.m3u8"
+      }
+    ],
     "Undefined": [
       {
         "name": "CSI en Español",
@@ -1144,6 +1171,15 @@
         "url": "https://stmv5.voxtvhd.com.br/hiperconectados/hiperconectados/playlist.m3u8"
       }
     ],
+    "General;Public": [
+      {
+        "name": "Galicia TV América (720p)",
+        "logo": "https://i.imgur.com/s59AaqG.png",
+        "group": "General;Public",
+        "source": "https://iptv-org.github.io/iptv/countries/ve.m3u",
+        "url": "https://america-crtvg.flumotion.com/playlist.m3u8"
+      }
+    ],
     "Documentary": [
       {
         "name": "History 2 Latin America",
@@ -1158,29 +1194,6 @@
         "group": "Documentary",
         "source": "https://iptv-org.github.io/iptv/countries/ve.m3u",
         "url": "https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/NAT_GEO/index.m3u8"
-      }
-    ],
-    "Series": [
-      {
-        "name": "Investiga",
-        "logo": "https://i.imgur.com/Sb5adD7.png",
-        "group": "Series",
-        "source": "https://iptv-org.github.io/iptv/countries/ve.m3u",
-        "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf96b8f4f1ca3f0629f4bf1/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c293f99-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=28f850bd-0f1c-4ede-b97c-ebd1d9a28126"
-      },
-      {
-        "name": "Novelisima",
-        "logo": "https://i.imgur.com/8dUS3Ih.png",
-        "group": "Series",
-        "source": "https://iptv-org.github.io/iptv/countries/ve.m3u",
-        "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380"
-      },
-      {
-        "name": "Series con Ñ",
-        "logo": "https://i.imgur.com/uQfzebn.png",
-        "group": "Series",
-        "source": "https://iptv-org.github.io/iptv/countries/ve.m3u",
-        "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60fb3087fbbc120007fc46be/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b8988-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8d10604b-577d-49d0-a6bc-03b028c6758f"
       }
     ],
     "Animation;Entertainment": [

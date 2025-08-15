@@ -24,18 +24,6 @@
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png"
   },
   {
-    "name": "24 Horas HEVC",
-    "type": "News",
-    "url": "https://d3pfmk89wc0vm9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-nlow3qkp9tmdm/24H_ES.m3u8",
-    "img": "https://i.imgur.com/IUVRm5L.png"
-  },
-  {
-    "name": "24 Horas Internacional [Geo-blocked]",
-    "type": "News",
-    "url": "https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8",
-    "img": "https://i.imgur.com/IUVRm5L.png"
-  },
-  {
     "name": "Canal I (720p)",
     "type": "News",
     "url": "https://vcp10.myplaytv.com/canali/canali/playlist.m3u8",
@@ -196,12 +184,6 @@
     "type": "General",
     "url": "https://live20.bozztv.com/akamaissh101/ssh101/1234chivacoa/playlist.m3u8",
     "img": "https://i.imgur.com/9rbwZFY.png"
-  },
-  {
-    "name": "Galicia TV América (720p)",
-    "type": "General",
-    "url": "https://america-crtvg.flumotion.com/playlist.m3u8",
-    "img": "https://i.imgur.com/s59AaqG.png"
   },
   {
     "name": "Isla TV (480p)",
@@ -768,6 +750,18 @@
     "img": "https://i.imgur.com/BB93NQP.png"
   },
   {
+    "name": "24 Horas HEVC",
+    "type": "News;Public",
+    "url": "https://d3pfmk89wc0vm9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-nlow3qkp9tmdm/24H_ES.m3u8",
+    "img": "https://i.imgur.com/IUVRm5L.png"
+  },
+  {
+    "name": "24 Horas Internacional [Geo-blocked]",
+    "type": "News;Public",
+    "url": "https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8",
+    "img": "https://i.imgur.com/IUVRm5L.png"
+  },
+  {
     "name": "Agrotendencia TV (1080p)",
     "type": "Outdoor",
     "url": "https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8",
@@ -786,16 +780,34 @@
     "img": "https://cdn.energeek.cl/logos/Marca-512.png"
   },
   {
+    "name": "Atreseries Internacional (480p)",
+    "type": "Series",
+    "url": "http://181.78.208.254:8080/play/a0d5/index.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/512px-Atreseries_2020_logo.svg.png"
+  },
+  {
+    "name": "Investiga",
+    "type": "Series",
+    "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf96b8f4f1ca3f0629f4bf1/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c293f99-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=28f850bd-0f1c-4ede-b97c-ebd1d9a28126",
+    "img": "https://i.imgur.com/Sb5adD7.png"
+  },
+  {
+    "name": "Novelisima",
+    "type": "Series",
+    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380",
+    "img": "https://i.imgur.com/8dUS3Ih.png"
+  },
+  {
+    "name": "Series con Ñ",
+    "type": "Series",
+    "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60fb3087fbbc120007fc46be/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b8988-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8d10604b-577d-49d0-a6bc-03b028c6758f",
+    "img": "https://i.imgur.com/uQfzebn.png"
+  },
+  {
     "name": "BabyFirst Spanish",
     "type": "Kids",
     "url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/be6f9eac-280e-4748-b866-2eb2463c1844/manifest.m3u8",
     "img": "https://i.imgur.com/WxLHBwu.png"
-  },
-  {
-    "name": "Clan TVE Internacional (1080p)",
-    "type": "Kids",
-    "url": "https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main.m3u8",
-    "img": "https://i.imgur.com/03jFV68.png"
   },
   {
     "name": "Pluto TV Bob Esponja (720p)",
@@ -876,6 +888,12 @@
     "img": "https://i.imgur.com/GnUmEZn.png"
   },
   {
+    "name": "Clan TVE Internacional (1080p)",
+    "type": "Kids;Public",
+    "url": "https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main.m3u8",
+    "img": "https://i.imgur.com/03jFV68.png"
+  },
+  {
     "name": "CSI en Español",
     "type": "Undefined",
     "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/604928d54a4f730007ff76bc/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c285532-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ec065848-4bdc-45cb-ad2c-0ef96c23d424",
@@ -942,6 +960,12 @@
     "img": "https://i.imgur.com/CBbbrkI.png"
   },
   {
+    "name": "Galicia TV América (720p)",
+    "type": "General;Public",
+    "url": "https://america-crtvg.flumotion.com/playlist.m3u8",
+    "img": "https://i.imgur.com/s59AaqG.png"
+  },
+  {
     "name": "History 2 Latin America",
     "type": "Documentary",
     "url": "https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HISTORY2/index.m3u8",
@@ -952,24 +976,6 @@
     "type": "Documentary",
     "url": "https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/NAT_GEO/index.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png"
-  },
-  {
-    "name": "Investiga",
-    "type": "Series",
-    "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf96b8f4f1ca3f0629f4bf1/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c293f99-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=28f850bd-0f1c-4ede-b97c-ebd1d9a28126",
-    "img": "https://i.imgur.com/Sb5adD7.png"
-  },
-  {
-    "name": "Novelisima",
-    "type": "Series",
-    "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380",
-    "img": "https://i.imgur.com/8dUS3Ih.png"
-  },
-  {
-    "name": "Series con Ñ",
-    "type": "Series",
-    "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60fb3087fbbc120007fc46be/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b8988-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8d10604b-577d-49d0-a6bc-03b028c6758f",
-    "img": "https://i.imgur.com/uQfzebn.png"
   },
   {
     "name": "Kanade (1080p)",
