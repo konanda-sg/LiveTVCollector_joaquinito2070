@@ -20,7 +20,7 @@
   {
     "name": "TVI",
     "type": "TV",
-    "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNS8yMDI1IDg6MTA6NSBBTSZoYXNoX3ZhbHVlPTF6NDBxMUFxa3BCVzVJb1liS2xTdEE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0zMGMzNWY5MS00Y2Q0LTRmNDctYmNmZi1mZmViMjg2YTYwNzE=/",
+    "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNS8yMDI1IDQ6Nzo1NyBQTSZoYXNoX3ZhbHVlPW8zaGNRc1MrYlErOHNPUUd5ZlZSNHc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1mMTY1OGNiZS03ZDAxLTRmNWYtOThlMS1jNTBmMTQyYmRiNDM=/",
     "img": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI.png"
   },
   {
@@ -38,7 +38,7 @@
   {
     "name": "CNN Portugal",
     "type": "TV",
-    "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNS8yMDI1IDg6MTA6NiBBTSZoYXNoX3ZhbHVlPVIrUlQ4bzZnREtxMFYxK05mTWN3cmc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0yMDQ0NDY3Ny0xNTJkLTQzZjUtYjYyNy0xZGRmNDY4ODFlMmY=/",
+    "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNS8yMDI1IDQ6Nzo1NyBQTSZoYXNoX3ZhbHVlPU9QbGduYytrTkQ0NXUyRGVjTzE4NEE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD02YTFlZThiYy1mMGUwLTQ0Y2MtYjA4Mi0xZWU2YWY3N2M4NWU=/",
     "img": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png"
   },
   {
@@ -92,7 +92,7 @@
   {
     "name": "TVI Internacional",
     "type": "TV",
-    "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNS8yMDI1IDg6MTA6NyBBTSZoYXNoX3ZhbHVlPTdaTTlYb1NOb2RKZmZBMlA3Wi8yN2c9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1iMTI3MmQ3OS1iY2Y4LTRlZmMtYjdlNi1jOWYzOWE5ZTIzZTY=/",
+    "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNS8yMDI1IDQ6Nzo1OCBQTSZoYXNoX3ZhbHVlPXltUW5nNFZnaVdYWFpOc3NlTDBnMlE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1iZTRkZjJmOS04YTE1LTQxZTUtOGFlMS1jMmFjOGMyMmNlNTQ=/",
     "img": "https://github.com/LITUATUI/M3UPT/raw/main/logos/TVI-Internacional.png"
   },
   {
@@ -5551,21 +5551,9 @@
   },
   {
     "name": "24 Horas Internacional [Geo-blocked]",
-    "type": "News",
+    "type": "News;Public",
     "url": "https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8",
     "img": "https://i.imgur.com/IUVRm5L.png"
-  },
-  {
-    "name": "Polsat News Polityka (1080p) [Geo-blocked]",
-    "type": "News",
-    "url": "https://lb2-e3-20.pluscdn.pl/lv/1511888/322/dash/52a9b70b/live.mpd",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Polsat_News_Polityka_2024_gradient.svg/320px-Polsat_News_Polityka_2024_gradient.svg.png"
-  },
-  {
-    "name": "RTP 3 (720p) [Not 24/7]",
-    "type": "News",
-    "url": "https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8",
-    "img": "https://i.imgur.com/ohXJmiR.png"
   },
   {
     "name": "ADB TV (1080p)",
@@ -5742,12 +5730,6 @@
     "img": "https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/ddf3b88d-ef92-4a57-b234-36ff7c1cea2e-width200-quality90.jpeg"
   },
   {
-    "name": "RTL HD",
-    "type": "Undefined",
-    "url": "https://strm.hdtvizlecanli.com/live/rtl.m3u8",
-    "img": "https://i.imgur.com/94K94k2.png"
-  },
-  {
     "name": "Shades of Black",
     "type": "Undefined",
     "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63920159db0dea0007dd9932/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c0251-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=93b44734-079b-4fec-a58c-6406103089cd",
@@ -5850,12 +5832,6 @@
     "img": "https://i.imgur.com/l5iax42.png"
   },
   {
-    "name": "World Poker Tour (1080p)",
-    "type": "Sports",
-    "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/15d59f2f-80da-4448-9bce-775cc9f470f7/1.m3u8",
-    "img": "https://i.imgur.com/98kLMjj.png"
-  },
-  {
     "name": "Kuriakos Cine (1080p)",
     "type": "Movies",
     "url": "https://w2.manasat.com/kcine/smil:kcine.smil/playlist.m3u8",
@@ -5902,6 +5878,18 @@
     "type": "Outdoor;Travel",
     "url": "https://iptv.peer.biz/live/peertv.m3u8",
     "img": "https://www.peer.biz/peertv-iptv/peer-tv-suedtirol.png"
+  },
+  {
+    "name": "Polsat News Polityka (1080p) [Geo-blocked]",
+    "type": "News",
+    "url": "https://lb2-e3-20.pluscdn.pl/lv/1511888/322/dash/52a9b70b/live.mpd",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Polsat_News_Polityka_2024_gradient.svg/320px-Polsat_News_Polityka_2024_gradient.svg.png"
+  },
+  {
+    "name": "RTP 3 (720p) [Not 24/7]",
+    "type": "News",
+    "url": "https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8",
+    "img": "https://i.imgur.com/ohXJmiR.png"
   },
   {
     "name": "Porto Canal (720p)",
