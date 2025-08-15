@@ -903,11 +903,6 @@ Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
 
 Group: News
-Name: 24 Horas Internacional [Geo-blocked]
-URL: https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
-Logo: https://i.imgur.com/IUVRm5L.png
-Source: https://iptv-org.github.io/iptv/countries/ru.m3u
---------------------------------------------------
 Name: 360° Новости
 URL: https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-03-srt.smil/playlist.m3u8
 Logo: https://i.imgur.com/YXDeX8q.png
@@ -961,6 +956,13 @@ Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 Name: Толк HD
 URL: http://live-tolknews.cdnvideo.ru/tolknews/stream/playlist.m3u8
 Logo: https://i.imgur.com/l7JZ79P.png
+Source: https://iptv-org.github.io/iptv/countries/ru.m3u
+--------------------------------------------------
+
+Group: News;Public
+Name: 24 Horas Internacional [Geo-blocked]
+URL: https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
+Logo: https://i.imgur.com/IUVRm5L.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
 
@@ -1128,11 +1130,6 @@ Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 Name: VITAL Tennis [Not 24/7]
 URL: https://vslive.pw/stream/48685/index.m3u8
 Logo: https://i.imgur.com/RoCOuhJ.png
-Source: https://iptv-org.github.io/iptv/countries/ru.m3u
---------------------------------------------------
-Name: World Poker Tour (1080p)
-URL: https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/15d59f2f-80da-4448-9bce-775cc9f470f7/1.m3u8
-Logo: https://i.imgur.com/98kLMjj.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
 Name: Астрахань.Ru Sport (720p)
@@ -1651,11 +1648,6 @@ Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 Name: Revry (720p)
 URL: https://99d8b4b6.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1JldnJ5X0hMUw/playlist.m3u8
 Logo: https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/ddf3b88d-ef92-4a57-b234-36ff7c1cea2e-width200-quality90.jpeg
-Source: https://iptv-org.github.io/iptv/countries/ru.m3u
---------------------------------------------------
-Name: RTL HD
-URL: https://strm.hdtvizlecanli.com/live/rtl.m3u8
-Logo: https://i.imgur.com/94K94k2.png
 Source: https://iptv-org.github.io/iptv/countries/ru.m3u
 --------------------------------------------------
 Name: SGDF24.RU
