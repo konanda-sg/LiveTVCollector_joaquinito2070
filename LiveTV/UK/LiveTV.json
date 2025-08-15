@@ -1,5 +1,5 @@
 {
-  "date": "2025-08-15 14:03:39",
+  "date": "2025-08-15 22:01:37",
   "channels": {
     "Sitcoms": [
       {
@@ -1256,7 +1256,7 @@
         "logo": "https://www.freeview.co.uk/sites/default/files/styles/255_wide/public/2019-12/yaas-logo250x144.png",
         "group": "Kids",
         "source": "https://iptv-org.github.io/iptv/countries/uk.m3u",
-        "url": "https://jmp2.uk/sam-GB340000289.m3u8"
+        "url": "https://jmp2.uk/stvp-GB340000289"
       }
     ],
     "Comedy": [
@@ -1424,14 +1424,16 @@
         "url": "https://stitcher.pluto.tv/stitch/hls/channel/5ce40f42ba7f7f5ea9518fe1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=4bd8d858-79b2-11f0-ad1b-4648ffba747f"
       }
     ],
-    "News": [
+    "News;Public": [
       {
         "name": "24 Horas Internacional [Geo-blocked]",
         "logo": "https://i.imgur.com/IUVRm5L.png",
-        "group": "News",
+        "group": "News;Public",
         "source": "https://iptv-org.github.io/iptv/countries/uk.m3u",
         "url": "https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8"
-      },
+      }
+    ],
+    "News": [
       {
         "name": "92 News UK (576p)",
         "logo": "https://i.imgur.com/nAldca2.png",
@@ -2443,13 +2445,6 @@
         "url": "https://99d8b4b6.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1JldnJ5X0hMUw/playlist.m3u8"
       },
       {
-        "name": "RTL HD",
-        "logo": "https://i.imgur.com/94K94k2.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/uk.m3u",
-        "url": "https://strm.hdtvizlecanli.com/live/rtl.m3u8"
-      },
-      {
         "name": "S4C (1080p) [Geo-blocked]",
         "logo": "https://i.imgur.com/vrcbnBv.png",
         "group": "Undefined",
@@ -2894,13 +2889,6 @@
         "group": "Sports",
         "source": "https://iptv-org.github.io/iptv/countries/uk.m3u",
         "url": "https://af7a8b4e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfdGFsa1NQT1JUX0hMUw/playlist.m3u8"
-      },
-      {
-        "name": "World Poker Tour (1080p)",
-        "logo": "https://i.imgur.com/98kLMjj.png",
-        "group": "Sports",
-        "source": "https://iptv-org.github.io/iptv/countries/uk.m3u",
-        "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/15d59f2f-80da-4448-9bce-775cc9f470f7/1.m3u8"
       }
     ],
     "Documentary": [
