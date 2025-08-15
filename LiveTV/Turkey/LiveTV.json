@@ -1,5 +1,5 @@
 {
-  "date": "2025-08-15 13:59:14",
+  "date": "2025-08-15 21:57:20",
   "channels": {
     ".🇹🇷 ULUSAL 🇹🇷 .COM/1.M3U ESKİ USUL": [
       {
@@ -35527,14 +35527,16 @@
         "url": "https://canlitvulusal.xyz/live/showmax/index.m3u8"
       }
     ],
-    "News": [
+    "News;Public": [
       {
         "name": "24 Horas Internacional [Geo-blocked]",
         "logo": "https://i.imgur.com/IUVRm5L.png",
-        "group": "News",
+        "group": "News;Public",
         "source": "https://iptv-org.github.io/iptv/countries/tr.m3u",
         "url": "https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8"
-      },
+      }
+    ],
+    "News": [
       {
         "name": "24 TV (1080p)",
         "logo": "https://i.imgur.com/8FO41es.png",
@@ -36259,13 +36261,6 @@
         "group": "Sports",
         "source": "https://iptv-org.github.io/iptv/countries/tr.m3u",
         "url": "https://tv-trtspor2.medya.trt.com.tr/master.m3u8"
-      },
-      {
-        "name": "World Poker Tour (1080p)",
-        "logo": "https://i.imgur.com/98kLMjj.png",
-        "group": "Sports",
-        "source": "https://iptv-org.github.io/iptv/countries/tr.m3u",
-        "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/15d59f2f-80da-4448-9bce-775cc9f470f7/1.m3u8"
       }
     ],
     "Education;Outdoor": [
@@ -36290,7 +36285,7 @@
         "logo": "https://i.imgur.com/rjXDCN5.png",
         "group": "Religious",
         "source": "https://iptv-org.github.io/iptv/countries/tr.m3u",
-        "url": "https://arrafidain.tvplayer.online/arrafidaintv/source2/playlist.m3u8"
+        "url": "https://arrafidain.tvplayer.online/arrafidaintv/source/playlist.m3u8"
       },
       {
         "name": "Al-Zahra TV Turkic (720p)",
@@ -36298,13 +36293,6 @@
         "group": "Religious",
         "source": "https://iptv-org.github.io/iptv/countries/tr.m3u",
         "url": "http://185.234.111.229:8000/play/a00t"
-      },
-      {
-        "name": "Daawah TV (720p) [Not 24/7]",
-        "logo": "https://i.imgur.com/IIpgub8.png",
-        "group": "Religious",
-        "source": "https://iptv-org.github.io/iptv/countries/tr.m3u",
-        "url": "https://cdg8.edge.technocdn.com/daawahtv/live/playlist.m3u8"
       },
       {
         "name": "Diyanet TV (1080p)",
@@ -36524,13 +36512,6 @@
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/tr.m3u",
         "url": "https://99d8b4b6.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1JldnJ5X0hMUw/playlist.m3u8"
-      },
-      {
-        "name": "RTL HD",
-        "logo": "https://i.imgur.com/94K94k2.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/tr.m3u",
-        "url": "https://strm.hdtvizlecanli.com/live/rtl.m3u8"
       },
       {
         "name": "Rumeli TV (576p)",
