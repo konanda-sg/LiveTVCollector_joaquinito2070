@@ -20,7 +20,7 @@
   {
     "name": "TVI",
     "type": "TV",
-    "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNS8yMDI1IDQ6Nzo1NyBQTSZoYXNoX3ZhbHVlPW8zaGNRc1MrYlErOHNPUUd5ZlZSNHc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1mMTY1OGNiZS03ZDAxLTRmNWYtOThlMS1jNTBmMTQyYmRiNDM=/",
+    "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNi8yMDI1IDEyOjMwOjE2IEFNJmhhc2hfdmFsdWU9M3ZMbUtJa3pVN1ZQY1MzdUtQaGZpUT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTQ4NmVmODA5LTAyZWEtNDhmNi1hZDhhLTM0MzgzYTE4ZDUwMw==/",
     "img": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI.png"
   },
   {
@@ -38,7 +38,7 @@
   {
     "name": "CNN Portugal",
     "type": "TV",
-    "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNS8yMDI1IDQ6Nzo1NyBQTSZoYXNoX3ZhbHVlPU9QbGduYytrTkQ0NXUyRGVjTzE4NEE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD02YTFlZThiYy1mMGUwLTQ0Y2MtYjA4Mi0xZWU2YWY3N2M4NWU=/",
+    "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNi8yMDI1IDEyOjMwOjE2IEFNJmhhc2hfdmFsdWU9Tk5vR0pLYlNwaS9ad1oxOGtzYlFUdz09JnZhbGlkbWludXRlcz0xNDQwJmlkPTM1Mzk5Mzc0LWZhN2ItNDhhZS05ZmJhLWY1NmI4MGNiYjJiYw==/",
     "img": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png"
   },
   {
@@ -92,7 +92,7 @@
   {
     "name": "TVI Internacional",
     "type": "TV",
-    "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNS8yMDI1IDQ6Nzo1OCBQTSZoYXNoX3ZhbHVlPXltUW5nNFZnaVdYWFpOc3NlTDBnMlE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1iZTRkZjJmOS04YTE1LTQxZTUtOGFlMS1jMmFjOGMyMmNlNTQ=/",
+    "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xNi8yMDI1IDEyOjMwOjE3IEFNJmhhc2hfdmFsdWU9Z0I1YW5wdzI2ZUhyZFJjbXFkM25nUT09JnZhbGlkbWludXRlcz0xNDQwJmlkPWVhMWI2ZDI0LWZiOGEtNGYwZi04NmMwLWY0NDg0NzU3YmZkZQ==/",
     "img": "https://github.com/LITUATUI/M3UPT/raw/main/logos/TVI-Internacional.png"
   },
   {
@@ -5823,6 +5823,12 @@
     "name": "FashionTV Europe (1080p)",
     "type": "Lifestyle",
     "url": "https://68f1accef2154d2195cae87dec183843.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_FashionTV/playlist.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/512px-Fashion_TV_logo.svg.png"
+  },
+  {
+    "name": "FashionTV Europe HD (720p) [Geo-blocked]",
+    "type": "Lifestyle",
+    "url": "https://viamotionhsi.netplus.ch/live/eds/fashiontv/browser-HLS8/fashiontv.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/512px-Fashion_TV_logo.svg.png"
   },
   {
