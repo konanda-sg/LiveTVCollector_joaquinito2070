@@ -8548,18 +8548,48 @@ Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m
 --------------------------------------------------
 
 Group: SPORTS
+Name: 801 Astro Arena
+URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_ott.mpd
+Logo: https://upload.wikimedia.org/wikipedia/commons/0/0d/Astro_Arena_1_%282024%29.png
+Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: 802 Astro Arena 2
+URL: http://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_ott.mpd
+Logo: https://upload.wikimedia.org/wikipedia/commons/4/4f/Astro_Arena_2_%282024%29.png
+Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: 803 Arena Bola
+URL: https://get.perfecttv.net/jwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bola1fhd|user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+Logo: https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroArenaBola.png
+Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: 803 Astro Arena Bola (SERVER 1)
+URL: https://wahyu1ptv.pages.dev/AstroArenaBola1-HD.m3u8
+Logo: https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroArenaBola.png
+Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: 804 Arena Bola 2
+URL: https://get.perfecttv.net/jwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bola2fhd|user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+Logo: https://i.ibb.co/4Wk65pX/Astro-Arena-Bola-2-2024.png
+Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
 Name: 805 Astro SuperSport UHD
 URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/1600/default_primary.mpd
 Logo: https://upload.wikimedia.org/wikipedia/commons/b/bf/Astro_Sports_UHD_1_%282024%29.png
 Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
+Name: 810 Astro Grandstand
+URL: https://get.perfecttv.net/jwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=grandstandfhd|user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Astro_Grandstand_%282024%29.png/220px-Astro_Grandstand_%282024%29.png
+Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
 Name: 811 Astro Premier League
-URL: https://linearjitp-playback.astro.com.my/dash-wv/dashiso/601/default_primary.mpd
+URL: https://get.perfecttv.net/jwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=epl1hd
 Logo: https://upload.wikimedia.org/wikipedia/commons/8/8f/Astro_Premier_League_1_%282024%29.png
 Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 812 Astro Premier League 2
-URL: https://linearjitp-playback.astro.com.my/dash-wv/dashiso/2104/default_primary.mpd
+URL: https://get.perfecttv.net/jwt.mpd?username=$username&password=$password&channel=epl2hd
 Logo: https://upload.wikimedia.org/wikipedia/commons/b/be/Astro_Premier_League_2_%282024%29.png
 Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
@@ -8574,12 +8604,17 @@ Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Astro_Football_%
 Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 815 Astro Badminton
+URL: https://get.perfecttv.net/jwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=badmintonfhd|user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Astro_Badminton_1_%282024%29.png/220px-Astro_Badminton_1_%282024%29.png
+Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
+Name: 815 Astro Badminton (SERVER 1)
 URL: https://get.perfecttv.net/jwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=badmintonhd|user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Astro_Badminton_1_%282024%29.png/220px-Astro_Badminton_1_%282024%29.png
 Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 816 Astro Badminton 2
-URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/5172/default_ott.mpd
+URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/5172/default_ott
 Logo: https://i.ibb.co/TMyJttT4/Astro-Badminton-2.png
 Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
@@ -8639,26 +8674,6 @@ Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m
 --------------------------------------------------
 
 Group: Sports
-Name: 801 Astro Arena
-URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_ott.mpd
-Logo: https://upload.wikimedia.org/wikipedia/commons/0/0d/Astro_Arena_1_%282024%29.png
-Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u
---------------------------------------------------
-Name: 802 Astro Arena 2
-URL: http://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_ott.mpd
-Logo: https://upload.wikimedia.org/wikipedia/commons/4/4f/Astro_Arena_2_%282024%29.png
-Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u
---------------------------------------------------
-Name: 803 Arena Bola
-URL: https://get.perfecttv.net/jwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bola1fhd|user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
-Logo: https://get.perfecttv.net/logo/arenabolafhd.png
-Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u
---------------------------------------------------
-Name: 804 Arena Bola 2
-URL: https://get.perfecttv.net/jwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bola2fhd|user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
-Logo: https://get.perfecttv.net/logo/arenabola2fhd.png
-Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u
---------------------------------------------------
 Name: 820 BeINSports
 URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/408/default_ott.mpd
 Logo: https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/236_144.png

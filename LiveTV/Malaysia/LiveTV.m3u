@@ -473,14 +473,44 @@ https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/in
 https://tv.ddns.vn/tv/bbcworldnews/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/skAiUxg.png" group-title="News",RTM ASEAN
 https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Astro_Arena_1_%282024%29.png" group-title="Sports",801 Astro Arena
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0d/Astro_Arena_1_%282024%29.png" group-title="SPORTS",801 Astro Arena
 https://linearjitp-playback.astro.com.my/dash-wv/linear/2604/default_ott.mpd
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Astro_Arena_2_%282024%29.png" group-title="Sports",802 Astro Arena 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/Astro_Arena_2_%282024%29.png" group-title="SPORTS",802 Astro Arena 2
 http://linearjitp-playback.astro.com.my/dash-wv/linear/5057/default_ott.mpd
-#EXTINF:-1 tvg-logo="https://get.perfecttv.net/logo/arenabolafhd.png" group-title="Sports",803 Arena Bola
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroArenaBola.png" group-title="SPORTS",803 Arena Bola
 https://get.perfecttv.net/jwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bola1fhd|user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
-#EXTINF:-1 tvg-logo="https://get.perfecttv.net/logo/arenabola2fhd.png" group-title="Sports",804 Arena Bola 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroArenaBola.png" group-title="SPORTS",803 Astro Arena Bola (SERVER 1)
+https://wahyu1ptv.pages.dev/AstroArenaBola1-HD.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/4Wk65pX/Astro-Arena-Bola-2-2024.png" group-title="SPORTS",804 Arena Bola 2
 https://get.perfecttv.net/jwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bola2fhd|user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Astro_Sports_UHD_1_%282024%29.png" group-title="SPORTS",805 Astro SuperSport UHD
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1600/default_primary.mpd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Astro_Grandstand_%282024%29.png/220px-Astro_Grandstand_%282024%29.png" group-title="SPORTS",810 Astro Grandstand
+https://get.perfecttv.net/jwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=grandstandfhd|user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Astro_Premier_League_1_%282024%29.png" group-title="SPORTS",811 Astro Premier League
+https://get.perfecttv.net/jwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=epl1hd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Astro_Premier_League_2_%282024%29.png" group-title="SPORTS",812 Astro Premier League 2
+https://get.perfecttv.net/jwt.mpd?username=$username&password=$password&channel=epl2hd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pnJGFJg/Astro-Premier-League-3.webp" group-title="SPORTS",813 Astro Premier League 3
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5108/default_ott
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Astro_Football_%282024%29.png/220px-Astro_Football_%282024%29.png" group-title="SPORTS",814 Astro Football
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default_ott.mpd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Astro_Badminton_1_%282024%29.png/220px-Astro_Badminton_1_%282024%29.png" group-title="SPORTS",815 Astro Badminton
+https://get.perfecttv.net/jwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=badmintonfhd|user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Astro_Badminton_1_%282024%29.png/220px-Astro_Badminton_1_%282024%29.png" group-title="SPORTS",815 Astro Badminton (SERVER 1)
+https://get.perfecttv.net/jwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=badmintonhd|user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TMyJttT4/Astro-Badminton-2.png" group-title="SPORTS",816 Astro Badminton 2
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5172/default_ott
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Astro_Sports_Plus_1_%282024%29.png" group-title="SPORTS",817 Astro Sports Plus
+https://linearjitp-playback.astro.com.my/dash-wv/dashiso/5171/default_ott.mpd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Astro_Premier_League_1_%282024%29.png" group-title="SPORTS",818 Astro PremierLeague 4
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5111/default_ott
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Astro_Premier_League_1_%282024%29.png" group-title="SPORTS",819 Astro PremierLeague 5
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5113/default_ott
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Astro_Cricket_%282024%29.png" group-title="SPORTS",832 Astro Cricket
+https://linears2-playback.astro.com.my/vsg/41n1SEteFsfv0OLh6SdIG_GVAFhiB8ENtjicO5PLO6U7E=yc6n/dash-wv/jitp-dashisowm/2504/default_ott.mpd
+#EXTINF:-1 tvg-logo="https://iili.io/JhkQEp1.png" group-title="SPORTS",SSC 1
+https://ssc-1-enc.edgenextcdn.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/236_144.png" group-title="Sports",820 BeINSports
 https://linearjitp-playback.astro.com.my/dash-wv/linear/408/default_ott.mpd
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/466_144.png" group-title="Sports",821 beINSports 2
@@ -555,30 +585,6 @@ https://live03p-seg.msf.cdn.mediaset.net/live/ch-i1/i1-dash-widevine.isml/manife
 https://l02.dp.sooka.my/2504/linear/index.mpd|authorization=Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpYXQiOjE3NDkzNDA4MjMsImlzcyI6IlZSIiwiZXhwIjoxNzQ5NDIxODAwLCJ3bXZlciI6Mywid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjMsIndtdG1pZHZlciI6NCwid21pZGxlbiI6NTEyLCJ3bW9waWQiOjMyLCJ3bWlkIjoiNzk4MTg0ZjgtMThjZC00NjdlLWFlNWYtMGQ0NDBiNjE5YTlkIiwiZmlsdGVyIjoiKHR5cGU9PVwidmlkZW9cIiYmRGlzcGxheUhlaWdodDw9MjE2MCl8fCh0eXBlPT1cImF1ZGlvXCImJmZvdXJDQyE9XCJhYy0zXCIpfHwodHlwZSE9XCJ2aWRlb1wiJiZ0eXBlIT1cImF1ZGlvXCIpIn0.4tDQ_CR2_-Zgla_mqMSXfslIi_f773iY3yP4LpaF2DY
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VyYo7NF.png" group-title="Sports",Egg Network (720p)
 http://210.210.155.37/uq2663/h/h22/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bf/Astro_Sports_UHD_1_%282024%29.png" group-title="SPORTS",805 Astro SuperSport UHD
-https://linearjitp-playback.astro.com.my/dash-wv/linear/1600/default_primary.mpd
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Astro_Premier_League_1_%282024%29.png" group-title="SPORTS",811 Astro Premier League
-https://linearjitp-playback.astro.com.my/dash-wv/dashiso/601/default_primary.mpd
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Astro_Premier_League_2_%282024%29.png" group-title="SPORTS",812 Astro Premier League 2
-https://linearjitp-playback.astro.com.my/dash-wv/dashiso/2104/default_primary.mpd
-#EXTINF:-1 tvg-logo="https://i.ibb.co/pnJGFJg/Astro-Premier-League-3.webp" group-title="SPORTS",813 Astro Premier League 3
-http://linearjitp-playback.astro.com.my/dash-wv/linear/5108/default_ott
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Astro_Football_%282024%29.png/220px-Astro_Football_%282024%29.png" group-title="SPORTS",814 Astro Football
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2506/default_ott.mpd
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Astro_Badminton_1_%282024%29.png/220px-Astro_Badminton_1_%282024%29.png" group-title="SPORTS",815 Astro Badminton
-https://get.perfecttv.net/jwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=badmintonhd|user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
-#EXTINF:-1 tvg-logo="https://i.ibb.co/TMyJttT4/Astro-Badminton-2.png" group-title="SPORTS",816 Astro Badminton 2
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5172/default_ott.mpd
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Astro_Sports_Plus_1_%282024%29.png" group-title="SPORTS",817 Astro Sports Plus
-https://linearjitp-playback.astro.com.my/dash-wv/dashiso/5171/default_ott.mpd
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Astro_Premier_League_1_%282024%29.png" group-title="SPORTS",818 Astro PremierLeague 4
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5111/default_ott
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Astro_Premier_League_1_%282024%29.png" group-title="SPORTS",819 Astro PremierLeague 5
-https://linearjitp-playback.astro.com.my/dash-wv/linear/5113/default_ott
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/Astro_Cricket_%282024%29.png" group-title="SPORTS",832 Astro Cricket
-https://linears2-playback.astro.com.my/vsg/41n1SEteFsfv0OLh6SdIG_GVAFhiB8ENtjicO5PLO6U7E=yc6n/dash-wv/jitp-dashisowm/2504/default_ott.mpd
-#EXTINF:-1 tvg-logo="https://iili.io/JhkQEp1.png" group-title="SPORTS",SSC 1
-https://ssc-1-enc.edgenextcdn.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/17_144.png" group-title="Radio",HITZ FM
 https://linearjitp-playback.astro.com.my/dash-wv/linear/121/default_ott.mpd
 #EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/15_144.png" group-title="Radio",MY FM
