@@ -1,5 +1,5 @@
 {
-  "date": "2025-08-16 06:09:23",
+  "date": "2025-08-16 13:30:55",
   "channels": {
     "STREAMING": [
       {
@@ -856,7 +856,7 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "notizie",
         "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/heads/master/output/rakuten.m3u",
-        "url": "https://dab794fcc38647efbf5f86bf01fa5c21.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6570/bitok/eyJzdGlkIjoiYjQ3YzQ5YzMtZGM0YS00OTExLThjMDktOTBiODA3N2Q4M2VkIiwibWt0IjoiaXQiLCJjaCI6NjU3MCwicHRmIjo1fQ%3D%3D/25674/euronews-it.m3u8"
+        "url": "https://dab794fcc38647efbf5f86bf01fa5c21.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6570/bitok/eyJzdGlkIjoiODBjYzY4MzYtNWVmYy00YmY3LThmNmUtYjBjM2NjOTU4OWIyIiwibWt0IjoiaXQiLCJjaCI6NjU3MCwicHRmIjo1fQ%3D%3D/25674/euronews-it.m3u8"
       },
       {
         "name": "The Reuters 60",
@@ -898,7 +898,7 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "notizie",
         "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/heads/master/output/rakuten.m3u",
-        "url": "https://c3c275b999764df8a2dd55ffe2996818.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576/bitok/eyJzdGlkIjoiNmZjOWU0MDItMDgxYy00MWUxLWFmM2ItMTlhMTE3MTcyZGYyIiwibWt0IjoiaXQiLCJjaCI6NjU4NywicHRmIjo1fQ%3D%3D/26036/africanews-en.m3u8"
+        "url": "https://c3c275b999764df8a2dd55ffe2996818.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576/bitok/eyJzdGlkIjoiODkwMzA0NzktMGJhZi00YjU5LWFmZjgtODRhNjczNmUwZDdhIiwibWt0IjoiaXQiLCJjaCI6NjU4NywicHRmIjo1fQ%3D%3D/26036/africanews-en.m3u8"
       },
       {
         "name": "CGTN",
@@ -7949,6 +7949,611 @@
         "url": "https://atemecdnbalancer-voe.sysln.id/live/eds/ZhejiangTV/mpd/ZhejiangTV.mpd"
       }
     ],
+    "VTV": [
+      {
+        "name": "VTV1",
+        "logo": "https://i.ytimg.com/vi/dGohEWXz7Sk/maxresdefault.jpg",
+        "group": "VTV",
+        "source": "https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u",
+        "url": "https://sgchill.io.vn/v1/b521/2/index.m3u8"
+      },
+      {
+        "name": "VTV2",
+        "logo": "https://i.ytimg.com/vi/Cim-egsLkqw/maxresdefault.jpg",
+        "group": "VTV",
+        "source": "https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u",
+        "url": "https://sgchill.io.vn/v1/b521/3/index.m3u8"
+      },
+      {
+        "name": "VTV2 (Thử Nghiệm Quic)",
+        "logo": "https://i.ytimg.com/vi/Cim-egsLkqw/maxresdefault.jpg",
+        "group": "VTV",
+        "source": "https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u",
+        "url": "https://sgchill.io.vn/v1/b521/9921/index.m3u8"
+      },
+      {
+        "name": "VTV3",
+        "logo": "https://i.ytimg.com/vi/4jr8Y13NSME/maxresdefault.jpg",
+        "group": "VTV",
+        "source": "https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u",
+        "url": "https://sgchill.io.vn/v1/b521/4/index.m3u8"
+      },
+      {
+        "name": "VTV4",
+        "logo": "https://i.ytimg.com/vi/Opv4PmUyi8g/maxresdefault.jpg",
+        "group": "VTV",
+        "source": "https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u",
+        "url": "https://sgchill.io.vn/v1/b521/108/index.m3u8"
+      },
+      {
+        "name": "VTV5",
+        "logo": "https://s12811.cdn.mytvnet.vn/vimages/b5/5c/cc/c2/22/29/b5cc2-pvtv5hd-channel-unkn.png",
+        "group": "VTV",
+        "source": "https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u",
+        "url": "https://live.fptplay53.net/epzch2/vtv5hd_abr.smil/chunklist_b4200000.m3u8"
+      },
+      {
+        "name": "VTV5 Tây Nam Bộ",
+        "logo": "https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/maxresdefault.jpg",
+        "group": "VTV",
+        "source": "https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u",
+        "url": "https://live.fptplay53.net/fnxhd1/vtv5tnb_vhls.smil/chunklist_b5000000.m3u8"
+      },
+      {
+        "name": "VTV5 Tây Nguyên",
+        "logo": "https://s7730.cdn.mytvnet.vn/vimages/d4/46/61/1c/cf/f6/d461c-pvtv5tynguynhd-channel-unkn.png",
+        "group": "VTV",
+        "source": "https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u",
+        "url": "https://live.fptplay53.net/fnxhd1/vtv5taynguyen_vhls.smil/chunklist_b5000000.m3u8"
+      },
+      {
+        "name": "VTV Cần Thơ",
+        "logo": "https://i.ytimg.com/vi/u3oLNrB_WDM/maxresdefault.jpg",
+        "group": "VTV",
+        "source": "https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u",
+        "url": "https://live.fptplay53.net/fnxhd1/vtvcantho_vhls.smil/chunklist_b5000000.m3u8"
+      },
+      {
+        "name": "VTV7",
+        "logo": "https://i.ytimg.com/vi/hWt5JN_B66Y/maxresdefault.jpg",
+        "group": "VTV",
+        "source": "https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u",
+        "url": "https://live.fptplay53.net/fnxhd1/vtv7hd_vhls.smil/chunklist_b5000000.m3u8"
+      },
+      {
+        "name": "VTV8",
+        "logo": "https://i.ytimg.com/vi/UlvAQNOuZwo/hq720.jpg",
+        "group": "VTV",
+        "source": "https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u",
+        "url": "https://live.fptplay53.net/epzhd1/vtv8hd_vhls.smil/chunklist_b5000000.m3u8"
+      },
+      {
+        "name": "VTV9",
+        "logo": "https://i.ytimg.com/vi/APl10jiVAlQ/maxresdefault.jpg",
+        "group": "VTV",
+        "source": "https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u",
+        "url": "https://live.fptplay53.net/fnxhd1/vtv9_vhls.smil/chunklist_b5000000.m3u8"
+      }
+    ],
+    "HTV": [
+      {
+        "name": "HTV1",
+        "logo": "https://s7771.cdn.mytvnet.vn/vimages/8c/ce/ee/e7/79/98/8cee7-phtv1hd-channel-unkn.png",
+        "group": "HTV",
+        "source": "https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u",
+        "url": "https://sgchill.io.vn/v1/b521/190/index.m3u8"
+      },
+      {
+        "name": "HTV2 - Vie Channel",
+        "logo": "https://s7768.cdn.mytvnet.vn/vimages/a0/07/73/39/9e/e6/a0739-phtv2hd-channel-unkn.png",
+        "group": "HTV",
+        "source": "https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u",
+        "url": "https://sgchill.io.vn/v1/b522/htv2/index.m3u8"
+      },
+      {
+        "name": "HTV3 - Heo TV (Hplus)",
+        "logo": "https://s7771.cdn.mytvnet.vn/vimages/b4/4c/c3/36/68/86/b4c36-phtv3hd-channel-unkn.png",
+        "group": "HTV",
+        "source": "https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u",
+        "url": "https://sgchill.io.vn/v1/b521/192/index.m3u8"
+      },
+      {
+        "name": "HTV Key",
+        "logo": "https://s7771.cdn.mytvnet.vn/vimages/2a/a0/00/07/7b/b1/2a007-phtvkeyhd-channel-unkn.png",
+        "group": "HTV",
+        "source": "https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u",
+        "url": "https://sgchill.io.vn/v1/b521/9/index.m3u8"
+      },
+      {
+        "name": "HTV7 HD",
+        "logo": "https://img-zlr1.tv360.vn/image1/2020_09_23/1600822381421/47d2615f6141_640_360.png",
+        "group": "HTV",
+        "source": "https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u",
+        "url": "https://vc.101vn.com/htv/htvcmb.php?id=256"
+      },
+      {
+        "name": "HTV9 HD",
+        "logo": "https://img-zlr1.tv360.vn/image1/2020_09_23/1600822390705/a9fc59138d3b_640_360.png",
+        "group": "HTV",
+        "source": "https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u",
+        "url": "https://live.fptplay53.net/epzhd1/htv9hd_vhls.smil/chunklist_b5000000.m3u8"
+      },
+      {
+        "name": "HTV Thể Thao",
+        "logo": "https://img-zlr1.tv360.vn/image1/2023/04/03/16/1680514594557/ab2557f0b015_640_360.png",
+        "group": "HTV",
+        "source": "https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u",
+        "url": "https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist_b5000000.m3u8"
+      }
+    ],
+    "HTVC": [
+      {
+        "name": "HTVC Thuần Việt",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Htvcthuanviet.jpg",
+        "group": "HTVC",
+        "source": "https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u",
+        "url": "https://live.fptplay53.net/epzhd1/htvcthuanviethd_vhls.smil/chunklist.m3u8"
+      },
+      {
+        "name": "HTVC Gia đình HD",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "HTVC",
+        "source": "https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u",
+        "url": "https://live.fptplay53.net/epzhd1/htvcgiadinh_vhls.smil/chunklist.m3u8"
+      },
+      {
+        "name": "HTVC Phụ nữ HD",
+        "logo": "https://img-zlr1.tv360.vn/image1/2020_09_23/1600823432136/86f5cc6afcf6_640_360.png",
+        "group": "HTVC",
+        "source": "https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u",
+        "url": "https://live.fptplay53.net/epzhd1/htvcphunu_vhls.smil/chunklist.m3u8"
+      },
+      {
+        "name": "HTVC Du lịch Cuộc sống HD",
+        "logo": "https://img-zlr1.tv360.vn/image1/2020/12/25/08/1608860643587/bb01290ccde1_640_360.png",
+        "group": "HTVC",
+        "source": "https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u",
+        "url": "https://live.fptplay53.net/epzhd1/htvcdulich_vhls.smil/chunklist_b5000000.m3u8"
+      },
+      {
+        "name": "HTVC Ca nhạc HD",
+        "logo": "https://img-zlr1.tv360.vn/image1/2020_09_23/1600823449894/0834e6a36f71_640_360.png",
+        "group": "HTVC",
+        "source": "https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u",
+        "url": "https://live.fptplay53.net/epzhd1/htvcmusic_vhls.smil/chunklist.m3u8"
+      },
+      {
+        "name": "HTVC Phim HD",
+        "logo": "https://img-zlr1.tv360.vn/image1/2021/07/01/15/1625129239161/48401c7a9ce3_640_360.png",
+        "group": "HTVC",
+        "source": "https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u",
+        "url": "https://live.fptplay53.net/epzhd1/htvcmovieshd_vhls.smil/chunklist.m3u8"
+      },
+      {
+        "name": "HTVC Plus HD",
+        "logo": "https://img-zlr1.tv360.vn/image1/2020/12/25/10/160886616399/c002b68d052e_640_360.png",
+        "group": "HTVC",
+        "source": "https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u",
+        "url": "https://live.fptplay53.net/epzhd1/htvcplus_vhls.smil/chunklist.m3u8"
+      }
+    ],
+    "🌐| Thiết yếu": [
+      {
+        "name": "ANTV HD",
+        "logo": "https://img-zlr1.tv360.vn/image1/2020_09_23/1600822516608/b33963dc0df8_640_360.png",
+        "group": "🌐| Thiết yếu",
+        "source": "https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u",
+        "url": "https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist_b5000000.m3u8"
+      },
+      {
+        "name": "QPVN HD",
+        "logo": "https://i.ytimg.com/vi/sFLUmdwp0Z8/maxresdefault.jpg",
+        "group": "🌐| Thiết yếu",
+        "source": "https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u",
+        "url": "https://live.fptplay53.net/fnxhd2/quocphongvnhd_vhls.smil/chunklist_b5000000.m3u8"
+      }
+    ],
+    "Địa phương": [
+      {
+        "name": "DRT HD - Báo và Truyền Hình Đắk Lắk",
+        "logo": "https://img-zlr1.tv360.vn/image1/2025/06/30/11/1751256466336/bda77a407209_640_360.png",
+        "group": "Địa phương",
+        "source": "https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u",
+        "url": "https://sgchill.io.vn/v1/b521/51/index.m3u8"
+      },
+      {
+        "name": "THP HD - Báo và Truyền Hình Hải Phòng",
+        "logo": "https://upload.wikimedia.org/wikipedia/vi/9/90/THP-Logo.png",
+        "group": "Địa phương",
+        "source": "https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u",
+        "url": "https://sgchill.io.vn/v1/b521/60/index.m3u8"
+      },
+      {
+        "name": "THP+ HD - Báo và Truyền Hình Hải Phòng",
+        "logo": "https://img-zlr1.tv360.vn/image1/2024/10/07/14/1728286589630/5fdc1e65fc1b_640_360.png",
+        "group": "Địa phương",
+        "source": "https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u",
+        "url": "https://sgchill.io.vn/v1/b521/9832/index.m3u8"
+      },
+      {
+        "name": "THTPCT1 HD - Báo và Truyền Hình Thành Phố Cần Thơ",
+        "logo": "https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/THTPCT1.png",
+        "group": "Địa phương",
+        "source": "https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u",
+        "url": "https://sgchill.io.vn/v1/b521/47/index.m3u8"
+      },
+      {
+        "name": "THTPCT2 HD - Báo và Truyền Hình Thành Phố Cần Thơ",
+        "logo": "https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/THTPCT2HD.png",
+        "group": "Địa phương",
+        "source": "https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u",
+        "url": "https://sgchill.io.vn/v1/b521/61/index.m3u8"
+      },
+      {
+        "name": "THTPCT3 HD - Báo và Truyền Hình Thành Phố Cần Thơ",
+        "logo": "https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/THTPCT3HD.png",
+        "group": "Địa phương",
+        "source": "https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u",
+        "url": "https://sgchill.io.vn/v1/b522/stv1/index.m3u8"
+      },
+      {
+        "name": "THTPCT3 HD - Báo và Truyền Hình Thành Phố Cần Thơ (Luồng FPT PLAY)",
+        "logo": "https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/THTPCT3HD.png",
+        "group": "Địa phương",
+        "source": "https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u",
+        "url": "https://live.fptplay53.net/epzsd1/cantho03_hls.smil/chunklist_b2500000.m3u8"
+      },
+      {
+        "name": "STV HD - Báo và Truyền Hình Sơn La",
+        "logo": "https://media.sonlatv.vn/upload/files/image/Back-TH-1.jpg",
+        "group": "Địa phương",
+        "source": "https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u",
+        "url": "https://cdn.sonlatv.vn/live/28595222e707a364251b8724717894baa46/chunklist.m3u8"
+      },
+      {
+        "name": "PTV HD - Báo và Truyền Hình Phú Thọ",
+        "logo": "https://img-zlr1.tv360.vn/image1/2023/05/16/02/168417957456/7016ca1be5fa_640_360.png",
+        "group": "Địa phương",
+        "source": "https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u",
+        "url": "https://xem.hoiquan.Click/CoBan/phu-tho/TuyetDoiKhongKinhDoanh.m3u8"
+      },
+      {
+        "name": "ĐNNRTV1 - Báo và Truyền Hình Đồng Nai",
+        "logo": "https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/ĐNNRTV1HD.png",
+        "group": "Địa phương",
+        "source": "https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u",
+        "url": "https://sgchill.io.vn/v1/b521/53/index.m3u8"
+      },
+      {
+        "name": "ĐRNTV2 - Báo và Truyền Hình Đồng Nai",
+        "logo": "https://img-zlr1.tv360.vn/image1/2024/10/07/14/1728286716831/f297eef035cf_640_360.png",
+        "group": "Địa phương",
+        "source": "https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u",
+        "url": "https://xem.hoiquan.Click/CoBan/dong-nai-2/TuyetDoiKhongKinhDoanh.m3u8"
+      },
+      {
+        "name": "Hà Nội 1 HD - Đài Hà Nội",
+        "logo": "https://img-zlr1.tv360.vn/image1/2024/10/07/17/1728296855302/149490571e60_640_360.png",
+        "group": "Địa phương",
+        "source": "https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u",
+        "url": "https://xem.hoiquan.Click/CoBan/ha-noi-1/TuyetDoiKhongKinhDoanh.m3u8"
+      },
+      {
+        "name": "Hà Nội 2 HD - Đài Hà Nội",
+        "logo": "https://img-zlr1.tv360.vn/image1/2024/10/07/16/1728293033798/d23973063be9_640_360.png",
+        "group": "Địa phương",
+        "source": "https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u",
+        "url": "https://xem.hoiquan.Click/CoBan/ha-noi-2/TuyetDoiKhongKinhDoanh.m3u8"
+      },
+      {
+        "name": "Hà Nội 2 UHD - Đài Hà Nội",
+        "logo": "https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/hanoi2uhd.png",
+        "group": "Địa phương",
+        "source": "https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u",
+        "url": "https://cloudstreamhntv.tek4tv.vn/events/HN2/chunklist_w1097979085.m3u8"
+      },
+      {
+        "name": "TTV HD - Báo và Truyền Hình Thanh Hóa",
+        "logo": "https://img-zlr1.tv360.vn/image1/2020_09_23/1600821878406/58ff77e57117_640_360.png",
+        "group": "Địa phương",
+        "source": "https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u",
+        "url": "https://xem.hoiquan.Click/CoBan/thanh-hoa/TuyetDoiKhongKinhDoanh.m3u8"
+      },
+      {
+        "name": "THP3 HD - Báo và Truyền Hình Hải Phòng",
+        "logo": "https://haiduongtv.mediatech.vn/upload/files/logo/Logo_THP3_chuan.png",
+        "group": "Địa phương",
+        "source": "https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u",
+        "url": "https://xem.hoiquan.Click/CoBan/hai-duong/TuyetDoiKhongKinhDoanh.m3u8"
+      },
+      {
+        "name": "QTV1 HD - Trung tâm truyền thông Quảng Ninh",
+        "logo": "https://media.baoquangninh.vn/upload/files/logo/QTV1.jpg",
+        "group": "Địa phương",
+        "source": "https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u",
+        "url": "https://live.baoquangninh.vn/qtvlive/tv1live.m3u8"
+      },
+      {
+        "name": "QTV3 HD - Trung tâm truyền thông Quảng Ninh",
+        "logo": " https://i.ytimg.com/vi/cTNt-U1akXw/hq720.jpg",
+        "group": "Địa phương",
+        "source": "https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u",
+        "url": "https://live.baoquangninh.vn/qtvlive/tv3live.m3u8"
+      },
+      {
+        "name": "THVL1 HD - Báo và Truyền Hình Vĩnh Long",
+        "logo": "https://img-zlr1.tv360.vn/image1/2024/10/07/17/1728296900530/38c6e7b9cb86_640_360.png",
+        "group": "Địa phương",
+        "source": "https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u",
+        "url": "https://live.fptplay53.net/epzch2/vinhlong1_abr.smil/chunklist_b4200000.m3u8"
+      },
+      {
+        "name": "THVL2 HD - Báo và Truyền Hình Vĩnh Long",
+        "logo": "https://i.ytimg.com/vi/0W7Nvg-dQjY/maxresdefault.jpg",
+        "group": "Địa phương",
+        "source": "https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u",
+        "url": "https://live.fptplay53.net/epzhd2/vinhlong2_vhls.smil/chunklist_b5000000.m3u8"
+      },
+      {
+        "name": "THVL2 HD - Báo và Truyền Hình Vĩnh Long",
+        "logo": "https://i.ytimg.com/vi/0W7Nvg-dQjY/maxresdefault.jpg",
+        "group": "Địa phương",
+        "source": "https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u",
+        "url": "https://xem.hoiquan.Click/CoBan/tra-vinh/TuyetDoiKhongKinhDoanh.m3u8"
+      },
+      {
+        "name": "THVL3 HD - Báo và Truyền Hình Vĩnh Long",
+        "logo": "https://img-zlr1.tv360.vn/image1/2024/10/07/16/1728294189124/f518bf3b705d_640_360.png",
+        "group": "Địa phương",
+        "source": "https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u",
+        "url": "https://live.fptplay53.net/epzhd2/vinhlong3_vhls.smil/chunklist_b5000000.m3u8"
+      },
+      {
+        "name": "THVL4 HD - Báo và Truyền Hình Vĩnh Long",
+        "logo": "https://img-zlr1.tv360.vn/image1/2024/10/07/16/1728294229199/5f70465aa342_640_360.png",
+        "group": "Địa phương",
+        "source": "https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u",
+        "url": "https://live.fptplay53.net/epzhd2/vinhlong4hd_vhls.smil/chunklist_b5000000.m3u8"
+      },
+      {
+        "name": "ATV2 | Báo và Truyền Hình An Giang",
+        "logo": "https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/ATV2.jpg",
+        "group": "Địa phương",
+        "source": "https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u",
+        "url": "https://xem.hoiquan.Click/CoBan/an-giang/TuyetDoiKhongKinhDoanh.m3u8"
+      },
+      {
+        "name": "BRT - Đài Truyền Hình Bà Rịa Vũng Tàu",
+        "logo": "https://images.fptplay53.net/media/channels/icon_channel_ba-ria-vung-tau_165655617345.png",
+        "group": "Địa phương",
+        "source": "https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u",
+        "url": "https://xem.hoiquan.Click/CoBan/vung-tau/TuyetDoiKhongKinhDoanh.m3u8"
+      },
+      {
+        "name": "NBTV - Báo và Truyền Hình Ninh Bình",
+        "logo": "https://img-zlr1.tv360.vn/image1/2024/10/07/16/1728293640310/9aea44bf0f8d_640_360.png",
+        "group": "Địa phương",
+        "source": "https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u",
+        "url": "https://live.mediatech.vn/live/28597f8fd7ea5064d0f84ab00b3699dfd86/chunklist.m3u8"
+      },
+      {
+        "name": "NTV - Báo và Truyền Hình Nghệ An",
+        "logo": "https://img-zlr1.tv360.vn/image1/2020_09_23/1600821989411/75bfb004e210_640_360.png",
+        "group": "Địa phương",
+        "source": "https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u",
+        "url": "https://xem.hoiquan.Click/CoBan/nghe-an/TuyetDoiKhongKinhDoanh.m3u8"
+      },
+      {
+        "name": "TTV2 - Báo và Truyền Hình Tây Ninh",
+        "logo": "https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/TTV2.png",
+        "group": "Địa phương",
+        "source": "https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u",
+        "url": "https://xem.hoiquan.Click/CoBan/tay-ninh/TuyetDoiKhongKinhDoanh.m3u8"
+      },
+      {
+        "name": "CTV HD - Báo và Truyền Hình Cà Mau",
+        "logo": "https://i.ytimg.com/vi/ESIlLqXKqyM/maxresdefault.jpg",
+        "group": "Địa phương",
+        "source": "https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u",
+        "url": "https://xem.TruyenHin.Click/CoBan/bac-lieu/TuyetDoiKhongKinhDoanh.m3u8"
+      },
+      {
+        "name": "GTV - Báo và Truyền Hình Gia Lai",
+        "logo": "https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/GTVGIALAI.png",
+        "group": "Địa phương",
+        "source": "https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u",
+        "url": "https://xem.hoiquan.Click/CoBan/binh-dinh/TuyetDoiKhongKinhDoanh.m3u8"
+      },
+      {
+        "name": "KTV HD - Báo và Truyền Hình Khánh Hòa",
+        "logo": "https://img-zlr1.tv360.vn/image1/2023/05/16/02/1684179436941/f2452666b507_640_360.png",
+        "group": "Địa phương",
+        "source": "https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u",
+        "url": "https://xem.hoiquan.Click/CoBan/khanh-hoa/TuyetDoiKhongKinhDoanh.m3u8"
+      },
+      {
+        "name": "Huế TV - Báo và Truyền Hình Huế",
+        "logo": "https://i.imgur.com/q5MBibm.png",
+        "group": "Địa phương",
+        "source": "https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u",
+        "url": "https://live.trt.com.vn/TRT-Online/chunklist.m3u8"
+      },
+      {
+        "name": "TTV1 - Báo và Truyền Hình Tây Ninh",
+        "logo": "https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/TTV1.jpg",
+        "group": "Địa phương",
+        "source": "https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u",
+        "url": "https://xem.hoiquan.Click/CoBan/long-an/TuyetDoiKhongKinhDoanh.m3u8"
+      },
+      {
+        "name": "THĐT1 HD - Báo và Truyền Hình Đồng Tháp",
+        "logo": "https://img-zlr1.tv360.vn/image1/2024/10/07/16/1728292788373/2f4bec83df66_640_360.png",
+        "group": "Địa phương",
+        "source": "https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u",
+        "url": "https://live.fptplay53.net/epzsd1/dongthap_vhls.smil/chunklist_b5000000.m3u8"
+      },
+      {
+        "name": "THĐT2 - Báo và Truyền Hình Đồng Tháp",
+        "logo": "https://images.fptplay53.net/media/channels/icon_channel_mien-tay-thdt2_165666993738.png",
+        "group": "Địa phương",
+        "source": "https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u",
+        "url": "https://live.fptplay53.net/epzsd1/dongthaphd_vhls.smil/chunklist_b5000000.m3u8"
+      },
+      {
+        "name": "LTV2 HD - Báo và Truyền Hình Lâm Đồng",
+        "logo": "https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/LTV2HD.png",
+        "group": "Địa phương",
+        "source": "https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u",
+        "url": "https://xem.hoiquan.Click/CoBan/binh-thuan/TuyetDoiKhongKinhDoanh.m3u8"
+      },
+      {
+        "name": "LTV3 HD - Báo và Truyền Hình Lâm Đồng",
+        "logo": "https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/LTV3HD.png",
+        "group": "Địa phương",
+        "source": "https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u",
+        "url": "https://xem.hoiquan.Click/CoBan/dac-nong/TuyetDoiKhongKinhDoanh.m3u8"
+      },
+      {
+        "name": "ĐNRT1 - Báo và Truyền Hình Đà Nẵng",
+        "logo": "https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/DNRT1_logo.png",
+        "group": "Địa phương",
+        "source": "https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u",
+        "url": "https://xem.TruyenHin.Click/CoBan/da-nang/TuyetDoiKhongKinhDoanh.m3u8"
+      },
+      {
+        "name": "ĐNRT2 - Báo và Truyền Hình Đà Nẵng",
+        "logo": "https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/DNRT2_logo.png",
+        "group": "Địa phương",
+        "source": "https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u",
+        "url": "https://xem.hoiquan.Click/CoBan/quang-nam/TuyetDoiKhongKinhDoanh.m3u8"
+      },
+      {
+        "name": "ATV1 - Báo và Truyền Hình An Giang",
+        "logo": "https://angiangtv.vn/wp-content/uploads/2025/06/H4.png",
+        "group": "Địa phương",
+        "source": "https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u",
+        "url": "https://tv.kgtv.vn/live/kgtv/kgtv.m3u8"
+      },
+      {
+        "name": "ATV3 - Báo và Truyền Hình An Giang",
+        "logo": "https://angiangtv.vn/wp-content/uploads/2025/06/H5.png",
+        "group": "Địa phương",
+        "source": "https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u",
+        "url": "https://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8"
+      },
+      {
+        "name": "LSTV HD - Báo và Truyền Hình Lạng Sơn",
+        "logo": "https://langsontv.vn/templates/frontend/lstv/Assets/img/video_bg.png",
+        "group": "Địa phương",
+        "source": "https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u",
+        "url": "https://stream.langsontv.vn/live/285c78da0c246524c90917842f8de03bd21/chunklist.m3u8"
+      },
+      {
+        "name": "QTTV - Báo và Truyền Hình Quảng Trị",
+        "logo": "https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/QTTV.jpg",
+        "group": "Địa phương",
+        "source": "https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u",
+        "url": "https://xem.hoiquan.Click/CoBan/quang-tri/TuyetDoiKhongKinhDoanh.m3u8"
+      },
+      {
+        "name": "BHTTV - Báo Hà Tĩnh",
+        "logo": "https://hatinhtv.vn/Media/FileManager/thumbbht/2cc3530c808035de6c91.jpg",
+        "group": "Địa phương",
+        "source": "https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u",
+        "url": "https://xem.hoiquan.Click/CoBan/ha-tinh/TuyetDoiKhongKinhDoanh.m3u8"
+      },
+      {
+        "name": "BTV - Báo và Truyền Hình Bắc Ninh",
+        "logo": "https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/BTVBACNINH.jpg",
+        "group": "Địa phương",
+        "source": "https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u",
+        "url": "https://xem.hoiquan.Click/CoBan/bac-giang/TuyetDoiKhongKinhDoanh.m3u8"
+      },
+      {
+        "name": "CRTV HD - Báo và Truyền Hình Cao Bằng",
+        "logo": "https://img-zlr1.tv360.vn/image1/2024/10/07/16/1728292499129/aeb3499f5824_640_360.png",
+        "group": "Địa phương",
+        "source": "https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u",
+        "url": "https://xem.hoiquan.Click/CoBan/cao-bang/TuyetDoiKhongKinhDoanh.m3u8"
+      },
+      {
+        "name": "HYTV HD - Báo và Truyền Hình Hưng Yên",
+        "logo": "https://hungyentv.vn/templates/frontend/hytv/Assets/img/truyenhinh.jpg",
+        "group": "Địa phương",
+        "source": "https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u",
+        "url": "https://xem.hoiquan.Click/CoBan/hung-yen/TuyetDoiKhongKinhDoanh.m3u8"
+      },
+      {
+        "name": "LTV - Báo và Truyền hình Lai Châu",
+        "logo": "https://images.fptplay53.net/media/channels/icon_channel_lai-chau_165649245279.png",
+        "group": "Địa phương",
+        "source": "https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u",
+        "url": "https://xem.hoiquan.Click/CoBan/lai-chau/TuyetDoiKhongKinhDoanh.m3u8"
+      },
+      {
+        "name": "KTV1 HD - Báo và Truyền Hình Khánh Hòa",
+        "logo": "https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/KTV1.png",
+        "group": "Địa phương",
+        "source": "https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u",
+        "url": "https://xem.hoiquan.Click/CoBan/ninh-thuan/TuyetDoiKhongKinhDoanh.m3u8"
+      },
+      {
+        "name": "QNgTV - Báo và Truyền Hình Quảng Ngãi",
+        "logo": "https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/QNgTV.jpg",
+        "group": "Địa phương",
+        "source": "https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u",
+        "url": "https://xem.hoiquan.Click/CoBan/quang-ngai/TuyetDoiKhongKinhDoanh.m3u8"
+      },
+      {
+        "name": "TTV HD - Báo và Truyền Hình Tuyên Quang",
+        "logo": "https://img-zlr1.tv360.vn/image1/2023/05/10/03/1683663305895/0f3f1e5bd284_640_360.png",
+        "group": "Địa phương",
+        "source": "https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u",
+        "url": "https://xem.hoiquan.Click/CoBan/tuyen-quang/TuyetDoiKhongKinhDoanh.m3u8"
+      },
+      {
+        "name": "TN - Báo và Truyền Hình Thái Nguyên",
+        "logo": "https://img-zlr1.tv360.vn/image1/2025/07/01/07/1751329966912/3ddadef93c24_640_360.png",
+        "group": "Địa phương",
+        "source": "https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u",
+        "url": "https://xem.hoiquan.Click/CoBan/thai-nguyen/TuyetDoiKhongKinhDoanh.m3u8"
+      },
+      {
+        "name": "ĐTV HD - Báo Điện Biên Phủ",
+        "logo": "https://img-zlr1.tv360.vn/image1/2020_09_23/1600823593760/3a9a9e608e8d_640_360.png",
+        "group": "Địa phương",
+        "source": "https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u",
+        "url": "https://xem.hoiquan.Click/CoBan/dien-bien/TuyetDoiKhongKinhDoanh.m3u8"
+      },
+      {
+        "name": "THLC HD - Báo và Truyền Hình Lào Cai",
+        "logo": "https://lichphatsongtivi.com/storage/images/thumbnails/lich-phat-song-thlc.png",
+        "group": "Địa phương",
+        "source": "https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u",
+        "url": "https://xem.hoiquan.Click/CoBan/lao-cai/TuyetDoiKhongKinhDoanh.m3u8"
+      },
+      {
+        "name": "BTV1 HD - Đài Truyền Hình Bình Dương",
+        "logo": "https://img-zlr1.tv360.vn/image1/2024/10/07/16/172829227022/75b754d1dbd3_640_360.png",
+        "group": "Địa phương",
+        "source": "https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u",
+        "url": "https://xem.hoiquan.Click/CoBan/btv1/TuyetDoiKhongKinhDoanh.m3u8"
+      },
+      {
+        "name": "BTV2 HD - Đài Truyền Hình Bình Dương",
+        "logo": "https://img-zlr1.tv360.vn/image1/2024/10/07/16/1728292301209/7f8769dc08d0_640_360.png",
+        "group": "Địa phương",
+        "source": "https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u",
+        "url": "https://xem.hoiquan.Click/CoBan/btv2/TuyetDoiKhongKinhDoanh.m3u8"
+      },
+      {
+        "name": "LTV1 HD - Báo và Truyền Hình Lâm Đồng",
+        "logo": "https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/LTV1.png",
+        "group": "Địa phương",
+        "source": "https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u",
+        "url": "https://xem.hoiquan.Click/CoBan/lam-dong/TuyetDoiKhongKinhDoanh.m3u8"
+      }
+    ],
     "Market Open and Close": [
       {
         "name": "CNBC-Indonesia",
@@ -10547,6 +11152,64 @@
         "url": "https://pixman.mytvsuper.com.mp/Smart.php?id=ctinews"
       }
     ],
+    "Youtube Watch Party Live": [
+      {
+        "name": "Quan Trần",
+        "logo": "https://i.pinimg.com/1200x/69/4b/78/694b7801b50e8bb166c070d0059b832f.jpg",
+        "group": "Youtube Watch Party Live",
+        "source": "https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u",
+        "url": "https://www.youtube.com/@IzumiNT/live"
+      },
+      {
+        "name": "zkodla",
+        "logo": "https://i.pinimg.com/1200x/69/4b/78/694b7801b50e8bb166c070d0059b832f.jpg",
+        "group": "Youtube Watch Party Live",
+        "source": "https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u",
+        "url": "https://www.youtube.com/@Kodla/live"
+      },
+      {
+        "name": "MrPokke",
+        "logo": "https://i.pinimg.com/1200x/69/4b/78/694b7801b50e8bb166c070d0059b832f.jpg",
+        "group": "Youtube Watch Party Live",
+        "source": "https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u",
+        "url": "https://www.youtube.com/@mrpokkee/live"
+      },
+      {
+        "name": "Bomman",
+        "logo": "https://i.pinimg.com/1200x/69/4b/78/694b7801b50e8bb166c070d0059b832f.jpg",
+        "group": "Youtube Watch Party Live",
+        "source": "https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u",
+        "url": "https://www.youtube.com/@Bomman/live"
+      },
+      {
+        "name": "Hoàng Luân",
+        "logo": "https://i.pinimg.com/1200x/69/4b/78/694b7801b50e8bb166c070d0059b832f.jpg",
+        "group": "Youtube Watch Party Live",
+        "source": "https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u",
+        "url": "https://www.youtube.com/@hoangluanblv/live"
+      },
+      {
+        "name": "SendoYuuhi",
+        "logo": "https://i.pinimg.com/1200x/69/4b/78/694b7801b50e8bb166c070d0059b832f.jpg",
+        "group": "Youtube Watch Party Live",
+        "source": "https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u",
+        "url": "https://www.youtube.com/@SendoYuuhi/live"
+      },
+      {
+        "name": "Narin Mikure",
+        "logo": "https://i.pinimg.com/1200x/69/4b/78/694b7801b50e8bb166c070d0059b832f.jpg",
+        "group": "Youtube Watch Party Live",
+        "source": "https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u",
+        "url": "https://www.youtube.com/@NarinMikure/live"
+      },
+      {
+        "name": "VUTKAN",
+        "logo": "https://i.pinimg.com/1200x/69/4b/78/694b7801b50e8bb166c070d0059b832f.jpg",
+        "group": "Youtube Watch Party Live",
+        "source": "https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u",
+        "url": "https://www.youtube.com/@vutkan12/live"
+      }
+    ],
     "Youtube Live": [
       {
         "name": "Genshin Impact Invokation TCG Matches Live",
@@ -10843,11 +11506,39 @@
         "url": "https://www.youtube.com/channel/UCsrnDYrkovQhCCE8kwKcvKQ/live"
       },
       {
+        "name": "Blue Archive JP",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Youtube Live",
+        "source": "https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u",
+        "url": "https://www.youtube.com/@BlueArchive_JP/live"
+      },
+      {
+        "name": "Blue Archive EN",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Youtube Live",
+        "source": "https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u",
+        "url": "https://www.youtube.com/@bluearchive_Global/live"
+      },
+      {
         "name": "Goddess of Victory NIKKE JP",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Youtube Live",
         "source": "https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u",
         "url": "https://www.youtube.com/channel/UCvi81mltkpbF2UEvC_e864g/live"
+      },
+      {
+        "name": "WuWa JP",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Youtube Live",
+        "source": "https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u",
+        "url": "https://www.youtube.com/@wutheringwaves3352/live"
+      },
+      {
+        "name": "WuWa EN",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Youtube Live",
+        "source": "https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u",
+        "url": "https://www.youtube.com/@WutheringWaves/live"
       },
       {
         "name": "Honkai StarRail JP",
@@ -10906,11 +11597,25 @@
         "url": "https://www.youtube.com/channel/UCpnQwjzvDm1MOMtZV2zkVpA/live"
       },
       {
-        "name": "PUBG",
+        "name": "PUBG Battlegrounds",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Youtube Live",
         "source": "https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u",
         "url": "https://www.youtube.com/channel/UCeX2iXaH63w3BZ8Wae_JdEA/live"
+      },
+      {
+        "name": "PUBG Mobile",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Youtube Live",
+        "source": "https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u",
+        "url": "https://www.youtube.com/@PUBGMEsportsVN/live"
+      },
+      {
+        "name": "Free Fire (VN)",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Youtube Live",
+        "source": "https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u",
+        "url": "https://www.youtube.com/@GarenaFreeFireEsportsVN/live"
       },
       {
         "name": "FPT Bóng Rổ",
