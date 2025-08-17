@@ -854,6 +854,11 @@ Source: https://iptv-org.github.io/iptv/countries/pe.m3u
 --------------------------------------------------
 
 Group: Legislative
+Name: Congreso TV
+URL: https://ccstreaming.packet.mx/WebRTCAppEE/streams/45.1_kd5oiNTTWO0gEOFc431277834.m3u8
+Logo: https://i.imgur.com/r0foZ5t.png
+Source: https://iptv-org.github.io/iptv/countries/pe.m3u
+--------------------------------------------------
 Name: JNE TV
 URL: https://live20.bozztv.com/akamaissh101/ssh101/jnetv/playlist.m3u8
 Logo: https://i.imgur.com/b25XfCj.png
@@ -1308,11 +1313,6 @@ Source: https://raw.githubusercontent.com/antholyber1a/lista-iptv-peru/refs/head
 --------------------------------------------------
 
 Group: News;Public
-Name: 24 Horas HEVC
-URL: https://d3pfmk89wc0vm9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-nlow3qkp9tmdm/24H_ES.m3u8
-Logo: https://i.imgur.com/IUVRm5L.png
-Source: https://iptv-org.github.io/iptv/countries/pe.m3u
---------------------------------------------------
 Name: 24 Horas Internacional [Geo-blocked]
 URL: https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
 Logo: https://i.imgur.com/IUVRm5L.png
@@ -2035,6 +2035,11 @@ Source: https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u
 Name: 49 | VITAL TV |
 URL: https://stream.mediacorp.pe/srt/2/chunks.m3u8
 Logo: https://raw.githubusercontent.com/jesaro15/iptv/main/images/VitalTv.jpg
+Source: https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u
+--------------------------------------------------
+Name: 51 | RUMBA TV |
+URL: https://tv.sistemasandinos.org/rumbatv/tracks-v1a1/mono.m3u8
+Logo: https://i.imgur.com/qSjQ0De.jpeg
 Source: https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u
 --------------------------------------------------
 Name: 53 | UCAYALINA DE TELEVISION |

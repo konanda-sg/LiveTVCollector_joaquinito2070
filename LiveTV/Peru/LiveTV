@@ -1,11 +1,5 @@
 [
   {
-    "name": "24 Horas HEVC",
-    "type": "News;Public",
-    "url": "https://d3pfmk89wc0vm9.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-nlow3qkp9tmdm/24H_ES.m3u8",
-    "img": "https://i.imgur.com/IUVRm5L.png"
-  },
-  {
     "name": "24 Horas Internacional [Geo-blocked]",
     "type": "News;Public",
     "url": "https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8",
@@ -1218,6 +1212,18 @@
     "img": "https://i.imgur.com/03jFV68.png"
   },
   {
+    "name": "Congreso TV",
+    "type": "Legislative",
+    "url": "https://ccstreaming.packet.mx/WebRTCAppEE/streams/45.1_kd5oiNTTWO0gEOFc431277834.m3u8",
+    "img": "https://i.imgur.com/r0foZ5t.png"
+  },
+  {
+    "name": "JNE TV",
+    "type": "Legislative",
+    "url": "https://live20.bozztv.com/akamaissh101/ssh101/jnetv/playlist.m3u8",
+    "img": "https://i.imgur.com/b25XfCj.png"
+  },
+  {
     "name": "Controversia TV (720p) [Not 24/7]",
     "type": "Undefined",
     "url": "https://live.obslivestream.com/controversiatv/index.m3u8",
@@ -1498,12 +1504,6 @@
     "type": "Documentary",
     "url": "https://stmv6.voxtvhd.com.br/elhistonautatv/elhistonautatv/chunklist_w368121454.m3u8",
     "img": "https://i.imgur.com/H4SFkx6.png"
-  },
-  {
-    "name": "JNE TV",
-    "type": "Legislative",
-    "url": "https://live20.bozztv.com/akamaissh101/ssh101/jnetv/playlist.m3u8",
-    "img": "https://i.imgur.com/b25XfCj.png"
   },
   {
     "name": "Kanade (1080p)",
@@ -2050,6 +2050,12 @@
     "type": "TV PERU",
     "url": "https://stream.mediacorp.pe/srt/2/chunks.m3u8",
     "img": "https://raw.githubusercontent.com/jesaro15/iptv/main/images/VitalTv.jpg"
+  },
+  {
+    "name": "51 | RUMBA TV |",
+    "type": "TV PERU",
+    "url": "https://tv.sistemasandinos.org/rumbatv/tracks-v1a1/mono.m3u8",
+    "img": "https://i.imgur.com/qSjQ0De.jpeg"
   },
   {
     "name": "53 | UCAYALINA DE TELEVISION |",
