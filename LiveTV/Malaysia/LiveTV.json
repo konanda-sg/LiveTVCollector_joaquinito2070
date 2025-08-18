@@ -1,5 +1,5 @@
 {
-  "date": "2025-08-17 21:50:38",
+  "date": "2025-08-18 07:10:49",
   "channels": {
     "siaranMy": [
       {
@@ -1738,13 +1738,6 @@
         "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/1600/default_primary.mpd"
       },
       {
-        "name": "810 Astro Grandstand",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Astro_Grandstand_%282024%29.png/220px-Astro_Grandstand_%282024%29.png",
-        "group": "SPORTS",
-        "source": "https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://get.perfecttv.net/jwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=grandstandfhd|user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0"
-      },
-      {
         "name": "811 Astro Premier League",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Astro_Premier_League_1_%282024%29.png",
         "group": "SPORTS",
@@ -1759,11 +1752,11 @@
         "url": "https://get.perfecttv.net/jwt.mpd?username=$username&password=$password&channel=epl2hd"
       },
       {
-        "name": "813 Astro Premier League 3",
-        "logo": "https://i.ibb.co/pnJGFJg/Astro-Premier-League-3.webp",
+        "name": "813 Astro Premier League 3 HD",
+        "logo": "https://i.ibb.co/G3tQpxdk/Astro-Premier-League-3.png",
         "group": "SPORTS",
         "source": "https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u",
-        "url": "http://linearjitp-playback.astro.com.my/dash-wv/linear/5108/default_ott"
+        "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5108/default_primary.mpd"
       },
       {
         "name": "814 Astro Football",
@@ -1801,20 +1794,6 @@
         "url": "https://linearjitp-playback.astro.com.my/dash-wv/dashiso/5171/default_ott.mpd"
       },
       {
-        "name": "818 Astro PremierLeague 4",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Astro_Premier_League_1_%282024%29.png",
-        "group": "SPORTS",
-        "source": "https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5111/default_ott"
-      },
-      {
-        "name": "819 Astro PremierLeague 5",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Astro_Premier_League_1_%282024%29.png",
-        "group": "SPORTS",
-        "source": "https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u",
-        "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5113/default_ott"
-      },
-      {
         "name": "832 Astro Cricket",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Astro_Cricket_%282024%29.png",
         "group": "SPORTS",
@@ -1830,6 +1809,13 @@
       }
     ],
     "Sports": [
+      {
+        "name": "810 Astro Grandstand HD",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Astro_Grandstand_%282024%29.png/220px-Astro_Grandstand_%282024%29.png",
+        "group": "Sports",
+        "source": "https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u",
+        "url": "https://linearjitp-playback.astro.com.my/dash-wv/dashiso/2701/default_primary.mpd"
+      },
       {
         "name": "820 BeINSports",
         "logo": "https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/236_144.png",

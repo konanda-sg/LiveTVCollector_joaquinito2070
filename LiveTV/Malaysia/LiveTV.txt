@@ -8578,11 +8578,6 @@ URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/1600/default_primar
 Logo: https://upload.wikimedia.org/wikipedia/commons/b/bf/Astro_Sports_UHD_1_%282024%29.png
 Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
-Name: 810 Astro Grandstand
-URL: https://get.perfecttv.net/jwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=grandstandfhd|user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0
-Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Astro_Grandstand_%282024%29.png/220px-Astro_Grandstand_%282024%29.png
-Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u
---------------------------------------------------
 Name: 811 Astro Premier League
 URL: https://get.perfecttv.net/jwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=epl1hd
 Logo: https://upload.wikimedia.org/wikipedia/commons/8/8f/Astro_Premier_League_1_%282024%29.png
@@ -8593,9 +8588,9 @@ URL: https://get.perfecttv.net/jwt.mpd?username=$username&password=$password&cha
 Logo: https://upload.wikimedia.org/wikipedia/commons/b/be/Astro_Premier_League_2_%282024%29.png
 Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
-Name: 813 Astro Premier League 3
-URL: http://linearjitp-playback.astro.com.my/dash-wv/linear/5108/default_ott
-Logo: https://i.ibb.co/pnJGFJg/Astro-Premier-League-3.webp
+Name: 813 Astro Premier League 3 HD
+URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/5108/default_primary.mpd
+Logo: https://i.ibb.co/G3tQpxdk/Astro-Premier-League-3.png
 Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 814 Astro Football
@@ -8621,16 +8616,6 @@ Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m
 Name: 817 Astro Sports Plus
 URL: https://linearjitp-playback.astro.com.my/dash-wv/dashiso/5171/default_ott.mpd
 Logo: https://upload.wikimedia.org/wikipedia/commons/4/45/Astro_Sports_Plus_1_%282024%29.png
-Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u
---------------------------------------------------
-Name: 818 Astro PremierLeague 4
-URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/5111/default_ott
-Logo: https://upload.wikimedia.org/wikipedia/commons/8/8f/Astro_Premier_League_1_%282024%29.png
-Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u
---------------------------------------------------
-Name: 819 Astro PremierLeague 5
-URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/5113/default_ott
-Logo: https://upload.wikimedia.org/wikipedia/commons/8/8f/Astro_Premier_League_1_%282024%29.png
 Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u
 --------------------------------------------------
 Name: 832 Astro Cricket
@@ -8674,6 +8659,11 @@ Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m
 --------------------------------------------------
 
 Group: Sports
+Name: 810 Astro Grandstand HD
+URL: https://linearjitp-playback.astro.com.my/dash-wv/dashiso/2701/default_primary.mpd
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Astro_Grandstand_%282024%29.png/220px-Astro_Grandstand_%282024%29.png
+Source: https://raw.githubusercontent.com/hazrulamin/iptv/refs/heads/main/iptv.m3u
+--------------------------------------------------
 Name: 820 BeINSports
 URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/408/default_ott.mpd
 Logo: https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/236_144.png

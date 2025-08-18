@@ -1458,12 +1458,6 @@
     "img": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Astro_Sports_UHD_1_%282024%29.png"
   },
   {
-    "name": "810 Astro Grandstand",
-    "type": "SPORTS",
-    "url": "https://get.perfecttv.net/jwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=grandstandfhd|user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Astro_Grandstand_%282024%29.png/220px-Astro_Grandstand_%282024%29.png"
-  },
-  {
     "name": "811 Astro Premier League",
     "type": "SPORTS",
     "url": "https://get.perfecttv.net/jwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=epl1hd",
@@ -1476,10 +1470,10 @@
     "img": "https://upload.wikimedia.org/wikipedia/commons/b/be/Astro_Premier_League_2_%282024%29.png"
   },
   {
-    "name": "813 Astro Premier League 3",
+    "name": "813 Astro Premier League 3 HD",
     "type": "SPORTS",
-    "url": "http://linearjitp-playback.astro.com.my/dash-wv/linear/5108/default_ott",
-    "img": "https://i.ibb.co/pnJGFJg/Astro-Premier-League-3.webp"
+    "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5108/default_primary.mpd",
+    "img": "https://i.ibb.co/G3tQpxdk/Astro-Premier-League-3.png"
   },
   {
     "name": "814 Astro Football",
@@ -1512,18 +1506,6 @@
     "img": "https://upload.wikimedia.org/wikipedia/commons/4/45/Astro_Sports_Plus_1_%282024%29.png"
   },
   {
-    "name": "818 Astro PremierLeague 4",
-    "type": "SPORTS",
-    "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5111/default_ott",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Astro_Premier_League_1_%282024%29.png"
-  },
-  {
-    "name": "819 Astro PremierLeague 5",
-    "type": "SPORTS",
-    "url": "https://linearjitp-playback.astro.com.my/dash-wv/linear/5113/default_ott",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Astro_Premier_League_1_%282024%29.png"
-  },
-  {
     "name": "832 Astro Cricket",
     "type": "SPORTS",
     "url": "https://linears2-playback.astro.com.my/vsg/41n1SEteFsfv0OLh6SdIG_GVAFhiB8ENtjicO5PLO6U7E=yc6n/dash-wv/jitp-dashisowm/2504/default_ott.mpd",
@@ -1534,6 +1516,12 @@
     "type": "SPORTS",
     "url": "https://ssc-1-enc.edgenextcdn.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd",
     "img": "https://iili.io/JhkQEp1.png"
+  },
+  {
+    "name": "810 Astro Grandstand HD",
+    "type": "Sports",
+    "url": "https://linearjitp-playback.astro.com.my/dash-wv/dashiso/2701/default_primary.mpd",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Astro_Grandstand_%282024%29.png/220px-Astro_Grandstand_%282024%29.png"
   },
   {
     "name": "820 BeINSports",
