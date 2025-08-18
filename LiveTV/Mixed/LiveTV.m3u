@@ -439,10 +439,6 @@ https://wdw.iptv-playoutcenter.de/wdw/wdw1/playlist.m3u8
 https://rt-ger.rttv.com/dvr/rtdeutsch/playlist_4500Kb.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/w4hjRV0.png" group-title="Uncategorized",like Gecko) Chrome/81.0.4044.138 Safari/537.36",Euronews
 https://jmp2.uk/sam-DE2600003TR.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1300_Moni_TV.png" group-title="Uncategorized",MONI TV
-https://tv.arkeo.cl:19360/8134/8134.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1585_AniRetro.png" group-title="Uncategorized",ANIRETRO
-https://tv.arkeo.cl:19360/8000/8000.m3u8
 #EXTINF:-1 tvg-logo="https://lh4.ggpht.com/f-zQdGn5dAUEybjbCJ94QTfabrzijJBNcADcaWn5dCoA3isCWrnN7-Pj0C73wSCbmHQ=w300" group-title="Uncategorized",PUTERA PERLIS MULTIMEDIA
 http://youtube
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/flag/az/ps.png" group-title="Uncategorized",IRAN🇮🇷
@@ -872,7 +868,7 @@ http://104.238.222.251:8989/278508_.m3u8
 #EXTINF:-1 tvg-logo="https://imagenes.gatotv.com/logos/canales/claros/de_pelicula-mediano.png" group-title="CINE Y SERIES",DE PELICULA
 https://cdn-live.mundogo.cl/depelicula/depelicula.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/2020_Canal_DHE_logo.svg/640px-2020_Canal_DHE_logo.svg.png" group-title="CINE Y SERIES",DHE
-http://190.60.33.245:4002/play/a1kb/index.m3u8
+http://tvbross.com:8080/Inter_Jomy2023/yeAUn7PKe8/167775
 #EXTINF:-1 tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f6af58a448a45cf1557f_fxhd.png" group-title="CINE Y SERIES",FX
 https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/FXHD/40-hls/live-media.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/cl_golden_m.png" group-title="CINE Y SERIES",GOLDEN
@@ -955,12 +951,16 @@ http://45.5.119.43:4000/play/a0hs/index.m3u8
 http://104.238.205.28:8989/278545_.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BfmgWb6/tooncast.png" group-title="INFANTILES",TOONCAST
 http://190.60.33.245:4002/play/a1l4/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1300_Moni_TV.png" group-title="INFANTILES",MONI TV
+https://tv.arkeo.cl:19360/8134/8134.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1466_Kanade_TV.png" group-title="INFANTILES",KANADE TV
 https://backend.energeek.cl/webtv/kanadeweb/index.m3u8?token=D3m0M3UCLWeb
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1112_EnerGeek_FAN.png" group-title="INFANTILES",ENERGEEK FAN
 https://backend.energeek.cl/webtv/egfanweb/index.m3u8?token=D3m0M3UCLWeb
 #EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/947_EnerGeek_Retro.png" group-title="INFANTILES",ENERGEEK RETRO
 https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=D3m0M3UCLWeb
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/1585_AniRetro.png" group-title="INFANTILES",ANIRETRO
+https://tv.arkeo.cl:19360/8000/8000.m3u8
 #EXTINF:-1 tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/6065f6b658a4480033f155a0_animalplanet.png" group-title="CULTURA Y ENTRETENIMIENTO",ANIMAL PLANE
 http://179.49.163.34:45000/play/a01e/index.m3u8
 #EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/comedy-central.jpg" group-title="CULTURA Y ENTRETENIMIENTO",COMEDY CENTRAL
@@ -1039,28 +1039,28 @@ http://38.49.128.38:8000/play/a09a/index.m3u8
 http://45.5.119.43:4000/play/a02u/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="ADULTOS",venus+
 http://38.49.128.38:8000/play/a09b/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="ADULTOS",SXTREME
-http://38.49.128.38:8000/play/a09c/22254939.m3u8
-#EXTINF:-1 tvg-logo="http://novabox.club:80/images/TMV9eogCjCe7JLvuoik-l9T58IHIesvTOw76CqXqCMWgy-Ljz65q1loAe__8PR-nDLtsbXLuiLNCzEvf4z5NKTwgTjfvNGKFVCdkp3Smxdg.jpg" group-title="ADULTOS",PLAYBOY TV
-http://novabox.club:80/play/T4hD-qLcZfiJUAzbDUfouMu6ZFLe3AU_7-p5VQFaCODmsw_A4fLRkMDVOMnCO3Om/m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="ADULTOS",PORN PLUS
+http://tvbross.com:8080/Inter_Jomy2023/yeAUn7PKe8/204014
+#EXTINF:-1 tvg-logo="http://novabox.club:80/images/TMV9eogCjCe7JLvuoik-l9T58IHIesvTOw76CqXqCMWgy-Ljz65q1loAe__8PR-nDLtsbXLuiLNCzEvf4z5NKTwgTjfvNGKFVCdkp3Smxdg.jpg" group-title="ADULTOS",BRATTYSISS
+http://tvbross.com:8080/Inter_Jomy2023/yeAUn7PKe8/1184
 #EXTINF:-1 tvg-logo="http://novabox.club:80/images/TMV9eogCjCe7JLvuoik-l9T58IHIesvTOw76CqXqCMWgy-Ljz65q1loAe__8PR-nDLtsbXLuiLNCzEvf4z5NKTwgTjfvNGKFVCdkp3Smxdg.jpg" group-title="ADULTOS",LATINA TV
-http://novabox.club:80/play/T4hD-qLcZfiJUAzbDUfouMu6ZFLe3AU_7-p5VQFaCOD4NBik2lO6IgJGaCzM7sue/m3u8
-#EXTINF:-1 tvg-logo="http://novabox.club:80/images/TMV9eogCjCe7JLvuoik-l9T58IHIesvTOw76CqXqCMWgy-Ljz65q1loAe__8PR-nDLtsbXLuiLNCzEvf4z5NKTwgTjfvNGKFVCdkp3Smxdg.jpg" group-title="ADULTOS",VENUS
-http://novabox.club:80/play/T4hD-qLcZfiJUAzbDUfouMu6ZFLe3AU_7-p5VQFaCOCEpUot7hY0OZOG6jyVgwDG/m3u8
-#EXTINF:-1 tvg-logo="http://novabox.club:80/images/TMV9eogCjCe7JLvuoik-l9T58IHIesvTOw76CqXqCMWgy-Ljz65q1loAe__8PR-nDLtsbXLuiLNCzEvf4z5NKTwgTjfvNGKFVCdkp3Smxdg.jpg" group-title="ADULTOS",BLUE HUSTLER
-http://novabox.club:80/play/T4hD-qLcZfiJUAzbDUfouAJl8SlPFME2pqijdWvh0TzzpVpLDzy97x0eV83iT2JN/m3u8
-#EXTINF:-1 tvg-logo="http://novabox.club:80/images/TMV9eogCjCe7JLvuoik-l9T58IHIesvTOw76CqXqCMWgy-Ljz65q1loAe__8PR-nDLtsbXLuiLNCzEvf4z5NKTwgTjfvNGKFVCdkp3Smxdg.jpg" group-title="ADULTOS",PRIVATE TV (18+)
-http://novabox.club:80/play/T4hD-qLcZfiJUAzbDUfouAJl8SlPFME2pqijdWvh0Tz4Wbjr7-ee2ZuRzADDp-9i/m3u8
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/946701_ico.png?v=21" group-title="ADULTOS",PORNPlus: SIS LOVES ME
-http://novabox.club:80/play/T4hD-qLcZfiJUAzbDUfouAJl8SlPFME2pqijdWvh0TzJg3H5KMN_VD1zCcociND2/m3u8
-#EXTINF:-1 tvg-logo="http://novabox.club:80/images/TMV9eogCjCe7JLvuoik-l9T58IHIesvTOw76CqXqCMWgy-Ljz65q1loAe__8PR-nDLtsbXLuiLNCzEvf4z5NKTwgTjfvNGKFVCdkp3Smxdg.jpg" group-title="ADULTOS",PENTHOUSE GOLD
-http://novabox.club:80/play/T4hD-qLcZfiJUAzbDUfouBOnQz38c9A_TKckjVXs6waJpgy_zpVM39BEnnERRV-4/m3u8
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/946701_ico.png?v=21" group-title="ADULTOS",PORNPLUS: FAKE COP
-http://novabox.club:80/play/T4hD-qLcZfiJUAzbDUfouBOnQz38c9A_TKckjVXs6waEPBrSJn6USq9yTM8W76KJ/m3u8
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/946701_ico.png?v=21" group-title="ADULTOS",FAKE HOSTEL
-http://novabox.club:80/play/T4hD-qLcZfiJUAzbDUfouBOnQz38c9A_TKckjVXs6wZwJr7KhB_csaOTAXU-vEeH/m3u8
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/946701_ico.png?v=21" group-title="ADULTOS",SEXCHANNEL 01
-http://novabox.club:80/play/T4hD-qLcZfiJUAzbDUfouBOnQz38c9A_TKckjVXs6wZF_dPxzNwJ5zMNpJifrHHQ/m3u8
+http://tvbross.com:8080/Inter_Jomy2023/yeAUn7PKe8/2378
+#EXTINF:-1 tvg-logo="http://novabox.club:80/images/TMV9eogCjCe7JLvuoik-l9T58IHIesvTOw76CqXqCMWgy-Ljz65q1loAe__8PR-nDLtsbXLuiLNCzEvf4z5NKTwgTjfvNGKFVCdkp3Smxdg.jpg" group-title="ADULTOS",RED
+http://tvbross.com:8080/Inter_Jomy2023/yeAUn7PKe8/158353
+#EXTINF:-1 tvg-logo="http://novabox.club:80/images/TMV9eogCjCe7JLvuoik-l9T58IHIesvTOw76CqXqCMWgy-Ljz65q1loAe__8PR-nDLtsbXLuiLNCzEvf4z5NKTwgTjfvNGKFVCdkp3Smxdg.jpg" group-title="ADULTOS",RED BOX
+http://tvbross.com:8080/Inter_Jomy2023/yeAUn7PKe8/162036
+#EXTINF:-1 tvg-logo="http://novabox.club:80/images/TMV9eogCjCe7JLvuoik-l9T58IHIesvTOw76CqXqCMWgy-Ljz65q1loAe__8PR-nDLtsbXLuiLNCzEvf4z5NKTwgTjfvNGKFVCdkp3Smxdg.jpg" group-title="ADULTOS",EROLUXE
+http://tvbross.com:8080/Inter_Jomy2023/yeAUn7PKe8/162037
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/946701_ico.png?v=21" group-title="ADULTOS",PORN BOX
+http://tvbross.com:8080/Inter_Jomy2023/yeAUn7PKe8/162294
+#EXTINF:-1 tvg-logo="http://novabox.club:80/images/TMV9eogCjCe7JLvuoik-l9T58IHIesvTOw76CqXqCMWgy-Ljz65q1loAe__8PR-nDLtsbXLuiLNCzEvf4z5NKTwgTjfvNGKFVCdkp3Smxdg.jpg" group-title="ADULTOS",DORCEL XXX
+http://tvbross.com:8080/Inter_Jomy2023/yeAUn7PKe8/162662
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/946701_ico.png?v=21" group-title="ADULTOS",XY PLUSS
+http://tvbross.com:8080/Inter_Jomy2023/yeAUn7PKe8/162808
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/946701_ico.png?v=21" group-title="ADULTOS",CHERRY PIMPS
+http://tvbross.com:8080/Inter_Jomy2023/yeAUn7PKe8/166266
+#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/946701_ico.png?v=21" group-title="ADULTOS",PLAYBOY 01
+http://tvbross.com:8080/Inter_Jomy2023/yeAUn7PKe8/166269
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="ADULTOS",PLAYBOY
 http://higherpro.xyz:8080/live/56956478056/270924ztv/14087.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="ADULTOS",SEXTREME_LA1
