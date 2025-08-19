@@ -1,5 +1,5 @@
 {
-  "date": "2025-08-19 13:53:47",
+  "date": "2025-08-19 21:52:11",
   "channels": {
     "VTV": [
       {
@@ -78,6 +78,85 @@
         "group": "VTV",
         "source": "https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u",
         "url": "https://live.fptplay53.net/fnxhd1/vtv9_vhls.smil/chunklist.m3u8"
+      }
+    ],
+    "VTV độ trễ thấp": [
+      {
+        "name": "VTV1 (HD 8.5Mbps)",
+        "logo": "https://i.imgur.com/nfkmvAY.png",
+        "group": "VTV độ trễ thấp",
+        "source": "https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u",
+        "url": "http://14.234.23.138:12343/rtp/232.84.1.117:10254"
+      },
+      {
+        "name": "VTV2 (HD 8.5Mbps)",
+        "logo": "https://i.imgur.com/BVwi3K3.png",
+        "group": "VTV độ trễ thấp",
+        "source": "https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u",
+        "url": "http://14.234.23.138:12343/rtp/232.84.2.31:10594"
+      },
+      {
+        "name": "VTV3 (HD 8.5Mbps)",
+        "logo": "https://i.imgur.com/7rLCvgS.png",
+        "group": "VTV độ trễ thấp",
+        "source": "https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u",
+        "url": "http://14.234.23.138:12343/rtp/232.84.1.118:10260"
+      },
+      {
+        "name": "VTV4 (HD 9Mbps)",
+        "logo": "https://i.imgur.com/9zVTtsA.png",
+        "group": "VTV độ trễ thấp",
+        "source": "https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u",
+        "url": "http://14.234.23.138:12343/rtp/232.84.3.106:10600"
+      },
+      {
+        "name": "VTV5 (HD 9Mbps)",
+        "logo": "https://i.imgur.com/7qPKNFU.png",
+        "group": "VTV độ trễ thấp",
+        "source": "https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u",
+        "url": "http://14.234.23.138:12343/rtp/232.84.2.33:10606"
+      },
+      {
+        "name": "VTV5 Tây Nam Bộ (HD 8.5Mbps)",
+        "logo": "https://i.imgur.com/mIUWkDx.png",
+        "group": "VTV độ trễ thấp",
+        "source": "https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u",
+        "url": "http://14.234.23.138:12343/rtp/232.84.3.86:11542"
+      },
+      {
+        "name": "VTV5 Tây Nguyên (HD 8.5Mbps)",
+        "logo": "https://i.imgur.com/R8c2swd.png",
+        "group": "VTV độ trễ thấp",
+        "source": "https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u",
+        "url": "http://14.234.23.138:12343/rtp/232.84.3.66:11656"
+      },
+      {
+        "name": "VTV Cần Thơ (HD 9Mbps)",
+        "logo": "https://i.imgur.com/HCpqatZ.png",
+        "group": "VTV độ trễ thấp",
+        "source": "https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u",
+        "url": "http://14.234.23.138:12343/rtp/232.84.1.119:10266"
+      },
+      {
+        "name": "VTV7 (HD 8.5Mbps)",
+        "logo": "https://i.imgur.com/AgamSNe.png",
+        "group": "VTV độ trễ thấp",
+        "source": "https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u",
+        "url": "http://14.234.23.138:12343/rtp/232.84.2.202:10996"
+      },
+      {
+        "name": "VTV8 (HD 8.5Mbps)",
+        "logo": "https://i.imgur.com/lpcltL9.png",
+        "group": "VTV độ trễ thấp",
+        "source": "https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u",
+        "url": "http://14.234.23.138:12343/rtp/232.84.3.104:10612"
+      },
+      {
+        "name": "VTV9 (HD 8.5Mbps)",
+        "logo": "https://i.imgur.com/Ex1VkGQ.png",
+        "group": "VTV độ trễ thấp",
+        "source": "https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u",
+        "url": "http://14.234.23.138:12343/rtp/232.84.2.35:10618"
       }
     ],
     "VTVcab HD": [
