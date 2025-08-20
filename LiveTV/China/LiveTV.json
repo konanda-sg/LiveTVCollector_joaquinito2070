@@ -1,5 +1,5 @@
 {
-  "date": "2025-08-20 13:56:44",
+  "date": "2025-08-20 21:54:57",
   "channels": {
     "Uncategorized": [
       {
@@ -5180,6 +5180,13 @@
         "url": "https://0472.org/hls/cgtna.m3u8"
       },
       {
+        "name": "CCTV9",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "央视频道",
+        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
+        "url": "https://piccpndali.v.myalicdn.com/audio/cctv9_2.m3u8"
+      },
+      {
         "name": "CCTV央视台球",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "央视频道",
@@ -5220,6 +5227,13 @@
         "group": "央视频道",
         "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
         "url": "https://cc06.tv12.xyz/24.m3u8"
+      },
+      {
+        "name": "CETV4",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "央视频道",
+        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
+        "url": "https://mursor.ottiptv.cc/migu/923287339.m3u8?migutoken=165b545b4402eaba61cdc31defb6548a443d9b5eebb1d99392852bd799c553e8817e85eb324c512581ca9a1ed8e56e530144f79606cf44fe5b2d5e97b6da577e0f2adae2a90c2a55089c95880b"
       }
     ],
     "备用频道": [
@@ -6050,13 +6064,6 @@
         "group": "卫视频道",
         "source": "https://raw.githubusercontent.com/suxuang/myIPTV/main/ipv6.m3u",
         "url": "http://home.wwang.pw:35455/itv/1000000002000004097.m3u8?cdn=ystenlive"
-      },
-      {
-        "name": "浙江卫视",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "卫视频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8"
       },
       {
         "name": "山东教育",
@@ -9047,11 +9054,32 @@
         "url": "https://mursor.ottiptv.cc/yy/1355171357"
       },
       {
-        "name": "S哥影视",
+        "name": "24小时惊悚鬼电影",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "电影频道",
         "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://mursor.ottiptv.cc/huya/24720260"
+        "url": "https://mursor.ottiptv.cc/yy/1356051105"
+      },
+      {
+        "name": "24小时轮播霞慕尼amp马德里攀岩世界杯",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "电影频道",
+        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
+        "url": "https://mursor.ottiptv.cc/bilibili/1809421678"
+      },
+      {
+        "name": "28岁电影",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "电影频道",
+        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
+        "url": "https://mursor.ottiptv.cc/douyu/8884164"
+      },
+      {
+        "name": "三七电影V",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "电影频道",
+        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
+        "url": "https://mursor.ottiptv.cc/douyu/9457792"
       },
       {
         "name": "二胖影视",
@@ -9082,13 +9110,6 @@
         "url": "https://mursor.ottiptv.cc/douyu/8974130"
       },
       {
-        "name": "传奇之王影视剧",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "电影频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://mursor.ottiptv.cc/yy/1354926735"
-      },
-      {
         "name": "佛曰影视",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "电影频道",
@@ -9103,18 +9124,18 @@
         "url": "https://mursor.ottiptv.cc/douyu/2161818"
       },
       {
-        "name": "冒险电影放映厅",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "电影频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://mursor.ottiptv.cc/huya/21059566"
-      },
-      {
         "name": "刘哔电影",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "电影频道",
         "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
         "url": "https://mursor.ottiptv.cc/douyu/2632223"
+      },
+      {
+        "name": "前任电影",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "电影频道",
+        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
+        "url": "https://mursor.ottiptv.cc/douyu/9329242"
       },
       {
         "name": "发条张的电影最TOP",
@@ -9131,11 +9152,11 @@
         "url": "https://mursor.ottiptv.cc/yy/1382735577"
       },
       {
-        "name": "同同电影",
+        "name": "周墨看电影",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "电影频道",
         "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://mursor.ottiptv.cc/douyu/10155359"
+        "url": "https://mursor.ottiptv.cc/douyu/9505584"
       },
       {
         "name": "周星驰搞笑电影",
@@ -9143,6 +9164,13 @@
         "group": "电影频道",
         "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
         "url": "https://mursor.ottiptv.cc/yy/38670875"
+      },
+      {
+        "name": "哈利影视",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "电影频道",
+        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
+        "url": "https://mursor.ottiptv.cc/douyu/8475821"
       },
       {
         "name": "喜人电影",
@@ -9159,13 +9187,6 @@
         "url": "https://mursor.ottiptv.cc/yy/1354936210"
       },
       {
-        "name": "喜剧电影笑不停",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "电影频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://mursor.ottiptv.cc/douyu/10298856"
-      },
-      {
         "name": "噬元兽影视",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "电影频道",
@@ -9180,6 +9201,13 @@
         "url": "https://mursor.ottiptv.cc/douyu/9446117"
       },
       {
+        "name": "国产动作电影",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "电影频道",
+        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
+        "url": "https://mursor.ottiptv.cc/yy/1382736858"
+      },
+      {
         "name": "国产大片电影",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "电影频道",
@@ -9187,11 +9215,11 @@
         "url": "https://mursor.ottiptv.cc/yy/1354926655"
       },
       {
-        "name": "国内玄幻电影林正英",
+        "name": "国产电影就是闹着玩的",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "电影频道",
         "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://mursor.ottiptv.cc/yy/1354932444"
+        "url": "https://mursor.ottiptv.cc/yy/1354931503"
       },
       {
         "name": "国内经典动作电影",
@@ -9208,6 +9236,20 @@
         "url": "https://mursor.ottiptv.cc/douyu/9614847"
       },
       {
+        "name": "夏洛特烦恼国内电影喜剧",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "电影频道",
+        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
+        "url": "https://mursor.ottiptv.cc/yy/1354936201"
+      },
+      {
+        "name": "大墨电影",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "电影频道",
+        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
+        "url": "https://mursor.ottiptv.cc/huya/29458834"
+      },
+      {
         "name": "大壮撞电影",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "电影频道",
@@ -9215,18 +9257,18 @@
         "url": "https://mursor.ottiptv.cc/douyu/9437349"
       },
       {
-        "name": "大潘影视",
+        "name": "大江大河2高分影视推荐",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "电影频道",
         "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://mursor.ottiptv.cc/huya/30439834"
+        "url": "https://mursor.ottiptv.cc/yy/1382736797"
       },
       {
-        "name": "大米饭影视",
+        "name": "大江大河高分影视推荐",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "电影频道",
         "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://mursor.ottiptv.cc/douyu/9824094"
+        "url": "https://mursor.ottiptv.cc/yy/1382736806"
       },
       {
         "name": "大荒电影",
@@ -9241,6 +9283,13 @@
         "group": "电影频道",
         "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
         "url": "https://mursor.ottiptv.cc/douyu/8747638"
+      },
+      {
+        "name": "大进军全集红色系列电影",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "电影频道",
+        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
+        "url": "https://mursor.ottiptv.cc/yy/1382745083"
       },
       {
         "name": "天堂电影1895",
@@ -9264,18 +9313,18 @@
         "url": "https://mursor.ottiptv.cc/yy/1382851586"
       },
       {
+        "name": "奇幻电影放映厅",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "电影频道",
+        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
+        "url": "https://mursor.ottiptv.cc/huya/26355847"
+      },
+      {
         "name": "奇怪电影",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "电影频道",
         "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
         "url": "https://mursor.ottiptv.cc/douyu/9440966"
-      },
-      {
-        "name": "好看的电影喜恐幻",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "电影频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://mursor.ottiptv.cc/bilibili/1863721636"
       },
       {
         "name": "小儛电影嘚啵嘚",
@@ -9285,11 +9334,11 @@
         "url": "https://mursor.ottiptv.cc/douyu/8362978"
       },
       {
-        "name": "小儿难养影视剧",
+        "name": "小若影视",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "电影频道",
         "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://mursor.ottiptv.cc/yy/1382735559"
+        "url": "https://mursor.ottiptv.cc/huya/29868594"
       },
       {
         "name": "少年看电影",
@@ -9313,11 +9362,11 @@
         "url": "https://mursor.ottiptv.cc/yy/1382737886"
       },
       {
-        "name": "影视梗大叔",
+        "name": "影视插班生",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "电影频道",
         "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://mursor.ottiptv.cc/douyu/9480648"
+        "url": "https://mursor.ottiptv.cc/huya/29882513"
       },
       {
         "name": "影视笑工场",
@@ -9334,20 +9383,6 @@
         "url": "https://mursor.ottiptv.cc/douyu/8651489"
       },
       {
-        "name": "微笑影视",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "电影频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://mursor.ottiptv.cc/huya/25256065"
-      },
-      {
-        "name": "怪兽马提尼电影",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "电影频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://mursor.ottiptv.cc/douyu/9075333"
-      },
-      {
         "name": "怪味爆米花电影",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "电影频道",
@@ -9355,60 +9390,25 @@
         "url": "https://mursor.ottiptv.cc/douyu/9422144"
       },
       {
-        "name": "恐怖电影",
+        "name": "我是吃泡面看电影",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "电影频道",
         "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://mursor.ottiptv.cc/yy/24066336"
+        "url": "https://mursor.ottiptv.cc/douyu/8851063"
       },
       {
-        "name": "悬疑电影放映厅",
+        "name": "搞笑经典电影",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "电影频道",
         "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://mursor.ottiptv.cc/huya/29982641"
+        "url": "https://mursor.ottiptv.cc/yy/1351537467"
       },
       {
-        "name": "惊悚电影放映厅",
+        "name": "救赎电影",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "电影频道",
         "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://mursor.ottiptv.cc/huya/26355795"
-      },
-      {
-        "name": "扁豆看电影",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "电影频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://mursor.ottiptv.cc/huya/16028551"
-      },
-      {
-        "name": "扁豆看电影2",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "电影频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://mursor.ottiptv.cc/huya/21059623"
-      },
-      {
-        "name": "指缝里看电影",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "电影频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://mursor.ottiptv.cc/douyu/9647834"
-      },
-      {
-        "name": "播放影视为主",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "电影频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://mursor.ottiptv.cc/yy/1353454489"
-      },
-      {
-        "name": "新海电影",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "电影频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://mursor.ottiptv.cc/huya/29396806"
+        "url": "https://mursor.ottiptv.cc/huya/29833341"
       },
       {
         "name": "旺安影视",
@@ -9416,6 +9416,13 @@
         "group": "电影频道",
         "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
         "url": "https://mursor.ottiptv.cc/douyu/8223733"
+      },
+      {
+        "name": "晨晨的影视小窝",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "电影频道",
+        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
+        "url": "https://mursor.ottiptv.cc/yy/1382851576"
       },
       {
         "name": "有部电影儿",
@@ -9439,6 +9446,13 @@
         "url": "https://mursor.ottiptv.cc/douyu/7212528"
       },
       {
+        "name": "林正英经典玄幻电影",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "电影频道",
+        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
+        "url": "https://mursor.ottiptv.cc/yy/1462895099"
+      },
+      {
         "name": "林正英经典电影",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "电影频道",
@@ -9446,11 +9460,25 @@
         "url": "https://mursor.ottiptv.cc/yy/34229877"
       },
       {
-        "name": "江苏影视",
+        "name": "梦梦影视",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "电影频道",
         "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://migu.188766.xyz/?migutoken=91756b74eb13850e4c87b15c25817e42&id=%E6%B1%9F%E8%8B%8F%E5%BD%B1%E8%A7%86%E9%A2%91%E9%81%93&type=yy"
+        "url": "https://mursor.ottiptv.cc/huya/25129377"
+      },
+      {
+        "name": "欧美配音电影",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "电影频道",
+        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
+        "url": "https://mursor.ottiptv.cc/yy/1354693629"
+      },
+      {
+        "name": "每日好电影V",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "电影频道",
+        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
+        "url": "https://mursor.ottiptv.cc/douyu/9533302"
       },
       {
         "name": "治愈电影阳光小美女一家人的寻梦之旅",
@@ -9458,13 +9486,6 @@
         "group": "电影频道",
         "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
         "url": "https://mursor.ottiptv.cc/yy/1382736920"
-      },
-      {
-        "name": "泡菜电影",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "电影频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://mursor.ottiptv.cc/huya/29812160"
       },
       {
         "name": "洛克电影",
@@ -9479,6 +9500,13 @@
         "group": "电影频道",
         "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
         "url": "https://ali-m-l.cztv.com/channels/lantian/channel005/1080p.m3u8"
+      },
+      {
+        "name": "涛浪浪电影",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "电影频道",
+        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
+        "url": "https://mursor.ottiptv.cc/douyu/5424258"
       },
       {
         "name": "热血动作电影",
@@ -9500,6 +9528,13 @@
         "group": "电影频道",
         "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
         "url": "https://mursor.ottiptv.cc/douyu/3506483"
+      },
+      {
+        "name": "燃燃影视",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "电影频道",
+        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
+        "url": "https://mursor.ottiptv.cc/yy/50298248"
       },
       {
         "name": "爆笑电影王牌大贱谍23",
@@ -9537,20 +9572,6 @@
         "url": "https://mursor.ottiptv.cc/douyu/2413555"
       },
       {
-        "name": "狼肉影视故事",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "电影频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://mursor.ottiptv.cc/huya/30375709"
-      },
-      {
-        "name": "猫丸酱影视",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "电影频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://mursor.ottiptv.cc/huya/26999674"
-      },
-      {
         "name": "猫眼电影",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "电影频道",
@@ -9558,18 +9579,11 @@
         "url": "https://mursor.ottiptv.cc/douyu/8726221"
       },
       {
-        "name": "玖月影视",
+        "name": "电影七十二变",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "电影频道",
         "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://mursor.ottiptv.cc/douyu/9339251"
-      },
-      {
-        "name": "珍珠港电影",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "电影频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://mursor.ottiptv.cc/yy/1354936234"
+        "url": "https://mursor.ottiptv.cc/douyu/9323164"
       },
       {
         "name": "电影兴风作浪系列播放",
@@ -9584,6 +9598,13 @@
         "group": "电影频道",
         "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
         "url": "https://mursor.ottiptv.cc/douyu/9660835"
+      },
+      {
+        "name": "电影刘油果",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "电影频道",
+        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
+        "url": "https://mursor.ottiptv.cc/douyu/3985805"
       },
       {
         "name": "电影吐槽汇",
@@ -9607,11 +9628,18 @@
         "url": "https://mursor.ottiptv.cc/douyu/549693"
       },
       {
-        "name": "电影最TOP",
+        "name": "电影幕后喵",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "电影频道",
         "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://mursor.ottiptv.cc/huya/11774959"
+        "url": "https://mursor.ottiptv.cc/douyu/8884074"
+      },
+      {
+        "name": "电影漩涡",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "电影频道",
+        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
+        "url": "https://mursor.ottiptv.cc/douyu/8706350"
       },
       {
         "name": "电影电影电影电影电影电影",
@@ -9626,13 +9654,6 @@
         "group": "电影频道",
         "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
         "url": "https://mursor.ottiptv.cc/yy/1382736871"
-      },
-      {
-        "name": "电影笔记",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "电影频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://mursor.ottiptv.cc/douyu/9636034"
       },
       {
         "name": "电影迷小雅",
@@ -9663,6 +9684,13 @@
         "url": "https://mursor.ottiptv.cc/douyu/9562616"
       },
       {
+        "name": "科幻电影环太平洋",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "电影频道",
+        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
+        "url": "https://mursor.ottiptv.cc/yy/1354936170"
+      },
+      {
         "name": "粤语电影丶",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "电影频道",
@@ -9691,25 +9719,18 @@
         "url": "https://mursor.ottiptv.cc/yy/1382749944"
       },
       {
-        "name": "经典电影",
+        "name": "经典电影港片枪战",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "电影频道",
         "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://mursor.ottiptv.cc/bilibili/1777481601"
-      },
-      {
-        "name": "经典科幻电影2001漫游太空",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "电影频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://mursor.ottiptv.cc/yy/1354926671"
+        "url": "https://mursor.ottiptv.cc/yy/1355076627"
       },
       {
         "name": "绝版电影港片女鬼",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "电影频道",
         "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://mursor.ottiptv.cc/yy/1461579859"
+        "url": "https://mursor.ottiptv.cc/yy/1455988450"
       },
       {
         "name": "维立方电影",
@@ -9740,6 +9761,13 @@
         "url": "https://mursor.ottiptv.cc/douyu/3498219"
       },
       {
+        "name": "老电影故事",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "电影频道",
+        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
+        "url": "https://mursor.ottiptv.cc/douyu/9167273"
+      },
+      {
         "name": "胶片看电影",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "电影频道",
@@ -9754,18 +9782,11 @@
         "url": "https://mursor.ottiptv.cc/douyu/8867878"
       },
       {
-        "name": "荒野求生影视",
+        "name": "莱纳电影",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "电影频道",
         "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://mursor.ottiptv.cc/huya/24766781"
-      },
-      {
-        "name": "蒲公英电影",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "电影频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://mursor.ottiptv.cc/huya/28806637"
+        "url": "https://mursor.ottiptv.cc/douyu/9356937"
       },
       {
         "name": "豆瓣电影",
@@ -9782,6 +9803,20 @@
         "url": "https://mursor.ottiptv.cc/douyu/9661369"
       },
       {
+        "name": "贰哥电影",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "电影频道",
+        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
+        "url": "https://mursor.ottiptv.cc/douyu/9338867"
+      },
+      {
+        "name": "超精彩系列动作电影",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "电影频道",
+        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
+        "url": "https://mursor.ottiptv.cc/yy/1382745096"
+      },
+      {
         "name": "越越爱影视",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "电影频道",
@@ -9789,39 +9824,39 @@
         "url": "https://mursor.ottiptv.cc/yy/1382736886"
       },
       {
-        "name": "酱婶儿电影",
+        "name": "远去的飞鹰影视剧",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "电影频道",
         "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://mursor.ottiptv.cc/huya/24396474"
+        "url": "https://mursor.ottiptv.cc/yy/1354930912"
       },
       {
-        "name": "野格影视",
+        "name": "逐梦电影",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "电影频道",
         "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://mursor.ottiptv.cc/douyu/9931766"
+        "url": "https://mursor.ottiptv.cc/douyu/4058285"
       },
       {
-        "name": "鑫鑫影视",
+        "name": "铁血影视汇",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "电影频道",
         "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://mursor.ottiptv.cc/huya/30439676"
+        "url": "https://mursor.ottiptv.cc/douyu/9649701"
       },
       {
-        "name": "阿涛影视",
+        "name": "阳阳影视",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "电影频道",
         "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://mursor.ottiptv.cc/huya/30292047"
+        "url": "https://mursor.ottiptv.cc/huya/29805872"
       },
       {
-        "name": "集梦邯郸电影院",
+        "name": "陪你看电影",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "电影频道",
         "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://mursor.ottiptv.cc/huya/25132009"
+        "url": "https://mursor.ottiptv.cc/yy/1382745084"
       },
       {
         "name": "韩国电影1",
@@ -9836,6 +9871,13 @@
         "group": "电影频道",
         "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
         "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=743"
+      },
+      {
+        "name": "香兰爱影视",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "电影频道",
+        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
+        "url": "https://mursor.ottiptv.cc/douyu/9487090"
       },
       {
         "name": "黄渤主演经典电影斗牛",
@@ -11157,13 +11199,6 @@
         "url": "https://cc06.tv12.xyz/42.m3u8"
       },
       {
-        "name": "七星关电视台",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "地方频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://p8.vzan.com:443/slowlive/147077707554082780/live.m3u8"
-      },
-      {
         "name": "上海第一财经",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "地方频道",
@@ -11465,6 +11500,13 @@
         "url": "https://migu.188766.xyz/?migutoken=77969fb082a75b798578427f3570edd2&id=%E4%BD%93%E8%82%B2%E4%BC%91%E9%97%B2%E9%A2%91%E9%81%93&type=yy"
       },
       {
+        "name": "江苏教育",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "地方频道",
+        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
+        "url": "https://migu.188766.xyz/?migutoken=bfd96895aa8e3e9aa47561510518c058&id=%E6%B1%9F%E8%8B%8F%E6%95%99%E8%82%B2&type=yy"
+      },
+      {
         "name": "汾西综合",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "地方频道",
@@ -11659,20 +11701,6 @@
         "group": "地方频道",
         "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
         "url": "https://pili-live-hls-sjxgz2024.sobeylive.com/jxgz2024/396_q_live172526329228525.m3u8"
-      },
-      {
-        "name": "连云港新闻综合",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "地方频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://migu.188766.xyz/?migutoken=1b0d5ada0a7a68f9bc0ad66f4464a69d&id=%E8%BF%9E%E4%BA%91%E6%B8%AF%E6%96%B0%E9%97%BB%E7%BB%BC%E5%90%88&type=yy"
-      },
-      {
-        "name": "通海电视台",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "地方频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://zb-live.ynurl.com/tonghai/3bfe3a9e-48e6-4c1e-8770-1df66447cc6c.m3u8"
       },
       {
         "name": "通渭综合",
@@ -12567,105 +12595,105 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "国际",
         "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
-        "url": "https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8"
+        "url": "http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/360787"
       },
       {
-        "name": "CBS News",
+        "name": "CNN",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "国际",
         "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
-        "url": "http://fl3.moveonjoy.com/CBS_News/index.m3u8"
+        "url": "http://panelguys.top:8080/qcFA9B/963626/1817"
       },
       {
-        "name": "Global Halifax News",
+        "name": "RT NEWS",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "国际",
         "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
-        "url": "http://fortv.cc:8080/q8KuDU/354945/57434"
+        "url": "http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/181651.m3u8"
       },
       {
-        "name": "GB News",
+        "name": "GB NEWS",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "国际",
         "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
-        "url": "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01076-lightningintern-gbnewsnz-samsungnz/playlist.m3u8"
+        "url": "http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/400200058.m3u8"
       },
       {
-        "name": "France 24",
+        "name": "FRANCE 24",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "国际",
         "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
-        "url": "https://live.france24.com/hls/live/2037218-b/F24_EN_HI_HLS/master_5000.m3u8"
+        "url": "http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/745640"
       },
       {
-        "name": "RTE News",
+        "name": "SKY NEWS",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "国际",
         "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
-        "url": "http://fortv.cc:8080/q8KuDU/354945/79108"
+        "url": "http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/100690"
       },
       {
-        "name": "TalkTV",
+        "name": "EURO NEWS",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "国际",
         "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
-        "url": "https://live-talktv-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/talktv-live/index.m3u8"
+        "url": "http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/181673.m3u8"
       },
       {
-        "name": "CNBC",
+        "name": "NBC NEWS NOW",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "国际",
         "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
-        "url": "http://fl5.moveonjoy.com/CNBC/index.m3u8"
+        "url": "http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/82805.m3u8"
       },
       {
-        "name": "FOX5",
+        "name": "AL JAZEERA",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "国际",
         "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
-        "url": "http://fl1.moveonjoy.com/FOX_EAST/index.m3u8"
+        "url": "http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/100700"
       },
       {
-        "name": "ESPN News",
+        "name": "NEWS 12",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "国际",
         "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
-        "url": "http://fl3.moveonjoy.com/ESPN_NEWS/index.m3u8"
+        "url": "http://panelguys.top:8080/qcFA9B/963626/167741"
       },
       {
-        "name": "LiveNow from Fox",
+        "name": "DW ENGLISH",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "国际",
         "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
-        "url": "https://livetv-fa.tubi.video/fox-live-now/index.m3u8"
+        "url": "http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/176619.m3u8"
       },
       {
-        "name": "ABC Australia",
+        "name": "CBS NEWS",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "国际",
         "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
-        "url": "https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8"
+        "url": "http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/360767"
       },
       {
-        "name": "NewsNation",
+        "name": "TRT WORLD",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "国际",
         "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
-        "url": "http://fl3.moveonjoy.com/NEWS_NATION/index.m3u8"
+        "url": "http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/400230338.m3u8"
       },
       {
-        "name": "NHK World",
+        "name": "USA TODAY",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "国际",
         "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
-        "url": "https://nhkworld-tv.akamaized.net/hls/live/2115640/nhkworld-tv/index_1M.m3u8"
+        "url": "http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/6625.m3u8"
       },
       {
-        "name": "FOX Soul",
+        "name": "ONE AMERICA NEWS",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "国际",
         "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
-        "url": "http://fl1.moveonjoy.com/FOX_SOUL/index.m3u8"
+        "url": "http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/783496"
       },
       {
         "name": "RT Documentary",
@@ -12675,669 +12703,921 @@
         "url": "https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8"
       },
       {
-        "name": "Start TV",
+        "name": "OAN",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "国际",
         "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
-        "url": "http://fl3.moveonjoy.com/Start_Tv/index.m3u8"
+        "url": "http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/181655.m3u8"
       },
       {
-        "name": "TCM",
+        "name": "CNBC",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "国际",
         "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
-        "url": "http://fl1.moveonjoy.com/TCM/index.m3u8"
+        "url": "http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/100695"
       },
       {
-        "name": "FYI",
+        "name": "ITV 1",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "国际",
         "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
-        "url": "http://fl3.moveonjoy.com/FYI/index.m3u8"
+        "url": "http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/100653"
       },
       {
-        "name": "Travel XP",
+        "name": "ITV 2",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "国际",
         "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
-        "url": "https://travelxp-travelxp-1-eu.xiaomi.wurl.tv/playlist.m3u8"
+        "url": "http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/100654"
       },
       {
-        "name": "Xplore TV",
+        "name": "ITV 3",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "国际",
         "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
-        "url": "https://aegis-cloudfront-1.tubi.video/8d2bf7b1-0e93-405f-8c15-ac0756d05f66/playlist.m3u8"
+        "url": "http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/100655"
       },
       {
-        "name": "MovieSphere",
+        "name": "ITV 4",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "国际",
         "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
-        "url": "https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8"
+        "url": "http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/100656"
       },
       {
-        "name": "Cartoon Network",
+        "name": "CHANNEL 4",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "国际",
         "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
-        "url": "http://fortv.cc:8080/q8KuDU/354945/53719"
+        "url": "http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/100658"
       },
       {
-        "name": "AMC",
+        "name": "CHANNEL 5",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "国际",
         "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
-        "url": "http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8"
+        "url": "http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/100659"
       },
       {
-        "name": "Aspire",
+        "name": "TALK TV",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "国际",
         "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
-        "url": "http://143.244.60.30/Aspire/index.m3u8"
+        "url": "http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/714352"
       },
       {
-        "name": "Bounce",
+        "name": "ALIBI",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "国际",
         "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
-        "url": "http://fl3.moveonjoy.com/BOUNCE_TV/index.m3u8"
+        "url": "http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/100663"
       },
       {
-        "name": "Buzzr",
+        "name": "BBC PARLIAMENT",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "国际",
         "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
-        "url": "http://fl3.moveonjoy.com/Buzzr/index.m3u8"
+        "url": "http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/100669"
       },
       {
-        "name": "CMT",
+        "name": "GOLD",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "国际",
         "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
-        "url": "http://fl3.moveonjoy.com/CMT/index.m3u8"
+        "url": "http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/100800"
       },
       {
-        "name": "Comedy Central",
+        "name": "DAVE",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "国际",
         "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
-        "url": "http://fl3.moveonjoy.com/Comedy_Central/index.m3u8"
+        "url": "http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/100797"
       },
       {
-        "name": "COMET",
+        "name": "MORE 4",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "国际",
         "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
-        "url": "http://fl3.moveonjoy.com/COMET/index.m3u8"
+        "url": "http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/100803"
       },
       {
-        "name": "COZI TV",
+        "name": "QUEST",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "国际",
         "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
-        "url": "http://fl3.moveonjoy.com/COZI_TV/index.m3u8"
+        "url": "http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/745652"
       },
       {
-        "name": "ION Plus",
+        "name": "SKY MAX",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "国际",
         "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
-        "url": "https://fl3.moveonjoy.com/ION_Plus/index.m3u8"
+        "url": "http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/547880"
       },
       {
-        "name": "ION",
+        "name": "SKY SHOWCASE",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "国际",
         "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
-        "url": "http://143.244.60.30/ION_TV/index.m3u8"
+        "url": "http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/100806"
       },
       {
-        "name": "Discovery Channel",
+        "name": "SKY ATLANTIC",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "国际",
         "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
-        "url": "http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8"
+        "url": "http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/100936"
       },
       {
-        "name": "Lifetime",
+        "name": "SKY ARTS",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "国际",
         "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
-        "url": "http://143.244.60.30/LIFETIME/index.m3u8"
+        "url": "http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/100937"
       },
       {
-        "name": "Sony Movie",
+        "name": "SKY WITNESS",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "国际",
         "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
-        "url": "http://fl3.moveonjoy.com/Sony_Movie_Channel/index.m3u8"
+        "url": "http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/100807"
       },
       {
-        "name": "VH1",
+        "name": "COMEDY CENTRAL",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "国际",
         "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
-        "url": "http://fl3.moveonjoy.com/VH1/index.m3u8"
+        "url": "http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/100916"
       },
       {
-        "name": "GoUSA TV",
+        "name": "SKY MIX",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "国际",
         "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
-        "url": "https://brandusa-gousa-1-nl.samsung.wurl.tv/playlist.m3u8"
+        "url": "http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/1449268"
       },
       {
-        "name": "Showtime",
+        "name": "QVC",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "国际",
         "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
-        "url": "http://fl3.moveonjoy.com/SHOWTIME_WEST/index.m3u8"
+        "url": "http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/102419"
       },
       {
-        "name": "Bravo",
+        "name": "QVC STYLE",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "国际",
         "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
-        "url": "http://fl3.moveonjoy.com/BRAVO/index.m3u8"
+        "url": "http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/102422"
       },
       {
-        "name": "BET",
+        "name": "NAT GEO",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "国际",
         "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
-        "url": "http://fl3.moveonjoy.com/BET_EAST/index.m3u8"
+        "url": "http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/100762"
       },
       {
-        "name": "TV One",
+        "name": "NAT GEO WILD",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "国际",
         "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
-        "url": "http://fl3.moveonjoy.com/TV_ONE/index.m3u8"
+        "url": "http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/745679"
       },
       {
-        "name": "CMTV",
+        "name": "SKY CRIME",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "国际",
         "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
-        "url": "https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/costamesa/G0075_002/playlist.m3u8"
+        "url": "http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/739766"
       },
       {
-        "name": "Nat Geo Wild",
+        "name": "SKY HISTORY",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "国际",
         "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
-        "url": "http://fl3.moveonjoy.com/Nat_Geo_Wild/index.m3u8"
+        "url": "http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/100766"
       },
       {
-        "name": "BBC America",
+        "name": "SKY CINEMA COMEDY",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "国际",
         "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
-        "url": "http://fl3.moveonjoy.com/BBC_AMERICA/index.m3u8"
+        "url": "http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/100939"
       },
       {
-        "name": "Disney Junior",
+        "name": "SKY CINEMA FAMILY",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "国际",
         "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
-        "url": "http://fl3.moveonjoy.com/DISNEY_JR/index.m3u8"
+        "url": "http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/745665"
       },
       {
-        "name": "Nick Jr.",
+        "name": "SKY CINEMA PREMIER",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "国际",
         "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
-        "url": "http://fl3.moveonjoy.com/NICK_JR/index.m3u8"
+        "url": "http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/213526"
       },
       {
-        "name": "Disney Channel",
+        "name": "SKY CINEMA GREATS",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "国际",
         "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
-        "url": "http://fl5.moveonjoy.com/DISNEY/index.m3u8"
+        "url": "http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/100942"
       },
       {
-        "name": "DISCOVERY LIFE",
+        "name": "SKY CINEMA SCI-FI & HORROR",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "国际",
         "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
-        "url": "http://143.244.60.30/DISCOVERY_LIFE/index.m3u8"
+        "url": "http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/100944"
       },
       {
-        "name": "DISNEY XD",
+        "name": "SKY CINEMA THRILLER",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "国际",
         "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
-        "url": "http://143.244.60.30/DISNEY_XD/index.m3u8"
+        "url": "http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/100946"
       },
       {
-        "name": "HBO",
+        "name": "SKY CINEMA DRAMA",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "国际",
         "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
-        "url": "http://143.244.60.30/HBO/index.m3u8"
+        "url": "http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/100947"
       },
       {
-        "name": "HBO Family",
+        "name": "SKY CINEMA HITS",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "国际",
         "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
-        "url": "http://143.244.60.30/HBO_FAMILY/index.m3u8"
+        "url": "http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/745671"
       },
       {
-        "name": "HBO Zone",
+        "name": "SKY CINEMA ANIMATION",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "国际",
         "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
-        "url": "http://143.244.60.30/HBO_ZONE/index.m3u8"
+        "url": "http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/197793"
       },
       {
-        "name": "HBO Stream",
+        "name": "FILM 4",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "国际",
         "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
-        "url": "http://143.244.60.30/HBO_2/index.m3u8"
-      },
-      {
-        "name": "National Geographic",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "国际",
-        "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
-        "url": "http://143.244.60.30/National_Geographic/index.m3u8"
-      },
-      {
-        "name": "ESPN 2",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "国际",
-        "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
-        "url": "http://143.244.60.30/ESPN_2/index.m3u8"
-      },
-      {
-        "name": "OuterMax",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "国际",
-        "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
-        "url": "http://fl3.moveonjoy.com/OUTER_MAX/index.m3u8"
-      },
-      {
-        "name": "FXM",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "国际",
-        "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
-        "url": "http://fl3.moveonjoy.com/FX_MOVIE/index.m3u8"
-      },
-      {
-        "name": "Outdoor Channel",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "国际",
-        "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
-        "url": "http://fl3.moveonjoy.com/OUTDOOR_CHANNEL/index.m3u8"
-      },
-      {
-        "name": "Trace Urban",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "国际",
-        "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
-        "url": "https://lightning-traceurban-samsungau.amagi.tv/playlist.m3u8"
-      },
-      {
-        "name": "Starz",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "国际",
-        "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
-        "url": "http://fl3.moveonjoy.com/STARZ/index.m3u8"
-      },
-      {
-        "name": "FXX",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "国际",
-        "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
-        "url": "http://fl3.moveonjoy.com/FXX/index.m3u8"
+        "url": "http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/745674"
       },
       {
         "name": "SYFY",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "国际",
         "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
-        "url": "http://fl3.moveonjoy.com/SYFY/index.m3u8"
+        "url": "http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/100771"
       },
       {
-        "name": "Smithsonian",
+        "name": "CARTOON NETWORK",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "国际",
         "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
-        "url": "http://fl3.moveonjoy.com/SMITHSONIAN_CHANNEL/index.m3u8"
+        "url": "http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/100912"
       },
       {
-        "name": "Oxygen East",
+        "name": "SKY KIDS",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "国际",
         "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
-        "url": "http://fl3.moveonjoy.com/OXYGEN/index.m3u8"
+        "url": "http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/771667"
       },
       {
-        "name": "ACCN",
+        "name": "SKY SPORTS ACTION",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "国际",
         "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
-        "url": "http://fl3.moveonjoy.com/ACC_NETWORK/index.m3u8"
+        "url": "http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/101020"
       },
       {
-        "name": "Tastemade",
+        "name": "SKY SPORTS NEWS",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "国际",
         "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
-        "url": "https://tastemade-xumo.amagi.tv/playlist.m3u8"
+        "url": "http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/101042"
       },
       {
-        "name": "World Poker Tour",
+        "name": "SKY SPORTS FOOTBALL",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "国际",
         "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
-        "url": "https://dth07jsr8atug.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-Plex/171.m3u8"
+        "url": "http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/101044"
       },
       {
-        "name": "MSG",
+        "name": "SKY SPORTS PREMIER LEAGUE",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "国际",
         "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
-        "url": "http://fl3.moveonjoy.com/MSG/index.m3u8"
+        "url": "http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/101045"
       },
       {
-        "name": "Wild TV",
+        "name": "SKY SPORTS MAIN EVENT",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "国际",
         "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
-        "url": "https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8"
+        "url": "http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/103112"
       },
       {
-        "name": "Animal Planet",
+        "name": "SKY SPORT MIX",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "国际",
         "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
-        "url": "http://143.244.60.30/Animal_Planet/index.m3u8"
+        "url": "http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/103109"
       },
       {
-        "name": "DIY",
+        "name": "SKY SPORTS TENNIS",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "国际",
         "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
-        "url": "http://143.244.60.30/DIY/index.m3u8"
+        "url": "http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/1341720"
       },
       {
-        "name": "Fuse",
+        "name": "SKY SPORTS+",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "国际",
         "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
-        "url": "http://fl3.moveonjoy.com/FUSE/index.m3u8"
+        "url": "http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/101049"
       },
       {
-        "name": "LMN",
+        "name": "SKY SPORTS F1",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "国际",
         "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
-        "url": "http://143.244.60.30/LIFETIME_MOVIE_NETWORK/index.m3u8"
+        "url": "http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/101051"
       },
       {
-        "name": "Mytime",
+        "name": "SKY SPORTS GOLF",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "国际",
         "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
-        "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00500-studiocitypictu-mytimeuk-xiaomi/playlist.m3u8"
+        "url": "http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/101052"
       },
       {
-        "name": "GRIT TV",
+        "name": "BEIN SPORT NBA",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "国际",
         "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
-        "url": "http://143.244.60.30/GRIT_TV/index.m3u8"
+        "url": "http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/112438"
       },
       {
-        "name": "Hallmark",
+        "name": "BEIN SPORTS ENGLISH 2",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "国际",
         "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
-        "url": "http://143.244.60.30/HALLMARK_CHANNEL/index.m3u8"
+        "url": "http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/112453"
       },
       {
-        "name": "FoxBusiness",
+        "name": "BEIN SPORTS 1",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "国际",
         "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
-        "url": "http://41.205.93.154/FOXBUSINESS/index.m3u8"
+        "url": "http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/112449"
       },
       {
-        "name": "Cooking",
+        "name": "BEIN SPORTS 2",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "国际",
         "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
-        "url": "http://fl3.moveonjoy.com/COOKING_CHANNEL/index.m3u8"
+        "url": "http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/112450"
       },
       {
-        "name": "MGM+Marquee",
+        "name": "BEIN SPORTS 4",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "国际",
         "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
-        "url": "https://fl3.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8"
+        "url": "http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/112443"
       },
       {
-        "name": "Destination America",
+        "name": "BEIN SPORTS 3",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "国际",
         "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
-        "url": "http://143.244.60.30/Destination_America/index.m3u8"
+        "url": "http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/112451"
+      },
+      {
+        "name": "BEIN SPORTS 5",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "国际",
+        "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
+        "url": "http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/112444"
+      },
+      {
+        "name": "BEIN SPORTS 7",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "国际",
+        "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
+        "url": "http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/112446"
+      },
+      {
+        "name": "BEIN SPORTS 6",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "国际",
+        "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
+        "url": "http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/112445"
+      },
+      {
+        "name": "BEIN SPORTS 8",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "国际",
+        "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
+        "url": "http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/899112"
+      },
+      {
+        "name": "BEIN SPORTS 9",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "国际",
+        "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
+        "url": "http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/899113"
+      },
+      {
+        "name": "TNT SPORTS 1",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "国际",
+        "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
+        "url": "http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/205999"
+      },
+      {
+        "name": "TNT SPORTS 2",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "国际",
+        "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
+        "url": "http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/103146"
+      },
+      {
+        "name": "TNT SPORTS 3",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "国际",
+        "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
+        "url": "http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/103149"
+      },
+      {
+        "name": "TNT SPORTS 4",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "国际",
+        "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
+        "url": "http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/670669"
+      },
+      {
+        "name": "PREMIER SPORTS 1",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "国际",
+        "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
+        "url": "http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/101064"
+      },
+      {
+        "name": "PREMIER SPORTS 2",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "国际",
+        "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
+        "url": "http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/101065"
+      },
+      {
+        "name": "RACING UK",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "国际",
+        "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
+        "url": "http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/101066"
+      },
+      {
+        "name": "RANGERS FC TV",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "国际",
+        "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
+        "url": "http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/292939"
+      },
+      {
+        "name": "Discovery Channel",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "国际",
+        "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
+        "url": "http://panelguys.top:8080/phi@live.ca/phi@3574/53684"
+      },
+      {
+        "name": "TNT SPORTS ULTIMATE U",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "国际",
+        "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
+        "url": "http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/1449257"
+      },
+      {
+        "name": "BBC RED BUTTON 1",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "国际",
+        "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
+        "url": "http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/1449267"
+      },
+      {
+        "name": "HUBPREMIER 1",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "国际",
+        "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
+        "url": "http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/1289436"
+      },
+      {
+        "name": "DAZN",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "国际",
+        "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
+        "url": "http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/787620"
+      },
+      {
+        "name": "ASTRO SUPERSPORT",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "国际",
+        "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
+        "url": "http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/556245"
+      },
+      {
+        "name": "VIAPLAY SPORTS 1",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "国际",
+        "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
+        "url": "http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/1479405"
+      },
+      {
+        "name": "VIAPLAY SPORTS 2",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "国际",
+        "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
+        "url": "http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/1479406"
+      },
+      {
+        "name": "KIDS ONEPLAY MICKEY MOUSE",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "国际",
+        "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
+        "url": "http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/1652828"
       },
       {
         "name": "Discovery Science",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "国际",
         "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
-        "url": "http://143.244.60.30/Discovery_Science/index.m3u8"
+        "url": "http://panelguys.top:8080/phi@live.ca/phi@3574/53695"
       },
       {
-        "name": "HGTV",
+        "name": "KIDS ONEPLAY CURIOUS GEORGE",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "国际",
         "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
-        "url": "http://143.244.60.30/HGTV/index.m3u8"
+        "url": "http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/1652805"
       },
       {
-        "name": "INSP TV",
+        "name": "HBO EAST",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "国际",
         "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
-        "url": "http://143.244.60.30/INSP/index.m3u8"
+        "url": "http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/361401"
       },
       {
-        "name": "MTV",
+        "name": "HBO WEST",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "国际",
         "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
-        "url": "http://143.244.60.30/MTV/index.m3u8"
+        "url": "http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/361402"
       },
       {
-        "name": "MTV Live",
+        "name": "HBO COMEDY",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "国际",
         "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
-        "url": "http://143.244.60.30/MTV_LIVE/index.m3u8"
+        "url": "http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/361407"
       },
       {
-        "name": "NickToons",
+        "name": "AMC",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "国际",
         "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
-        "url": "http://143.244.60.30/NICKTOONS/index.m3u8"
+        "url": "http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/361446"
       },
       {
-        "name": "OUTSIDE TV",
+        "name": "AMC+",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "国际",
         "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
-        "url": "http://143.244.60.30/OUTSIDE_TV/index.m3u8"
+        "url": "http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/361447"
       },
       {
-        "name": "Oxygen",
+        "name": "SHOWTIME",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "国际",
         "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
-        "url": "http://143.244.60.30/OXYGEN/index.m3u8"
+        "url": "http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/361455"
       },
       {
-        "name": "Paramount Network",
+        "name": "SONY MOVIE CHANNEL",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "国际",
         "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
-        "url": "http://143.244.60.30/PARAMOUNT_NETWORK/index.m3u8"
+        "url": "http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/361467"
       },
       {
-        "name": "PopTV",
+        "name": "NICKTOONS",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "国际",
         "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
-        "url": "http://cdn1host.online:2999/kratorius/opLcbhlXaT/226"
+        "url": "http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/361374"
       },
       {
-        "name": "Starz Comedy",
+        "name": "MTV LIVE",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "国际",
         "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
-        "url": "http://143.244.60.30/STARZ_COMEDY/index.m3u8"
+        "url": "http://line.4k-beast.co:80/C0:23:8D:A5:E0:6F/424537/361488"
       },
       {
-        "name": "Starz Edge",
+        "name": "ITV Quiz",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "国际",
         "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
-        "url": "http://143.244.60.30/STARZ_EDGE/index.m3u8"
+        "url": "http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/154054.m3u8"
       },
       {
-        "name": "Starz Encore Action",
+        "name": "Game Show Network",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "国际",
         "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
-        "url": "http://143.244.60.30/STARZ_ENCORE_ACTION/index.m3u8"
+        "url": "http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/33966.m3u8"
       },
       {
-        "name": "Vice",
+        "name": "E4",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "国际",
         "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
-        "url": "http://143.244.60.30/VICELAND/index.m3u8"
+        "url": "http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/153636.m3u8"
       },
       {
-        "name": "WGN",
+        "name": "DOVE",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "国际",
         "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
-        "url": "http://143.244.60.30/WGN/index.m3u8"
+        "url": "http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/181554.m3u8"
       },
       {
-        "name": "NHL Network",
+        "name": "IFC",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "国际",
         "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
-        "url": "http://143.244.60.30/NHL_NETWORK/index.m3u8"
+        "url": "http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/181559.m3u8"
       },
       {
-        "name": "MLB Network",
+        "name": "STV",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "国际",
         "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
-        "url": "http://fl3.moveonjoy.com/MLB_NETWORK/index.m3u8"
+        "url": "http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/153673.m3u8"
       },
       {
-        "name": "Sportsman Channel",
+        "name": "S4C",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "国际",
         "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
-        "url": "http://fl3.moveonjoy.com/SPORTSMAN_CHANNEL/index.m3u8"
+        "url": "http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/153866.m3u8"
       },
       {
-        "name": "ESPN U",
+        "name": "UTV",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "国际",
         "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
-        "url": "http://fl3.moveonjoy.com/ESPN_U/index.m3u8"
+        "url": "http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/153868.m3u8"
       },
       {
-        "name": "SportsNet New York",
+        "name": "TLC",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "国际",
         "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
-        "url": "http://fl3.moveonjoy.com/SNY/index.m3u8"
+        "url": "http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/191459.m3u8"
       },
       {
-        "name": "BEIN Sports",
+        "name": "PREMIER SPORTS 1",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "国际",
         "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
-        "url": "http://143.244.60.30/BEIN_SPORTS/index.m3u8"
+        "url": "http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/153723.m3u8"
       },
       {
-        "name": "CBS Sports",
+        "name": "PREMIER SPORTS 2",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "国际",
         "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
-        "url": "http://fl3.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8"
+        "url": "http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/153724.m3u8"
       },
       {
-        "name": "NBA TV",
+        "name": "SKY SPORTS TENNIS",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "国际",
         "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
-        "url": "http://fl5.moveonjoy.com/NBA_TV/index.m3u8"
+        "url": "http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/391270.m3u8"
       },
       {
-        "name": "Tennis Channel",
+        "name": "NFL RED ZONE",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "国际",
         "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
-        "url": "http://143.244.60.30/TENNIS_CHANNEL/index.m3u8"
+        "url": "http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/181403.m3u8"
       },
       {
-        "name": "ACC Network",
+        "name": "SPORTS GRID",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "国际",
         "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
-        "url": "http://143.244.60.30/ACC_NETWORK/index.m3u8"
+        "url": "http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/400163374.m3u8"
       },
       {
-        "name": "Crave 2",
+        "name": "SPEED SPORT 1",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "国际",
         "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
-        "url": "http://fl3.moveonjoy.com/CRAVE_2/index.m3u8"
+        "url": "http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/401572602.m3u8"
       },
       {
-        "name": "Crave 3",
+        "name": "CBS SPORTS GOLAZO NETWORK",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "国际",
         "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
-        "url": "http://fortv.cc:8080/q8KuDU/354945/57322"
+        "url": "http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/27183.m3u8"
       },
       {
-        "name": "Crave 4",
+        "name": "CBS SPORTS HQ",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "国际",
         "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
-        "url": "http://fl3.moveonjoy.com/CRAVE_4/index.m3u8"
+        "url": "http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/183430.m3u8"
       },
       {
-        "name": "Kids TV",
+        "name": "FUBO SPORTS NETWORK",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "国际",
         "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
-        "url": "https://jansonmedia-kidstv-1-us.xiaomi.wurl.tv/playlist.m3u8"
+        "url": "http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/400163500.m3u8"
       },
       {
-        "name": "Sky Sports F1",
+        "name": "NBC SPORTS NETWORK",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "国际",
         "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
-        "url": "http://fortv.cc:8080/q8KuDU/354945/53704"
+        "url": "http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/181442.m3u8"
+      },
+      {
+        "name": "REAL AMERICA'S VOICE",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "国际",
+        "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
+        "url": "http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/381772.m3u8"
+      },
+      {
+        "name": "DOG TV",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "国际",
+        "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
+        "url": "http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/13550.m3u8"
+      },
+      {
+        "name": "AWE",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "国际",
+        "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
+        "url": "http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/176716.m3u8"
+      },
+      {
+        "name": "LAFF",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "国际",
+        "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
+        "url": "http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/400309672.m3u8"
+      },
+      {
+        "name": "TRU TV",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "国际",
+        "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
+        "url": "http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/176757.m3u8"
+      },
+      {
+        "name": "REVOLT",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "国际",
+        "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
+        "url": "http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/176704.m3u8"
+      },
+      {
+        "name": "UNIVERSO",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "国际",
+        "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
+        "url": "http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/28279.m3u8"
+      },
+      {
+        "name": "Wild Earth",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "国际",
+        "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
+        "url": "http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/6615.m3u8"
+      },
+      {
+        "name": "DEFIANCE",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "国际",
+        "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
+        "url": "http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/33938.m3u8"
+      },
+      {
+        "name": "CINE LIFE",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "国际",
+        "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
+        "url": "http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/42198.m3u8"
+      },
+      {
+        "name": "CINEVAULT WESTERNS",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "国际",
+        "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
+        "url": "http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/77367.m3u8"
+      },
+      {
+        "name": "AMC THRILLERS",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "国际",
+        "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
+        "url": "http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/401412568.m3u8"
+      },
+      {
+        "name": "PARAMOUNT NETWORK",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "国际",
+        "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
+        "url": "http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/176601.m3u8"
+      },
+      {
+        "name": "Showtime Family Zone",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "国际",
+        "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
+        "url": "http://panelguys.top:8080/qcFA9B/963626/13481"
+      },
+      {
+        "name": "Showtime Women",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "国际",
+        "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
+        "url": "http://panelguys.top:8080/qcFA9B/963626/17778"
+      },
+      {
+        "name": "THE FILM DETECTIVE",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "国际",
+        "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
+        "url": "http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/181553.m3u8"
+      },
+      {
+        "name": "ADULT ANIMATION",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "国际",
+        "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
+        "url": "http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/77598.m3u8"
+      },
+      {
+        "name": "SCREENPIX WESTERNS",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "国际",
+        "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
+        "url": "http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/28289.m3u8"
+      },
+      {
+        "name": "SHOWTIME 2 EAST",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "国际",
+        "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
+        "url": "http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/181563.m3u8"
+      },
+      {
+        "name": "DISNEY CHANNEL",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "国际",
+        "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
+        "url": "http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/153841.m3u8"
+      },
+      {
+        "name": "LOL NETWORK",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "国际",
+        "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
+        "url": "http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/77461.m3u8"
+      },
+      {
+        "name": "HISTORY CHANNEL",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "国际",
+        "source": "https://raw.githubusercontent.com/YueChan/Live/refs/heads/main/Global.m3u",
+        "url": "http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/176584.m3u8"
       }
     ],
     "体育频道": [
@@ -13354,69 +13634,6 @@
         "group": "体育频道",
         "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
         "url": "https://live.iill.top/douyin/685317364746"
-      },
-      {
-        "name": "你的电子跳绳教练员",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "体育频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://mursor.ottiptv.cc/bilibili/31363461"
-      },
-      {
-        "name": "在家练背",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "体育频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://mursor.ottiptv.cc/bilibili/10055183"
-      },
-      {
-        "name": "拳击技术基础教学",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "体育频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://mursor.ottiptv.cc/bilibili/30273621"
-      },
-      {
-        "name": "浙BA城市争霸赛苍南vs丽水",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "体育频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://mursor.ottiptv.cc/bilibili/1879294526"
-      },
-      {
-        "name": "第四届中青赛",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "体育频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://mursor.ottiptv.cc/bilibili/25632015"
-      },
-      {
-        "name": "纸飞机吉尼斯纪录冲击",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "体育频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://mursor.ottiptv.cc/bilibili/1729315902"
-      },
-      {
-        "name": "肌肉达人直播首秀",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "体育频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://mursor.ottiptv.cc/bilibili/30676335"
-      },
-      {
-        "name": "象棋布局陷阱飞刀出其不意以弱胜强",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "体育频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://mursor.ottiptv.cc/bilibili/1861371474"
-      },
-      {
-        "name": "路人王精彩赛事回顾",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "体育频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://mursor.ottiptv.cc/bilibili/559242"
       }
     ],
     "儿童频道": [
@@ -13425,7 +13642,7 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "儿童频道",
         "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://live.iill.top/huya/11342413"
+        "url": "https://live.metshop.top/huya/11342413"
       },
       {
         "name": "动画大师姐",
@@ -13442,25 +13659,11 @@
         "url": "https://mursor.ottiptv.cc/douyu/9393242"
       },
       {
-        "name": "呆呆的动画",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "儿童频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://mursor.ottiptv.cc/huya/29837259"
-      },
-      {
         "name": "林小二动画",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "儿童频道",
         "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
         "url": "https://mursor.ottiptv.cc/douyu/11184164"
-      },
-      {
-        "name": "海绵宝宝",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "儿童频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://live.metshop.top/douyu/3949681"
       },
       {
         "name": "火影忍者",
@@ -13470,18 +13673,11 @@
         "url": "https://hd.ijycnd.com/play/Yer3NWLa/index.m3u8"
       },
       {
-        "name": "立秋动画",
+        "name": "锤子动画",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "儿童频道",
         "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://mursor.ottiptv.cc/douyu/10351891"
-      },
-      {
-        "name": "虹猫蓝兔系列动画轮播",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "儿童频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://mursor.ottiptv.cc/bilibili/31913902"
+        "url": "https://mursor.ottiptv.cc/huya/30649359"
       },
       {
         "name": "黑龙江少儿",
@@ -13509,20 +13705,6 @@
     ],
     "解说频道": [
       {
-        "name": "04170",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "解说频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://mursor.ottiptv.cc/bilibili/1865936744"
-      },
-      {
-        "name": "0基础学习伤寒论",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "解说频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://mursor.ottiptv.cc/bilibili/1759879865"
-      },
-      {
         "name": "17号说动漫",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "解说频道",
@@ -13537,25 +13719,11 @@
         "url": "https://mursor.ottiptv.cc/douyu/9643264"
       },
       {
-        "name": "BTCETH外汇黄金职业交易员",
+        "name": "77说电影",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "解说频道",
         "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://mursor.ottiptv.cc/bilibili/26011014"
-      },
-      {
-        "name": "Ido漫说",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "解说频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://mursor.ottiptv.cc/douyu/9456379"
-      },
-      {
-        "name": "JG影视解说",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "解说频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://mursor.ottiptv.cc/douyu/9391277"
+        "url": "https://mursor.ottiptv.cc/douyu/9444320"
       },
       {
         "name": "LOL动画剧情解说",
@@ -13565,25 +13733,11 @@
         "url": "https://mursor.ottiptv.cc/huya/29982690"
       },
       {
-        "name": "Mr迷瞪秋季家装节",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "解说频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://mursor.ottiptv.cc/bilibili/22491717"
-      },
-      {
         "name": "SAO东西又再说SAO话",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "解说频道",
         "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
         "url": "https://mursor.ottiptv.cc/douyu/8833450"
-      },
-      {
-        "name": "btc策咯交易",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "解说频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://mursor.ottiptv.cc/bilibili/1854312655"
       },
       {
         "name": "yaoyao说",
@@ -13593,32 +13747,18 @@
         "url": "https://mursor.ottiptv.cc/douyu/884073"
       },
       {
-        "name": "一朵老香菇解说",
+        "name": "一哥爱解说",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "解说频道",
         "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://mursor.ottiptv.cc/douyu/10050914"
+        "url": "https://mursor.ottiptv.cc/huya/28806915"
       },
       {
-        "name": "上一个进来的已经",
+        "name": "三哥说武侠",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "解说频道",
         "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://mursor.ottiptv.cc/bilibili/1995468709"
-      },
-      {
-        "name": "上工ing工程造价",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "解说频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://mursor.ottiptv.cc/bilibili/1985114155"
-      },
-      {
-        "name": "上工了上工了",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "解说频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://mursor.ottiptv.cc/bilibili/31704222"
+        "url": "https://mursor.ottiptv.cc/huya/29834817"
       },
       {
         "name": "丽姐说电影",
@@ -13628,25 +13768,11 @@
         "url": "https://mursor.ottiptv.cc/douyu/9437283"
       },
       {
-        "name": "乖巧会玩无聊蹲哥哥",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "解说频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://mursor.ottiptv.cc/bilibili/1812809761"
-      },
-      {
         "name": "九叔说电影v",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "解说频道",
         "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
         "url": "https://mursor.ottiptv.cc/douyu/9348282"
-      },
-      {
-        "name": "书源说剧",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "解说频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://mursor.ottiptv.cc/huya/30297394"
       },
       {
         "name": "二哈讲电影",
@@ -13656,39 +13782,18 @@
         "url": "https://mursor.ottiptv.cc/douyu/8778280"
       },
       {
-        "name": "亮哥讲电影",
+        "name": "亮哥讲电影2",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "解说频道",
         "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://mursor.ottiptv.cc/huya/16144175"
+        "url": "https://mursor.ottiptv.cc/huya/29982687"
       },
       {
-        "name": "什么问题都能问哦",
+        "name": "伯乐说电影V",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "解说频道",
         "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://mursor.ottiptv.cc/bilibili/32601949"
-      },
-      {
-        "name": "代娱说美剧",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "解说频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://mursor.ottiptv.cc/douyu/9123570"
-      },
-      {
-        "name": "伦帝电影说",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "解说频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://mursor.ottiptv.cc/douyu/9368091"
-      },
-      {
-        "name": "侃片大师兄",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "解说频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://mursor.ottiptv.cc/douyu/9338839"
+        "url": "https://mursor.ottiptv.cc/douyu/9386057"
       },
       {
         "name": "侃片黑菠萝",
@@ -13696,13 +13801,6 @@
         "group": "解说频道",
         "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
         "url": "https://mursor.ottiptv.cc/douyu/5803764"
-      },
-      {
-        "name": "修图修到手抽筋",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "解说频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://mursor.ottiptv.cc/bilibili/1879290380"
       },
       {
         "name": "冬粮说故事",
@@ -13717,20 +13815,6 @@
         "group": "解说频道",
         "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
         "url": "https://mursor.ottiptv.cc/douyu/9666219"
-      },
-      {
-        "name": "刘老师说电影",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "解说频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://mursor.ottiptv.cc/douyu/8317926"
-      },
-      {
-        "name": "剧能说",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "解说频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://mursor.ottiptv.cc/huya/30298490"
       },
       {
         "name": "北京大妈有话说er",
@@ -13754,18 +13838,18 @@
         "url": "https://mursor.ottiptv.cc/douyu/9064711"
       },
       {
+        "name": "博然讲电影",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "解说频道",
+        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
+        "url": "https://mursor.ottiptv.cc/douyu/9561992"
+      },
+      {
         "name": "可乐撩电影",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "解说频道",
         "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
         "url": "https://mursor.ottiptv.cc/douyu/9371552"
-      },
-      {
-        "name": "史君说剧",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "解说频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://mursor.ottiptv.cc/douyu/9419771"
       },
       {
         "name": "听wo姐说",
@@ -13775,32 +13859,11 @@
         "url": "https://mursor.ottiptv.cc/douyu/8830082"
       },
       {
-        "name": "哏老师撩电影",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "解说频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://mursor.ottiptv.cc/douyu/9991820"
-      },
-      {
-        "name": "哑巴竟然会说话",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "解说频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://mursor.ottiptv.cc/yy/1354932427"
-      },
-      {
         "name": "唐司令说电影",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "解说频道",
         "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
         "url": "https://mursor.ottiptv.cc/douyu/8774345"
-      },
-      {
-        "name": "喵妹说电影",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "解说频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://mursor.ottiptv.cc/douyu/9312432"
       },
       {
         "name": "大魔王说游",
@@ -13824,41 +13887,6 @@
         "url": "https://mursor.ottiptv.cc/douyu/9439594"
       },
       {
-        "name": "好像视说故事",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "解说频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://mursor.ottiptv.cc/douyu/8891883"
-      },
-      {
-        "name": "好无聊呀",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "解说频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://mursor.ottiptv.cc/bilibili/25008763"
-      },
-      {
-        "name": "如来解说",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "解说频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://mursor.ottiptv.cc/huya/29856678"
-      },
-      {
-        "name": "娄星区政务服务中心在线服务",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "解说频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://mursor.ottiptv.cc/bilibili/30620547"
-      },
-      {
-        "name": "宇哥讲电影",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "解说频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://mursor.ottiptv.cc/douyu/2104744"
-      },
-      {
         "name": "安小闫说电影x",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "解说频道",
@@ -13871,6 +13899,13 @@
         "group": "解说频道",
         "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
         "url": "https://mursor.ottiptv.cc/douyu/8529736"
+      },
+      {
+        "name": "小丑讲电影",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "解说频道",
+        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
+        "url": "https://mursor.ottiptv.cc/huya/16857432"
       },
       {
         "name": "小丽说电影",
@@ -13887,13 +13922,6 @@
         "url": "https://mursor.ottiptv.cc/douyu/8413908"
       },
       {
-        "name": "小司马说剧",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "解说频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://mursor.ottiptv.cc/douyu/9660127"
-      },
-      {
         "name": "小岛讲电影",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "解说频道",
@@ -13908,32 +13936,25 @@
         "url": "https://mursor.ottiptv.cc/douyu/9665834"
       },
       {
-        "name": "小片片说大片二台",
+        "name": "小涛讲电影V",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "解说频道",
         "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://mursor.ottiptv.cc/douyu/10011547"
+        "url": "https://mursor.ottiptv.cc/douyu/8415464"
       },
       {
-        "name": "小陶气说动漫",
+        "name": "小片片说大片",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "解说频道",
         "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://mursor.ottiptv.cc/douyu/9527700"
+        "url": "https://mursor.ottiptv.cc/douyu/4258555"
       },
       {
-        "name": "小马哥说电影",
+        "name": "小超讲电影",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "解说频道",
         "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://mursor.ottiptv.cc/douyu/9396672"
-      },
-      {
-        "name": "山石说电影",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "解说频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://mursor.ottiptv.cc/huya/29858128"
+        "url": "https://mursor.ottiptv.cc/douyu/3432645"
       },
       {
         "name": "崽崽撩电影",
@@ -13941,55 +13962,6 @@
         "group": "解说频道",
         "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
         "url": "https://mursor.ottiptv.cc/douyu/8325511"
-      },
-      {
-        "name": "已知艺术家漫画解说",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "解说频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://mursor.ottiptv.cc/douyu/5907076"
-      },
-      {
-        "name": "幕撩电影",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "解说频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://mursor.ottiptv.cc/douyu/9486015"
-      },
-      {
-        "name": "平平无奇电脑店",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "解说频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://mursor.ottiptv.cc/bilibili/31266404"
-      },
-      {
-        "name": "平面牛马",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "解说频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://mursor.ottiptv.cc/bilibili/23208783"
-      },
-      {
-        "name": "强人说笑",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "解说频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://mursor.ottiptv.cc/douyu/10329713"
-      },
-      {
-        "name": "微笑影视解说",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "解说频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://mursor.ottiptv.cc/douyu/9476790"
-      },
-      {
-        "name": "恶搞1之家站内过审",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "解说频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://mursor.ottiptv.cc/bilibili/1830377476"
       },
       {
         "name": "据说放映室",
@@ -14006,27 +13978,6 @@
         "url": "https://mursor.ottiptv.cc/douyu/9351043"
       },
       {
-        "name": "斌哥漫说",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "解说频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://mursor.ottiptv.cc/huya/18632116"
-      },
-      {
-        "name": "新v绛白的生活日常",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "解说频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://mursor.ottiptv.cc/bilibili/31973632"
-      },
-      {
-        "name": "新人福瑞画师日常听歌聊天赶稿",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "解说频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://mursor.ottiptv.cc/bilibili/1796106223"
-      },
-      {
         "name": "新视角解说",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "解说频道",
@@ -14034,18 +13985,25 @@
         "url": "https://mursor.ottiptv.cc/douyu/8813254"
       },
       {
+        "name": "易说影视",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "解说频道",
+        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
+        "url": "https://mursor.ottiptv.cc/douyu/10859591"
+      },
+      {
+        "name": "晓晓说电影",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "解说频道",
+        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
+        "url": "https://mursor.ottiptv.cc/douyu/9430717"
+      },
+      {
         "name": "晓麦讲电影",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "解说频道",
         "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
         "url": "https://mursor.ottiptv.cc/douyu/453963"
-      },
-      {
-        "name": "末日说电影",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "解说频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://mursor.ottiptv.cc/douyu/9431125"
       },
       {
         "name": "松轩说电影",
@@ -14062,53 +14020,11 @@
         "url": "https://mursor.ottiptv.cc/douyu/9769563"
       },
       {
-        "name": "楚哥说电影",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "解说频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://mursor.ottiptv.cc/douyu/9375743"
-      },
-      {
-        "name": "气质这块今天也拿捏了",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "解说频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://mursor.ottiptv.cc/bilibili/1820332064"
-      },
-      {
         "name": "汪哥说电影",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "解说频道",
         "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
         "url": "https://mursor.ottiptv.cc/douyu/9312685"
-      },
-      {
-        "name": "浩贤说电影",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "解说频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://mursor.ottiptv.cc/douyu/10535867"
-      },
-      {
-        "name": "温柔大姐姐",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "解说频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://mursor.ottiptv.cc/bilibili/32560354"
-      },
-      {
-        "name": "温青多病公子强势回归被笃定宠爱版",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "解说频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://mursor.ottiptv.cc/bilibili/1805408639"
-      },
-      {
-        "name": "漫画解说",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "解说频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://www.goodiptv.club/douyu/5907076"
       },
       {
         "name": "火龙果讲电影本人",
@@ -14118,32 +14034,11 @@
         "url": "https://mursor.ottiptv.cc/douyu/2039501"
       },
       {
-        "name": "火龙果说电影",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "解说频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://mursor.ottiptv.cc/douyu/9559158"
-      },
-      {
         "name": "灯泡兄弟影游谈",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "解说频道",
         "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
         "url": "https://mursor.ottiptv.cc/douyu/1690081"
-      },
-      {
-        "name": "灵佑奇谈",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "解说频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://mursor.ottiptv.cc/douyu/9678207"
-      },
-      {
-        "name": "熊妹撩电影",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "解说频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://mursor.ottiptv.cc/huya/15966357"
       },
       {
         "name": "爱讲神话的小志",
@@ -14153,32 +14048,11 @@
         "url": "https://mursor.ottiptv.cc/douyu/9495613"
       },
       {
-        "name": "牛叔说电影",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "解说频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://mursor.ottiptv.cc/douyu/2758565"
-      },
-      {
-        "name": "牛叔说电影二台",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "解说频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://mursor.ottiptv.cc/douyu/10010651"
-      },
-      {
         "name": "狂野的种马小说家",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "解说频道",
         "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
         "url": "https://mursor.ottiptv.cc/douyu/8849703"
-      },
-      {
-        "name": "猫八解说",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "解说频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://mursor.ottiptv.cc/douyu/9542831"
       },
       {
         "name": "猫叔说电影",
@@ -14188,13 +14062,6 @@
         "url": "https://mursor.ottiptv.cc/douyu/9820039"
       },
       {
-        "name": "猴博士爱讲课V",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "解说频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://mursor.ottiptv.cc/douyu/8799739"
-      },
-      {
         "name": "珞珞说电影",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "解说频道",
@@ -14202,39 +14069,18 @@
         "url": "https://mursor.ottiptv.cc/douyu/3718888"
       },
       {
-        "name": "瘦巴巴的老爷们一起来抓我呀",
+        "name": "球哥解说",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "解说频道",
         "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://mursor.ottiptv.cc/bilibili/32675285"
+        "url": "https://mursor.ottiptv.cc/huya/29465875"
       },
       {
-        "name": "百家讲坛之明太祖朱元璋",
+        "name": "神之传说sh",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "解说频道",
         "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://mursor.ottiptv.cc/yy/1354936149"
-      },
-      {
-        "name": "百晓生说剧",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "解说频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://mursor.ottiptv.cc/douyu/9649681"
-      },
-      {
-        "name": "真香动漫解说",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "解说频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://mursor.ottiptv.cc/douyu/9391292"
-      },
-      {
-        "name": "神羊说电影",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "解说频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://mursor.ottiptv.cc/douyu/9443552"
+        "url": "https://mursor.ottiptv.cc/douyu/9370168"
       },
       {
         "name": "秀才侃娱乐",
@@ -14242,20 +14088,6 @@
         "group": "解说频道",
         "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
         "url": "https://mursor.ottiptv.cc/douyu/9382873"
-      },
-      {
-        "name": "童乐说电影",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "解说频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://mursor.ottiptv.cc/douyu/9660704"
-      },
-      {
-        "name": "练习时长两年半今天给粉丝装个机",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "解说频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://mursor.ottiptv.cc/bilibili/22302561"
       },
       {
         "name": "绘说篮球C",
@@ -14272,25 +14104,18 @@
         "url": "https://mursor.ottiptv.cc/douyu/9788756"
       },
       {
-        "name": "老秦说秦",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "解说频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://mursor.ottiptv.cc/douyu/9650131"
-      },
-      {
-        "name": "老邪说电影",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "解说频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://mursor.ottiptv.cc/douyu/9222870"
-      },
-      {
         "name": "老鱼说剧",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "解说频道",
         "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
         "url": "https://mursor.ottiptv.cc/douyu/9994377"
+      },
+      {
+        "name": "芮橙说剧",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "解说频道",
+        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
+        "url": "https://mursor.ottiptv.cc/huya/30287258"
       },
       {
         "name": "芳芳说故事",
@@ -14300,32 +14125,11 @@
         "url": "https://mursor.ottiptv.cc/douyu/9401905"
       },
       {
-        "name": "菇菇说过",
+        "name": "菠萝说电影",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "解说频道",
         "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://mursor.ottiptv.cc/douyu/8788687"
-      },
-      {
-        "name": "萌新画画聊天",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "解说频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://mursor.ottiptv.cc/bilibili/25095370"
-      },
-      {
-        "name": "萌新驾到多多指教",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "解说频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://mursor.ottiptv.cc/bilibili/1862088680"
-      },
-      {
-        "name": "虾虾聊影视",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "解说频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://mursor.ottiptv.cc/huya/29519746"
+        "url": "https://mursor.ottiptv.cc/douyu/3714736"
       },
       {
         "name": "蛋黄讲动漫",
@@ -14363,18 +14167,11 @@
         "url": "https://mursor.ottiptv.cc/douyu/9444627"
       },
       {
-        "name": "读书",
+        "name": "调侃贫道XIN版",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "解说频道",
         "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://mursor.ottiptv.cc/bilibili/22629163"
-      },
-      {
-        "name": "谁语说电影",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "解说频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://mursor.ottiptv.cc/douyu/8705754"
+        "url": "https://mursor.ottiptv.cc/douyu/9463586"
       },
       {
         "name": "豆客解说",
@@ -14398,46 +14195,11 @@
         "url": "https://mursor.ottiptv.cc/douyu/421222"
       },
       {
-        "name": "道友留步江西鹰潭龙虎山官方专业解惑",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "解说频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://mursor.ottiptv.cc/bilibili/1725929273"
-      },
-      {
-        "name": "钟馗传说",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "解说频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://mursor.ottiptv.cc/yy/1382736839"
-      },
-      {
         "name": "钱小元说电影",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "解说频道",
         "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
         "url": "https://mursor.ottiptv.cc/douyu/9368265"
-      },
-      {
-        "name": "锋哥聊商机",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "解说频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://mursor.ottiptv.cc/douyu/9472141"
-      },
-      {
-        "name": "门窗科普博主在线答疑",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "解说频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://mursor.ottiptv.cc/bilibili/25306496"
-      },
-      {
-        "name": "阎君说剧",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "解说频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://mursor.ottiptv.cc/douyu/10475459"
       },
       {
         "name": "阿木讲电影",
@@ -14475,20 +14237,6 @@
         "url": "https://mursor.ottiptv.cc/douyu/9678790"
       },
       {
-        "name": "首关情感解惑",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "解说频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://mursor.ottiptv.cc/bilibili/32129529"
-      },
-      {
-        "name": "首次开播请多关照",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "解说频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://mursor.ottiptv.cc/bilibili/1842743374"
-      },
-      {
         "name": "驴哥说电影",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "解说频道",
@@ -14501,20 +14249,6 @@
         "group": "解说频道",
         "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
         "url": "https://mursor.ottiptv.cc/douyu/8722254"
-      },
-      {
-        "name": "鲨说电影",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "解说频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://mursor.ottiptv.cc/douyu/9544628"
-      },
-      {
-        "name": "鸡哥聊电影",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "解说频道",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://mursor.ottiptv.cc/douyu/5067952"
       },
       {
         "name": "鹏友说电影",
@@ -14540,32 +14274,9 @@
         "url": "https://tv-1.iill.top/fm/552"
       }
     ],
-    "直播中国": [
-      {
-        "name": "狮子山鸟瞰丽江古城",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "直播中国",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://gcalic.v.myalicdn.com/gc/ljgcszsnkgc_1/index.m3u8"
-      },
-      {
-        "name": "贵州省兴义市万峰林",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "直播中国",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://gcalic.v.myalicdn.com/gc/xywfl_1/index.m3u8"
-      },
-      {
-        "name": "青岛崂山八水河",
-        "logo": "https://buddytv.netlify.app/img/no-logo.png",
-        "group": "直播中国",
-        "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
-        "url": "https://gcalic.v.myalicdn.com/gc/qdls02_1/index.m3u8"
-      }
-    ],
     "更新时间": [
       {
-        "name": "2025-08-20 12:44:20",
+        "name": "2025-08-20 18:47:32",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "更新时间",
         "source": "https://raw.githubusercontent.com/sjnhnp/adblock/refs/heads/main/filtered_https_only.m3u",
