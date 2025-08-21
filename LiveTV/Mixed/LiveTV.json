@@ -1,5 +1,5 @@
 {
-  "date": "2025-08-21 06:08:04",
+  "date": "2025-08-21 13:42:10",
   "channels": {
     "STREAMING": [
       {
@@ -856,7 +856,7 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "notizie",
         "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/heads/master/output/rakuten.m3u",
-        "url": "https://dab794fcc38647efbf5f86bf01fa5c21.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6570/bitok/eyJzdGlkIjoiNTM1ZTEzNDctNzI1OS00NjE3LWIyZTAtZDhlMTQxOTVlMGU1IiwibWt0IjoiaXQiLCJjaCI6NjU3MCwicHRmIjo1fQ%3D%3D/25674/euronews-it.m3u8"
+        "url": "https://dab794fcc38647efbf5f86bf01fa5c21.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6570/bitok/eyJzdGlkIjoiZGVkZmEyMTktOGIzNi00NWQyLWE2NDgtMDJlN2Q4NTI5Yjg3IiwibWt0IjoiaXQiLCJjaCI6NjU3MCwicHRmIjo1fQ%3D%3D/25674/euronews-it.m3u8"
       },
       {
         "name": "The Reuters 60",
@@ -898,7 +898,7 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "notizie",
         "source": "https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/heads/master/output/rakuten.m3u",
-        "url": "https://c3c275b999764df8a2dd55ffe2996818.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576/bitok/eyJzdGlkIjoiNTc1NGUzOGMtZjZjMS00MTZiLWE1ZDQtNzAzYzAwZWI5ODcyIiwibWt0IjoiaXQiLCJjaCI6NjU4NywicHRmIjo1fQ%3D%3D/26036/africanews-en.m3u8"
+        "url": "https://c3c275b999764df8a2dd55ffe2996818.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576/bitok/eyJzdGlkIjoiM2NkNDU5NTktOTJjNS00ZTM2LThjNGMtNjgwODVmMGQwYjM5IiwibWt0IjoiaXQiLCJjaCI6NjU4NywicHRmIjo1fQ%3D%3D/26036/africanews-en.m3u8"
       },
       {
         "name": "CGTN",
@@ -2975,13 +2975,6 @@
         "url": "https://cdn1.intercom.cdn.moderntv.eu/intercom/stream/AXN/40-hls/live-media.m3u8"
       },
       {
-        "name": "AMC",
-        "logo": "https://i.ibb.co/ncDh80L/amc.png",
-        "group": "CINE Y SERIES",
-        "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
-        "url": "http://higherpro.xyz:8080/live/56956478056/270924ztv/54469.m3u8"
-      },
-      {
         "name": "AZCINEMA",
         "logo": "https://static.wikia.nocookie.net/logopedia/images/9/99/Azteca_Cinema_Logo_2023.svg/revision/latest/scale-to-width-down/280?cb=20230707174037",
         "group": "CINE Y SERIES",
@@ -3361,6 +3354,13 @@
       }
     ],
     "INFANTILES": [
+      {
+        "name": "ADULT SWIM",
+        "logo": "https://www.nicepng.com/png/detail/222-2227750_logo-adult-swim-jsgtv-svg-logo-adult-swim.png",
+        "group": "INFANTILES",
+        "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
+        "url": "http://104.238.205.28:8989/278392_.m3u8"
+      },
       {
         "name": "BABYFIRST",
         "logo": "https://epodcastnetwork.com/wp-content/uploads/2015/04/BabyFirst_LOGO-300x96.png",
