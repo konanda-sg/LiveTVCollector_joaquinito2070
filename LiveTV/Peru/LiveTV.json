@@ -1,15 +1,6 @@
 {
-  "date": "2025-08-22 07:25:58",
+  "date": "2025-08-22 14:02:07",
   "channels": {
-    "News;Public": [
-      {
-        "name": "24 Horas Internacional [Geo-blocked]",
-        "logo": "https://i.imgur.com/IUVRm5L.png",
-        "group": "News;Public",
-        "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
-        "url": "https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8"
-      }
-    ],
     "Outdoor": [
       {
         "name": "Agro TV (Apurimac) (720p) [Not 24/7]",
@@ -56,6 +47,20 @@
         "url": "https://live.obslivestream.com/autenticatvmux/index.m3u8"
       },
       {
+        "name": "BCN Gospel TV (1080p)",
+        "logo": "https://i.imgur.com/ZKAnehs.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
+        "url": "https://live1.ovalcast.com:3641/live/bcngospeltvlive.m3u8"
+      },
+      {
+        "name": "BTV World (1080p)",
+        "logo": "https://i.imgur.com/sSnrg7o.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
+        "url": "https://www.btvlive.gov.bd/streams/ef8b8bbc-98b7-4ba7-a49d-a0adaf259d35/ES/d96eb7f4-83c2-4472-9597-3568390a8ebf/d96eb7f4-83c2-4472-9597-3568390a8ebf_3_playlist.m3u8"
+      },
+      {
         "name": "Cajamarca TV",
         "logo": "https://i.imgur.com/pC57NYv.png",
         "group": "General",
@@ -89,6 +94,13 @@
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
         "url": "https://stmv1.voxhdnet.com/dmjsurtv/dmjsurtv/playlist.m3u8"
+      },
+      {
+        "name": "Duna World (576p)",
+        "logo": "https://i.imgur.com/uOBQJZS.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
+        "url": "http://146.59.85.40:89/dunaworld/index.m3u8"
       },
       {
         "name": "Global TV",
@@ -250,6 +262,13 @@
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
         "url": "https://stmv1.voxhdnet.com/sistemascusco/sistemascusco/playlist.m3u8"
+      },
+      {
+        "name": "TVM Internacional (480p) [Not 24/7]",
+        "logo": "https://i.imgur.com/fRV6p50.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
+        "url": "http://online.tvm.co.mz:1935/live/smil:Channel2.smil/playlist.m3u8"
       },
       {
         "name": "TVQ (720p)",
@@ -546,6 +565,13 @@
         "url": "https://s1.tvdatta.com:3883/live/tvenlinealive.m3u8"
       },
       {
+        "name": "TVG América (720p)",
+        "logo": "https://i.imgur.com/CzeVIZa.png",
+        "group": "General",
+        "source": "https://raw.githubusercontent.com/antholyber1a/lista-iptv-peru/refs/heads/main/iptvperu.m3u",
+        "url": "https://america-crtvg.flumotion.com/playlist.m3u8"
+      },
+      {
         "name": "UNITEL PERÚ (Lima) (720p)",
         "logo": "https://i.imgur.com/F0PWpyc.png",
         "group": "General",
@@ -702,6 +728,13 @@
         "group": "Music",
         "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
         "url": "https://backend.energeek.cl/webtv/egradioweb/index.m3u8?token=ZZDemoIPTVGH"
+      },
+      {
+        "name": "Euro Indie Music Chart TV (360p)",
+        "logo": "https://i.imgur.com/lF0iofX.png",
+        "group": "Music",
+        "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
+        "url": "http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8"
       },
       {
         "name": "Frecuencia Musical TV [Not 24/7]",
@@ -953,6 +986,13 @@
         "url": "https://live-evg1.tv360.bitel.com.pe/bitel/latele/playlist.m3u8"
       },
       {
+        "name": "NHK World Premium (720p) [Not 24/7]",
+        "logo": "https://i.imgur.com/4ESi2La.png",
+        "group": "Entertainment",
+        "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
+        "url": "https://cdn.nhkworld.jp/www11/nhkworld-tv/pre/hlscomp.m3u8"
+      },
+      {
         "name": "Panc TV Peru (1080p)",
         "logo": "https://play-lh.googleusercontent.com/-FVhaeUjvONL49NYdVMchoLXU421387791mp8zZ15JFic_kPyb3vULf86ffIr-NeOg",
         "group": "Entertainment",
@@ -1106,11 +1146,25 @@
         "url": "https://alba-pe-atv-atvmas.stream.mediatiquestream.com/index.m3u8"
       },
       {
+        "name": "CGTN (1080p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/512px-CGTN.svg.png",
+        "group": "News",
+        "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
+        "url": "https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8"
+      },
+      {
         "name": "CGTN Español (1080p)",
         "logo": "https://i.imgur.com/Poz3xfi.png",
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
         "url": "https://espanol-livews.cgtn.com/hls/LSveOGBaBw41Ea7ukkVAUdKQ220802LSTexu6xAuFH8VZNBLE1ZNEa220802cd/playlist.m3u8"
+      },
+      {
+        "name": "CGTN Français (1080p) [Not 24/7]",
+        "logo": "https://i.imgur.com/BwhledK.png",
+        "group": "News",
+        "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
+        "url": "https://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8"
       },
       {
         "name": "Conecta2TV (720p) [Not 24/7]",
@@ -1148,11 +1202,25 @@
         "url": "https://cdnlive.presstv.ir/live/smil:live.smil/playlist.m3u8"
       },
       {
+        "name": "I24 News English (720p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/512px-LOGO_i24NEWS.png",
+        "group": "News",
+        "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
+        "url": "https://bcovlive-a.akamaihd.net/ecf224f43f3b43e69471a7b626481af0/eu-central-1/5377161796001/playlist.m3u8"
+      },
+      {
         "name": "Like TV",
         "logo": "https://i.imgur.com/5IwS0sJ.png",
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
         "url": "https://live-evg1.tv360.bitel.com.pe/bitel/liketv/playlist.m3u8"
+      },
+      {
+        "name": "Metro Globe Network (1080p) [Not 24/7]",
+        "logo": "https://i.imgur.com/aiiinzg.png",
+        "group": "News",
+        "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
+        "url": "https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8"
       },
       {
         "name": "PBO",
@@ -1320,6 +1388,36 @@
         "url": "https://cdnhd.iblups.com/hls/3f2cb1658d114f2693eff18d83199e67.m3u8"
       }
     ],
+    "Documentary": [
+      {
+        "name": "CGTN Documentary (1080p)",
+        "logo": "https://i.imgur.com/JHv0WxM.png",
+        "group": "Documentary",
+        "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
+        "url": "https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8"
+      },
+      {
+        "name": "History 2 Latin America",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/512px-History2_logo_%282022%29.svg.png",
+        "group": "Documentary",
+        "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
+        "url": "https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HISTORY2/index.m3u8"
+      },
+      {
+        "name": "National Geographic Latin America",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png",
+        "group": "Documentary",
+        "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
+        "url": "https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/NAT_GEO/index.m3u8"
+      },
+      {
+        "name": "El Histonauta TV (360p)",
+        "logo": "https://i.imgur.com/H4SFkx6.png",
+        "group": "Documentary",
+        "source": "https://raw.githubusercontent.com/antholyber1a/lista-iptv-peru/refs/heads/main/iptvperu.m3u",
+        "url": "https://stmv6.voxtvhd.com.br/elhistonautatv/elhistonautatv/chunklist_w368121454.m3u8"
+      }
+    ],
     "Movies": [
       {
         "name": "Cine Adrenalina (720p)",
@@ -1425,15 +1523,6 @@
         "group": "Movies",
         "source": "https://raw.githubusercontent.com/antholyber1a/lista-iptv-peru/refs/heads/main/iptvperu.m3u",
         "url": "https://video06.logicahost.com.br/retroplussenal3/retroplussenal3/chunklist_w1062652673.m3u8"
-      }
-    ],
-    "Kids;Public": [
-      {
-        "name": "Clan TVE Internacional (1080p)",
-        "logo": "https://i.imgur.com/03jFV68.png",
-        "group": "Kids;Public",
-        "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
-        "url": "https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main.m3u8"
       }
     ],
     "Legislative": [
@@ -1743,13 +1832,13 @@
         "url": "https://linear-405.frequency.stream/mt/studio/405/hls/master/playlist.m3u8"
       }
     ],
-    "General;Public": [
+    "Culture;Public": [
       {
-        "name": "Galicia TV América (720p)",
-        "logo": "https://i.imgur.com/s59AaqG.png",
-        "group": "General;Public",
+        "name": "ETB Basque (480p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ETB_Basque_2022_logo.svg/512px-ETB_Basque_2022_logo.svg.png",
+        "group": "Culture;Public",
         "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
-        "url": "https://america-crtvg.flumotion.com/playlist.m3u8"
+        "url": "https://multimedia.eitb.eus/live-content/eitbbasque-hls/master.m3u8"
       }
     ],
     "Auto": [
@@ -1759,6 +1848,36 @@
         "group": "Auto",
         "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
         "url": "https://stream1.sersat.com/hls/garagetv.m3u8"
+      },
+      {
+        "name": "Motorvision",
+        "logo": "https://i.imgur.com/v4kj8pI.png",
+        "group": "Auto",
+        "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
+        "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6093f2ae4dd5ab0007d1ff9d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1e7523-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3105f589-5bf9-41ef-8229-51bdf3abb1d2"
+      }
+    ],
+    "Cooking": [
+      {
+        "name": "Gusto TV (1080p)",
+        "logo": "https://i.imgur.com/swUX3hQ.png",
+        "group": "Cooking",
+        "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
+        "url": "https://e75fc053c0d2406fb74cdd71d77e1a7f.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/RakutenTV-eu_GustoTV/playlist.m3u8"
+      },
+      {
+        "name": "Tastemade en Espanol [Geo-blocked]",
+        "logo": "https://i.imgur.com/8s6aRwv.png",
+        "group": "Cooking",
+        "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
+        "url": "https://tastemadees16us-xumo.amagi.tv/playlist.m3u8"
+      },
+      {
+        "name": "Tastemade en Español (1080p)",
+        "logo": "https://i.imgur.com/8s6aRwv.png",
+        "group": "Cooking",
+        "source": "https://raw.githubusercontent.com/antholyber1a/lista-iptv-peru/refs/heads/main/iptvperu.m3u",
+        "url": "https://tastemade-es8intl-roku.amagi.tv/playlist.m3u8"
       }
     ],
     "Science": [
@@ -1768,29 +1887,6 @@
         "group": "Science",
         "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
         "url": "https://stmv5.voxtvhd.com.br/hiperconectados/hiperconectados/playlist.m3u8"
-      }
-    ],
-    "Documentary": [
-      {
-        "name": "History 2 Latin America",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/512px-History2_logo_%282022%29.svg.png",
-        "group": "Documentary",
-        "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
-        "url": "https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HISTORY2/index.m3u8"
-      },
-      {
-        "name": "National Geographic Latin America",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png",
-        "group": "Documentary",
-        "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
-        "url": "https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/NAT_GEO/index.m3u8"
-      },
-      {
-        "name": "El Histonauta TV (360p)",
-        "logo": "https://i.imgur.com/H4SFkx6.png",
-        "group": "Documentary",
-        "source": "https://raw.githubusercontent.com/antholyber1a/lista-iptv-peru/refs/heads/main/iptvperu.m3u",
-        "url": "https://stmv6.voxtvhd.com.br/elhistonautatv/elhistonautatv/chunklist_w368121454.m3u8"
       }
     ],
     "Animation;Entertainment": [
@@ -1818,6 +1914,13 @@
         "url": "http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8"
       },
       {
+        "name": "Red Bull TV (1080p)",
+        "logo": "https://i.postimg.cc/8c78JM28/image.png",
+        "group": "Sports",
+        "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
+        "url": "https://3ea22335.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX1JlZEJ1bGxUVl9ITFM/playlist.m3u8"
+      },
+      {
         "name": "TVQ Sports (720p)",
         "logo": "https://i.imgur.com/CQpuBeQ.png",
         "group": "Sports",
@@ -1830,6 +1933,15 @@
         "group": "Sports",
         "source": "https://raw.githubusercontent.com/antholyber1a/lista-iptv-peru/refs/heads/main/iptvperu.m3u",
         "url": "http://vcpar.myplaytv.com/esportsmax/live/playlist.m3u8"
+      }
+    ],
+    "Culture;News": [
+      {
+        "name": "NHK World-Japan (720p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png",
+        "group": "Culture;News",
+        "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
+        "url": "https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8"
       }
     ],
     "Education": [
@@ -1862,6 +1974,13 @@
         "group": "Lifestyle",
         "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
         "url": "https://vcp.myplaytv.com/glowtv/glowtv/playlist.m3u8"
+      },
+      {
+        "name": "Superyacht TV (1080p)",
+        "logo": "https://i.imgur.com/cgjgjE1.png",
+        "group": "Lifestyle",
+        "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
+        "url": "https://sy.wns.live/hls/stream.m3u8"
       }
     ],
     "Entertainment;Lifestyle;Music": [
@@ -1873,22 +1992,6 @@
         "url": "https://backend.energeek.cl/webtv/pridetvweb/index.m3u8?token=ZZDemoIPTVGH"
       }
     ],
-    "Travel": [
-      {
-        "name": "Radio Rutas del Perú (360p) [Not 24/7]",
-        "logo": "https://i.imgur.com/88Iyvm8.png",
-        "group": "Travel",
-        "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
-        "url": "https://tv.portalexpress.es:3731/stream/play.m3u8"
-      },
-      {
-        "name": "Radio Rutas del Perú SD",
-        "logo": "https://i.imgur.com/88Iyvm8.png",
-        "group": "Travel",
-        "source": "https://raw.githubusercontent.com/antholyber1a/lista-iptv-peru/refs/heads/main/iptvperu.m3u",
-        "url": "https://stmv.streamingvip.click/rutasdelperutv/rutasdelperutv/chunklist_w2137045211.m3u8"
-      }
-    ],
     "Culture;Music": [
       {
         "name": "Radio Suyai TV (1080p)",
@@ -1896,22 +1999,6 @@
         "group": "Culture;Music",
         "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
         "url": "https://signal.suyaitv.cl/live/26/playlist.m3u8?password=9PcdCnFxUe&username=ZZDemoIPTVGH"
-      }
-    ],
-    "Cooking": [
-      {
-        "name": "Tastemade en Espanol [Geo-blocked]",
-        "logo": "https://i.imgur.com/8s6aRwv.png",
-        "group": "Cooking",
-        "source": "https://iptv-org.github.io/iptv/countries/pe.m3u",
-        "url": "https://tastemadees16us-xumo.amagi.tv/playlist.m3u8"
-      },
-      {
-        "name": "Tastemade en Español (1080p)",
-        "logo": "https://i.imgur.com/8s6aRwv.png",
-        "group": "Cooking",
-        "source": "https://raw.githubusercontent.com/antholyber1a/lista-iptv-peru/refs/heads/main/iptvperu.m3u",
-        "url": "https://tastemade-es8intl-roku.amagi.tv/playlist.m3u8"
       }
     ],
     "Business": [
@@ -2225,6 +2312,15 @@
         "group": "Classic",
         "source": "https://raw.githubusercontent.com/antholyber1a/lista-iptv-peru/refs/heads/main/iptvperu.m3u",
         "url": "https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8"
+      }
+    ],
+    "Travel": [
+      {
+        "name": "Radio Rutas del Perú SD",
+        "logo": "https://i.imgur.com/88Iyvm8.png",
+        "group": "Travel",
+        "source": "https://raw.githubusercontent.com/antholyber1a/lista-iptv-peru/refs/heads/main/iptvperu.m3u",
+        "url": "https://stmv.streamingvip.click/rutasdelperutv/rutasdelperutv/chunklist_w2137045211.m3u8"
       }
     ],
     "Wester": [
@@ -3276,13 +3372,6 @@
         "group": "TV NOTICIAS",
         "source": "https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u",
         "url": "https://pbc.furrera.ps/palestinehd/tracks-v1a1/mono.m3u8"
-      },
-      {
-        "name": "37 | NHK WORLD ᴴᴰ",
-        "logo": "https://i.imgur.com/vYv9Qnk.jpeg",
-        "group": "TV NOTICIAS",
-        "source": "https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u",
-        "url": "https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8"
       },
       {
         "name": "37.1 | NHK JAPAN ᴴᴰ",
