@@ -1,5 +1,5 @@
 {
-  "date": "2025-08-22 06:21:02",
+  "date": "2025-08-22 13:44:48",
   "channels": {
     "Uncategorized": [
       {
@@ -5704,6 +5704,20 @@
         "url": "https://60ed5b6d0df78.streamlock.net:1936/envio2/envio2/playlist.m3u8"
       },
       {
+        "name": "BCN Gospel TV (1080p)",
+        "logo": "https://i.imgur.com/ZKAnehs.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/countries/mx.m3u",
+        "url": "https://live1.ovalcast.com:3641/live/bcngospeltvlive.m3u8"
+      },
+      {
+        "name": "BTV World (1080p)",
+        "logo": "https://i.imgur.com/sSnrg7o.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/countries/mx.m3u",
+        "url": "https://www.btvlive.gov.bd/streams/ef8b8bbc-98b7-4ba7-a49d-a0adaf259d35/ES/d96eb7f4-83c2-4472-9597-3568390a8ebf/d96eb7f4-83c2-4472-9597-3568390a8ebf_3_playlist.m3u8"
+      },
+      {
         "name": "California Medios TV (720p)",
         "logo": "https://i.imgur.com/IDvpRNI.png",
         "group": "General",
@@ -5919,6 +5933,13 @@
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/mx.m3u",
         "url": "https://stream.oursnetworktv.com/latin/encoder87/playlist.m3u8"
+      },
+      {
+        "name": "Duna World (576p)",
+        "logo": "https://i.imgur.com/uOBQJZS.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/countries/mx.m3u",
+        "url": "http://146.59.85.40:89/dunaworld/index.m3u8"
       },
       {
         "name": "Eclipse TV (720p)",
@@ -6252,6 +6273,13 @@
         "url": "https://hls.gvstream.live/telesistemas/15tv.stream/playlist.m3u8"
       },
       {
+        "name": "BVN",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/BVN_logo.svg/512px-BVN_logo.svg.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/mx.m3u",
+        "url": "https://viamotionhsi.netplus.ch/live/eds/bvn/browser-HLS8/bvn.m3u8"
+      },
+      {
         "name": "Canal 10 Cancún (720p) [Not 24/7]",
         "logo": "https://i.imgur.com/TvTn3hO.png",
         "group": "Undefined",
@@ -6504,15 +6532,6 @@
         "url": "https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/SYFY/index.m3u8"
       }
     ],
-    "News;Public": [
-      {
-        "name": "24 Horas Internacional [Geo-blocked]",
-        "logo": "https://i.imgur.com/IUVRm5L.png",
-        "group": "News;Public",
-        "source": "https://iptv-org.github.io/iptv/countries/mx.m3u",
-        "url": "https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8"
-      }
-    ],
     "Sports": [
       {
         "name": "Afizzionados (576p)",
@@ -6522,11 +6541,25 @@
         "url": "https://linear-348.frequency.stream/mt/studio/348/hls/master/playlist.m3u8"
       },
       {
+        "name": "FUEL TV (1080p)",
+        "logo": "https://i.imgur.com/I8mviBy.png",
+        "group": "Sports",
+        "source": "https://iptv-org.github.io/iptv/countries/mx.m3u",
+        "url": "https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_rakutenAA-fueltvemeaen/CDN/master.m3u8"
+      },
+      {
         "name": "Hipódromo de las Américas (480p) [Geo-blocked]",
         "logo": "https://www.hipodromo.com.mx/desktop/images/LOGO_HIPODROMO_bco.png",
         "group": "Sports",
         "source": "https://iptv-org.github.io/iptv/countries/mx.m3u",
         "url": "http://wms.tecnoxia.com:1935/8158/8158/playlist.m3u8"
+      },
+      {
+        "name": "Red Bull TV (1080p)",
+        "logo": "https://i.postimg.cc/8c78JM28/image.png",
+        "group": "Sports",
+        "source": "https://iptv-org.github.io/iptv/countries/mx.m3u",
+        "url": "https://3ea22335.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX1JlZEJ1bGxUVl9ITFM/playlist.m3u8"
       },
       {
         "name": "TVQ Sports (720p)",
@@ -6633,6 +6666,13 @@
         "group": "Music",
         "source": "https://iptv-org.github.io/iptv/countries/mx.m3u",
         "url": "https://backend.energeek.cl/webtv/egradioweb/index.m3u8?token=ZZDemoIPTVGH"
+      },
+      {
+        "name": "Euro Indie Music Chart TV (360p)",
+        "logo": "https://i.imgur.com/lF0iofX.png",
+        "group": "Music",
+        "source": "https://iptv-org.github.io/iptv/countries/mx.m3u",
+        "url": "http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8"
       },
       {
         "name": "HTV",
@@ -6777,6 +6817,20 @@
         "url": "https://stream.oursnetworktv.com/latin/encoder74/playlist.m3u8"
       },
       {
+        "name": "CGTN (1080p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/512px-CGTN.svg.png",
+        "group": "News",
+        "source": "https://iptv-org.github.io/iptv/countries/mx.m3u",
+        "url": "https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8"
+      },
+      {
+        "name": "CGTN Français (1080p) [Not 24/7]",
+        "logo": "https://i.imgur.com/BwhledK.png",
+        "group": "News",
+        "source": "https://iptv-org.github.io/iptv/countries/mx.m3u",
+        "url": "https://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8"
+      },
+      {
         "name": "Estrella News (1080p)",
         "logo": "https://i.imgur.com/HRrkhLq.png",
         "group": "News",
@@ -6805,6 +6859,13 @@
         "url": "https://cdnlive.presstv.ir/live/smil:live.smil/playlist.m3u8"
       },
       {
+        "name": "I24 News English (720p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/512px-LOGO_i24NEWS.png",
+        "group": "News",
+        "source": "https://iptv-org.github.io/iptv/countries/mx.m3u",
+        "url": "https://bcovlive-a.akamaihd.net/ecf224f43f3b43e69471a7b626481af0/eu-central-1/5377161796001/playlist.m3u8"
+      },
+      {
         "name": "Info TV 9 (720p)",
         "logo": "https://i.imgur.com/Rgu6Hzo.png",
         "group": "News",
@@ -6817,6 +6878,13 @@
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/mx.m3u",
         "url": "https://pctv-meganoticias-1-mx.tcl.wurl.tv/playlist.m3u8"
+      },
+      {
+        "name": "Metro Globe Network (1080p) [Not 24/7]",
+        "logo": "https://i.imgur.com/aiiinzg.png",
+        "group": "News",
+        "source": "https://iptv-org.github.io/iptv/countries/mx.m3u",
+        "url": "https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8"
       },
       {
         "name": "MiSURtv (1080p)",
@@ -6917,6 +6985,13 @@
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/mx.m3u",
         "url": "https://stream.oursnetworktv.com/latin/encoder1/playlist.m3u8"
+      },
+      {
+        "name": "NHK World Premium (720p) [Not 24/7]",
+        "logo": "https://i.imgur.com/4ESi2La.png",
+        "group": "Entertainment",
+        "source": "https://iptv-org.github.io/iptv/countries/mx.m3u",
+        "url": "https://cdn.nhkworld.jp/www11/nhkworld-tv/pre/hlscomp.m3u8"
       },
       {
         "name": "Teleplay Sureste (720p)",
@@ -7037,6 +7112,29 @@
         "url": "https://streamingc21.cdmx.gob.mx/capital21/stream.m3u8"
       }
     ],
+    "Documentary": [
+      {
+        "name": "CGTN Documentary (1080p)",
+        "logo": "https://i.imgur.com/JHv0WxM.png",
+        "group": "Documentary",
+        "source": "https://iptv-org.github.io/iptv/countries/mx.m3u",
+        "url": "https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8"
+      },
+      {
+        "name": "History 2 Latin America",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/512px-History2_logo_%282022%29.svg.png",
+        "group": "Documentary",
+        "source": "https://iptv-org.github.io/iptv/countries/mx.m3u",
+        "url": "https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HISTORY2/index.m3u8"
+      },
+      {
+        "name": "National Geographic Latin America",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png",
+        "group": "Documentary",
+        "source": "https://iptv-org.github.io/iptv/countries/mx.m3u",
+        "url": "https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/NAT_GEO/index.m3u8"
+      }
+    ],
     "Movies": [
       {
         "name": "Cine Adrenalina (720p)",
@@ -7137,15 +7235,6 @@
         "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddc4e8bcbb9010009b4e84f/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId="
       }
     ],
-    "Kids;Public": [
-      {
-        "name": "Clan TVE Internacional (1080p)",
-        "logo": "https://i.imgur.com/03jFV68.png",
-        "group": "Kids;Public",
-        "source": "https://iptv-org.github.io/iptv/countries/mx.m3u",
-        "url": "https://rtvelivestream.akamaized.net/rtvesec/int/clan_int_main.m3u8"
-      }
-    ],
     "Comedy": [
       {
         "name": "Distrito Comedia (576p)",
@@ -7201,13 +7290,13 @@
         "url": "https://estrella-games-oando.amagi.tv/playlist.m3u8"
       }
     ],
-    "General;Public": [
+    "Culture;Public": [
       {
-        "name": "Galicia TV América (720p)",
-        "logo": "https://i.imgur.com/s59AaqG.png",
-        "group": "General;Public",
+        "name": "ETB Basque (480p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ETB_Basque_2022_logo.svg/512px-ETB_Basque_2022_logo.svg.png",
+        "group": "Culture;Public",
         "source": "https://iptv-org.github.io/iptv/countries/mx.m3u",
-        "url": "https://america-crtvg.flumotion.com/playlist.m3u8"
+        "url": "https://multimedia.eitb.eus/live-content/eitbbasque-hls/master.m3u8"
       }
     ],
     "Auto": [
@@ -7217,6 +7306,13 @@
         "group": "Auto",
         "source": "https://iptv-org.github.io/iptv/countries/mx.m3u",
         "url": "https://stream1.sersat.com/hls/garagetv.m3u8"
+      },
+      {
+        "name": "Motorvision",
+        "logo": "https://i.imgur.com/v4kj8pI.png",
+        "group": "Auto",
+        "source": "https://iptv-org.github.io/iptv/countries/mx.m3u",
+        "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6093f2ae4dd5ab0007d1ff9d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1e7523-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3105f589-5bf9-41ef-8229-51bdf3abb1d2"
       }
     ],
     "Animation;Culture;Entertainment": [
@@ -7228,6 +7324,22 @@
         "url": "https://pistream.ddns.net/hls/stream.m3u8"
       }
     ],
+    "Cooking": [
+      {
+        "name": "Gusto TV (1080p)",
+        "logo": "https://i.imgur.com/swUX3hQ.png",
+        "group": "Cooking",
+        "source": "https://iptv-org.github.io/iptv/countries/mx.m3u",
+        "url": "https://e75fc053c0d2406fb74cdd71d77e1a7f.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/RakutenTV-eu_GustoTV/playlist.m3u8"
+      },
+      {
+        "name": "Tastemade en Espanol [Geo-blocked]",
+        "logo": "https://i.imgur.com/8s6aRwv.png",
+        "group": "Cooking",
+        "source": "https://iptv-org.github.io/iptv/countries/mx.m3u",
+        "url": "https://tastemadees16us-xumo.amagi.tv/playlist.m3u8"
+      }
+    ],
     "Science": [
       {
         "name": "Hiperconectados TV",
@@ -7235,22 +7347,6 @@
         "group": "Science",
         "source": "https://iptv-org.github.io/iptv/countries/mx.m3u",
         "url": "https://stmv5.voxtvhd.com.br/hiperconectados/hiperconectados/playlist.m3u8"
-      }
-    ],
-    "Documentary": [
-      {
-        "name": "History 2 Latin America",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/512px-History2_logo_%282022%29.svg.png",
-        "group": "Documentary",
-        "source": "https://iptv-org.github.io/iptv/countries/mx.m3u",
-        "url": "https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HISTORY2/index.m3u8"
-      },
-      {
-        "name": "National Geographic Latin America",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png",
-        "group": "Documentary",
-        "source": "https://iptv-org.github.io/iptv/countries/mx.m3u",
-        "url": "https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/NAT_GEO/index.m3u8"
       }
     ],
     "Culture;Education": [
@@ -7271,6 +7367,15 @@
         "url": "https://backend.energeek.cl/webtv/kanadeweb/index.m3u8?token=ZZDemoIPTVGH"
       }
     ],
+    "Culture;News": [
+      {
+        "name": "NHK World-Japan (720p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png",
+        "group": "Culture;News",
+        "source": "https://iptv-org.github.io/iptv/countries/mx.m3u",
+        "url": "https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8"
+      }
+    ],
     "Lifestyle": [
       {
         "name": "Plous TV (1080p)",
@@ -7278,6 +7383,13 @@
         "group": "Lifestyle",
         "source": "https://iptv-org.github.io/iptv/countries/mx.m3u",
         "url": "https://vcp.myplaytv.com/glowtv/glowtv/playlist.m3u8"
+      },
+      {
+        "name": "Superyacht TV (1080p)",
+        "logo": "https://i.imgur.com/cgjgjE1.png",
+        "group": "Lifestyle",
+        "source": "https://iptv-org.github.io/iptv/countries/mx.m3u",
+        "url": "https://sy.wns.live/hls/stream.m3u8"
       }
     ],
     "Entertainment;Lifestyle;Music": [
@@ -7305,15 +7417,6 @@
         "group": "Culture;Music",
         "source": "https://iptv-org.github.io/iptv/countries/mx.m3u",
         "url": "https://signal.suyaitv.cl/live/26/playlist.m3u8?password=9PcdCnFxUe&username=ZZDemoIPTVGH"
-      }
-    ],
-    "Cooking": [
-      {
-        "name": "Tastemade en Espanol [Geo-blocked]",
-        "logo": "https://i.imgur.com/8s6aRwv.png",
-        "group": "Cooking",
-        "source": "https://iptv-org.github.io/iptv/countries/mx.m3u",
-        "url": "https://tastemadees16us-xumo.amagi.tv/playlist.m3u8"
       }
     ],
     "Business": [
