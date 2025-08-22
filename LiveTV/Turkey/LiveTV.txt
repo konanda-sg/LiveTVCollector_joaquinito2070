@@ -12230,6 +12230,13 @@ Logo: https://www.dsmart.com.tr/api/v1/public/images/kanallar/disneyjr.png
 Source: https://iptv-org.github.io/iptv/countries/tr.m3u
 --------------------------------------------------
 
+Group: Auto
+Name: Motorvision
+URL: http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6093f2ae4dd5ab0007d1ff9d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1e7523-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3105f589-5bf9-41ef-8229-51bdf3abb1d2
+Logo: https://i.imgur.com/v4kj8pI.png
+Source: https://iptv-org.github.io/iptv/countries/tr.m3u
+--------------------------------------------------
+
 Group: Business
 Name: Bloomberg HT (720p)
 URL: https://ciner.daioncdn.net/bloomberght/bloomberght.m3u8
@@ -12297,7 +12304,26 @@ Logo: https://i.imgur.com/f2zGoV3.png
 Source: https://iptv-org.github.io/iptv/countries/tr.m3u
 --------------------------------------------------
 
+Group: Culture;News
+Name: NHK World-Japan (720p)
+URL: https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png
+Source: https://iptv-org.github.io/iptv/countries/tr.m3u
+--------------------------------------------------
+
+Group: Culture;Public
+Name: ETB Basque (480p)
+URL: https://multimedia.eitb.eus/live-content/eitbbasque-hls/master.m3u8
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ETB_Basque_2022_logo.svg/512px-ETB_Basque_2022_logo.svg.png
+Source: https://iptv-org.github.io/iptv/countries/tr.m3u
+--------------------------------------------------
+
 Group: Documentary
+Name: CGTN Documentary (1080p)
+URL: https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
+Logo: https://i.imgur.com/JHv0WxM.png
+Source: https://iptv-org.github.io/iptv/countries/tr.m3u
+--------------------------------------------------
 Name: CGTN Documentary
 URL: https://mn-nl.mncdn.com/dogusdyg_drone/cgtn/playlist.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/CGTN_Documentary_logo.png/400px-CGTN_Documentary_logo.png
@@ -12374,6 +12400,11 @@ Source: https://iptv-org.github.io/iptv/countries/tr.m3u
 Name: Milyon TV (720p)
 URL: https://sosyoapp-live.cdnnew.com/sosyo/buraya-bir-isim-verin.m3u8
 Logo: https://i.imgur.com/lEIFDwo.png
+Source: https://iptv-org.github.io/iptv/countries/tr.m3u
+--------------------------------------------------
+Name: NHK World Premium (720p) [Not 24/7]
+URL: https://cdn.nhkworld.jp/www11/nhkworld-tv/pre/hlscomp.m3u8
+Logo: https://i.imgur.com/4ESi2La.png
 Source: https://iptv-org.github.io/iptv/countries/tr.m3u
 --------------------------------------------------
 Name: NOW TV (720p)
@@ -12455,6 +12486,16 @@ URL: http://stream2.taksimbilisim.com:1935/alanyatv/alanyatv.smil/playlist.m3u8
 Logo: https://i.imgur.com/bUwarR0.png
 Source: https://iptv-org.github.io/iptv/countries/tr.m3u
 --------------------------------------------------
+Name: Bahrain International (720p) [Not 24/7]
+URL: https://5c7b683162943.streamlock.net/live/ngrp:bahraininternational_all/playlist.m3u8
+Logo: https://i.imgur.com/t6Lmntr.png
+Source: https://iptv-org.github.io/iptv/countries/tr.m3u
+--------------------------------------------------
+Name: BTV World (1080p)
+URL: https://www.btvlive.gov.bd/streams/ef8b8bbc-98b7-4ba7-a49d-a0adaf259d35/ES/d96eb7f4-83c2-4472-9597-3568390a8ebf/d96eb7f4-83c2-4472-9597-3568390a8ebf_3_playlist.m3u8
+Logo: https://i.imgur.com/sSnrg7o.png
+Source: https://iptv-org.github.io/iptv/countries/tr.m3u
+--------------------------------------------------
 Name: Cekmeköy TV (1080p)
 URL: https://cdn-cekmekoybeltv.yayin.com.tr/cekmekoybeltv/cekmekoybeltv/playlist.m3u8
 Logo: https://i.imgur.com/sjAGFWu.png
@@ -12480,6 +12521,11 @@ URL: http://185.234.111.229:8000/play/a06a
 Logo: https://i.imgur.com/IVh3YST.png
 Source: https://iptv-org.github.io/iptv/countries/tr.m3u
 --------------------------------------------------
+Name: Duna World (576p)
+URL: http://146.59.85.40:89/dunaworld/index.m3u8
+Logo: https://i.imgur.com/uOBQJZS.png
+Source: https://iptv-org.github.io/iptv/countries/tr.m3u
+--------------------------------------------------
 Name: Ekin Turk (576p)
 URL: http://185.234.111.229:8000/play/a025
 Logo: https://i.imgur.com/LnNcvqE.png
@@ -12495,6 +12541,11 @@ URL: https://live.artidijitalmedya.com/artidijital_ertv_new/ertv/playlist.m3u8
 Logo: https://i.imgur.com/VDGEPrD.png
 Source: https://iptv-org.github.io/iptv/countries/tr.m3u
 --------------------------------------------------
+Name: ERT World (1080p)
+URL: https://cbd537474fbad4634b64787657ff6456.msvdn.net/ertworld/ert_world_main/mainabr/playlist_dvr.m3u8
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/ChannelLogo-ERTWORLD1.png/512px-ChannelLogo-ERTWORLD1.png
+Source: https://iptv-org.github.io/iptv/countries/tr.m3u
+--------------------------------------------------
 Name: Erzurum Web TV (720p)
 URL: https://win29.yayin.com.tr/erzurumwebtv/erzurumwebtv/iptvdelisi.m3u8
 Logo: https://i.imgur.com/HF7N4Li.png
@@ -12506,7 +12557,7 @@ Logo: https://yt3.googleusercontent.com/ytc/AIdro_msPtG6zfPKIJIIdvG4dehXLoVoXcHM
 Source: https://iptv-org.github.io/iptv/countries/tr.m3u
 --------------------------------------------------
 Name: Euro D (1080p)
-URL: http://185.234.111.229:8000/play/a01w
+URL: https://viamotionhsi.netplus.ch/live/eds/eurod/browser-HLS8/eurod.m3u8
 Logo: https://i.imgur.com/x9kHsXo.png
 Source: https://iptv-org.github.io/iptv/countries/tr.m3u
 --------------------------------------------------
@@ -12640,6 +12691,11 @@ URL: http://185.234.111.229:8000/play/a05v
 Logo: https://i.imgur.com/RcjEHAG.png
 Source: https://iptv-org.github.io/iptv/countries/tr.m3u
 --------------------------------------------------
+Name: LBC International
+URL: https://samaflix.com:12103/channel2/tracks-v1a1/mono.m3u8
+Logo: https://i.imgur.com/h26xtUv.png
+Source: https://iptv-org.github.io/iptv/countries/tr.m3u
+--------------------------------------------------
 Name: Line TV (720p) [Not 24/7]
 URL: https://edge1.socialsmart.tv/linetv/bant1/playlist.m3u8
 Logo: https://i.imgur.com/6GNp7f8.png
@@ -12658,6 +12714,11 @@ Source: https://iptv-org.github.io/iptv/countries/tr.m3u
 Name: MTürk TV (1080p)
 URL: https://edge1.socialsmart.tv/muglaturk/bant1/playlist.m3u8
 Logo: https://i.imgur.com/xj1gvrq.png
+Source: https://iptv-org.github.io/iptv/countries/tr.m3u
+--------------------------------------------------
+Name: MTV (1080p)
+URL: https://hms.pfs.gdn/v1/broadcast/mtv/playlist.m3u8
+Logo: https://upload.wikimedia.org/wikipedia/commons/7/75/Murr_tv.png
 Source: https://iptv-org.github.io/iptv/countries/tr.m3u
 --------------------------------------------------
 Name: NTV (720p) [Not 24/7]
@@ -12708,6 +12769,11 @@ Source: https://iptv-org.github.io/iptv/countries/tr.m3u
 Name: TV A (720p)
 URL: https://live.artidijitalmedya.com/artidijital_tva/tva/playlist.m3u8
 Logo: https://www.lyngsat.com/logo/tv/tt/tva-tr.png
+Source: https://iptv-org.github.io/iptv/countries/tr.m3u
+--------------------------------------------------
+Name: TVM Internacional (480p) [Not 24/7]
+URL: http://online.tvm.co.mz:1935/live/smil:Channel2.smil/playlist.m3u8
+Logo: https://i.imgur.com/fRV6p50.png
 Source: https://iptv-org.github.io/iptv/countries/tr.m3u
 --------------------------------------------------
 Name: Yol TV (720p)
@@ -12846,11 +12912,21 @@ URL: https://edge1.socialsmart.tv/ftvturk/bant1/playlist.m3u8
 Logo: https://i.imgur.com/ZbUSlOC.png
 Source: https://iptv-org.github.io/iptv/countries/tr.m3u
 --------------------------------------------------
+Name: Superyacht TV (1080p)
+URL: https://sy.wns.live/hls/stream.m3u8
+Logo: https://i.imgur.com/cgjgjE1.png
+Source: https://iptv-org.github.io/iptv/countries/tr.m3u
+--------------------------------------------------
 
 Group: Music
 Name: Dream Turk (576p)
 URL: http://185.234.111.229:8000/play/a01v
 Logo: https://i.imgur.com/vJ8VaZi.png
+Source: https://iptv-org.github.io/iptv/countries/tr.m3u
+--------------------------------------------------
+Name: Euro Indie Music Chart TV (360p)
+URL: http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
+Logo: https://i.imgur.com/lF0iofX.png
 Source: https://iptv-org.github.io/iptv/countries/tr.m3u
 --------------------------------------------------
 Name: KRAL Pop TV (720p)
@@ -12987,12 +13063,22 @@ Source: https://iptv-org.github.io/iptv/countries/tr.m3u
 --------------------------------------------------
 Name: Bursa AS TV (900p)
 URL: https://live.artidijitalmedya.com/artidijital_astv/astv/playlist.m3u8
-Logo: https://i.imgur.com/MCUjck8.png
+Logo: https://asset.artidijitalmedya.com/image/188x188/channels/v1/logo_13.png
 Source: https://iptv-org.github.io/iptv/countries/tr.m3u
 --------------------------------------------------
 Name: Can TV (720p)
 URL: http://canbroadcast.com:7000/canlican/tv.m3u8
 Logo: https://i.imgur.com/oIMtuwB.png
+Source: https://iptv-org.github.io/iptv/countries/tr.m3u
+--------------------------------------------------
+Name: CGTN (1080p)
+URL: https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/512px-CGTN.svg.png
+Source: https://iptv-org.github.io/iptv/countries/tr.m3u
+--------------------------------------------------
+Name: CGTN Français (1080p) [Not 24/7]
+URL: https://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8
+Logo: https://i.imgur.com/BwhledK.png
 Source: https://iptv-org.github.io/iptv/countries/tr.m3u
 --------------------------------------------------
 Name: Deha TV (720p) [Geo-blocked]
@@ -13030,6 +13116,11 @@ URL: http://185.234.111.229:8000/play/a05x
 Logo: https://i.imgur.com/fu6XeGS.png
 Source: https://iptv-org.github.io/iptv/countries/tr.m3u
 --------------------------------------------------
+Name: I24 News English (720p)
+URL: https://bcovlive-a.akamaihd.net/ecf224f43f3b43e69471a7b626481af0/eu-central-1/5377161796001/playlist.m3u8
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/512px-LOGO_i24NEWS.png
+Source: https://iptv-org.github.io/iptv/countries/tr.m3u
+--------------------------------------------------
 Name: Kablo Info (1080p)
 URL: http://185.234.111.229:8000/play/a01g
 Logo: https://i.imgur.com/6BC3M4C.png
@@ -13050,6 +13141,11 @@ URL: https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8
 Logo: https://i.imgur.com/q7iVchl.png
 Source: https://iptv-org.github.io/iptv/countries/tr.m3u
 --------------------------------------------------
+Name: Metro Globe Network (1080p) [Not 24/7]
+URL: https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
+Logo: https://i.imgur.com/aiiinzg.png
+Source: https://iptv-org.github.io/iptv/countries/tr.m3u
+--------------------------------------------------
 Name: Olay Türk TV Kayseri (720p) [Geo-blocked]
 URL: https://live.artidijitalmedya.com/artidijital_olayturk/olayturk/playlist.m3u8
 Logo: https://i.imgur.com/e9ca6gc.png
@@ -13060,21 +13156,14 @@ URL: http://live.arkumedia.com:1935/marmaratv/marmaratv/playlist.m3u8
 Logo: https://i.imgur.com/thvk3Py.png
 Source: https://iptv-org.github.io/iptv/countries/tr.m3u
 --------------------------------------------------
-Name: Polsat News Polityka (1080p) [Geo-blocked]
-URL: https://lb2-e3-20.pluscdn.pl/lv/1511888/322/dash/52a9b70b/live.mpd
-Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Polsat_News_Polityka_2024_gradient.svg/320px-Polsat_News_Polityka_2024_gradient.svg.png
-Source: https://iptv-org.github.io/iptv/countries/tr.m3u
---------------------------------------------------
 Name: TRT Haber (1080p)
 URL: http://185.234.111.229:8000/play/a00d
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/TRT_Haber_Eyl%C3%BCl_2020_Logo.svg/512px-TRT_Haber_Eyl%C3%BCl_2020_Logo.svg.png
 Source: https://iptv-org.github.io/iptv/countries/tr.m3u
 --------------------------------------------------
-
-Group: News;Public
-Name: 24 Horas Internacional [Geo-blocked]
-URL: https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8
-Logo: https://i.imgur.com/IUVRm5L.png
+Name: WION (1080p)
+URL: https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+Logo: https://i.imgur.com/Wc5Z3iS.png
 Source: https://iptv-org.github.io/iptv/countries/tr.m3u
 --------------------------------------------------
 
@@ -13114,6 +13203,11 @@ URL: https://cdn3.wowza.com/1/T2NXeHF6UGlGbHY3/WFluRldQ/hls/live/playlist.m3u8
 Logo: https://i.imgur.com/sua70RO.png
 Source: https://iptv-org.github.io/iptv/countries/tr.m3u
 --------------------------------------------------
+Name: Peace TV English (1080p)
+URL: https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8
+Logo: https://i.imgur.com/rjgCM2B.png
+Source: https://iptv-org.github.io/iptv/countries/tr.m3u
+--------------------------------------------------
 
 Group: Sports
 Name: A Spor (720p)
@@ -13136,6 +13230,11 @@ URL: https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U
 Logo: https://i.imgur.com/l5iax42.png
 Source: https://iptv-org.github.io/iptv/countries/tr.m3u
 --------------------------------------------------
+Name: FUEL TV (1080p)
+URL: https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_rakutenAA-fueltvemeaen/CDN/master.m3u8
+Logo: https://i.imgur.com/I8mviBy.png
+Source: https://iptv-org.github.io/iptv/countries/tr.m3u
+--------------------------------------------------
 Name: HTSpor TV (1080p)
 URL: http://185.234.111.229:8000/play/a016
 Logo: https://www.htspor.com/images/manifest/social-share-logo.png
@@ -13144,6 +13243,11 @@ Source: https://iptv-org.github.io/iptv/countries/tr.m3u
 Name: NTV Spor
 URL: http://46.4.193.238:8484/hls/ntvspor/playlist.m3u8
 Logo: https://i.imgur.com/5pvsIsL.png
+Source: https://iptv-org.github.io/iptv/countries/tr.m3u
+--------------------------------------------------
+Name: Red Bull TV (1080p)
+URL: https://3ea22335.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX1JlZEJ1bGxUVl9ITFM/playlist.m3u8
+Logo: https://i.postimg.cc/8c78JM28/image.png
 Source: https://iptv-org.github.io/iptv/countries/tr.m3u
 --------------------------------------------------
 Name: Sports TV (720p) [Geo-blocked]
@@ -13355,6 +13459,11 @@ Source: https://iptv-org.github.io/iptv/countries/tr.m3u
 Name: Bursa TV (720p) [Not 24/7]
 URL: https://cdn-bursatv.yayin.com.tr/bursatv/bursatv/playlist.m3u8
 Logo: https://i.imgur.com/9cl1MR8.png
+Source: https://iptv-org.github.io/iptv/countries/tr.m3u
+--------------------------------------------------
+Name: BVN
+URL: https://viamotionhsi.netplus.ch/live/eds/bvn/browser-HLS8/bvn.m3u8
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/BVN_logo.svg/512px-BVN_logo.svg.png
 Source: https://iptv-org.github.io/iptv/countries/tr.m3u
 --------------------------------------------------
 Name: ES TV (720p)

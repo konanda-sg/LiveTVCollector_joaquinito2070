@@ -1,5 +1,5 @@
 {
-  "date": "2025-08-22 07:11:58",
+  "date": "2025-08-22 13:58:12",
   "channels": {
     ".🇹🇷 ULUSAL 🇹🇷 .COM/1.M3U ESKİ USUL": [
       {
@@ -35506,6 +35506,13 @@
         "url": "https://sosyoapp-live.cdnnew.com/sosyo/buraya-bir-isim-verin.m3u8"
       },
       {
+        "name": "NHK World Premium (720p) [Not 24/7]",
+        "logo": "https://i.imgur.com/4ESi2La.png",
+        "group": "Entertainment",
+        "source": "https://iptv-org.github.io/iptv/countries/tr.m3u",
+        "url": "https://cdn.nhkworld.jp/www11/nhkworld-tv/pre/hlscomp.m3u8"
+      },
+      {
         "name": "NOW TV (720p)",
         "logo": "https://i.imgur.com/5EYjWK7.png",
         "group": "Entertainment",
@@ -35525,15 +35532,6 @@
         "group": "Entertainment",
         "source": "https://iptv-org.github.io/iptv/countries/tr.m3u",
         "url": "https://canlitvulusal.xyz/live/showmax/index.m3u8"
-      }
-    ],
-    "News;Public": [
-      {
-        "name": "24 Horas Internacional [Geo-blocked]",
-        "logo": "https://i.imgur.com/IUVRm5L.png",
-        "group": "News;Public",
-        "source": "https://iptv-org.github.io/iptv/countries/tr.m3u",
-        "url": "https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8"
       }
     ],
     "News": [
@@ -35602,7 +35600,7 @@
       },
       {
         "name": "Bursa AS TV (900p)",
-        "logo": "https://i.imgur.com/MCUjck8.png",
+        "logo": "https://asset.artidijitalmedya.com/image/188x188/channels/v1/logo_13.png",
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/tr.m3u",
         "url": "https://live.artidijitalmedya.com/artidijital_astv/astv/playlist.m3u8"
@@ -35613,6 +35611,20 @@
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/tr.m3u",
         "url": "http://canbroadcast.com:7000/canlican/tv.m3u8"
+      },
+      {
+        "name": "CGTN (1080p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/512px-CGTN.svg.png",
+        "group": "News",
+        "source": "https://iptv-org.github.io/iptv/countries/tr.m3u",
+        "url": "https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8"
+      },
+      {
+        "name": "CGTN Français (1080p) [Not 24/7]",
+        "logo": "https://i.imgur.com/BwhledK.png",
+        "group": "News",
+        "source": "https://iptv-org.github.io/iptv/countries/tr.m3u",
+        "url": "https://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8"
       },
       {
         "name": "Deha TV (720p) [Geo-blocked]",
@@ -35664,6 +35676,13 @@
         "url": "http://185.234.111.229:8000/play/a05x"
       },
       {
+        "name": "I24 News English (720p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/512px-LOGO_i24NEWS.png",
+        "group": "News",
+        "source": "https://iptv-org.github.io/iptv/countries/tr.m3u",
+        "url": "https://bcovlive-a.akamaihd.net/ecf224f43f3b43e69471a7b626481af0/eu-central-1/5377161796001/playlist.m3u8"
+      },
+      {
         "name": "Kablo Info (1080p)",
         "logo": "https://i.imgur.com/6BC3M4C.png",
         "group": "News",
@@ -35692,6 +35711,13 @@
         "url": "https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8"
       },
       {
+        "name": "Metro Globe Network (1080p) [Not 24/7]",
+        "logo": "https://i.imgur.com/aiiinzg.png",
+        "group": "News",
+        "source": "https://iptv-org.github.io/iptv/countries/tr.m3u",
+        "url": "https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8"
+      },
+      {
         "name": "Olay Türk TV Kayseri (720p) [Geo-blocked]",
         "logo": "https://i.imgur.com/e9ca6gc.png",
         "group": "News",
@@ -35706,18 +35732,18 @@
         "url": "http://live.arkumedia.com:1935/marmaratv/marmaratv/playlist.m3u8"
       },
       {
-        "name": "Polsat News Polityka (1080p) [Geo-blocked]",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Polsat_News_Polityka_2024_gradient.svg/320px-Polsat_News_Polityka_2024_gradient.svg.png",
-        "group": "News",
-        "source": "https://iptv-org.github.io/iptv/countries/tr.m3u",
-        "url": "https://lb2-e3-20.pluscdn.pl/lv/1511888/322/dash/52a9b70b/live.mpd"
-      },
-      {
         "name": "TRT Haber (1080p)",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/TRT_Haber_Eyl%C3%BCl_2020_Logo.svg/512px-TRT_Haber_Eyl%C3%BCl_2020_Logo.svg.png",
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/tr.m3u",
         "url": "http://185.234.111.229:8000/play/a00d"
+      },
+      {
+        "name": "WION (1080p)",
+        "logo": "https://i.imgur.com/Wc5Z3iS.png",
+        "group": "News",
+        "source": "https://iptv-org.github.io/iptv/countries/tr.m3u",
+        "url": "https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8"
       }
     ],
     "General": [
@@ -35799,6 +35825,20 @@
         "url": "http://stream2.taksimbilisim.com:1935/alanyatv/alanyatv.smil/playlist.m3u8"
       },
       {
+        "name": "Bahrain International (720p) [Not 24/7]",
+        "logo": "https://i.imgur.com/t6Lmntr.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/countries/tr.m3u",
+        "url": "https://5c7b683162943.streamlock.net/live/ngrp:bahraininternational_all/playlist.m3u8"
+      },
+      {
+        "name": "BTV World (1080p)",
+        "logo": "https://i.imgur.com/sSnrg7o.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/countries/tr.m3u",
+        "url": "https://www.btvlive.gov.bd/streams/ef8b8bbc-98b7-4ba7-a49d-a0adaf259d35/ES/d96eb7f4-83c2-4472-9597-3568390a8ebf/d96eb7f4-83c2-4472-9597-3568390a8ebf_3_playlist.m3u8"
+      },
+      {
         "name": "Cekmeköy TV (1080p)",
         "logo": "https://i.imgur.com/sjAGFWu.png",
         "group": "General",
@@ -35834,6 +35874,13 @@
         "url": "http://185.234.111.229:8000/play/a06a"
       },
       {
+        "name": "Duna World (576p)",
+        "logo": "https://i.imgur.com/uOBQJZS.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/countries/tr.m3u",
+        "url": "http://146.59.85.40:89/dunaworld/index.m3u8"
+      },
+      {
         "name": "Ekin Turk (576p)",
         "logo": "https://i.imgur.com/LnNcvqE.png",
         "group": "General",
@@ -35855,6 +35902,13 @@
         "url": "https://live.artidijitalmedya.com/artidijital_ertv_new/ertv/playlist.m3u8"
       },
       {
+        "name": "ERT World (1080p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/ChannelLogo-ERTWORLD1.png/512px-ChannelLogo-ERTWORLD1.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/countries/tr.m3u",
+        "url": "https://cbd537474fbad4634b64787657ff6456.msvdn.net/ertworld/ert_world_main/mainabr/playlist_dvr.m3u8"
+      },
+      {
         "name": "Erzurum Web TV (720p)",
         "logo": "https://i.imgur.com/HF7N4Li.png",
         "group": "General",
@@ -35873,7 +35927,7 @@
         "logo": "https://i.imgur.com/x9kHsXo.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/tr.m3u",
-        "url": "http://185.234.111.229:8000/play/a01w"
+        "url": "https://viamotionhsi.netplus.ch/live/eds/eurod/browser-HLS8/eurod.m3u8"
       },
       {
         "name": "Gonca TV (720p)",
@@ -36058,6 +36112,13 @@
         "url": "http://185.234.111.229:8000/play/a05v"
       },
       {
+        "name": "LBC International",
+        "logo": "https://i.imgur.com/h26xtUv.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/countries/tr.m3u",
+        "url": "https://samaflix.com:12103/channel2/tracks-v1a1/mono.m3u8"
+      },
+      {
         "name": "Line TV (720p) [Not 24/7]",
         "logo": "https://i.imgur.com/6GNp7f8.png",
         "group": "General",
@@ -36084,6 +36145,13 @@
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/tr.m3u",
         "url": "https://edge1.socialsmart.tv/muglaturk/bant1/playlist.m3u8"
+      },
+      {
+        "name": "MTV (1080p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/7/75/Murr_tv.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/countries/tr.m3u",
+        "url": "https://hms.pfs.gdn/v1/broadcast/mtv/playlist.m3u8"
       },
       {
         "name": "NTV (720p) [Not 24/7]",
@@ -36156,6 +36224,13 @@
         "url": "https://live.artidijitalmedya.com/artidijital_tva/tva/playlist.m3u8"
       },
       {
+        "name": "TVM Internacional (480p) [Not 24/7]",
+        "logo": "https://i.imgur.com/fRV6p50.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/countries/tr.m3u",
+        "url": "http://online.tvm.co.mz:1935/live/smil:Channel2.smil/playlist.m3u8"
+      },
+      {
         "name": "Yol TV (720p)",
         "logo": "https://i.imgur.com/rTBX6lS.png",
         "group": "General",
@@ -36207,6 +36282,13 @@
         "url": "https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8"
       },
       {
+        "name": "FUEL TV (1080p)",
+        "logo": "https://i.imgur.com/I8mviBy.png",
+        "group": "Sports",
+        "source": "https://iptv-org.github.io/iptv/countries/tr.m3u",
+        "url": "https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_rakutenAA-fueltvemeaen/CDN/master.m3u8"
+      },
+      {
         "name": "HTSpor TV (1080p)",
         "logo": "https://www.htspor.com/images/manifest/social-share-logo.png",
         "group": "Sports",
@@ -36219,6 +36301,13 @@
         "group": "Sports",
         "source": "https://iptv-org.github.io/iptv/countries/tr.m3u",
         "url": "http://46.4.193.238:8484/hls/ntvspor/playlist.m3u8"
+      },
+      {
+        "name": "Red Bull TV (1080p)",
+        "logo": "https://i.postimg.cc/8c78JM28/image.png",
+        "group": "Sports",
+        "source": "https://iptv-org.github.io/iptv/countries/tr.m3u",
+        "url": "https://3ea22335.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX1JlZEJ1bGxUVl9ITFM/playlist.m3u8"
       },
       {
         "name": "Sports TV (720p) [Geo-blocked]",
@@ -36321,6 +36410,13 @@
         "group": "Religious",
         "source": "https://iptv-org.github.io/iptv/countries/tr.m3u",
         "url": "https://cdn3.wowza.com/1/T2NXeHF6UGlGbHY3/WFluRldQ/hls/live/playlist.m3u8"
+      },
+      {
+        "name": "Peace TV English (1080p)",
+        "logo": "https://i.imgur.com/rjgCM2B.png",
+        "group": "Religious",
+        "source": "https://iptv-org.github.io/iptv/countries/tr.m3u",
+        "url": "https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8"
       }
     ],
     "Undefined": [
@@ -36379,6 +36475,13 @@
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/tr.m3u",
         "url": "https://cdn-bursatv.yayin.com.tr/bursatv/bursatv/playlist.m3u8"
+      },
+      {
+        "name": "BVN",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/BVN_logo.svg/512px-BVN_logo.svg.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/tr.m3u",
+        "url": "https://viamotionhsi.netplus.ch/live/eds/bvn/browser-HLS8/bvn.m3u8"
       },
       {
         "name": "ES TV (720p)",
@@ -36919,6 +37022,13 @@
     ],
     "Documentary": [
       {
+        "name": "CGTN Documentary (1080p)",
+        "logo": "https://i.imgur.com/JHv0WxM.png",
+        "group": "Documentary",
+        "source": "https://iptv-org.github.io/iptv/countries/tr.m3u",
+        "url": "https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8"
+      },
+      {
         "name": "CGTN Documentary",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/CGTN_Documentary_logo.png/400px-CGTN_Documentary_logo.png",
         "group": "Documentary",
@@ -36988,6 +37098,13 @@
         "group": "Music",
         "source": "https://iptv-org.github.io/iptv/countries/tr.m3u",
         "url": "http://185.234.111.229:8000/play/a01v"
+      },
+      {
+        "name": "Euro Indie Music Chart TV (360p)",
+        "logo": "https://i.imgur.com/lF0iofX.png",
+        "group": "Music",
+        "source": "https://iptv-org.github.io/iptv/countries/tr.m3u",
+        "url": "http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8"
       },
       {
         "name": "KRAL Pop TV (720p)",
@@ -37109,6 +37226,15 @@
         "url": "http://185.234.111.229:8000/play/a00i"
       }
     ],
+    "Culture;Public": [
+      {
+        "name": "ETB Basque (480p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ETB_Basque_2022_logo.svg/512px-ETB_Basque_2022_logo.svg.png",
+        "group": "Culture;Public",
+        "source": "https://iptv-org.github.io/iptv/countries/tr.m3u",
+        "url": "https://multimedia.eitb.eus/live-content/eitbbasque-hls/master.m3u8"
+      }
+    ],
     "Comedy": [
       {
         "name": "Fail Army (720p)",
@@ -37139,6 +37265,13 @@
         "group": "Lifestyle",
         "source": "https://iptv-org.github.io/iptv/countries/tr.m3u",
         "url": "https://edge1.socialsmart.tv/ftvturk/bant1/playlist.m3u8"
+      },
+      {
+        "name": "Superyacht TV (1080p)",
+        "logo": "https://i.imgur.com/cgjgjE1.png",
+        "group": "Lifestyle",
+        "source": "https://iptv-org.github.io/iptv/countries/tr.m3u",
+        "url": "https://sy.wns.live/hls/stream.m3u8"
       }
     ],
     "Documentary;Series": [
@@ -37178,6 +37311,24 @@
         "group": "Culture",
         "source": "https://iptv-org.github.io/iptv/countries/tr.m3u",
         "url": "https://streaming.thestream.cyou/live/213.m3u8"
+      }
+    ],
+    "Auto": [
+      {
+        "name": "Motorvision",
+        "logo": "https://i.imgur.com/v4kj8pI.png",
+        "group": "Auto",
+        "source": "https://iptv-org.github.io/iptv/countries/tr.m3u",
+        "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6093f2ae4dd5ab0007d1ff9d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1e7523-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3105f589-5bf9-41ef-8229-51bdf3abb1d2"
+      }
+    ],
+    "Culture;News": [
+      {
+        "name": "NHK World-Japan (720p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png",
+        "group": "Culture;News",
+        "source": "https://iptv-org.github.io/iptv/countries/tr.m3u",
+        "url": "https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8"
       }
     ],
     "Family": [
