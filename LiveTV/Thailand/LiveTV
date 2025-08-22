@@ -1122,6 +1122,12 @@
     "img": "https://i.imgur.com/YRiulCU.png"
   },
   {
+    "name": "BTV World (1080p)",
+    "type": "General",
+    "url": "https://www.btvlive.gov.bd/streams/ef8b8bbc-98b7-4ba7-a49d-a0adaf259d35/ES/d96eb7f4-83c2-4472-9597-3568390a8ebf/d96eb7f4-83c2-4472-9597-3568390a8ebf_3_playlist.m3u8",
+    "img": "https://i.imgur.com/sSnrg7o.png"
+  },
+  {
     "name": "Channel 5 (1080p)",
     "type": "General",
     "url": "https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8",
@@ -1206,10 +1212,28 @@
     "img": "https://i.imgur.com/vSz2WEp.png"
   },
   {
+    "name": "CGTN (1080p)",
+    "type": "News",
+    "url": "https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/512px-CGTN.svg.png"
+  },
+  {
+    "name": "I24 News English (720p)",
+    "type": "News",
+    "url": "https://bcovlive-a.akamaihd.net/ecf224f43f3b43e69471a7b626481af0/eu-central-1/5377161796001/playlist.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/512px-LOGO_i24NEWS.png"
+  },
+  {
     "name": "JKN 18 (1080p)",
     "type": "News",
     "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffda/jkn18/jkn18.m3u8",
     "img": "https://i.imgur.com/m4nPR2L.png"
+  },
+  {
+    "name": "Metro Globe Network (1080p) [Not 24/7]",
+    "type": "News",
+    "url": "https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8",
+    "img": "https://i.imgur.com/aiiinzg.png"
   },
   {
     "name": "Nation TV",
@@ -1228,6 +1252,12 @@
     "type": "News",
     "url": "https://live.topnews.co.th/hls/topnews_a_720.m3u8",
     "img": "https://i.imgur.com/tRFnV9M.png"
+  },
+  {
+    "name": "WION (1080p)",
+    "type": "News",
+    "url": "https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8",
+    "img": "https://i.imgur.com/Wc5Z3iS.png"
   },
   {
     "name": "@TV (720p)",
@@ -1374,6 +1404,12 @@
     "img": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Mono_29_Logo.png"
   },
   {
+    "name": "NHK World Premium (720p) [Not 24/7]",
+    "type": "Entertainment",
+    "url": "https://cdn.nhkworld.jp/www11/nhkworld-tv/pre/hlscomp.m3u8",
+    "img": "https://i.imgur.com/4ESi2La.png"
+  },
+  {
     "name": "One TV Asia (576p) [Geo-blocked]",
     "type": "Entertainment",
     "url": "http://210.210.155.37/uq2663/h/h143/index.m3u8",
@@ -1410,6 +1446,12 @@
     "img": "https://i.imgur.com/tY7IJva.png"
   },
   {
+    "name": "Peace TV English (1080p)",
+    "type": "Religious",
+    "url": "https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8",
+    "img": "https://i.imgur.com/rjgCM2B.png"
+  },
+  {
     "name": "TV Muslim Thailand",
     "type": "Religious",
     "url": "https://vdo.plathong.net/tvmuslim/tvmuslim/playlist.m3u8",
@@ -1426,6 +1468,12 @@
     "type": "Business",
     "url": "https://bloomberg.com/media-manifest/streams/asia-event.m3u8",
     "img": "https://i.imgur.com/OuogLHx.png"
+  },
+  {
+    "name": "CGTN Documentary (1080p)",
+    "type": "Documentary",
+    "url": "https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8",
+    "img": "https://i.imgur.com/JHv0WxM.png"
   },
   {
     "name": "CinemaWorld (576p)",
@@ -1608,10 +1656,22 @@
     "img": "https://i.imgur.com/4TMtUjW.png"
   },
   {
+    "name": "Euro Indie Music Chart TV (360p)",
+    "type": "Music",
+    "url": "http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8",
+    "img": "https://i.imgur.com/lF0iofX.png"
+  },
+  {
     "name": "Lao-Thai TV (720p)",
     "type": "Shop",
     "url": "https://livefta.malimarcdn.com/ftaedge00/laothaius.sdp/playlist.m3u8",
     "img": "https://i.imgur.com/q6cQzbv.png"
+  },
+  {
+    "name": "Motorvision",
+    "type": "Auto",
+    "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6093f2ae4dd5ab0007d1ff9d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1e7523-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3105f589-5bf9-41ef-8229-51bdf3abb1d2",
+    "img": "https://i.imgur.com/v4kj8pI.png"
   },
   {
     "name": "MV Mall ดี๊ดี (1080p)",
@@ -1620,10 +1680,28 @@
     "img": "https://i.imgur.com/ill1Ux6.png"
   },
   {
+    "name": "NHK World-Japan (720p)",
+    "type": "Culture;News",
+    "url": "https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png"
+  },
+  {
+    "name": "Red Bull TV (1080p)",
+    "type": "Sports",
+    "url": "https://3ea22335.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX1JlZEJ1bGxUVl9ITFM/playlist.m3u8",
+    "img": "https://i.postimg.cc/8c78JM28/image.png"
+  },
+  {
     "name": "T Sports 7 (720p)",
     "type": "Sports",
     "url": "https://lb1-live-mv.v2h-cdn.com/hls/ffef/tsport/tsport.m3u8",
     "img": "https://i.imgur.com/KyI0s5n.png"
+  },
+  {
+    "name": "Superyacht TV (1080p)",
+    "type": "Lifestyle",
+    "url": "https://sy.wns.live/hls/stream.m3u8",
+    "img": "https://i.imgur.com/cgjgjE1.png"
   },
   {
     "name": "Thai Parliament TV (1080p) [Not 24/7]",
