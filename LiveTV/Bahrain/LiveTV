@@ -18,6 +18,18 @@
     "img": "https://i.imgur.com/ZkuZmIo.png"
   },
   {
+    "name": "FUEL TV (1080p)",
+    "type": "Sports",
+    "url": "https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_rakutenAA-fueltvemeaen/CDN/master.m3u8",
+    "img": "https://i.imgur.com/I8mviBy.png"
+  },
+  {
+    "name": "Red Bull TV (1080p)",
+    "type": "Sports",
+    "url": "https://3ea22335.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX1JlZEJ1bGxUVl9ITFM/playlist.m3u8",
+    "img": "https://i.postimg.cc/8c78JM28/image.png"
+  },
+  {
     "name": "Aflam (1080p)",
     "type": "Movies",
     "url": "https://shls-live-enc.edgenextcdn.net/out/v1/0044dd4b001a466c941ad77b04a574a2/index.m3u8",
@@ -114,10 +126,22 @@
     "img": "https://i.imgur.com/ScyTG6P.png"
   },
   {
+    "name": "CGTN (1080p)",
+    "type": "News",
+    "url": "https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/512px-CGTN.svg.png"
+  },
+  {
     "name": "CGTN Arabic (1080p) [Not 24/7]",
     "type": "News",
     "url": "https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8",
     "img": "https://i.imgur.com/AkFFrS7.png"
+  },
+  {
+    "name": "CGTN Français (1080p) [Not 24/7]",
+    "type": "News",
+    "url": "https://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8",
+    "img": "https://i.imgur.com/BwhledK.png"
   },
   {
     "name": "DW Arabic (1080p)",
@@ -132,10 +156,22 @@
     "img": "https://upload.wikimedia.org/wikipedia/commons/c/c1/France_24_logo_%282013%29.svg"
   },
   {
+    "name": "I24 News English (720p)",
+    "type": "News",
+    "url": "https://bcovlive-a.akamaihd.net/ecf224f43f3b43e69471a7b626481af0/eu-central-1/5377161796001/playlist.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/512px-LOGO_i24NEWS.png"
+  },
+  {
     "name": "Medi 1 TV Arabic (1080p) [Not 24/7]",
     "type": "News",
     "url": "https://streaming1.medi1tv.com/live/smil:medi1ar.smil/playlist.m3u8",
     "img": "https://i.imgur.com/jWKH922.jpeg"
+  },
+  {
+    "name": "Metro Globe Network (1080p) [Not 24/7]",
+    "type": "News",
+    "url": "https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8",
+    "img": "https://i.imgur.com/aiiinzg.png"
   },
   {
     "name": "RT Arabic (1080p) [Geo-blocked]",
@@ -160,6 +196,12 @@
     "type": "News",
     "url": "https://tv-trtarabi.medya.trt.com.tr/master.m3u8",
     "img": "https://i.imgur.com/dEfI2M9.png"
+  },
+  {
+    "name": "WION (1080p)",
+    "type": "News",
+    "url": "https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8",
+    "img": "https://i.imgur.com/Wc5Z3iS.png"
   },
   {
     "name": "Al Arabiya Business (1080p)",
@@ -210,10 +252,22 @@
     "img": "https://i.imgur.com/sua70RO.png"
   },
   {
+    "name": "Peace TV English (1080p)",
+    "type": "Religious",
+    "url": "https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8",
+    "img": "https://i.imgur.com/rjgCM2B.png"
+  },
+  {
     "name": "Al Qamar TV (1080p)",
     "type": "Undefined",
     "url": "https://streamer3.premio.link/alqamar/playlist.m3u8",
     "img": "https://i.imgur.com/zkBT0C8.png"
+  },
+  {
+    "name": "BVN",
+    "type": "Undefined",
+    "url": "https://viamotionhsi.netplus.ch/live/eds/bvn/browser-HLS8/bvn.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/BVN_logo.svg/512px-BVN_logo.svg.png"
   },
   {
     "name": "Alforat TV (1080p)",
@@ -222,10 +276,22 @@
     "img": "https://i.imgur.com/f6PQzKd.png"
   },
   {
+    "name": "Bahrain International (720p) [Not 24/7]",
+    "type": "General",
+    "url": "https://5c7b683162943.streamlock.net/live/ngrp:bahraininternational_all/playlist.m3u8",
+    "img": "https://i.imgur.com/t6Lmntr.png"
+  },
+  {
     "name": "Bahrain TV (720p) [Not 24/7]",
     "type": "General",
     "url": "https://5c7b683162943.streamlock.net/live/ngrp:bahraintvmain_all/playlist.m3u8",
     "img": "https://i.imgur.com/LTD0jIm.png"
+  },
+  {
+    "name": "BTV World (1080p)",
+    "type": "General",
+    "url": "https://www.btvlive.gov.bd/streams/ef8b8bbc-98b7-4ba7-a49d-a0adaf259d35/ES/d96eb7f4-83c2-4472-9597-3568390a8ebf/d96eb7f4-83c2-4472-9597-3568390a8ebf_3_playlist.m3u8",
+    "img": "https://i.imgur.com/sSnrg7o.png"
   },
   {
     "name": "Dubai One (1080p)",
@@ -234,10 +300,40 @@
     "img": "https://www.dmi.gov.ae/content/dam/corporate/dev/2023/elogos-ar/dubaione-logo.png"
   },
   {
+    "name": "Duna World (576p)",
+    "type": "General",
+    "url": "http://146.59.85.40:89/dunaworld/index.m3u8",
+    "img": "https://i.imgur.com/uOBQJZS.png"
+  },
+  {
+    "name": "ERT World (1080p)",
+    "type": "General",
+    "url": "https://cbd537474fbad4634b64787657ff6456.msvdn.net/ertworld/ert_world_main/mainabr/playlist_dvr.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/ChannelLogo-ERTWORLD1.png/512px-ChannelLogo-ERTWORLD1.png"
+  },
+  {
+    "name": "LBC International",
+    "type": "General",
+    "url": "https://samaflix.com:12103/channel2/tracks-v1a1/mono.m3u8",
+    "img": "https://i.imgur.com/h26xtUv.png"
+  },
+  {
     "name": "MBC 1 (1080p)",
     "type": "General",
     "url": "https://mbc1-enc.edgenextcdn.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8",
     "img": "https://i.imgur.com/CiA3plN.png"
+  },
+  {
+    "name": "MTV (1080p)",
+    "type": "General",
+    "url": "https://hms.pfs.gdn/v1/broadcast/mtv/playlist.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/7/75/Murr_tv.png"
+  },
+  {
+    "name": "TVM Internacional (480p) [Not 24/7]",
+    "type": "General",
+    "url": "http://online.tvm.co.mz:1935/live/smil:Channel2.smil/playlist.m3u8",
+    "img": "https://i.imgur.com/fRV6p50.png"
   },
   {
     "name": "Asharq Discovery (1080p)",
@@ -252,9 +348,21 @@
     "img": "https://i.imgur.com/v6VsFEt.png"
   },
   {
+    "name": "CGTN Documentary (1080p)",
+    "type": "Documentary",
+    "url": "https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8",
+    "img": "https://i.imgur.com/JHv0WxM.png"
+  },
+  {
     "name": "National Geographic Abu Dhabi (1080p) [Geo-blocked]",
     "type": "Documentary",
     "url": "https://vo-live.cdb.cdn.orange.com/Content/Channel/NationalGeographicHDChannel/HLS/index.m3u8",
+    "img": "https://i.imgur.com/fNA00VF.png"
+  },
+  {
+    "name": "National Geographic Abu Dhabi HD (1080p)",
+    "type": "Documentary",
+    "url": "http://213.57.91.138:8000/play/a05a",
     "img": "https://i.imgur.com/fNA00VF.png"
   },
   {
@@ -262,6 +370,30 @@
     "type": "Series",
     "url": "https://shls-live-enc.edgenextcdn.net/out/v1/948c54279b594944adde578c95f1d7d1/index.m3u8",
     "img": "https://i.imgur.com/QtlnZbq.png"
+  },
+  {
+    "name": "Euro Indie Music Chart TV (360p)",
+    "type": "Music",
+    "url": "http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8",
+    "img": "https://i.imgur.com/lF0iofX.png"
+  },
+  {
+    "name": "MBC FM (1080p)",
+    "type": "Music",
+    "url": "https://dbbv9umqcd7cs.cloudfront.net/out/v1/db15b75c3cc0400c91961468d6a232ac/index.m3u8",
+    "img": "https://i.imgur.com/lF8UxvR.png"
+  },
+  {
+    "name": "PMC Royale (1080p)",
+    "type": "Music",
+    "url": "https://pmcrohls.wns.live/hls/stream.m3u8",
+    "img": "https://www.lyngsat.com/logo/tv/pp/pmc-royale-ch.png"
+  },
+  {
+    "name": "Wanasah (1080p)",
+    "type": "Music",
+    "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-wanasah/13e82ea6232fa647c43b26e8a41f173d/index.m3u8",
+    "img": "https://i.imgur.com/nLtiXNf.png"
   },
   {
     "name": "Majid (1080p) [Geo-blocked]",
@@ -294,28 +426,28 @@
     "img": "https://i.imgur.com/g5PWnqp.png"
   },
   {
+    "name": "NHK World Premium (720p) [Not 24/7]",
+    "type": "Entertainment",
+    "url": "https://cdn.nhkworld.jp/www11/nhkworld-tv/pre/hlscomp.m3u8",
+    "img": "https://i.imgur.com/4ESi2La.png"
+  },
+  {
     "name": "MBC 5 (1080p)",
     "type": "Family",
     "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/index.m3u8",
     "img": "https://i.imgur.com/fRWaDyF.png"
   },
   {
-    "name": "MBC FM (1080p)",
-    "type": "Music",
-    "url": "https://dbbv9umqcd7cs.cloudfront.net/out/v1/db15b75c3cc0400c91961468d6a232ac/index.m3u8",
-    "img": "https://i.imgur.com/lF8UxvR.png"
+    "name": "Motorvision",
+    "type": "Auto",
+    "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6093f2ae4dd5ab0007d1ff9d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1e7523-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3105f589-5bf9-41ef-8229-51bdf3abb1d2",
+    "img": "https://i.imgur.com/v4kj8pI.png"
   },
   {
-    "name": "PMC Royale (1080p)",
-    "type": "Music",
-    "url": "https://pmcrohls.wns.live/hls/stream.m3u8",
-    "img": "https://www.lyngsat.com/logo/tv/pp/pmc-royale-ch.png"
-  },
-  {
-    "name": "Wanasah (1080p)",
-    "type": "Music",
-    "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-wanasah/13e82ea6232fa647c43b26e8a41f173d/index.m3u8",
-    "img": "https://i.imgur.com/nLtiXNf.png"
+    "name": "NHK World-Japan (720p)",
+    "type": "Culture;News",
+    "url": "https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png"
   },
   {
     "name": "Ramez (1080p)",
@@ -328,5 +460,11 @@
     "type": "Animation;Kids",
     "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-spacetoon/d8382fb9ab4b2307058f12c7ea90db54/index.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png"
+  },
+  {
+    "name": "Superyacht TV (1080p)",
+    "type": "Lifestyle",
+    "url": "https://sy.wns.live/hls/stream.m3u8",
+    "img": "https://i.imgur.com/cgjgjE1.png"
   }
 ]
