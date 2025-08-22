@@ -20,7 +20,7 @@
   {
     "name": "TVI",
     "type": "TV",
-    "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDI1IDQ6Nzo0MSBQTSZoYXNoX3ZhbHVlPUFlMkRHOWRnUzdKYXMwMEhBQ21acmc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0yZDFmNGQzOS1lNmNkLTRhNzAtYTk1Yi04YjdhNzhmNWNlN2U=/",
+    "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMi8yMDI1IDEyOjI5OjQ1IEFNJmhhc2hfdmFsdWU9MEJ3c2dCUk9hWTlRbHhqWFJSTnJpUT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTQ0ZTdkMDJjLTI2YzItNGVlYS1hZjFiLWIxNDQzOWI0YjZjNQ==/",
     "img": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI.png"
   },
   {
@@ -38,7 +38,7 @@
   {
     "name": "CNN Portugal",
     "type": "TV",
-    "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDI1IDQ6Nzo0MiBQTSZoYXNoX3ZhbHVlPWErUEM0WjlWbk5nNGx1U3MwYVcvV3c9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1jNDM0ZWZkNy1lNDRlLTQzOGYtODIxYS02ZjIwYzk5NmVhZDY=/",
+    "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMi8yMDI1IDEyOjI5OjQ2IEFNJmhhc2hfdmFsdWU9dmVmNmJ1aThDZCt6eHZwc0d4dnVTdz09JnZhbGlkbWludXRlcz0xNDQwJmlkPTY0OGQ2ZmEwLThlNWItNDE4My05YWEwLTMyNjg3ZDgyZTdlZQ==/",
     "img": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png"
   },
   {
@@ -92,7 +92,7 @@
   {
     "name": "TVI Internacional",
     "type": "TV",
-    "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMS8yMDI1IDQ6Nzo0MiBQTSZoYXNoX3ZhbHVlPSs3UUErSGwrbm51VE5FVGt1b1Z3ZVE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0zYzU0ZmRlOS0xMDQ1LTQ1MDgtODJkOC1iZGY3YWU2NWE1NjM=/",
+    "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMi8yMDI1IDEyOjI5OjQ3IEFNJmhhc2hfdmFsdWU9UWtLUERtMk1zSm9OZWovaVF0bkxZQT09JnZhbGlkbWludXRlcz0xNDQwJmlkPWY5N2M0OWU2LTJiNTAtNGI1OS1iMmM5LWZkMjEwNGIwNzFlNA==/",
     "img": "https://github.com/LITUATUI/M3UPT/raw/main/logos/TVI-Internacional.png"
   },
   {
@@ -186,12 +186,6 @@
     "img": "https://i.imgur.com/TFxLj80.png"
   },
   {
-    "name": "Love Nature TV",
-    "type": "TV",
-    "url": "https://d18dyiwu97wm6q.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/LoveNature4K2-prod/playlist.m3u8",
-    "img": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Love-Nature-TV.png"
-  },
-  {
     "name": "Real Wild",
     "type": "TV",
     "url": "https://lds-realwild-vizio.amagi.tv/playlist.m3u8",
@@ -202,12 +196,6 @@
     "type": "TV",
     "url": "https://fms.premio.link/fishingtv/playlist.m3u8",
     "img": "https://i.imgur.com/qrn6tUO.png"
-  },
-  {
-    "name": "Porta dos Fundos",
-    "type": "TV",
-    "url": "http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f36f2346ede750007332d11/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown",
-    "img": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/Porta-dos-Fundos.jpg"
   },
   {
     "name": "BraziTV",
@@ -5536,6 +5524,12 @@
     "type": "Rádios",
     "url": "https://stream.radiozero.pt/zero128.mp3",
     "img": "https://cdn-profiles.tunein.com/s47489/images/logod.png"
+  },
+  {
+    "name": "AVFM",
+    "type": "Rádios",
+    "url": "https://uk2.streamingpulse.com/ssl/radioavfm",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "Venice Classic Radio - Auditorium",
