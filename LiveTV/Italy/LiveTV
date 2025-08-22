@@ -36,6 +36,12 @@
     "img": "https://i.imgur.com/ccdwsWj.png"
   },
   {
+    "name": "Euro Indie Music Chart TV (360p)",
+    "type": "Music",
+    "url": "http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8",
+    "img": "https://i.imgur.com/lF0iofX.png"
+  },
+  {
     "name": "FM ITALIA (1080p)",
     "type": "Music",
     "url": "https://stream2.xdevel.com/video0s975817-1183/stream/playlist.m3u8",
@@ -162,6 +168,18 @@
     "img": "https://i.imgur.com/qWIZNEc.png"
   },
   {
+    "name": "Bahrain International (720p) [Not 24/7]",
+    "type": "General",
+    "url": "https://5c7b683162943.streamlock.net/live/ngrp:bahraininternational_all/playlist.m3u8",
+    "img": "https://i.imgur.com/t6Lmntr.png"
+  },
+  {
+    "name": "BTV World (1080p)",
+    "type": "General",
+    "url": "https://www.btvlive.gov.bd/streams/ef8b8bbc-98b7-4ba7-a49d-a0adaf259d35/ES/d96eb7f4-83c2-4472-9597-3568390a8ebf/d96eb7f4-83c2-4472-9597-3568390a8ebf_3_playlist.m3u8",
+    "img": "https://i.imgur.com/sSnrg7o.png"
+  },
+  {
     "name": "Calabria TV (256p)",
     "type": "General",
     "url": "https://5db313b643fd8.streamlock.net/CalabriaTv2/CalabriaTv2/playlist.m3u8",
@@ -216,6 +234,12 @@
     "img": "https://i.imgur.com/2AqKAMy.png"
   },
   {
+    "name": "Duna World (576p)",
+    "type": "General",
+    "url": "http://146.59.85.40:89/dunaworld/index.m3u8",
+    "img": "https://i.imgur.com/uOBQJZS.png"
+  },
+  {
     "name": "Elive TV Brescia (720p) [Not 24/7]",
     "type": "General",
     "url": "https://59d7d6f47d7fc.streamlock.net/elivebresciatv/elivebresciatv/playlist.m3u8",
@@ -226,6 +250,12 @@
     "type": "General",
     "url": "https://5f22d76e220e1.streamlock.net/EntellaTV/EntellaTV/playlist.m3u8",
     "img": "https://i.imgur.com/pGJcMmB.png"
+  },
+  {
+    "name": "ERT World (1080p)",
+    "type": "General",
+    "url": "https://cbd537474fbad4634b64787657ff6456.msvdn.net/ertworld/ert_world_main/mainabr/playlist_dvr.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/ChannelLogo-ERTWORLD1.png/512px-ChannelLogo-ERTWORLD1.png"
   },
   {
     "name": "Esperia TV (480p)",
@@ -318,6 +348,12 @@
     "img": "https://i.imgur.com/TNLD9yD.png"
   },
   {
+    "name": "LBC International",
+    "type": "General",
+    "url": "https://samaflix.com:12103/channel2/tracks-v1a1/mono.m3u8",
+    "img": "https://i.imgur.com/h26xtUv.png"
+  },
+  {
     "name": "Le Cronache TV (720p)",
     "type": "General",
     "url": "http://77.68.40.210:8888/hls/cronache.m3u8",
@@ -364,6 +400,12 @@
     "type": "General",
     "url": "https://59bb40cf810aa.streamlock.net:4443/streamingvincente/streamingvincente/playlist.m3u8",
     "img": "https://i.imgur.com/PJbXCoe.png"
+  },
+  {
+    "name": "MTV (1080p)",
+    "type": "General",
+    "url": "https://hms.pfs.gdn/v1/broadcast/mtv/playlist.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/7/75/Murr_tv.png"
   },
   {
     "name": "NTN (720p)",
@@ -624,6 +666,12 @@
     "img": "https://i.imgur.com/GsdVpll.png"
   },
   {
+    "name": "TVM Internacional (480p) [Not 24/7]",
+    "type": "General",
+    "url": "http://online.tvm.co.mz:1935/live/smil:Channel2.smil/playlist.m3u8",
+    "img": "https://i.imgur.com/fRV6p50.png"
+  },
+  {
     "name": "Первый канал Европа",
     "type": "General",
     "url": "https://streaming.thestream.cyou/live/210.m3u8",
@@ -786,6 +834,12 @@
     "img": "https://i.imgur.com/UnZoS95.png"
   },
   {
+    "name": "NHK World Premium (720p) [Not 24/7]",
+    "type": "Entertainment",
+    "url": "https://cdn.nhkworld.jp/www11/nhkworld-tv/pre/hlscomp.m3u8",
+    "img": "https://i.imgur.com/4ESi2La.png"
+  },
+  {
     "name": "Nuova TV 1 (1080p)",
     "type": "Entertainment",
     "url": "https://nuovatv.net:8443/tv/stream.m3u8",
@@ -828,12 +882,6 @@
     "img": "https://i.imgur.com/On6ggLe.png"
   },
   {
-    "name": "24 Horas Internacional [Geo-blocked]",
-    "type": "News;Public",
-    "url": "https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8",
-    "img": "https://i.imgur.com/IUVRm5L.png"
-  },
-  {
     "name": "27 TwentySeven [Geo-blocked]",
     "type": "Movies;Series",
     "url": "https://live2.msf.cdn.mediaset.net/content/hls_h0_cls_vos/live/channel(ts)/index.m3u8",
@@ -850,6 +898,12 @@
     "type": "Sports",
     "url": "https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8",
     "img": "https://i.imgur.com/l5iax42.png"
+  },
+  {
+    "name": "FUEL TV (1080p)",
+    "type": "Sports",
+    "url": "https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_rakutenAA-fueltvemeaen/CDN/master.m3u8",
+    "img": "https://i.imgur.com/I8mviBy.png"
   },
   {
     "name": "Horse TV (720p)",
@@ -880,6 +934,12 @@
     "type": "Sports",
     "url": "https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd",
     "img": "https://i.imgur.com/6PEevOM.png"
+  },
+  {
+    "name": "Red Bull TV (1080p)",
+    "type": "Sports",
+    "url": "https://3ea22335.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX1JlZEJ1bGxUVl9ITFM/playlist.m3u8",
+    "img": "https://i.postimg.cc/8c78JM28/image.png"
   },
   {
     "name": "San Marino RTV Sport (720p)",
@@ -930,6 +990,18 @@
     "img": "https://i.imgur.com/mEoDAf1.png"
   },
   {
+    "name": "CGTN (1080p)",
+    "type": "News",
+    "url": "https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/512px-CGTN.svg.png"
+  },
+  {
+    "name": "CGTN Français (1080p) [Not 24/7]",
+    "type": "News",
+    "url": "https://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8",
+    "img": "https://i.imgur.com/BwhledK.png"
+  },
+  {
     "name": "Etna Espresso Channel (720p)",
     "type": "News",
     "url": "https://5db313b643fd8.streamlock.net/Etnachannelponte/Etnachannelponte/playlist.m3u8",
@@ -954,6 +1026,12 @@
     "img": "https://i.imgur.com/2Y5qiao.png"
   },
   {
+    "name": "I24 News English (720p)",
+    "type": "News",
+    "url": "https://bcovlive-a.akamaihd.net/ecf224f43f3b43e69471a7b626481af0/eu-central-1/5377161796001/playlist.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/512px-LOGO_i24NEWS.png"
+  },
+  {
     "name": "L'altro Corriere TV (720P)",
     "type": "News",
     "url": "https://stream.cp.ets-sistemi.it:1936/laltrocorriere-tv/laltrocorriere-tv/playlist.m3u8",
@@ -972,16 +1050,16 @@
     "img": "https://i.imgur.com/sC9ELuY.jpg"
   },
   {
+    "name": "Metro Globe Network (1080p) [Not 24/7]",
+    "type": "News",
+    "url": "https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8",
+    "img": "https://i.imgur.com/aiiinzg.png"
+  },
+  {
     "name": "Minformo TV (720p)",
     "type": "News",
     "url": "https://5db313b643fd8.streamlock.net/MinformoTV/MinformoTV/playlist.m3u8",
     "img": "https://i.imgur.com/9Oq6fLw.png"
-  },
-  {
-    "name": "Polsat News Polityka (1080p) [Geo-blocked]",
-    "type": "News",
-    "url": "https://lb2-e3-20.pluscdn.pl/lv/1511888/322/dash/52a9b70b/live.mpd",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Polsat_News_Polityka_2024_gradient.svg/320px-Polsat_News_Polityka_2024_gradient.svg.png"
   },
   {
     "name": "Rai News 24 (720p)",
@@ -1032,6 +1110,12 @@
     "img": "https://i.imgur.com/3WAyf6H.png"
   },
   {
+    "name": "WION (1080p)",
+    "type": "News",
+    "url": "https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8",
+    "img": "https://i.imgur.com/Wc5Z3iS.png"
+  },
+  {
     "name": "Zerouno TV News (720p)",
     "type": "News",
     "url": "https://5db313b643fd8.streamlock.net/ZerounoTVEventi/ZerounoTVEventi/playlist.m3u8",
@@ -1060,6 +1144,12 @@
     "type": "Lifestyle",
     "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6261868633a2890007e87885/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY",
     "img": "https://i.imgur.com/cwkrxcS.png"
+  },
+  {
+    "name": "Superyacht TV (1080p)",
+    "type": "Lifestyle",
+    "url": "https://sy.wns.live/hls/stream.m3u8",
+    "img": "https://i.imgur.com/cgjgjE1.png"
   },
   {
     "name": "Hell's Kitchen",
@@ -1156,6 +1246,12 @@
     "type": "Undefined",
     "url": "https://5f22d76e220e1.streamlock.net/BOMCHANNEL/BOMCHANNEL/playlist.m3u8",
     "img": "https://i.imgur.com/WVcS0kN.png"
+  },
+  {
+    "name": "BVN",
+    "type": "Undefined",
+    "url": "https://viamotionhsi.netplus.ch/live/eds/bvn/browser-HLS8/bvn.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/BVN_logo.svg/512px-BVN_logo.svg.png"
   },
   {
     "name": "CafeTV24 (720p)",
@@ -1932,72 +2028,6 @@
     "img": "https://i.imgur.com/3Ei5VHa.png"
   },
   {
-    "name": "Boing (720p)",
-    "type": "Kids",
-    "url": "https://liveturner.akamaized.net/75a4d1a90e744fa5b9901a1853d2c47f/eu-central-1/6284318116001/playlist.m3u8",
-    "img": "https://i.imgur.com/rabKj9i.png"
-  },
-  {
-    "name": "Disney Channel (576p)",
-    "type": "Kids",
-    "url": "https://viamotionhsi.netplus.ch/live/eds/disneychannelde/browser-HLS8/disneychannelde.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg"
-  },
-  {
-    "name": "ducktv (720p)",
-    "type": "Kids",
-    "url": "https://jmp2.uk/stvp-ESBC4700001GR",
-    "img": "https://i.imgur.com/gRFQ35W.png"
-  },
-  {
-    "name": "Junior TV (1080p)",
-    "type": "Kids",
-    "url": "https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/chunklist_w774879328.m3u8",
-    "img": "https://i.imgur.com/FBOJnfT.png"
-  },
-  {
-    "name": "Rai Yoyo (1080p)",
-    "type": "Kids",
-    "url": "http://188.60.179.180:8000/play/xxRaiYoyo",
-    "img": "https://i.imgur.com/9gCxiDy.png"
-  },
-  {
-    "name": "Super! Brothers and Sisters Italy (720p)",
-    "type": "Kids",
-    "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61925ea79541940007d20881/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY",
-    "img": "https://i.imgur.com/t4mepW4.png"
-  },
-  {
-    "name": "Super! Eroi Italy (720p)",
-    "type": "Kids",
-    "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6093f5ab128c2b00070ebd51/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY",
-    "img": "https://i.imgur.com/7GId79m.png"
-  },
-  {
-    "name": "Super! iCarly Italy (720p)",
-    "type": "Kids",
-    "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609401db8cf51c00084b592e/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY",
-    "img": "https://i.imgur.com/IWcQfF2.png"
-  },
-  {
-    "name": "Super! Pop Italy (720p)",
-    "type": "Kids",
-    "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6093f7b5bb49b90007cecaad/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY",
-    "img": "https://i.imgur.com/2FfREQE.png"
-  },
-  {
-    "name": "Super! SpongeBob Italy (720p)",
-    "type": "Kids",
-    "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61fbd4c9e5b49e00079bfed9/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY",
-    "img": "https://i.imgur.com/65wxNn4.png"
-  },
-  {
-    "name": "Super! Star Italy (720p)",
-    "type": "Kids",
-    "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6093f6f8351eb0000754afb8/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY",
-    "img": "https://i.imgur.com/b4ck4Fg.png"
-  },
-  {
     "name": "Camera dei Deputati (via RR) (240p)",
     "type": "Legislative",
     "url": "https://video-ar.radioradicale.it/diretta/camera2/playlist.m3u8",
@@ -2038,6 +2068,24 @@
     "type": "Shop",
     "url": "https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8",
     "img": "https://i.imgur.com/6TWUVrh.png"
+  },
+  {
+    "name": "CGTN Documentary (1080p)",
+    "type": "Documentary",
+    "url": "https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8",
+    "img": "https://i.imgur.com/JHv0WxM.png"
+  },
+  {
+    "name": "Pluto TV Crime Italy (720p)",
+    "type": "Documentary",
+    "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa777b907770007e5d05d/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY",
+    "img": "https://i.imgur.com/QwEpDY9.png"
+  },
+  {
+    "name": "Pluto TV Natura Italy (720p)",
+    "type": "Documentary",
+    "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60802b37709d6b0007b0c549/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY",
+    "img": "https://i.imgur.com/bGZkH6b.png"
   },
   {
     "name": "Cine 34 [Geo-blocked]",
@@ -2130,6 +2178,72 @@
     "img": "https://i.imgur.com/Meew6eX.png"
   },
   {
+    "name": "Disney Channel (576p)",
+    "type": "Kids",
+    "url": "https://viamotionhsi.netplus.ch/live/eds/disneychannelde/browser-HLS8/disneychannelde.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg"
+  },
+  {
+    "name": "ducktv (720p)",
+    "type": "Kids",
+    "url": "https://jmp2.uk/stvp-ESBC4700001GR",
+    "img": "https://i.imgur.com/gRFQ35W.png"
+  },
+  {
+    "name": "Iunior TV (1080p)",
+    "type": "Kids",
+    "url": "https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/chunklist_w774879328.m3u8",
+    "img": "https://i.imgur.com/FBOJnfT.png"
+  },
+  {
+    "name": "Rai Yoyo (1080p)",
+    "type": "Kids",
+    "url": "http://188.60.179.180:8000/play/xxRaiYoyo",
+    "img": "https://i.imgur.com/9gCxiDy.png"
+  },
+  {
+    "name": "Super! Brothers and Sisters Italy (720p)",
+    "type": "Kids",
+    "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61925ea79541940007d20881/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY",
+    "img": "https://i.imgur.com/t4mepW4.png"
+  },
+  {
+    "name": "Super! Eroi Italy (720p)",
+    "type": "Kids",
+    "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6093f5ab128c2b00070ebd51/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY",
+    "img": "https://i.imgur.com/7GId79m.png"
+  },
+  {
+    "name": "Super! iCarly Italy (720p)",
+    "type": "Kids",
+    "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609401db8cf51c00084b592e/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY",
+    "img": "https://i.imgur.com/IWcQfF2.png"
+  },
+  {
+    "name": "Super! Pop Italy (720p)",
+    "type": "Kids",
+    "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6093f7b5bb49b90007cecaad/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY",
+    "img": "https://i.imgur.com/2FfREQE.png"
+  },
+  {
+    "name": "Super! SpongeBob Italy (720p)",
+    "type": "Kids",
+    "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61fbd4c9e5b49e00079bfed9/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY",
+    "img": "https://i.imgur.com/65wxNn4.png"
+  },
+  {
+    "name": "Super! Star Italy (720p)",
+    "type": "Kids",
+    "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6093f6f8351eb0000754afb8/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY",
+    "img": "https://i.imgur.com/b4ck4Fg.png"
+  },
+  {
+    "name": "ETB Basque (480p)",
+    "type": "Culture;Public",
+    "url": "https://multimedia.eitb.eus/live-content/eitbbasque-hls/master.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ETB_Basque_2022_logo.svg/512px-ETB_Basque_2022_logo.svg.png"
+  },
+  {
     "name": "EWTN Europe (720p) [Not 24/7]",
     "type": "Religious",
     "url": "https://cdn3.wowza.com/1/T2NXeHF6UGlGbHY3/WFluRldQ/hls/live/playlist.m3u8",
@@ -2170,6 +2284,12 @@
     "type": "Religious",
     "url": "https://64b16f23efbee.streamlock.net/paroledivita/paroledivita/playlist.m3u8",
     "img": "https://i.imgur.com/vkFlXbR.png"
+  },
+  {
+    "name": "Peace TV English (1080p)",
+    "type": "Religious",
+    "url": "https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8",
+    "img": "https://i.imgur.com/rjgCM2B.png"
   },
   {
     "name": "Telepace 1 (1080p)",
@@ -2274,6 +2394,18 @@
     "img": "https://i.imgur.com/Jv4WiO6.png"
   },
   {
+    "name": "Motorvision",
+    "type": "Auto",
+    "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6093f2ae4dd5ab0007d1ff9d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1e7523-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3105f589-5bf9-41ef-8229-51bdf3abb1d2",
+    "img": "https://i.imgur.com/v4kj8pI.png"
+  },
+  {
+    "name": "NHK World-Japan (720p)",
+    "type": "Culture;News",
+    "url": "https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png"
+  },
+  {
     "name": "Peer TV Alto Adige (1280p)",
     "type": "Outdoor;Travel",
     "url": "https://iptv.peer.biz/live/peertv-it.m3u8",
@@ -2290,18 +2422,6 @@
     "type": "Outdoor;Travel",
     "url": "https://iptv.peer.biz/live/peertv.m3u8",
     "img": "https://www.peer.biz/peertv-iptv/peer-tv-suedtirol.png"
-  },
-  {
-    "name": "Pluto TV Crime Italy (720p)",
-    "type": "Documentary",
-    "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/608aa777b907770007e5d05d/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY",
-    "img": "https://i.imgur.com/QwEpDY9.png"
-  },
-  {
-    "name": "Pluto TV Natura Italy (720p)",
-    "type": "Documentary",
-    "url": "https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60802b37709d6b0007b0c549/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY",
-    "img": "https://i.imgur.com/bGZkH6b.png"
   },
   {
     "name": "Pluto TV Family Italy (720p)",
@@ -3012,12 +3132,6 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "FUEL TV",
-    "type": "sport",
-    "url": "https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_rakutenAA-fueltvemeaen/CDN/master.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "GLORY Kickboxing",
     "type": "sport",
     "url": "https://6f972d29.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0dsb3J5S2lja2JveGluZ19ITFM/playlist.m3u8",
@@ -3057,12 +3171,6 @@
     "name": "Golf Television",
     "type": "sport",
     "url": "https://amg14891-amg14891c1-amgplt0165.playout.now3.amagi.tv/playlist/amg14891-amg14891c1-amgplt0165/playlist.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Red Bull TV",
-    "type": "sport",
-    "url": "https://3ea22335.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX1JlZEJ1bGxUVl9ITFM/playlist.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -3198,15 +3306,9 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "CGTN Documentary",
-    "type": "documentari",
-    "url": "https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "Euronews IN DIRETTA",
     "type": "notizie",
-    "url": "https://dab794fcc38647efbf5f86bf01fa5c21.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6570/bitok/eyJzdGlkIjoiZmQ0NzBhNDctZGE1Zi00MDE4LTk0NzYtYzBiZWRlNzhiMDIxIiwibWt0IjoiaXQiLCJjaCI6NjU3MCwicHRmIjo1fQ%3D%3D/25674/euronews-it.m3u8",
+    "url": "https://dab794fcc38647efbf5f86bf01fa5c21.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6570/bitok/eyJzdGlkIjoiMWJkMzJiZDgtYmYwYS00NjliLTg0NTQtYjRhNmJhMTgyNWVlIiwibWt0IjoiaXQiLCJjaCI6NjU3MCwicHRmIjo1fQ%3D%3D/25674/euronews-it.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -3242,13 +3344,7 @@
   {
     "name": "Africanews",
     "type": "notizie",
-    "url": "https://c3c275b999764df8a2dd55ffe2996818.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576/bitok/eyJzdGlkIjoiNWM1MGY4YzAtMWNiNi00ZjFjLWI5MzctOTBkMjE2ZmU3ZjRiIiwibWt0IjoiaXQiLCJjaCI6NjU4NywicHRmIjo1fQ%3D%3D/26036/africanews-en.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "CGTN",
-    "type": "notizie",
-    "url": "https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8",
+    "url": "https://c3c275b999764df8a2dd55ffe2996818.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576/bitok/eyJzdGlkIjoiYzJmOWI0NDMtOGQyYi00NTVkLWIzYjAtZWEyYmRiNWU1MzYzIiwibWt0IjoiaXQiLCJjaCI6NjU4NywicHRmIjo1fQ%3D%3D/26036/africanews-en.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
