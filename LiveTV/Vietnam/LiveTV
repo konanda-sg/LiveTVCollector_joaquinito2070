@@ -828,6 +828,12 @@
     "img": "https://i.imgur.com/qQ33TVM.png"
   },
   {
+    "name": "BTV World (1080p)",
+    "type": "General",
+    "url": "https://www.btvlive.gov.bd/streams/ef8b8bbc-98b7-4ba7-a49d-a0adaf259d35/ES/d96eb7f4-83c2-4472-9597-3568390a8ebf/d96eb7f4-83c2-4472-9597-3568390a8ebf_3_playlist.m3u8",
+    "img": "https://i.imgur.com/sSnrg7o.png"
+  },
+  {
     "name": "Cao Bang TV (480p)",
     "type": "General",
     "url": "http://118.107.85.4:1935/live/smil:CRTV.smil/playlist.m3u8",
@@ -912,6 +918,12 @@
     "img": "https://i.imgur.com/lLlu6ZA.png"
   },
   {
+    "name": "LA34 Long An TV (1080i) [Geo-blocked]",
+    "type": "General",
+    "url": "https://live.la34.com.vn/la34/tv-transmux.m3u8",
+    "img": "https://i.imgur.com/j6T7sqT.png"
+  },
+  {
     "name": "Lam Dong TV (720p)",
     "type": "General",
     "url": "http://118.107.85.5:1935/live/smil:LTV.smil/playlist.m3u8",
@@ -922,6 +934,12 @@
     "type": "General",
     "url": "https://cdn.3ssoft.vn/livetv/laocaitv/laocaitv/index.m3u8",
     "img": "https://i.imgur.com/TLvrDHa.png"
+  },
+  {
+    "name": "MNB World (1080p)",
+    "type": "General",
+    "url": "https://cdn3.skygo.mn/live/disk1/MNB_World/HLS-FTA/MNB_World.m3u8",
+    "img": "https://i.imgur.com/PHlj84Q.png"
   },
   {
     "name": "Nghe An TV",
@@ -976,6 +994,12 @@
     "type": "Religious",
     "url": "http://cdn-kanal10.crossnet.net:1935/kanal10/kanal10asia/playlist.m3u8",
     "img": "https://i.imgur.com/tY7IJva.png"
+  },
+  {
+    "name": "Peace TV English (1080p)",
+    "type": "Religious",
+    "url": "https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8",
+    "img": "https://i.imgur.com/rjgCM2B.png"
   },
   {
     "name": "ANTV (480p)",
@@ -1072,6 +1096,12 @@
     "type": "Undefined",
     "url": "https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist.m3u8",
     "img": "https://i.imgur.com/2oOVS42.png"
+  },
+  {
+    "name": "SCTV7 (576i)",
+    "type": "Undefined",
+    "url": "https://liveh12.seenow.vn/hls/SCTV7/03.m3u8",
+    "img": "https://i.imgur.com/xbIUZYd.png"
   },
   {
     "name": "Thua Thien Hue TV (404p)",
@@ -1218,10 +1248,34 @@
     "img": "https://i.imgur.com/vSz2WEp.png"
   },
   {
+    "name": "CGTN (1080p)",
+    "type": "News",
+    "url": "https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/512px-CGTN.svg.png"
+  },
+  {
+    "name": "I24 News English (720p)",
+    "type": "News",
+    "url": "https://bcovlive-a.akamaihd.net/ecf224f43f3b43e69471a7b626481af0/eu-central-1/5377161796001/playlist.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/512px-LOGO_i24NEWS.png"
+  },
+  {
+    "name": "Metro Globe Network (1080p) [Not 24/7]",
+    "type": "News",
+    "url": "https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8",
+    "img": "https://i.imgur.com/aiiinzg.png"
+  },
+  {
     "name": "RTM ASEAN",
     "type": "News",
     "url": "https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG.m3u8",
     "img": "https://i.imgur.com/skAiUxg.png"
+  },
+  {
+    "name": "WION (1080p)",
+    "type": "News",
+    "url": "https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8",
+    "img": "https://i.imgur.com/Wc5Z3iS.png"
   },
   {
     "name": "Binh Phuoc TV 1 (720p)",
@@ -1272,10 +1326,22 @@
     "img": "https://upload.wikimedia.org/wikipedia/en/thumb/1/16/CBeebies.svg/512px-CBeebies.svg.png"
   },
   {
+    "name": "CGTN Documentary (1080p)",
+    "type": "Documentary",
+    "url": "https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8",
+    "img": "https://i.imgur.com/JHv0WxM.png"
+  },
+  {
     "name": "Crime + Investigation Asia HD (720p) [Geo-blocked]",
     "type": "Entertainment",
     "url": "https://cdn09jtedge.indihometv.com/joss/133/crimeinvestigation/index.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Crime_%2B_Investigation_Logo_10.2019.svg"
+  },
+  {
+    "name": "NHK World Premium (720p) [Not 24/7]",
+    "type": "Entertainment",
+    "url": "https://cdn.nhkworld.jp/www11/nhkworld-tv/pre/hlscomp.m3u8",
+    "img": "https://i.imgur.com/4ESi2La.png"
   },
   {
     "name": "ON Vie Drama",
@@ -1302,6 +1368,12 @@
     "img": "https://hls.mskycdn.online/logo/dreamworks.png"
   },
   {
+    "name": "Euro Indie Music Chart TV (360p)",
+    "type": "Music",
+    "url": "http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8",
+    "img": "https://i.imgur.com/lF0iofX.png"
+  },
+  {
     "name": "Hmong TV Network (720p)",
     "type": "Culture",
     "url": "https://livefta.malimarcdn.com/ftaedge00/cvabroadcasting.stream/playlist.m3u8",
@@ -1324,6 +1396,12 @@
     "type": "Sports",
     "url": "http://dvrfl05.bozztv.com/vch_vchannel11/index.m3u8",
     "img": "https://i.postimg.cc/zBTqkhq8/ON-Football-logo-2022.png"
+  },
+  {
+    "name": "Red Bull TV (1080p)",
+    "type": "Sports",
+    "url": "https://3ea22335.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX1JlZEJ1bGxUVl9ITFM/playlist.m3u8",
+    "img": "https://i.postimg.cc/8c78JM28/image.png"
   },
   {
     "name": "Lao SV TV (480p)",
@@ -1350,10 +1428,28 @@
     "img": "https://i.imgur.com/cTSDB8O.png"
   },
   {
+    "name": "Motorvision",
+    "type": "Auto",
+    "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6093f2ae4dd5ab0007d1ff9d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1e7523-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3105f589-5bf9-41ef-8229-51bdf3abb1d2",
+    "img": "https://i.imgur.com/v4kj8pI.png"
+  },
+  {
+    "name": "NHK World-Japan (720p)",
+    "type": "Culture;News",
+    "url": "https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png"
+  },
+  {
     "name": "ON Style TV",
     "type": "Lifestyle",
     "url": "http://dvrfl05.bozztv.com/vch_vchannel10/index.m3u8",
     "img": "https://i.postimg.cc/x8RYwSkZ/ON-Style-TV.png"
+  },
+  {
+    "name": "Superyacht TV (1080p)",
+    "type": "Lifestyle",
+    "url": "https://sy.wns.live/hls/stream.m3u8",
+    "img": "https://i.imgur.com/cgjgjE1.png"
   },
   {
     "name": "Tra Vinh TV 2 (720p)",
