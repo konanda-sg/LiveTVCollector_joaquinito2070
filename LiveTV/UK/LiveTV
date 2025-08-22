@@ -1206,12 +1206,6 @@
     "img": "https://images.pluto.tv/channels/5ce40f42ba7f7f5ea9518fe1/colorLogoPNG.png"
   },
   {
-    "name": "24 Horas Internacional [Geo-blocked]",
-    "type": "News;Public",
-    "url": "https://rtvelivestream.akamaized.net/rtvesec/24h/24h_main_dvr.m3u8",
-    "img": "https://i.imgur.com/IUVRm5L.png"
-  },
-  {
     "name": "92 News UK (576p)",
     "type": "News",
     "url": "https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-92_news-hsslive-25f-16x9-SD/chunklist.m3u8",
@@ -1236,6 +1230,18 @@
     "img": "https://i.imgur.com/4uTMnPb.png"
   },
   {
+    "name": "CGTN (1080p)",
+    "type": "News",
+    "url": "https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/512px-CGTN.svg.png"
+  },
+  {
+    "name": "CGTN Français (1080p) [Not 24/7]",
+    "type": "News",
+    "url": "https://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8",
+    "img": "https://i.imgur.com/BwhledK.png"
+  },
+  {
     "name": "Dunya News (UK Feed) (720p) [Not 24/7]",
     "type": "News",
     "url": "https://ukintl.dunyanews.tv/liveuk/ngrp:dunyalive_all/playlist.m3u8",
@@ -1248,10 +1254,22 @@
     "img": "https://upload.wikimedia.org/wikipedia/en/thumb/3/35/GB_News_Logo.svg/512px-GB_News_Logo.svg.png"
   },
   {
+    "name": "I24 News English (720p)",
+    "type": "News",
+    "url": "https://bcovlive-a.akamaihd.net/ecf224f43f3b43e69471a7b626481af0/eu-central-1/5377161796001/playlist.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/512px-LOGO_i24NEWS.png"
+  },
+  {
     "name": "Iran International (720p)",
     "type": "News",
     "url": "https://dev-live.livetvstream.co.uk/LS-63503-4/index.m3u8",
     "img": "https://i.imgur.com/55RpaF3.png"
+  },
+  {
+    "name": "Metro Globe Network (1080p) [Not 24/7]",
+    "type": "News",
+    "url": "https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8",
+    "img": "https://i.imgur.com/aiiinzg.png"
   },
   {
     "name": "NBC News NOW",
@@ -1260,10 +1278,10 @@
     "img": "https://i.imgur.com/JZt2qh5.png"
   },
   {
-    "name": "Polsat News Polityka (1080p) [Geo-blocked]",
+    "name": "WION (1080p)",
     "type": "News",
-    "url": "https://lb2-e3-20.pluscdn.pl/lv/1511888/322/dash/52a9b70b/live.mpd",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Polsat_News_Polityka_2024_gradient.svg/320px-Polsat_News_Polityka_2024_gradient.svg.png"
+    "url": "https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8",
+    "img": "https://i.imgur.com/Wc5Z3iS.png"
   },
   {
     "name": "Aathavan TV (720p) [Not 24/7]",
@@ -1284,9 +1302,9 @@
     "img": "https://i.imgur.com/22MfjF4.png"
   },
   {
-    "name": "ITV3",
+    "name": "ITV3 (1080p)",
     "type": "Entertainment",
-    "url": "https://x.canlitvapp.com/u-itv3/index.m3u8",
+    "url": "https://viamotionhsi.netplus.ch/live/eds/itv3/browser-HLS8/itv3.m3u8",
     "img": "https://i.imgur.com/JuyM2z5.png"
   },
   {
@@ -1296,10 +1314,22 @@
     "img": "https://i.imgur.com/mUHixbi.png"
   },
   {
+    "name": "More4 HD",
+    "type": "Entertainment",
+    "url": "https://viamotionhsi.netplus.ch/live/eds/more4/browser-HLS8/more4.m3u8",
+    "img": "https://i.imgur.com/cx5YcAU.png"
+  },
+  {
     "name": "Mystery TV (1080p) [Geo-blocked]",
     "type": "Entertainment",
     "url": "https://blaze-fast-mystery-tv-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/blaze-fast-mystery-tv-amagi/playlist.m3u8",
     "img": "https://i.imgur.com/K4gwstM.png"
+  },
+  {
+    "name": "NHK World Premium (720p) [Not 24/7]",
+    "type": "Entertainment",
+    "url": "https://cdn.nhkworld.jp/www11/nhkworld-tv/pre/hlscomp.m3u8",
+    "img": "https://i.imgur.com/4ESi2La.png"
   },
   {
     "name": "ACTS TV (360p)",
@@ -1434,6 +1464,12 @@
     "img": "https://i.imgur.com/DlKgIuQ.png"
   },
   {
+    "name": "Peace TV English (1080p)",
+    "type": "Religious",
+    "url": "https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8",
+    "img": "https://i.imgur.com/rjgCM2B.png"
+  },
+  {
     "name": "Safeer TV (1080p)",
     "type": "Religious",
     "url": "https://cdn3.wowza.com/1/YStGZlJRdktzZkdK/VXROZWNW/hls/live/playlist.m3u8",
@@ -1444,6 +1480,12 @@
     "type": "Music",
     "url": "https://stream.ecable.tv/afrobeats/index.m3u8",
     "img": "https://i.imgur.com/232ndRK.png"
+  },
+  {
+    "name": "Euro Indie Music Chart TV (360p)",
+    "type": "Music",
+    "url": "http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8",
+    "img": "https://i.imgur.com/lF0iofX.png"
   },
   {
     "name": "MTV Hits Europe",
@@ -1516,6 +1558,12 @@
     "type": "General",
     "url": "https://live-anandtv.anandmedia.net/anandtvapp/anandtv/index.m3u8",
     "img": "https://i.imgur.com/5VOPFzs.png"
+  },
+  {
+    "name": "Bahrain International (720p) [Not 24/7]",
+    "type": "General",
+    "url": "https://5c7b683162943.streamlock.net/live/ngrp:bahraininternational_all/playlist.m3u8",
+    "img": "https://i.imgur.com/t6Lmntr.png"
   },
   {
     "name": "BBC Alba (1080p) [Geo-blocked]",
@@ -1734,6 +1782,12 @@
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/BBC_Logo_2021.svg/2880px-BBC_Logo_2021.svg.png"
   },
   {
+    "name": "BTV World (1080p)",
+    "type": "General",
+    "url": "https://www.btvlive.gov.bd/streams/ef8b8bbc-98b7-4ba7-a49d-a0adaf259d35/ES/d96eb7f4-83c2-4472-9597-3568390a8ebf/d96eb7f4-83c2-4472-9597-3568390a8ebf_3_playlist.m3u8",
+    "img": "https://i.imgur.com/sSnrg7o.png"
+  },
+  {
     "name": "Canaf54 TV",
     "type": "General",
     "url": "https://5caf24a595d94.streamlock.net:1937/pvyugfkzkc/pvyugfkzkc/playlist.m3u8",
@@ -1743,6 +1797,12 @@
     "name": "Channel 4",
     "type": "General",
     "url": "https://x.canlitvapp.com/u-channel-4/index.m3u8",
+    "img": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1621.png"
+  },
+  {
+    "name": "Channel 4 UK HD (1080p)",
+    "type": "General",
+    "url": "https://viamotionhsi.netplus.ch/live/eds/channel4/browser-HLS8/channel4.m3u8",
     "img": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1621.png"
   },
   {
@@ -1762,6 +1822,18 @@
     "type": "General",
     "url": "https://ap02.iqplay.tv:8082/iqb8002/d33ntv/playlist.m3u8",
     "img": "https://i.imgur.com/Zp62Nbd.png"
+  },
+  {
+    "name": "Duna World (576p)",
+    "type": "General",
+    "url": "http://146.59.85.40:89/dunaworld/index.m3u8",
+    "img": "https://i.imgur.com/uOBQJZS.png"
+  },
+  {
+    "name": "ERT World (1080p)",
+    "type": "General",
+    "url": "https://cbd537474fbad4634b64787657ff6456.msvdn.net/ertworld/ert_world_main/mainabr/playlist_dvr.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/ChannelLogo-ERTWORLD1.png/512px-ChannelLogo-ERTWORLD1.png"
   },
   {
     "name": "Hala London (1080p)",
@@ -1788,9 +1860,9 @@
     "img": "https://i.imgur.com/2BpUK0W.png"
   },
   {
-    "name": "ITV4 (576p)",
+    "name": "ITV4 (1080p)",
     "type": "General",
-    "url": "https://x.canlitvapp.com/u-itv4/index.m3u8",
+    "url": "https://viamotionhsi.netplus.ch/live/eds/itv4/browser-HLS8/itv4.m3u8",
     "img": "https://i.imgur.com/DYI4IA2.png"
   },
   {
@@ -1806,10 +1878,22 @@
     "img": "https://i.imgur.com/Cl1iGEb.jpeg"
   },
   {
+    "name": "LBC International",
+    "type": "General",
+    "url": "https://samaflix.com:12103/channel2/tracks-v1a1/mono.m3u8",
+    "img": "https://i.imgur.com/h26xtUv.png"
+  },
+  {
     "name": "MM Somali TV (720p)",
     "type": "General",
     "url": "https://cdn.mediavisionuk.com:9000/MMTV/index.m3u8",
     "img": "https://i.imgur.com/k8nz8Q2.jpg"
+  },
+  {
+    "name": "MTV (1080p)",
+    "type": "General",
+    "url": "https://hms.pfs.gdn/v1/broadcast/mtv/playlist.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/7/75/Murr_tv.png"
   },
   {
     "name": "TGRT Europe (576p)",
@@ -1822,6 +1906,12 @@
     "type": "General",
     "url": "https://ott.tv5monde.com/Content/HLS/Live/channel(europe)/variant.m3u8",
     "img": "https://i.imgur.com/rPAbMSu.png"
+  },
+  {
+    "name": "TVM Internacional (480p) [Not 24/7]",
+    "type": "General",
+    "url": "http://online.tvm.co.mz:1935/live/smil:Channel2.smil/playlist.m3u8",
+    "img": "https://i.imgur.com/fRV6p50.png"
   },
   {
     "name": "Первый канал Европа",
@@ -1852,6 +1942,12 @@
     "type": "Culture;Documentary",
     "url": "https://streamer.nexyl.uk/48559ccd-6400-457d-8acc-06b9e24c2ed8.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BBC_Four_logo_2021.svg/512px-BBC_Four_logo_2021.svg.png"
+  },
+  {
+    "name": "BBC Four/CBeebies (1080p)",
+    "type": "Animation;General;Kids",
+    "url": "https://viamotionhsi.netplus.ch/live/eds/bbc4cbeebies/browser-HLS8/bbc4cbeebies.m3u8",
+    "img": "https://i0.wp.com/cleanfeed.thetvroom.com/media/2022/06/freeview-bbc-four-cbeebies-202206-001-01.png"
   },
   {
     "name": "BBC Parliament (1080p) [Geo-blocked]",
@@ -2008,6 +2104,12 @@
     "type": "Undefined",
     "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/britasiatv/master.m3u8",
     "img": "https://i.imgur.com/ULm80XF.png"
+  },
+  {
+    "name": "BVN",
+    "type": "Undefined",
+    "url": "https://viamotionhsi.netplus.ch/live/eds/bvn/browser-HLS8/bvn.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/BVN_logo.svg/512px-BVN_logo.svg.png"
   },
   {
     "name": "Hard Knocks Fighting Championship (720p)",
@@ -2220,6 +2322,12 @@
     "img": "https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/b2b4d09d-3471-4dbf-a831-3191cfc66bec-width200-quality90.jpeg"
   },
   {
+    "name": "BBC Three/CBBC (1080p)",
+    "type": "Animation;Family;Kids",
+    "url": "https://viamotionhsi.netplus.ch/live/eds/bbc3cbbc/browser-HLS8/bbc3cbbc.m3u8",
+    "img": "https://svgmix.com/uploads/8a9370-cbbc-bbc-three.svg"
+  },
+  {
     "name": "Beano TV (720p)",
     "type": "Series",
     "url": "https://beanostudios-beanotv-1-gb.samsung.wurl.tv/playlist.m3u8",
@@ -2314,6 +2422,36 @@
     "type": "Lifestyle",
     "url": "https://lo3.gemporia.com/abrhobbymakerukgfx/smil:livestreamFullHD.smil/playlist.m3u8",
     "img": "https://i.imgur.com/VWHp5Tl.png"
+  },
+  {
+    "name": "Superyacht TV (1080p)",
+    "type": "Lifestyle",
+    "url": "https://sy.wns.live/hls/stream.m3u8",
+    "img": "https://i.imgur.com/cgjgjE1.png"
+  },
+  {
+    "name": "CGTN Documentary (1080p)",
+    "type": "Documentary",
+    "url": "https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8",
+    "img": "https://i.imgur.com/JHv0WxM.png"
+  },
+  {
+    "name": "FBI Files",
+    "type": "Documentary",
+    "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62bdaa32a1b2fd00076693e8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7a2d95-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=53708f79-4a2b-4285-8fa6-e950fc36fb48",
+    "img": "https://i.imgur.com/vzYDSLo.png"
+  },
+  {
+    "name": "Pluto TV Biography (720p) [Not 24/7]",
+    "type": "Documentary",
+    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d4af2a24f1c5ab2d298776b/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
+    "img": "https://i.imgur.com/MwuIHbX.png"
+  },
+  {
+    "name": "Real Stories (1080p)",
+    "type": "Documentary",
+    "url": "https://lds-realstories-plex.amagi.tv/playlist.m3u8",
+    "img": "https://i.imgur.com/PG15QKA.png"
   },
   {
     "name": "Channel S (576p) [Not 24/7]",
@@ -2430,6 +2568,12 @@
     "img": "https://i.imgur.com/l5iax42.png"
   },
   {
+    "name": "FUEL TV (1080p)",
+    "type": "Sports",
+    "url": "https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_rakutenAA-fueltvemeaen/CDN/master.m3u8",
+    "img": "https://i.imgur.com/I8mviBy.png"
+  },
+  {
     "name": "MUTV (720p)",
     "type": "Sports",
     "url": "https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8",
@@ -2440,6 +2584,12 @@
     "type": "Sports",
     "url": "https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6081310e48d3200007afaf3b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c8bf322-e98a-11eb-a932-2f3c780ff9ff&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=0727f4fb-ea0b-4814-bb58-fdf3c4534220",
     "img": "https://i.imgur.com/Fc3NQAI.png"
+  },
+  {
+    "name": "Red Bull TV (1080p)",
+    "type": "Sports",
+    "url": "https://3ea22335.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX1JlZEJ1bGxUVl9ITFM/playlist.m3u8",
+    "img": "https://i.postimg.cc/8c78JM28/image.png"
   },
   {
     "name": "Strongman (720p)",
@@ -2454,22 +2604,10 @@
     "img": "https://upload.wikimedia.org/wikipedia/en/9/9d/Talksport_logo.png"
   },
   {
-    "name": "FBI Files",
-    "type": "Documentary",
-    "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62bdaa32a1b2fd00076693e8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7a2d95-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=53708f79-4a2b-4285-8fa6-e950fc36fb48",
-    "img": "https://i.imgur.com/vzYDSLo.png"
-  },
-  {
-    "name": "Pluto TV Biography (720p) [Not 24/7]",
-    "type": "Documentary",
-    "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d4af2a24f1c5ab2d298776b/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
-    "img": "https://i.imgur.com/MwuIHbX.png"
-  },
-  {
-    "name": "Real Stories (1080p)",
-    "type": "Documentary",
-    "url": "https://lds-realstories-plex.amagi.tv/playlist.m3u8",
-    "img": "https://i.imgur.com/PG15QKA.png"
+    "name": "ETB Basque (480p)",
+    "type": "Culture;Public",
+    "url": "https://multimedia.eitb.eus/live-content/eitbbasque-hls/master.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ETB_Basque_2022_logo.svg/512px-ETB_Basque_2022_logo.svg.png"
   },
   {
     "name": "Gems TV (720p)",
@@ -2518,6 +2656,18 @@
     "type": "Outdoor",
     "url": "https://hncfree-samsungau.amagi.tv/playlist.m3u8",
     "img": "https://i.imgur.com/1x6zYZr.png"
+  },
+  {
+    "name": "Motorvision",
+    "type": "Auto",
+    "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6093f2ae4dd5ab0007d1ff9d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1e7523-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3105f589-5bf9-41ef-8229-51bdf3abb1d2",
+    "img": "https://i.imgur.com/v4kj8pI.png"
+  },
+  {
+    "name": "NHK World-Japan (720p)",
+    "type": "Culture;News",
+    "url": "https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png"
   },
   {
     "name": "Rakuten TV Family Movies UK (1080p)",
