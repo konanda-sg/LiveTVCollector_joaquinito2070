@@ -703,9 +703,14 @@ URL: https://nl1.streamingpulse.com/ssl/RadioGradiska
 Logo: https://i.imgur.com/M5M3jWB.png
 Source: https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u
 --------------------------------------------------
-Name: Radio Sarajevo
-URL: https://securestreams5.autopo.st:1853/
-Logo: https://i.imgur.com/BRxT1Cb.jpeg
+Name: Balkan Hit Radio Sarajevo
+URL: https://cast2.asurahosting.com/proxy/balkanhi/stream
+Logo: https://i.imgur.com/QUNsOJJ.png
+Source: https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u
+--------------------------------------------------
+Name: Antena Sarajevo
+URL: http://116.203.7.166:9020/
+Logo: https://i.imgur.com/BU5Nzpt.png
 Source: https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u
 --------------------------------------------------
 Name: Radio Kozara
@@ -1832,6 +1837,13 @@ Name: HRB-TV 哈尔滨新闻综合频道 / Hypnosis Mic TV (ヒプノシスマ�
 URL: https://stream.hrbtv.net/xwzh/playlist.m3u8
 Logo: https://hypnosismic-anime.com/assets/2nd/img/common/logo.png
 Source: https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u
+--------------------------------------------------
+
+Group: HR
+Name: Otvoreni radio
+URL: http://stream.otvoreni.hr/otvoreni
+Logo: https://i.imgur.com/xN3w2VA.png
+Source: https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u
 --------------------------------------------------
 
 Group: HTV

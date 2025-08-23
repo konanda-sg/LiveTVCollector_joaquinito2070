@@ -1,5 +1,5 @@
 {
-  "date": "2025-08-22 21:31:04",
+  "date": "2025-08-23 06:07:41",
   "channels": {
     "STREAMING": [
       {
@@ -2430,11 +2430,18 @@
         "url": "https://nl1.streamingpulse.com/ssl/RadioGradiska"
       },
       {
-        "name": "Radio Sarajevo",
-        "logo": "https://i.imgur.com/BRxT1Cb.jpeg",
+        "name": "Balkan Hit Radio Sarajevo",
+        "logo": "https://i.imgur.com/QUNsOJJ.png",
         "group": "BiH",
         "source": "https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u",
-        "url": "https://securestreams5.autopo.st:1853/"
+        "url": "https://cast2.asurahosting.com/proxy/balkanhi/stream"
+      },
+      {
+        "name": "Antena Sarajevo",
+        "logo": "https://i.imgur.com/BU5Nzpt.png",
+        "group": "BiH",
+        "source": "https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u",
+        "url": "http://116.203.7.166:9020/"
       },
       {
         "name": "Radio Kozara",
@@ -2505,6 +2512,15 @@
         "group": "BiH",
         "source": "https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u",
         "url": "http://domacica.bigportal.ba:8100/domacica"
+      }
+    ],
+    "HR": [
+      {
+        "name": "Otvoreni radio",
+        "logo": "https://i.imgur.com/xN3w2VA.png",
+        "group": "HR",
+        "source": "https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u",
+        "url": "http://stream.otvoreni.hr/otvoreni"
       }
     ],
     "NACIONAL": [
