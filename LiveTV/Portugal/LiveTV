@@ -20,7 +20,7 @@
   {
     "name": "TVI",
     "type": "TV",
-    "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI1IDQ6NjoyMSBQTSZoYXNoX3ZhbHVlPXF6cVdxMnN2N1ErbTFTeVR1TmIyRXc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD02MTk2NDBiYy0yYzdlLTQzZTYtYWE3ZS00ODgyZWFmZjIxYjc=/",
+    "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNC8yMDI1IDEyOjMzOjI3IEFNJmhhc2hfdmFsdWU9S2xmb3JwN2tUeElqcE02WWxPRlFZdz09JnZhbGlkbWludXRlcz0xNDQwJmlkPTczNmU0ZjU2LTJhYzAtNDQ1ZS05NTQyLWVjMDc0ODhlMjk2OQ==/",
     "img": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI.png"
   },
   {
@@ -38,7 +38,7 @@
   {
     "name": "CNN Portugal",
     "type": "TV",
-    "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI1IDQ6NjoyMiBQTSZoYXNoX3ZhbHVlPTJ1ZDE3SE5TdU43SFNURUxYcDNBRnc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0xMTI0MTZlMC1kNTkxLTRlYmItOTIzNi04NjkxYmJmZmVhNjY=/",
+    "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNC8yMDI1IDEyOjMzOjI4IEFNJmhhc2hfdmFsdWU9cnF1R3FxTHNIYzcwRUI0ZG14MXJRdz09JnZhbGlkbWludXRlcz0xNDQwJmlkPTMyZmNiNDJkLTliOWYtNDMzZi1hNzgwLTBhYTQ2N2VkNjI3Ng==/",
     "img": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png"
   },
   {
@@ -92,7 +92,7 @@
   {
     "name": "TVI Internacional",
     "type": "TV",
-    "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yMy8yMDI1IDQ6NjoyMyBQTSZoYXNoX3ZhbHVlPXJoRGJyaWwzNWFKbTYrN0VWN0FSSmc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1kYWIzZmVhYi1mMGYyLTQ4ZDctODA0MS0xYTA4YzI1MzdlMGI=/",
+    "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNC8yMDI1IDEyOjMzOjI5IEFNJmhhc2hfdmFsdWU9WWhWMWo1TzZjWlZLQnNOOEVZZHdyQT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTA4ZDY5ZDk4LWZmMDYtNDU4MC1iMGZkLTgxNDk2YWFlZGIwYg==/",
     "img": "https://github.com/LITUATUI/M3UPT/raw/main/logos/TVI-Internacional.png"
   },
   {
@@ -5676,6 +5676,12 @@
     "img": "https://i.imgur.com/sSnrg7o.png"
   },
   {
+    "name": "CCTV-4 Europe",
+    "type": "General",
+    "url": "https://viamotionhsi.netplus.ch/live/eds/cctv4/browser-HLS8/cctv4.m3u8",
+    "img": "https://i.imgur.com/HGLFdfk.png"
+  },
+  {
     "name": "Duna World (576p)",
     "type": "General",
     "url": "http://146.59.85.40:89/dunaworld/index.m3u8",
@@ -5908,6 +5914,12 @@
     "type": "Business",
     "url": "https://bloomberg.com/media-manifest/streams/eu.m3u8",
     "img": "https://i.imgur.com/OuogLHx.png"
+  },
+  {
+    "name": "CNBC Europe HD (1080p)",
+    "type": "Business",
+    "url": "https://viamotionhsi.netplus.ch/live/eds/cnbc/browser-HLS8/cnbc.m3u8",
+    "img": "https://i.imgur.com/B6sfpDa.png"
   },
   {
     "name": "CGTN (1080p)",
