@@ -1,5 +1,5 @@
 {
-  "date": "2025-08-24 21:48:52",
+  "date": "2025-08-25 06:50:45",
   "channels": {
     "TV": [
       {
@@ -28,7 +28,7 @@
         "logo": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI.png",
         "group": "TV",
         "source": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u",
-        "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNC8yMDI1IDQ6NzoxIFBNJmhhc2hfdmFsdWU9YzYwMEdFdlZVVE1Vb0p6WElPTlBrZz09JnZhbGlkbWludXRlcz0xNDQwJmlkPTdhNjFjZjIwLWY0YzgtNDYwMi04Y2U5LTliNTA3ZDU2NjE4MA==/"
+        "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNS8yMDI1IDEyOjMxOjM0IEFNJmhhc2hfdmFsdWU9c2xBdk1oTGlXRFJTaEFZUjNXcm94dz09JnZhbGlkbWludXRlcz0xNDQwJmlkPTY0NjI3NzE0LWNkZWYtNDhiYi1iMTBlLThlNzM3NTI4MjhjOQ==/"
       },
       {
         "name": "RTP 3",
@@ -49,7 +49,7 @@
         "logo": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png",
         "group": "TV",
         "source": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u",
-        "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNC8yMDI1IDQ6NzoyIFBNJmhhc2hfdmFsdWU9SHpoVkxoV0JiUXowVGNXZ2hoVTBhdz09JnZhbGlkbWludXRlcz0xNDQwJmlkPThjOWMwYzRlLTQxNjgtNDlhZi1iNjU0LTFlODAwOGNmOThiYQ==/"
+        "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNS8yMDI1IDEyOjMxOjM1IEFNJmhhc2hfdmFsdWU9ZGxpZDh2cnUvb1pNZldyQVQyd1M0Zz09JnZhbGlkbWludXRlcz0xNDQwJmlkPTllZTRkMDQyLTM0NmQtNGM3MC1iNTFjLWU1M2M1ZTk2NDg0OA==/"
       },
       {
         "name": "CNN Brasil",
@@ -112,7 +112,7 @@
         "logo": "https://github.com/LITUATUI/M3UPT/raw/main/logos/TVI-Internacional.png",
         "group": "TV",
         "source": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u",
-        "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNC8yMDI1IDQ6NzozIFBNJmhhc2hfdmFsdWU9dVNBWmw2bERNaExZczk4Tjd6bTlIdz09JnZhbGlkbWludXRlcz0xNDQwJmlkPWQ5MTQ0MGI0LTIzYzEtNDlhMi1iMjgwLThhNTc3N2RmZjZhOQ==/"
+        "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNS8yMDI1IDEyOjMxOjM2IEFNJmhhc2hfdmFsdWU9Z3BqNVRtQ3dxQnN0NkZ0RFpubVplQT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTNiODFlOTI4LWEwZTctNDQ5Ny05NTNhLTdiMTc4ZjlhNzc5NQ==/"
       },
       {
         "name": "TVI África",
@@ -6624,6 +6624,15 @@
         "url": "http://213.13.26.11:1935/live/sobrenaturaltv/livestream.m3u8"
       }
     ],
+    "General;Public": [
+      {
+        "name": "Aragon TV Internacional",
+        "logo": "https://static.wikia.nocookie.net/logopedia/images/1/12/Arag%C3%B3n_Internacional.png/revision/latest/scale-to-width-down/512",
+        "group": "General;Public",
+        "source": "https://iptv-org.github.io/iptv/countries/pt.m3u",
+        "url": "https://viamotionhsi.netplus.ch/live/eds/aragontv/browser-HLS8/aragontv.m3u8"
+      }
+    ],
     "Legislative": [
       {
         "name": "ARTV Canal Parlamento (720p) [Not 24/7]",
@@ -6880,6 +6889,13 @@
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/pt.m3u",
         "url": "https://top-movies-rakuten-tv-pl.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6059/master.m3u8"
+      },
+      {
+        "name": "TVE Internacional Europe-Asia",
+        "logo": "https://i.imgur.com/ow1HArj.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/pt.m3u",
+        "url": "https://viamotionhsi.netplus.ch/live/eds/tveinternacional/browser-HLS8/tveinternacional.m3u8"
       },
       {
         "name": "Viasat Explore Classic (720p)",
