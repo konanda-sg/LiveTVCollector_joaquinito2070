@@ -1,5 +1,5 @@
 {
-  "date": "2025-08-25 21:50:53",
+  "date": "2025-08-26 06:48:38",
   "channels": {
     "TV": [
       {
@@ -28,7 +28,7 @@
         "logo": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI.png",
         "group": "TV",
         "source": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u",
-        "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNS8yMDI1IDQ6Nzo0MCBQTSZoYXNoX3ZhbHVlPXdWbWp4SWluRWZCb0pKVVhueWsxbmc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD00OWEzZDgyZS1lMjUzLTRkMWQtODBjMS0wZmMzNjc3OTEzMjg=/"
+        "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNi8yMDI1IDEyOjI5OjU2IEFNJmhhc2hfdmFsdWU9Z21aTUlIQi9vSmlHaHNMU1JXSWdyQT09JnZhbGlkbWludXRlcz0xNDQwJmlkPWE2ZGQ2MGEyLWQ4MjMtNDJkYS1hMTg0LTA4YzFhOWVmZTg2NQ==/"
       },
       {
         "name": "RTP 3",
@@ -49,7 +49,7 @@
         "logo": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png",
         "group": "TV",
         "source": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u",
-        "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNS8yMDI1IDQ6Nzo0MSBQTSZoYXNoX3ZhbHVlPUZFbXJrZjhOYWpPQ0FFbzdmU2Y2Vnc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD01Y2Y3YWQ3Zi1kMTk3LTQ5ZGQtYjkxMy04ZDY5M2EwZDAyM2M=/"
+        "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNi8yMDI1IDEyOjI5OjU3IEFNJmhhc2hfdmFsdWU9blNQNUZqeTlNVFhvdkRwVGRLbGliZz09JnZhbGlkbWludXRlcz0xNDQwJmlkPWU2MzVmYzNlLWZiNzctNGY3OS04ZjU0LTE4NzcxNGIyNGQxNQ==/"
       },
       {
         "name": "CNN Brasil",
@@ -112,7 +112,7 @@
         "logo": "https://github.com/LITUATUI/M3UPT/raw/main/logos/TVI-Internacional.png",
         "group": "TV",
         "source": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u",
-        "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNS8yMDI1IDQ6Nzo0MSBQTSZoYXNoX3ZhbHVlPVFoWWRQdktvVitWd1VSSGdHWnQ1bUE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0yZDhiYjkwYy1mZGQ1LTRhYjctYjkxNS0yZmU2OWJlOWQ1YWM=/"
+        "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNi8yMDI1IDEyOjI5OjU4IEFNJmhhc2hfdmFsdWU9Rng3WUVHaWI2KzFYZ0gvb2NwMG9VUT09JnZhbGlkbWludXRlcz0xNDQwJmlkPWVlODlkODdiLTFkYTgtNDdkNi04YmExLTRlNDE0ZDg3NTE4Ng==/"
       },
       {
         "name": "TVI África",
@@ -6139,6 +6139,13 @@
         "url": "http://centova.radios.pt:9478/"
       },
       {
+        "name": "Rádio Nova 98.9 FM - Porto",
+        "logo": "https://www.radionova.fm/wp-content/uploads/2023/05/cropped-favicon-180x180.png",
+        "group": "Rádios",
+        "source": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u",
+        "url": "http://centova.radio.com.pt:9528/"
+      },
+      {
         "name": "Rádio Observador",
         "logo": "https://observador.pt/wp-content/themes/observador-child/assets/build/img/apple-touch-icon.png",
         "group": "Rádios",
@@ -6491,6 +6498,13 @@
     ],
     "Religious": [
       {
+        "name": "3ABN International",
+        "logo": "https://i.imgur.com/8YMLPA3.png",
+        "group": "Religious",
+        "source": "https://iptv-org.github.io/iptv/countries/pt.m3u",
+        "url": "https://3abn.bozztv.com/3abn2/Int_live/smil:Int_live.smil/playlist.m3u8"
+      },
+      {
         "name": "ADB TV (1080p)",
         "logo": "https://i.ibb.co/HGfTJwt/ADBTV.jpg",
         "group": "Religious",
@@ -6575,6 +6589,13 @@
         "url": "https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8"
       },
       {
+        "name": "SBN TV International",
+        "logo": "https://i.imgur.com/NJu6oYB.png",
+        "group": "Religious",
+        "source": "https://iptv-org.github.io/iptv/countries/pt.m3u",
+        "url": "http://trn03.bozztv.com/gin-sbntv/index.m3u8"
+      },
+      {
         "name": "TV Maná 1 (1080p)",
         "logo": "https://i.imgur.com/6jNqpTP.png",
         "group": "Religious",
@@ -6631,6 +6652,57 @@
         "group": "General;Public",
         "source": "https://iptv-org.github.io/iptv/countries/pt.m3u",
         "url": "https://viamotionhsi.netplus.ch/live/eds/aragontv/browser-HLS8/aragontv.m3u8"
+      }
+    ],
+    "News": [
+      {
+        "name": "Arirang TV UN (1080p)",
+        "logo": "https://i.imgur.com/Jdy3WNm.png",
+        "group": "News",
+        "source": "https://iptv-org.github.io/iptv/countries/pt.m3u",
+        "url": "https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8"
+      },
+      {
+        "name": "CGTN (1080p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/512px-CGTN.svg.png",
+        "group": "News",
+        "source": "https://iptv-org.github.io/iptv/countries/pt.m3u",
+        "url": "https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8"
+      },
+      {
+        "name": "I24 News English (720p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/512px-LOGO_i24NEWS.png",
+        "group": "News",
+        "source": "https://iptv-org.github.io/iptv/countries/pt.m3u",
+        "url": "https://bcovlive-a.akamaihd.net/ecf224f43f3b43e69471a7b626481af0/eu-central-1/5377161796001/playlist.m3u8"
+      },
+      {
+        "name": "Metro Globe Network (1080p) [Not 24/7]",
+        "logo": "https://i.imgur.com/aiiinzg.png",
+        "group": "News",
+        "source": "https://iptv-org.github.io/iptv/countries/pt.m3u",
+        "url": "https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8"
+      },
+      {
+        "name": "RTP 3 (720p) [Not 24/7]",
+        "logo": "https://i.imgur.com/ohXJmiR.png",
+        "group": "News",
+        "source": "https://iptv-org.github.io/iptv/countries/pt.m3u",
+        "url": "https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8"
+      },
+      {
+        "name": "UN Web TV (540p)",
+        "logo": "https://i.imgur.com/UcAwBep.png",
+        "group": "News",
+        "source": "https://iptv-org.github.io/iptv/countries/pt.m3u",
+        "url": "https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8"
+      },
+      {
+        "name": "WION (1080p)",
+        "logo": "https://i.imgur.com/Wc5Z3iS.png",
+        "group": "News",
+        "source": "https://iptv-org.github.io/iptv/countries/pt.m3u",
+        "url": "https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8"
       }
     ],
     "Legislative": [
@@ -6719,6 +6791,13 @@
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/pt.m3u",
         "url": "https://streaming-live.rtp.pt/liverepeater/smil:rtpacoresHD.smil/playlist.m3u8"
+      },
+      {
+        "name": "RTP Internacional (504p) [Not 24/7]",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/RTP_Internacional_2016_%28Reduced_Version%29.svg/512px-RTP_Internacional_2016_%28Reduced_Version%29.svg.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/countries/pt.m3u",
+        "url": "https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8"
       },
       {
         "name": "RTP Madeira (504p) [Not 24/7]",
@@ -6828,13 +6907,6 @@
         "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65bcc9c8d77d450008b34c6b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b17f4-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=4ef65ab7-424b-4423-93e5-e94da98d875f"
       },
       {
-        "name": "People Are Awesome (720p)",
-        "logo": "https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/1cc9ab7e-8283-4c32-a3f3-e2a4d0e1d33f-width200-quality90.jpeg",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/pt.m3u",
-        "url": "https://3ab76e42.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1Blb3BsZUFyZUF3ZXNvbWVfSExT/playlist.m3u8"
-      },
-      {
         "name": "PFL MMA",
         "logo": "https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/f4058a54-67b9-432c-b80e-3bfcf8d2d6d1-width200-quality90.jpeg",
         "group": "Undefined",
@@ -6847,13 +6919,6 @@
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/pt.m3u",
         "url": "https://fast-rakuten.okast.tv/fa2e8c4385712f9a9076eaf728c751de/channels/1a6ecfaa-40c6-41b8-8634-595c424f856e/21f67fd1-4d21-43ba-8ad8-3afac9982c25/master.m3u8"
-      },
-      {
-        "name": "Revry (720p)",
-        "logo": "https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/ddf3b88d-ef92-4a57-b234-36ff7c1cea2e-width200-quality90.jpeg",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/pt.m3u",
-        "url": "https://99d8b4b6.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1JldnJ5X0hMUw/playlist.m3u8"
       },
       {
         "name": "Shades of Black",
@@ -6912,13 +6977,6 @@
         "url": "https://9a81dd4ee3884d0dbcacafaf0d81327a.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BilliardsTV/playlist.m3u8"
       },
       {
-        "name": "World of Freesports (1080p)",
-        "logo": "https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/77aa6871-a13f-470b-a2d5-ca5650f63323-width200-quality90.jpeg",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/pt.m3u",
-        "url": "https://rakutenaa-mainstreammediafreesportsintl-rakuten-t7dc0.amagi.tv/playlist/rakutenAA-mainstreammediafreesportsintl-rakuten/playlist.m3u8"
-      },
-      {
         "name": "Z Nation (720p)",
         "logo": "https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/dff3a92e-c4aa-49c4-b1b6-4a847428b8d5-width200-quality90.png",
         "group": "Undefined",
@@ -6931,6 +6989,13 @@
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/pt.m3u",
         "url": "https://89ec2d15e090480bb419d940b8793b9c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_ZeeWorld-1/playlist.m3u8"
+      },
+      {
+        "name": "СТС International",
+        "logo": "https://i.imgur.com/mwiC0RG.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/pt.m3u",
+        "url": "https://cdn4.skygo.mn/live/disk1/STS/HLSv3-FTA/STS.m3u8"
       }
     ],
     "Business": [
@@ -6956,43 +7021,6 @@
         "url": "https://viamotionhsi.netplus.ch/live/eds/cnbc/browser-HLS8/cnbc.m3u8"
       }
     ],
-    "News": [
-      {
-        "name": "CGTN (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/512px-CGTN.svg.png",
-        "group": "News",
-        "source": "https://iptv-org.github.io/iptv/countries/pt.m3u",
-        "url": "https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8"
-      },
-      {
-        "name": "I24 News English (720p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/512px-LOGO_i24NEWS.png",
-        "group": "News",
-        "source": "https://iptv-org.github.io/iptv/countries/pt.m3u",
-        "url": "https://bcovlive-a.akamaihd.net/ecf224f43f3b43e69471a7b626481af0/eu-central-1/5377161796001/playlist.m3u8"
-      },
-      {
-        "name": "Metro Globe Network (1080p) [Not 24/7]",
-        "logo": "https://i.imgur.com/aiiinzg.png",
-        "group": "News",
-        "source": "https://iptv-org.github.io/iptv/countries/pt.m3u",
-        "url": "https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8"
-      },
-      {
-        "name": "RTP 3 (720p) [Not 24/7]",
-        "logo": "https://i.imgur.com/ohXJmiR.png",
-        "group": "News",
-        "source": "https://iptv-org.github.io/iptv/countries/pt.m3u",
-        "url": "https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8"
-      },
-      {
-        "name": "WION (1080p)",
-        "logo": "https://i.imgur.com/Wc5Z3iS.png",
-        "group": "News",
-        "source": "https://iptv-org.github.io/iptv/countries/pt.m3u",
-        "url": "https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8"
-      }
-    ],
     "Documentary": [
       {
         "name": "CGTN Documentary (1080p)",
@@ -7016,6 +7044,13 @@
         "group": "Kids",
         "source": "https://iptv-org.github.io/iptv/countries/pt.m3u",
         "url": "http://185.189.225.150:85/nickelodeon/index.m3u8"
+      },
+      {
+        "name": "Zoo Moo (Australia) (1080p)",
+        "logo": "https://i.imgur.com/ciTJrnl.png",
+        "group": "Kids",
+        "source": "https://iptv-org.github.io/iptv/countries/pt.m3u",
+        "url": "https://zoomoo-samsungau.amagi.tv/playlist.m3u8"
       }
     ],
     "Music": [
@@ -7101,6 +7136,13 @@
         "group": "Sports",
         "source": "https://iptv-org.github.io/iptv/countries/pt.m3u",
         "url": "https://3ea22335.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX1JlZEJ1bGxUVl9ITFM/playlist.m3u8"
+      },
+      {
+        "name": "SKI TV (1080p) [Not 24/7]",
+        "logo": "https://i.imgur.com/S6qgwLG.png",
+        "group": "Sports",
+        "source": "https://iptv-org.github.io/iptv/countries/pt.m3u",
+        "url": "https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-SportsTribal/193.m3u8"
       }
     ],
     "Movies": [

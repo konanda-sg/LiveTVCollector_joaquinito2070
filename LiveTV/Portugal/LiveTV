@@ -20,7 +20,7 @@
   {
     "name": "TVI",
     "type": "TV",
-    "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNS8yMDI1IDQ6Nzo0MCBQTSZoYXNoX3ZhbHVlPXdWbWp4SWluRWZCb0pKVVhueWsxbmc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD00OWEzZDgyZS1lMjUzLTRkMWQtODBjMS0wZmMzNjc3OTEzMjg=/",
+    "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNi8yMDI1IDEyOjI5OjU2IEFNJmhhc2hfdmFsdWU9Z21aTUlIQi9vSmlHaHNMU1JXSWdyQT09JnZhbGlkbWludXRlcz0xNDQwJmlkPWE2ZGQ2MGEyLWQ4MjMtNDJkYS1hMTg0LTA4YzFhOWVmZTg2NQ==/",
     "img": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI.png"
   },
   {
@@ -38,7 +38,7 @@
   {
     "name": "CNN Portugal",
     "type": "TV",
-    "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNS8yMDI1IDQ6Nzo0MSBQTSZoYXNoX3ZhbHVlPUZFbXJrZjhOYWpPQ0FFbzdmU2Y2Vnc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD01Y2Y3YWQ3Zi1kMTk3LTQ5ZGQtYjkxMy04ZDY5M2EwZDAyM2M=/",
+    "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNi8yMDI1IDEyOjI5OjU3IEFNJmhhc2hfdmFsdWU9blNQNUZqeTlNVFhvdkRwVGRLbGliZz09JnZhbGlkbWludXRlcz0xNDQwJmlkPWU2MzVmYzNlLWZiNzctNGY3OS04ZjU0LTE4NzcxNGIyNGQxNQ==/",
     "img": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png"
   },
   {
@@ -92,7 +92,7 @@
   {
     "name": "TVI Internacional",
     "type": "TV",
-    "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNS8yMDI1IDQ6Nzo0MSBQTSZoYXNoX3ZhbHVlPVFoWWRQdktvVitWd1VSSGdHWnQ1bUE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0yZDhiYjkwYy1mZGQ1LTRhYjctYjkxNS0yZmU2OWJlOWQ1YWM=/",
+    "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8yNi8yMDI1IDEyOjI5OjU4IEFNJmhhc2hfdmFsdWU9Rng3WUVHaWI2KzFYZ0gvb2NwMG9VUT09JnZhbGlkbWludXRlcz0xNDQwJmlkPWVlODlkODdiLTFkYTgtNDdkNi04YmExLTRlNDE0ZDg3NTE4Ng==/",
     "img": "https://github.com/LITUATUI/M3UPT/raw/main/logos/TVI-Internacional.png"
   },
   {
@@ -5244,6 +5244,12 @@
     "img": "http://www.radionovaera.pt/wp-content/uploads/2015/12/logo.png"
   },
   {
+    "name": "Rádio Nova 98.9 FM - Porto",
+    "type": "Rádios",
+    "url": "http://centova.radio.com.pt:9528/",
+    "img": "https://www.radionova.fm/wp-content/uploads/2023/05/cropped-favicon-180x180.png"
+  },
+  {
     "name": "Rádio Observador",
     "type": "Rádios",
     "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/OBSERVADOR_ADP.m3u8",
@@ -5544,6 +5550,12 @@
     "img": "https://cdn-profiles.tunein.com/s95144/images/logod.png"
   },
   {
+    "name": "3ABN International",
+    "type": "Religious",
+    "url": "https://3abn.bozztv.com/3abn2/Int_live/smil:Int_live.smil/playlist.m3u8",
+    "img": "https://i.imgur.com/8YMLPA3.png"
+  },
+  {
     "name": "ADB TV (1080p)",
     "type": "Religious",
     "url": "https://customer-dxeagripmkqbhyeq.cloudflarestream.com/580c36d77be200bf5c7d3efc06487bd4/manifest/video.m3u8",
@@ -5616,6 +5628,12 @@
     "img": "https://i.imgur.com/rjgCM2B.png"
   },
   {
+    "name": "SBN TV International",
+    "type": "Religious",
+    "url": "http://trn03.bozztv.com/gin-sbntv/index.m3u8",
+    "img": "https://i.imgur.com/NJu6oYB.png"
+  },
+  {
     "name": "TV Maná 1 (1080p)",
     "type": "Religious",
     "url": "https://w1.manasat.com/tvmana-1/smil:tvmana-1.smil/playlist.m3u8",
@@ -5662,6 +5680,48 @@
     "type": "General;Public",
     "url": "https://viamotionhsi.netplus.ch/live/eds/aragontv/browser-HLS8/aragontv.m3u8",
     "img": "https://static.wikia.nocookie.net/logopedia/images/1/12/Arag%C3%B3n_Internacional.png/revision/latest/scale-to-width-down/512"
+  },
+  {
+    "name": "Arirang TV UN (1080p)",
+    "type": "News",
+    "url": "https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8",
+    "img": "https://i.imgur.com/Jdy3WNm.png"
+  },
+  {
+    "name": "CGTN (1080p)",
+    "type": "News",
+    "url": "https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/512px-CGTN.svg.png"
+  },
+  {
+    "name": "I24 News English (720p)",
+    "type": "News",
+    "url": "https://bcovlive-a.akamaihd.net/ecf224f43f3b43e69471a7b626481af0/eu-central-1/5377161796001/playlist.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/512px-LOGO_i24NEWS.png"
+  },
+  {
+    "name": "Metro Globe Network (1080p) [Not 24/7]",
+    "type": "News",
+    "url": "https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8",
+    "img": "https://i.imgur.com/aiiinzg.png"
+  },
+  {
+    "name": "RTP 3 (720p) [Not 24/7]",
+    "type": "News",
+    "url": "https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8",
+    "img": "https://i.imgur.com/ohXJmiR.png"
+  },
+  {
+    "name": "UN Web TV (540p)",
+    "type": "News",
+    "url": "https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8",
+    "img": "https://i.imgur.com/UcAwBep.png"
+  },
+  {
+    "name": "WION (1080p)",
+    "type": "News",
+    "url": "https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8",
+    "img": "https://i.imgur.com/Wc5Z3iS.png"
   },
   {
     "name": "ARTV Canal Parlamento (720p) [Not 24/7]",
@@ -5734,6 +5794,12 @@
     "type": "General",
     "url": "https://streaming-live.rtp.pt/liverepeater/smil:rtpacoresHD.smil/playlist.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/RTP_A%C3%A7ores_%282016%29.svg/512px-RTP_A%C3%A7ores_%282016%29.svg.png"
+  },
+  {
+    "name": "RTP Internacional (504p) [Not 24/7]",
+    "type": "General",
+    "url": "https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/RTP_Internacional_2016_%28Reduced_Version%29.svg/512px-RTP_Internacional_2016_%28Reduced_Version%29.svg.png"
   },
   {
     "name": "RTP Madeira (504p) [Not 24/7]",
@@ -5826,12 +5892,6 @@
     "img": "https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/0734ee9d-7417-4f53-a092-e29d6e8146ee-width200-quality90.jpeg"
   },
   {
-    "name": "People Are Awesome (720p)",
-    "type": "Undefined",
-    "url": "https://3ab76e42.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1Blb3BsZUFyZUF3ZXNvbWVfSExT/playlist.m3u8",
-    "img": "https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/1cc9ab7e-8283-4c32-a3f3-e2a4d0e1d33f-width200-quality90.jpeg"
-  },
-  {
     "name": "PFL MMA",
     "type": "Undefined",
     "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/654a620d53fc9700083b2e21/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=8e074d40-1f2c-11ef-86d8-5d587df108c6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8f8fcc86-3a94-4ce2-9955-c103e94fd2b9",
@@ -5842,12 +5902,6 @@
     "type": "Undefined",
     "url": "https://fast-rakuten.okast.tv/fa2e8c4385712f9a9076eaf728c751de/channels/1a6ecfaa-40c6-41b8-8634-595c424f856e/21f67fd1-4d21-43ba-8ad8-3afac9982c25/master.m3u8",
     "img": "https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/a52f843a-9a9c-4d96-8f77-57f3ec96acb0-width200-quality90.jpeg"
-  },
-  {
-    "name": "Revry (720p)",
-    "type": "Undefined",
-    "url": "https://99d8b4b6.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X1JldnJ5X0hMUw/playlist.m3u8",
-    "img": "https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/ddf3b88d-ef92-4a57-b234-36ff7c1cea2e-width200-quality90.jpeg"
   },
   {
     "name": "Shades of Black",
@@ -5898,12 +5952,6 @@
     "img": "https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/80af06f2-a12e-4406-bd13-b932fd69fffe-width200-quality90.png"
   },
   {
-    "name": "World of Freesports (1080p)",
-    "type": "Undefined",
-    "url": "https://rakutenaa-mainstreammediafreesportsintl-rakuten-t7dc0.amagi.tv/playlist/rakutenAA-mainstreammediafreesportsintl-rakuten/playlist.m3u8",
-    "img": "https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/77aa6871-a13f-470b-a2d5-ca5650f63323-width200-quality90.jpeg"
-  },
-  {
     "name": "Z Nation (720p)",
     "type": "Undefined",
     "url": "https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883098",
@@ -5914,6 +5962,12 @@
     "type": "Undefined",
     "url": "https://89ec2d15e090480bb419d940b8793b9c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_ZeeWorld-1/playlist.m3u8",
     "img": "https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/b2b4d09d-3471-4dbf-a831-3191cfc66bec-width200-quality90.jpeg"
+  },
+  {
+    "name": "СТС International",
+    "type": "Undefined",
+    "url": "https://cdn4.skygo.mn/live/disk1/STS/HLSv3-FTA/STS.m3u8",
+    "img": "https://i.imgur.com/mwiC0RG.png"
   },
   {
     "name": "Bloomberg TV EMEA Live Event (720p)",
@@ -5934,36 +5988,6 @@
     "img": "https://i.imgur.com/B6sfpDa.png"
   },
   {
-    "name": "CGTN (1080p)",
-    "type": "News",
-    "url": "https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/512px-CGTN.svg.png"
-  },
-  {
-    "name": "I24 News English (720p)",
-    "type": "News",
-    "url": "https://bcovlive-a.akamaihd.net/ecf224f43f3b43e69471a7b626481af0/eu-central-1/5377161796001/playlist.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/512px-LOGO_i24NEWS.png"
-  },
-  {
-    "name": "Metro Globe Network (1080p) [Not 24/7]",
-    "type": "News",
-    "url": "https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8",
-    "img": "https://i.imgur.com/aiiinzg.png"
-  },
-  {
-    "name": "RTP 3 (720p) [Not 24/7]",
-    "type": "News",
-    "url": "https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8",
-    "img": "https://i.imgur.com/ohXJmiR.png"
-  },
-  {
-    "name": "WION (1080p)",
-    "type": "News",
-    "url": "https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8",
-    "img": "https://i.imgur.com/Wc5Z3iS.png"
-  },
-  {
     "name": "CGTN Documentary (1080p)",
     "type": "Documentary",
     "url": "https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8",
@@ -5980,6 +6004,12 @@
     "type": "Kids",
     "url": "http://185.189.225.150:85/nickelodeon/index.m3u8",
     "img": "https://i.imgur.com/E84jnP8.png"
+  },
+  {
+    "name": "Zoo Moo (Australia) (1080p)",
+    "type": "Kids",
+    "url": "https://zoomoo-samsungau.amagi.tv/playlist.m3u8",
+    "img": "https://i.imgur.com/ciTJrnl.png"
   },
   {
     "name": "Euro Indie Music Chart TV (360p)",
@@ -6046,6 +6076,12 @@
     "type": "Sports",
     "url": "https://3ea22335.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX1JlZEJ1bGxUVl9ITFM/playlist.m3u8",
     "img": "https://i.postimg.cc/8c78JM28/image.png"
+  },
+  {
+    "name": "SKI TV (1080p) [Not 24/7]",
+    "type": "Sports",
+    "url": "https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-SportsTribal/193.m3u8",
+    "img": "https://i.imgur.com/S6qgwLG.png"
   },
   {
     "name": "Kuriakos Cine (1080p)",
