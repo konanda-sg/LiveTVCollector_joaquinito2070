@@ -10542,6 +10542,12 @@
     "img": "https://upload.wikimedia.org/wikipedia/commons/7/75/Murr_tv.png"
   },
   {
+    "name": "RTP Internacional (504p) [Not 24/7]",
+    "type": "General",
+    "url": "https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/RTP_Internacional_2016_%28Reduced_Version%29.svg/512px-RTP_Internacional_2016_%28Reduced_Version%29.svg.png"
+  },
+  {
     "name": "ch 21 ערוץ הקניות (360p)",
     "type": "Shop",
     "url": "https://shoppingil-rewriter.vidnt.com/index.m3u8",
@@ -10552,6 +10558,12 @@
     "type": "News",
     "url": "http://50.7.231.221:8081/185/index.m3u8?wmsAuthSign=okad",
     "img": "https://i.imgur.com/pttM3KQ.png"
+  },
+  {
+    "name": "CNA International (1080p)",
+    "type": "News",
+    "url": "https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8",
+    "img": "https://i.imgur.com/xWglicB.png"
   },
   {
     "name": "Israel Pars TV (540p)",
@@ -10566,6 +10578,12 @@
     "img": "https://i.imgur.com/jCZ5gFO.png"
   },
   {
+    "name": "ducktv (720p)",
+    "type": "Kids",
+    "url": "https://jmp2.uk/stvp-ESBC4700001GR",
+    "img": "https://i.imgur.com/gRFQ35W.png"
+  },
+  {
     "name": "PMC Royale (1080p)",
     "type": "Music",
     "url": "https://pmcrohls.wns.live/hls/stream.m3u8",
@@ -10576,5 +10594,11 @@
     "type": "Undefined",
     "url": "https://viamotionhsi.netplus.ch/live/eds/tveinternacional/browser-HLS8/tveinternacional.m3u8",
     "img": "https://i.imgur.com/ow1HArj.png"
+  },
+  {
+    "name": "СТС International",
+    "type": "Undefined",
+    "url": "https://cdn4.skygo.mn/live/disk1/STS/HLSv3-FTA/STS.m3u8",
+    "img": "https://i.imgur.com/mwiC0RG.png"
   }
 ]

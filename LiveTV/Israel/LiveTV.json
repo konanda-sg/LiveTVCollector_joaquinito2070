@@ -1,5 +1,5 @@
 {
-  "date": "2025-08-25 21:43:47",
+  "date": "2025-08-26 06:23:54",
   "channels": {
     "VTV": [
       {
@@ -12384,6 +12384,13 @@
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/il.m3u",
         "url": "https://hms.pfs.gdn/v1/broadcast/mtv/playlist.m3u8"
+      },
+      {
+        "name": "RTP Internacional (504p) [Not 24/7]",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/RTP_Internacional_2016_%28Reduced_Version%29.svg/512px-RTP_Internacional_2016_%28Reduced_Version%29.svg.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/countries/il.m3u",
+        "url": "https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8"
       }
     ],
     "Shop": [
@@ -12404,6 +12411,13 @@
         "url": "http://50.7.231.221:8081/185/index.m3u8?wmsAuthSign=okad"
       },
       {
+        "name": "CNA International (1080p)",
+        "logo": "https://i.imgur.com/xWglicB.png",
+        "group": "News",
+        "source": "https://iptv-org.github.io/iptv/countries/il.m3u",
+        "url": "https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8"
+      },
+      {
         "name": "Israel Pars TV (540p)",
         "logo": "https://i.imgur.com/UM5Gf4L.png",
         "group": "News",
@@ -12416,6 +12430,15 @@
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/il.m3u",
         "url": "https://6180c994cb835402.mediapackage.eu-west-1.amazonaws.com/out/v1/f1339272dd24416ca60b00e69075d783/index.m3u8"
+      }
+    ],
+    "Kids": [
+      {
+        "name": "ducktv (720p)",
+        "logo": "https://i.imgur.com/gRFQ35W.png",
+        "group": "Kids",
+        "source": "https://iptv-org.github.io/iptv/countries/il.m3u",
+        "url": "https://jmp2.uk/stvp-ESBC4700001GR"
       }
     ],
     "Music": [
@@ -12434,6 +12457,13 @@
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/il.m3u",
         "url": "https://viamotionhsi.netplus.ch/live/eds/tveinternacional/browser-HLS8/tveinternacional.m3u8"
+      },
+      {
+        "name": "СТС International",
+        "logo": "https://i.imgur.com/mwiC0RG.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/il.m3u",
+        "url": "https://cdn4.skygo.mn/live/disk1/STS/HLSv3-FTA/STS.m3u8"
       }
     ]
   }
