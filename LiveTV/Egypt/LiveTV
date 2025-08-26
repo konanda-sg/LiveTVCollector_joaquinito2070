@@ -1050,6 +1050,12 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
+    "name": "3ABN International",
+    "type": "Religious",
+    "url": "https://3abn.bozztv.com/3abn2/Int_live/smil:Int_live.smil/playlist.m3u8",
+    "img": "https://i.imgur.com/8YMLPA3.png"
+  },
+  {
     "name": "ABN Africa (480p)",
     "type": "Religious",
     "url": "https://mediaserver.abnvideos.com/streams/abnafrica.m3u8",
@@ -1098,28 +1104,16 @@
     "img": "https://i.imgur.com/rjgCM2B.png"
   },
   {
-    "name": "Abu Dhabi Sports 1 (1080p)",
-    "type": "Sports",
-    "url": "https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8",
-    "img": "https://i.imgur.com/6BVWk8z.png"
+    "name": "SBN TV International",
+    "type": "Religious",
+    "url": "http://trn03.bozztv.com/gin-sbntv/index.m3u8",
+    "img": "https://i.imgur.com/NJu6oYB.png"
   },
   {
-    "name": "Africa 24 Sport (1080p)",
-    "type": "Sports",
-    "url": "https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8",
-    "img": "https://i.imgur.com/YWIJdai.png"
-  },
-  {
-    "name": "FUEL TV (1080p)",
-    "type": "Sports",
-    "url": "https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_rakutenAA-fueltvemeaen/CDN/master.m3u8",
-    "img": "https://i.imgur.com/I8mviBy.png"
-  },
-  {
-    "name": "Red Bull TV (1080p)",
-    "type": "Sports",
-    "url": "https://3ea22335.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX1JlZEJ1bGxUVl9ITFM/playlist.m3u8",
-    "img": "https://i.postimg.cc/8c78JM28/image.png"
+    "name": "ABC News (720p)",
+    "type": "News",
+    "url": "https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/512px-ABC_News_Live_logo_2021.svg.png"
   },
   {
     "name": "Africa 24 (1080p)",
@@ -1144,6 +1138,12 @@
     "type": "News",
     "url": "https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8",
     "img": "https://i.imgur.com/NXFkYFj.png"
+  },
+  {
+    "name": "Arirang TV UN (1080p)",
+    "type": "News",
+    "url": "https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8",
+    "img": "https://i.imgur.com/Jdy3WNm.png"
   },
   {
     "name": "BBC Arabic (720p)",
@@ -1248,10 +1248,46 @@
     "img": "https://i.imgur.com/dEfI2M9.png"
   },
   {
+    "name": "UN Web TV (540p)",
+    "type": "News",
+    "url": "https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8",
+    "img": "https://i.imgur.com/UcAwBep.png"
+  },
+  {
     "name": "WION (1080p)",
     "type": "News",
     "url": "https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8",
     "img": "https://i.imgur.com/Wc5Z3iS.png"
+  },
+  {
+    "name": "Abu Dhabi Sports 1 (1080p)",
+    "type": "Sports",
+    "url": "https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8",
+    "img": "https://i.imgur.com/6BVWk8z.png"
+  },
+  {
+    "name": "Africa 24 Sport (1080p)",
+    "type": "Sports",
+    "url": "https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8",
+    "img": "https://i.imgur.com/YWIJdai.png"
+  },
+  {
+    "name": "FUEL TV (1080p)",
+    "type": "Sports",
+    "url": "https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_rakutenAA-fueltvemeaen/CDN/master.m3u8",
+    "img": "https://i.imgur.com/I8mviBy.png"
+  },
+  {
+    "name": "Red Bull TV (1080p)",
+    "type": "Sports",
+    "url": "https://3ea22335.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX1JlZEJ1bGxUVl9ITFM/playlist.m3u8",
+    "img": "https://i.postimg.cc/8c78JM28/image.png"
+  },
+  {
+    "name": "SKI TV (1080p) [Not 24/7]",
+    "type": "Sports",
+    "url": "https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-SportsTribal/193.m3u8",
+    "img": "https://i.imgur.com/S6qgwLG.png"
   },
   {
     "name": "Afroturk TV (1080p)",
@@ -1464,6 +1500,12 @@
     "img": "https://i.imgur.com/UokbZaU.png"
   },
   {
+    "name": "СТС International",
+    "type": "Undefined",
+    "url": "https://cdn4.skygo.mn/live/disk1/STS/HLSv3-FTA/STS.m3u8",
+    "img": "https://i.imgur.com/mwiC0RG.png"
+  },
+  {
     "name": "Amani TV (1080p) [Not 24/7]",
     "type": "Culture",
     "url": "https://goccn.cloud/hls/amanitv/index.m3u8",
@@ -1524,6 +1566,30 @@
     "img": "https://i.imgur.com/KUb4vEz.png"
   },
   {
+    "name": "ducktv (720p)",
+    "type": "Kids",
+    "url": "https://jmp2.uk/stvp-ESBC4700001GR",
+    "img": "https://i.imgur.com/gRFQ35W.png"
+  },
+  {
+    "name": "Majid (1080p) [Geo-blocked]",
+    "type": "Kids",
+    "url": "https://vo-live-media.cdb.cdn.orange.com/Content/Channel/MajidChildrenChannel/HLS/index.m3u8",
+    "img": "https://i.imgur.com/TzOKMMy.png"
+  },
+  {
+    "name": "Roya Kids",
+    "type": "Kids",
+    "url": "https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids/playlist.m3u8",
+    "img": "https://i.imgur.com/acuCGF8.png"
+  },
+  {
+    "name": "Zoo Moo (Australia) (1080p)",
+    "type": "Kids",
+    "url": "https://zoomoo-samsungau.amagi.tv/playlist.m3u8",
+    "img": "https://i.imgur.com/ciTJrnl.png"
+  },
+  {
     "name": "Euro Indie Music Chart TV (360p)",
     "type": "Music",
     "url": "http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8",
@@ -1558,18 +1624,6 @@
     "type": "Music",
     "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-wanasah/13e82ea6232fa647c43b26e8a41f173d/index.m3u8",
     "img": "https://i.imgur.com/nLtiXNf.png"
-  },
-  {
-    "name": "Majid (1080p) [Geo-blocked]",
-    "type": "Kids",
-    "url": "https://vo-live-media.cdb.cdn.orange.com/Content/Channel/MajidChildrenChannel/HLS/index.m3u8",
-    "img": "https://i.imgur.com/TzOKMMy.png"
-  },
-  {
-    "name": "Roya Kids",
-    "type": "Kids",
-    "url": "https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids/playlist.m3u8",
-    "img": "https://i.imgur.com/acuCGF8.png"
   },
   {
     "name": "MBC 2 (480p)",
