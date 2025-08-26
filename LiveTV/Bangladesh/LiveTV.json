@@ -1,5 +1,5 @@
 {
-  "date": "2025-08-25 21:48:43",
+  "date": "2025-08-26 06:40:57",
   "channels": {
     "BANGLA": [
       {
@@ -371,6 +371,13 @@
         "group": "Kids",
         "source": "https://raw.githubusercontent.com/mr-masudrana/LiveTV/refs/heads/main/Bangla_Playlist.m3u",
         "url": "https://aynaxpranto.vercel.app/api/stream/e73ffada-f80a-4c23-9bd8-76142e41c389.m3u8"
+      },
+      {
+        "name": "ducktv (720p)",
+        "logo": "https://i.imgur.com/gRFQ35W.png",
+        "group": "Kids",
+        "source": "https://iptv-org.github.io/iptv/countries/bd.m3u",
+        "url": "https://jmp2.uk/stvp-ESBC4700001GR"
       },
       {
         "name": "Nick Jr India (1080p)",
@@ -8071,6 +8078,13 @@
         "group": "Sports",
         "source": "https://iptv-org.github.io/iptv/countries/bd.m3u",
         "url": "https://3ea22335.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX1JlZEJ1bGxUVl9ITFM/playlist.m3u8"
+      },
+      {
+        "name": "SKI TV (1080p) [Not 24/7]",
+        "logo": "https://i.imgur.com/S6qgwLG.png",
+        "group": "Sports",
+        "source": "https://iptv-org.github.io/iptv/countries/bd.m3u",
+        "url": "https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-SportsTribal/193.m3u8"
       }
     ],
     "SonyLIV by CRICFy": [
@@ -9371,7 +9385,51 @@
         "url": "https://sbc-prod-dub-enc.edgenextcdn.net/out/v1/b09bbb8d9b684763be4211b088168de7/index.m3u8"
       }
     ],
+    "Religious": [
+      {
+        "name": "3ABN International",
+        "logo": "https://i.imgur.com/8YMLPA3.png",
+        "group": "Religious",
+        "source": "https://iptv-org.github.io/iptv/countries/bd.m3u",
+        "url": "https://3abn.bozztv.com/3abn2/Int_live/smil:Int_live.smil/playlist.m3u8"
+      },
+      {
+        "name": "EWTN Africa Asia (720p)",
+        "logo": "https://i.imgur.com/sua70RO.png",
+        "group": "Religious",
+        "source": "https://iptv-org.github.io/iptv/countries/bd.m3u",
+        "url": "https://cdn3.wowza.com/1/ZVBYYXFLLzE0c3NC/Qk1FMURC/hls/live/playlist.m3u8"
+      },
+      {
+        "name": "EWTN Asia-Pacific (720p) [Not 24/7]",
+        "logo": "https://i.imgur.com/sua70RO.png",
+        "group": "Religious",
+        "source": "https://iptv-org.github.io/iptv/countries/bd.m3u",
+        "url": "https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8"
+      },
+      {
+        "name": "SBN TV International",
+        "logo": "https://i.imgur.com/NJu6oYB.png",
+        "group": "Religious",
+        "source": "https://iptv-org.github.io/iptv/countries/bd.m3u",
+        "url": "http://trn03.bozztv.com/gin-sbntv/index.m3u8"
+      }
+    ],
     "News": [
+      {
+        "name": "ABC News (720p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/512px-ABC_News_Live_logo_2021.svg.png",
+        "group": "News",
+        "source": "https://iptv-org.github.io/iptv/countries/bd.m3u",
+        "url": "https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8"
+      },
+      {
+        "name": "Arirang TV UN (1080p)",
+        "logo": "https://i.imgur.com/Jdy3WNm.png",
+        "group": "News",
+        "source": "https://iptv-org.github.io/iptv/countries/bd.m3u",
+        "url": "https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8"
+      },
       {
         "name": "BBC News Asia Pacific (1080p)",
         "logo": "https://i.imgur.com/vSz2WEp.png",
@@ -9392,6 +9450,13 @@
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/bd.m3u",
         "url": "https://ekusheyserver.com/etvlivesn.m3u8"
+      },
+      {
+        "name": "FTV Taiwan (民視台灣台) (720p) [Not 24/7]",
+        "logo": "https://i.imgur.com/p108I5g.png",
+        "group": "News",
+        "source": "https://iptv-org.github.io/iptv/countries/bd.m3u",
+        "url": "http://seb.sason.top/ptv/ftv.php?id=tw"
       },
       {
         "name": "I24 News English (720p)",
@@ -9420,6 +9485,13 @@
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/bd.m3u",
         "url": "http://probashi.alvegroups.com:8081/probashitv/probashi/playlist.m3u8"
+      },
+      {
+        "name": "UN Web TV (540p)",
+        "logo": "https://i.imgur.com/UcAwBep.png",
+        "group": "News",
+        "source": "https://iptv-org.github.io/iptv/countries/bd.m3u",
+        "url": "https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8"
       }
     ],
     "Business": [
@@ -9473,6 +9545,13 @@
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/bd.m3u",
         "url": "https://viamotionhsi.netplus.ch/live/eds/tveinternacional/browser-HLS8/tveinternacional.m3u8"
+      },
+      {
+        "name": "СТС International",
+        "logo": "https://i.imgur.com/mwiC0RG.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/bd.m3u",
+        "url": "https://cdn4.skygo.mn/live/disk1/STS/HLSv3-FTA/STS.m3u8"
       }
     ],
     "General": [
@@ -9489,6 +9568,13 @@
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/bd.m3u",
         "url": "https://cdn4.skygo.mn/live/disk1/MNB_World/HLSv3-FTA/MNB_World.m3u8"
+      },
+      {
+        "name": "RTP Internacional (504p) [Not 24/7]",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/RTP_Internacional_2016_%28Reduced_Version%29.svg/512px-RTP_Internacional_2016_%28Reduced_Version%29.svg.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/countries/bd.m3u",
+        "url": "https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8"
       },
       {
         "name": "Vokta TV (720p)",
@@ -9519,22 +9605,6 @@
         "group": "Culture",
         "source": "https://iptv-org.github.io/iptv/countries/bd.m3u",
         "url": "https://cdn149.anystream.uk:8082/g1/tvchsuk03/playlist.m3u8"
-      }
-    ],
-    "Religious": [
-      {
-        "name": "EWTN Africa Asia (720p)",
-        "logo": "https://i.imgur.com/sua70RO.png",
-        "group": "Religious",
-        "source": "https://iptv-org.github.io/iptv/countries/bd.m3u",
-        "url": "https://cdn3.wowza.com/1/ZVBYYXFLLzE0c3NC/Qk1FMURC/hls/live/playlist.m3u8"
-      },
-      {
-        "name": "EWTN Asia-Pacific (720p) [Not 24/7]",
-        "logo": "https://i.imgur.com/sua70RO.png",
-        "group": "Religious",
-        "source": "https://iptv-org.github.io/iptv/countries/bd.m3u",
-        "url": "https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8"
       }
     ],
     "Auto": [
