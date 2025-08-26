@@ -5748,6 +5748,12 @@
     "img": "https://i.postimg.cc/8c78JM28/image.png"
   },
   {
+    "name": "SKI TV (1080p) [Not 24/7]",
+    "type": "Sports",
+    "url": "https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-SportsTribal/193.m3u8",
+    "img": "https://i.imgur.com/S6qgwLG.png"
+  },
+  {
     "name": "MUSLIM TV (V+)",
     "type": "RELIGI",
     "url": "https://cempedak-live-cdn.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd",
@@ -8952,6 +8958,18 @@
     "img": "https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESva3HbLBeGRSeeu6BaJy28rhA-5YZdqslzXV4bYBI08NkA.png"
   },
   {
+    "name": "ABC News (720p)",
+    "type": "News",
+    "url": "https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/512px-ABC_News_Live_logo_2021.svg.png"
+  },
+  {
+    "name": "Arirang TV UN (1080p)",
+    "type": "News",
+    "url": "https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8",
+    "img": "https://i.imgur.com/Jdy3WNm.png"
+  },
+  {
     "name": "BBC News Asia Pacific (1080p)",
     "type": "News",
     "url": "https://tv.ddns.vn/tv/bbcworldnews/index.m3u8",
@@ -8970,10 +8988,22 @@
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/512px-CGTN.svg.png"
   },
   {
+    "name": "CNA International (1080p)",
+    "type": "News",
+    "url": "https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8",
+    "img": "https://i.imgur.com/xWglicB.png"
+  },
+  {
     "name": "I24 News English (720p)",
     "type": "News",
     "url": "https://bcovlive-a.akamaihd.net/ecf224f43f3b43e69471a7b626481af0/eu-central-1/5377161796001/playlist.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/512px-LOGO_i24NEWS.png"
+  },
+  {
+    "name": "UN Web TV (540p)",
+    "type": "News",
+    "url": "https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8",
+    "img": "https://i.imgur.com/UcAwBep.png"
   },
   {
     "name": "WION (1080p)",
@@ -24804,6 +24834,78 @@
     "img": "https://i.postimg.cc/59z8s3jH/quran-PNG22.png"
   },
   {
+    "name": "3ABN International",
+    "type": "Religious",
+    "url": "https://3abn.bozztv.com/3abn2/Int_live/smil:Int_live.smil/playlist.m3u8",
+    "img": "https://i.imgur.com/8YMLPA3.png"
+  },
+  {
+    "name": "Angel TV Far East (720p)",
+    "type": "Religious",
+    "url": "https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelfareast_all/playlist.m3u8",
+    "img": "https://i.imgur.com/qKLEGU7.png"
+  },
+  {
+    "name": "Citra Muslim [Geo-blocked]",
+    "type": "Religious",
+    "url": "http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch334)/index.m3u8",
+    "img": "https://i.imgur.com/L0kjuZs.png"
+  },
+  {
+    "name": "DAAI TV (720p)",
+    "type": "Religious",
+    "url": "https://dacastmmd.mmdlive.lldns.net/dacastmmd/683cc426c19442a4ba31c53be5c963bb/index.m3u8",
+    "img": "https://i.imgur.com/YC7JCHo.png"
+  },
+  {
+    "name": "EWTN Africa Asia (720p)",
+    "type": "Religious",
+    "url": "https://cdn3.wowza.com/1/ZVBYYXFLLzE0c3NC/Qk1FMURC/hls/live/playlist.m3u8",
+    "img": "https://i.imgur.com/sua70RO.png"
+  },
+  {
+    "name": "EWTN Asia-Pacific (720p) [Not 24/7]",
+    "type": "Religious",
+    "url": "https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8",
+    "img": "https://i.imgur.com/sua70RO.png"
+  },
+  {
+    "name": "Fajar TV (240p) [Not 24/7]",
+    "type": "Religious",
+    "url": "http://122.248.43.138:1935/ch27/myStream/playlist.m3u8",
+    "img": "https://i.imgur.com/mkuXxRK.png"
+  },
+  {
+    "name": "I AM CHANNEL (576p) [Not 24/7]",
+    "type": "Religious",
+    "url": "http://iamchannel.org:1935/tes/1/playlist.m3u8",
+    "img": "https://i.imgur.com/Gg6OcGT.png"
+  },
+  {
+    "name": "Kanal 10 Asia (540p)",
+    "type": "Religious",
+    "url": "http://cdn-kanal10.crossnet.net:1935/kanal10/kanal10asia/playlist.m3u8",
+    "img": "https://i.imgur.com/tY7IJva.png"
+  },
+  {
+    "name": "MGI TV (720p) [Geo-blocked]",
+    "type": "Religious",
+    "url": "https://tv.rodja.live/tasik/ngrp:mgitv_all/playlist.m3u8",
+    "img": "https://i.imgur.com/xrNtabe.png"
+  },
+  {
+    "name": "Peace TV English (1080p)",
+    "type": "Religious",
+    "url": "https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8",
+    "img": "https://i.imgur.com/rjgCM2B.png"
+  },
+  {
+    "name": "SBN TV International",
+    "type": "Religious",
+    "url": "http://trn03.bozztv.com/gin-sbntv/index.m3u8",
+    "img": "https://i.imgur.com/NJu6oYB.png"
+  },
+  {
     "name": "AKTV (720p)",
     "type": "General",
     "url": "https://e.siar.us/live/aktv.m3u8",
@@ -24900,6 +25002,12 @@
     "img": "https://i.imgur.com/e2F1zyU.png"
   },
   {
+    "name": "RTP Internacional (504p) [Not 24/7]",
+    "type": "General",
+    "url": "https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/RTP_Internacional_2016_%28Reduced_Version%29.svg/512px-RTP_Internacional_2016_%28Reduced_Version%29.svg.png"
+  },
+  {
     "name": "TVRI Riau (720p) [Not 24/7]",
     "type": "General",
     "url": "https://ott-balancer.tvri.go.id/live/eds/Riau/hls/Riau.m3u8",
@@ -24910,66 +25018,6 @@
     "type": "General",
     "url": "https://player.smotrim.ru/iframe/stream/live_id/683d9649-a96c-4a4d-b468-91c0ee2bf363",
     "img": "https://i.imgur.com/DTtK0z7.png"
-  },
-  {
-    "name": "Angel TV Far East (720p)",
-    "type": "Religious",
-    "url": "https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelfareast_all/playlist.m3u8",
-    "img": "https://i.imgur.com/qKLEGU7.png"
-  },
-  {
-    "name": "Citra Muslim [Geo-blocked]",
-    "type": "Religious",
-    "url": "http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch334)/index.m3u8",
-    "img": "https://i.imgur.com/L0kjuZs.png"
-  },
-  {
-    "name": "DAAI TV (720p)",
-    "type": "Religious",
-    "url": "https://dacastmmd.mmdlive.lldns.net/dacastmmd/683cc426c19442a4ba31c53be5c963bb/index.m3u8",
-    "img": "https://i.imgur.com/YC7JCHo.png"
-  },
-  {
-    "name": "EWTN Africa Asia (720p)",
-    "type": "Religious",
-    "url": "https://cdn3.wowza.com/1/ZVBYYXFLLzE0c3NC/Qk1FMURC/hls/live/playlist.m3u8",
-    "img": "https://i.imgur.com/sua70RO.png"
-  },
-  {
-    "name": "EWTN Asia-Pacific (720p) [Not 24/7]",
-    "type": "Religious",
-    "url": "https://cdn3.wowza.com/1/QmVNUVhTNTZSS3Uz/YWQ0aHpi/hls/live/playlist.m3u8",
-    "img": "https://i.imgur.com/sua70RO.png"
-  },
-  {
-    "name": "Fajar TV (240p) [Not 24/7]",
-    "type": "Religious",
-    "url": "http://122.248.43.138:1935/ch27/myStream/playlist.m3u8",
-    "img": "https://i.imgur.com/mkuXxRK.png"
-  },
-  {
-    "name": "I AM CHANNEL (576p) [Not 24/7]",
-    "type": "Religious",
-    "url": "http://iamchannel.org:1935/tes/1/playlist.m3u8",
-    "img": "https://i.imgur.com/Gg6OcGT.png"
-  },
-  {
-    "name": "Kanal 10 Asia (540p)",
-    "type": "Religious",
-    "url": "http://cdn-kanal10.crossnet.net:1935/kanal10/kanal10asia/playlist.m3u8",
-    "img": "https://i.imgur.com/tY7IJva.png"
-  },
-  {
-    "name": "MGI TV (720p) [Geo-blocked]",
-    "type": "Religious",
-    "url": "https://tv.rodja.live/tasik/ngrp:mgitv_all/playlist.m3u8",
-    "img": "https://i.imgur.com/xrNtabe.png"
-  },
-  {
-    "name": "Peace TV English (1080p)",
-    "type": "Religious",
-    "url": "https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8",
-    "img": "https://i.imgur.com/rjgCM2B.png"
   },
   {
     "name": "Bali TV (720p) [Geo-blocked]",
@@ -25096,6 +25144,12 @@
     "type": "Undefined",
     "url": "http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch161)/index.m3u8",
     "img": "https://i.imgur.com/Xl7MJnd.png"
+  },
+  {
+    "name": "СТС International",
+    "type": "Undefined",
+    "url": "https://cdn4.skygo.mn/live/disk1/STS/HLSv3-FTA/STS.m3u8",
+    "img": "https://i.imgur.com/mwiC0RG.png"
   },
   {
     "name": "Bloomberg TV Asia (720p)",
