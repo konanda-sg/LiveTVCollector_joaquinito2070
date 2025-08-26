@@ -1416,6 +1416,18 @@
     "img": "https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/533.png"
   },
   {
+    "name": "ABC News (720p)",
+    "type": "News",
+    "url": "https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/512px-ABC_News_Live_logo_2021.svg.png"
+  },
+  {
+    "name": "Arirang TV UN (1080p)",
+    "type": "News",
+    "url": "https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8",
+    "img": "https://i.imgur.com/Jdy3WNm.png"
+  },
+  {
     "name": "Astro Awani (720p)",
     "type": "News",
     "url": "https://d2idp3hzkhjpih.cloudfront.net/out/v1/4b85d9c2bf97413eb0c9fd875599b837/index.m3u8",
@@ -1434,6 +1446,12 @@
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/512px-CGTN.svg.png"
   },
   {
+    "name": "CNA International (1080p)",
+    "type": "News",
+    "url": "https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8",
+    "img": "https://i.imgur.com/xWglicB.png"
+  },
+  {
     "name": "I24 News English (720p)",
     "type": "News",
     "url": "https://bcovlive-a.akamaihd.net/ecf224f43f3b43e69471a7b626481af0/eu-central-1/5377161796001/playlist.m3u8",
@@ -1444,6 +1462,12 @@
     "type": "News",
     "url": "https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG.m3u8",
     "img": "https://i.imgur.com/skAiUxg.png"
+  },
+  {
+    "name": "UN Web TV (540p)",
+    "type": "News",
+    "url": "https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8",
+    "img": "https://i.imgur.com/UcAwBep.png"
   },
   {
     "name": "WION (1080p)",
@@ -1464,10 +1488,10 @@
     "img": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Astro_Arena_2_%282024%29.png"
   },
   {
-    "name": "803 Arena Bola",
+    "name": "803 Arena Bola -",
     "type": "SPORTS",
     "url": "https://get.perfecttv.net/jwt.mpd?username=vip_3klp0es8&password=wg3piwEs&channel=bola1fhd|user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0",
-    "img": "https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroArenaBola.png"
+    "img": "https://get.perfecttv.net/logo/arenabolafhd.png"
   },
   {
     "name": "803 Astro Arena Bola A",
@@ -1768,6 +1792,12 @@
     "type": "Sports",
     "url": "https://3ea22335.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX1JlZEJ1bGxUVl9ITFM/playlist.m3u8",
     "img": "https://i.postimg.cc/8c78JM28/image.png"
+  },
+  {
+    "name": "SKI TV (1080p) [Not 24/7]",
+    "type": "Sports",
+    "url": "https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-SportsTribal/193.m3u8",
+    "img": "https://i.imgur.com/S6qgwLG.png"
   },
   {
     "name": "HITZ FM",
@@ -10674,6 +10704,12 @@
     "img": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Astro_Grandstand_%282024%29.png"
   },
   {
+    "name": "3ABN International",
+    "type": "Religious",
+    "url": "https://3abn.bozztv.com/3abn2/Int_live/smil:Int_live.smil/playlist.m3u8",
+    "img": "https://i.imgur.com/8YMLPA3.png"
+  },
+  {
     "name": "Angel TV Far East (720p)",
     "type": "Religious",
     "url": "https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelfareast_all/playlist.m3u8",
@@ -10702,6 +10738,12 @@
     "type": "Religious",
     "url": "https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8",
     "img": "https://i.imgur.com/rjgCM2B.png"
+  },
+  {
+    "name": "SBN TV International",
+    "type": "Religious",
+    "url": "http://trn03.bozztv.com/gin-sbntv/index.m3u8",
+    "img": "https://i.imgur.com/NJu6oYB.png"
   },
   {
     "name": "Astro Vaanavil",
@@ -10738,6 +10780,12 @@
     "type": "General",
     "url": "https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3",
     "img": "https://i.imgur.com/V2jREQ5.png"
+  },
+  {
+    "name": "RTP Internacional (504p) [Not 24/7]",
+    "type": "General",
+    "url": "https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/RTP_Internacional_2016_%28Reduced_Version%29.svg/512px-RTP_Internacional_2016_%28Reduced_Version%29.svg.png"
   },
   {
     "name": "SelangorTV (1080p)",
@@ -10816,6 +10864,12 @@
     "type": "Undefined",
     "url": "https://live.mana2.my/TvIkim/index.m3u8?auth_key=1745177920-648b7df03f404bc4ac20e90e96f817eb-0-35d3be6e85a129ce175b39a9819ca942&token=1745177920-648b7df03f404bc4ac20e90e96f817eb-0-35d3be6e85a129ce175b39a9819ca942",
     "img": "https://i.imgur.com/X6JKNEE.png"
+  },
+  {
+    "name": "СТС International",
+    "type": "Undefined",
+    "url": "https://cdn4.skygo.mn/live/disk1/STS/HLSv3-FTA/STS.m3u8",
+    "img": "https://i.imgur.com/mwiC0RG.png"
   },
   {
     "name": "Bloomberg TV Asia (720p)",
