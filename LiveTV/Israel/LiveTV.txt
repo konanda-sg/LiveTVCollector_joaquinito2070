@@ -23,39 +23,9 @@ Source: https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/C
 --------------------------------------------------
 
 Group: General
-Name: Alforat TV (1080p)
-URL: http://95.216.180.111:1935/live/10/playlist.m3u8
-Logo: https://i.imgur.com/f6PQzKd.png
-Source: https://iptv-org.github.io/iptv/countries/il.m3u
---------------------------------------------------
-Name: Bahrain International (720p) [Not 24/7]
-URL: https://5c7b683162943.streamlock.net/live/ngrp:bahraininternational_all/playlist.m3u8
-Logo: https://i.imgur.com/t6Lmntr.png
-Source: https://iptv-org.github.io/iptv/countries/il.m3u
---------------------------------------------------
-Name: Duna World (576p)
-URL: http://146.59.85.40:89/dunaworld/index.m3u8
-Logo: https://i.imgur.com/uOBQJZS.png
-Source: https://iptv-org.github.io/iptv/countries/il.m3u
---------------------------------------------------
-Name: ERT World (1080p)
-URL: https://cbd537474fbad4634b64787657ff6456.msvdn.net/ertworld/ert_world_main/mainabr/playlist_dvr.m3u8
-Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/ChannelLogo-ERTWORLD1.png/512px-ChannelLogo-ERTWORLD1.png
-Source: https://iptv-org.github.io/iptv/countries/il.m3u
---------------------------------------------------
 Name: Hala TV (1080p) [Not 24/7]
 URL: https://stream.panet.com/edge/halaTV/playlist.m3u8
 Logo: https://i.imgur.com/028M4Ew.png
-Source: https://iptv-org.github.io/iptv/countries/il.m3u
---------------------------------------------------
-Name: MTV (1080p)
-URL: https://hms.pfs.gdn/v1/broadcast/mtv/playlist.m3u8
-Logo: https://upload.wikimedia.org/wikipedia/commons/7/75/Murr_tv.png
-Source: https://iptv-org.github.io/iptv/countries/il.m3u
---------------------------------------------------
-Name: RTP Internacional (504p) [Not 24/7]
-URL: https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
-Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/RTP_Internacional_2016_%28Reduced_Version%29.svg/512px-RTP_Internacional_2016_%28Reduced_Version%29.svg.png
 Source: https://iptv-org.github.io/iptv/countries/il.m3u
 --------------------------------------------------
 
@@ -888,13 +858,6 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u
 --------------------------------------------------
 
-Group: Kids
-Name: ducktv (720p)
-URL: https://jmp2.uk/stvp-ESBC4700001GR
-Logo: https://i.imgur.com/gRFQ35W.png
-Source: https://iptv-org.github.io/iptv/countries/il.m3u
---------------------------------------------------
-
 Group: Lastation
 Name: RTHK 31
 URL: https://cdn5.163189.xyz/live/rthk31/stream.m3u8
@@ -999,7 +962,7 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u
 --------------------------------------------------
 Name: LCP (VN)
-URL: https://www.youtube.com/channel/UChG2EWuXoW7Tgof35WjbsnQ/live
+URL: https://www.youtube.com/@lolesports_vn/live
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u
 --------------------------------------------------
@@ -1009,17 +972,17 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u
 --------------------------------------------------
 Name: LCP Live (EN)
-URL: https://www.youtube.com/UCvqRdlKsE5Q8mf8YXbdIJLw/live
+URL: https://www.youtube.com/@lolesports/live
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u
 --------------------------------------------------
 Name: LCP Live (JP)
-URL: https://www.youtube.com/channel/UCiN3B0QRdL4wn1TMJ_cJyMQ/live
+URL: https://www.youtube.com/@LoLeSportsJP/live
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u
 --------------------------------------------------
 Name: LCK (KR)
-URL: https://www.youtube.com/channel/UCw1DsweY9b2AKGjV4kGJP1A/live
+URL: https://www.youtube.com/@LCK/live
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u
 --------------------------------------------------
@@ -1029,22 +992,27 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u
 --------------------------------------------------
 Name: LCK (Tiếng Việt)
-URL: https://www.youtube.com/channel/UCm0P5i4TNItvgmPCZCGSyYA/live
+URL: https://www.youtube.com/@LCKTiengViet/live
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u
 --------------------------------------------------
-Name: LCK Global (KR)
+Name: LCK (EN)
 URL: https://www.youtube.com/@LCKglobal/live
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u
 --------------------------------------------------
 Name: EMEA Masters
-URL: https://www.youtube.com/channel/UCLpA7MOWtGTH2E1U8ZWZ3Ng/live
+URL: https://www.youtube.com/@EMEAMasters/live
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u
 --------------------------------------------------
 Name: CBLOL (PT)
-URL: https://www.youtube.com/channel/UC48rkTlXjRd6pnqqBkdV0Mw/live
+URL: https://www.youtube.com/@LTASul/live
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u
+--------------------------------------------------
+Name: LJL (JP)
+URL: https://www.youtube.com/@official_LJL/live
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u
 --------------------------------------------------
@@ -1054,7 +1022,7 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u
 --------------------------------------------------
 Name: PCS (HK)
-URL: https://www.youtube.com/channel/UCYfC038eP_cm9WNo5Cv-tBg/live
+URL: https://www.youtube.com/@lolpcstw/live
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u
 --------------------------------------------------
@@ -1280,22 +1248,10 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u
 --------------------------------------------------
 
-Group: Music
-Name: PMC Royale (1080p)
-URL: https://pmcrohls.wns.live/hls/stream.m3u8
-Logo: https://www.lyngsat.com/logo/tv/pp/pmc-royale-ch.png
-Source: https://iptv-org.github.io/iptv/countries/il.m3u
---------------------------------------------------
-
 Group: News
 Name: Channel 9 (540p) [Not 24/7]
 URL: http://50.7.231.221:8081/185/index.m3u8?wmsAuthSign=okad
 Logo: https://i.imgur.com/pttM3KQ.png
-Source: https://iptv-org.github.io/iptv/countries/il.m3u
---------------------------------------------------
-Name: CNA International (1080p)
-URL: https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-Logo: https://i.imgur.com/xWglicB.png
 Source: https://iptv-org.github.io/iptv/countries/il.m3u
 --------------------------------------------------
 Name: Israel Pars TV (540p)
@@ -6243,19 +6199,9 @@ Source: https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/C
 --------------------------------------------------
 
 Group: Religious
-Name: Al Hayat TV (720p)
-URL: https://cdn3.wowza.com/5/OE5HREpIcEkySlNT/alhayat-live/ngrp:livestream_all/playlist.m3u8
-Logo: https://i.imgur.com/M8ZuzeB.png
-Source: https://iptv-org.github.io/iptv/countries/il.m3u
---------------------------------------------------
 Name: Angel TV Hebrew (720p)
 URL: https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelhebrew_all/playlist.m3u8
 Logo: https://i.imgur.com/qKLEGU7.png
-Source: https://iptv-org.github.io/iptv/countries/il.m3u
---------------------------------------------------
-Name: EWTN Africa Asia (720p)
-URL: https://cdn3.wowza.com/1/ZVBYYXFLLzE0c3NC/Qk1FMURC/hls/live/playlist.m3u8
-Logo: https://i.imgur.com/sua70RO.png
 Source: https://iptv-org.github.io/iptv/countries/il.m3u
 --------------------------------------------------
 Name: Hidabroot (1080p)
@@ -6613,18 +6559,6 @@ Name: Korean Central Television / Đài Truyền Hình Trung uơng Triều Tiên
 URL: https://tv.nknews.org/tvdash/stream.mpd
 Logo: https://i.imgur.com/p02AEOF.png
 Source: https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u
---------------------------------------------------
-
-Group: Undefined
-Name: TVE Internacional Europe-Asia
-URL: https://viamotionhsi.netplus.ch/live/eds/tveinternacional/browser-HLS8/tveinternacional.m3u8
-Logo: https://i.imgur.com/ow1HArj.png
-Source: https://iptv-org.github.io/iptv/countries/il.m3u
---------------------------------------------------
-Name: СТС International
-URL: https://cdn4.skygo.mn/live/disk1/STS/HLSv3-FTA/STS.m3u8
-Logo: https://i.imgur.com/mwiC0RG.png
-Source: https://iptv-org.github.io/iptv/countries/il.m3u
 --------------------------------------------------
 
 Group: VIỆT NAM
@@ -7152,8 +7086,8 @@ URL: https://www.youtube.com/@shiranamiramune/live
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u
 --------------------------------------------------
-Name: Shiranami Ramune (VSPO! Team)
-URL: https://www.youtube.com/@jirajisakilive
+Name: Jira Jisaki (VSPO! Team)
+URL: https://www.youtube.com/@jirajisakilive/live
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u
 --------------------------------------------------
@@ -7165,17 +7099,17 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u
 --------------------------------------------------
 Name: VCT Valorant (Americas Challengers)
-URL: https://www.youtube.com/channel/UC_l3b2l822SSWaoA7DLXTiQ/live
+URL: https://www.youtube.com/@VALORANTChallengersAmericas/live
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u
 --------------------------------------------------
 Name: VCT Valorant (North/East Challengers)
-URL: https://www.youtube.com/channel/UCjQAdKf6m6HnpCgG1h5iYrg/live
+URL: https://www.youtube.com/@valleague_ne/live
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u
 --------------------------------------------------
 Name: VCT Valorant (FR Challengers)
-URL: https://www.youtube.com/channel/UCwHn2y8QWp8BSas35aLVWcg/live
+URL: https://www.youtube.com/@VALORANTChallengersFr/live
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u
 --------------------------------------------------
@@ -7190,14 +7124,14 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u
 --------------------------------------------------
 Name: VCT Valorant (Challengs Turkiye)
-URL: https://www.youtube.com/channel/UCGXwmdps8gD3TG0JqGRGKow/live
+URL: https://www.youtube.com/@VALORANTChallengersTR/live
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u
 --------------------------------------------------
 
 Group: Valorant Live
 Name: VCT Valorant (NA)
-URL: https://www.youtube.com/channel/UCifCesg-EUkjKyQedaB3hRg/live
+URL: https://www.youtube.com/@valorant_americas/live
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u
 --------------------------------------------------
@@ -7207,42 +7141,42 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u
 --------------------------------------------------
 Name: VCT Valorant (EMEA)
-URL: https://www.youtube.com/channel/UCp6n8d8Y8r3MwKNw_MMaouQ/live
+URL: https://www.youtube.com/@VALORANTEsportsEMEA/live
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u
 --------------------------------------------------
 Name: VCT Valorant (VN)
-URL: https://www.youtube.com/channel/UCcr4x4DBzRD0871Vq9QyyaA/live
+URL: https://www.youtube.com/@VALORANTChampionsTourVietnam/live
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u
 --------------------------------------------------
 Name: VCT Valorant (EN)
-URL: https://www.youtube.com/channel/UCA1d3HFGFUmkKr2JIUA5Vlw/live
+URL: https://www.youtube.com/@ValorantEsports/live
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u
 --------------------------------------------------
 Name: VCT Valorant (JP)
-URL: https://www.youtube.com/channel/UCzVgCrOcBAWYEHTtVOMPAtw/live
+URL: https://www.youtube.com/@VALORANTjp/live
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u
 --------------------------------------------------
 Name: VCT Valorant (AR)
-URL: https://www.youtube.com/channel/UC4PtOhCMlWl5N8RKSRCXSMw/live
+URL: https://www.youtube.com/@VALORANTArabia/live
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u
 --------------------------------------------------
 Name: VCT Valorant (ID)
-URL: https://www.youtube.com/channel/UChjyrzsPDaE3eAsdYzCixdQ/live
+URL: https://www.youtube.com/@VALORANTEsportsIndonesia/live
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u
 --------------------------------------------------
 Name: VCT Valorant (BR)
-URL: https://www.youtube.com/channel/UCW-4nEie-LVG7LK3CkQeBuw/live
+URL: https://www.youtube.com/@valorantesportsbr/live
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u
 --------------------------------------------------
 Name: VCT Valorant (CN)
-URL: https://www.youtube.com/channel/UCc1VJX_5Z2RdGi58XU4IfbA/live
+URL: https://www.youtube.com/@VALORANTEsportsCN/live
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u
 --------------------------------------------------
@@ -7252,22 +7186,17 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u
 --------------------------------------------------
 Name: VCT Valorant (KR)
-URL: https://www.youtube.com/channel/UCv1tOT645xHOJrwdGlzjMaA/live
+URL: https://www.youtube.com/@ValorantEsportsKR/live
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u
 --------------------------------------------------
 Name: Valorant Tiếng Việt
-URL: https://www.youtube.com/channel/UCW007D3iLWZNiiZuhrfRyHw/live
-Logo: https://buddytv.netlify.app/img/no-logo.png
-Source: https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u
---------------------------------------------------
-Name: VCT Valorant (LATAM)
-URL: https://www.youtube.com/channel/UCZbz1lbJm3Rq7ys8pq40PHA/live
+URL: https://www.youtube.com/@valoranttiengviet5/live
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u
 --------------------------------------------------
 Name: VCT Valorant (Challengers Spain)
-URL: https://www.youtube.com/channel/UCMEc1tbNSJmZwgHzUM9xQIw/live
+URL: https://www.youtube.com/@LVPesVALORANT/live
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u
 --------------------------------------------------
@@ -7544,12 +7473,12 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u
 --------------------------------------------------
 Name: Liên Quân Mobile
-URL: https://www.youtube.com/channel/UCpnQwjzvDm1MOMtZV2zkVpA/live
+URL: https://www.youtube.com/@LienQuanMobileSportsGarena/live
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u
 --------------------------------------------------
 Name: PUBG Battlegrounds
-URL: https://www.youtube.com/channel/UCeX2iXaH63w3BZ8Wae_JdEA/live
+URL: https://www.youtube.com/@PUBGBATTLEGROUNDSVIETNAM/live
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u
 --------------------------------------------------
@@ -7599,7 +7528,7 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u
 --------------------------------------------------
 Name: Seseren Live Illustration
-URL: https://www.youtube.com/channel/UCvqqck2oSGLBlrXZW2OJfmA/live
+URL: https://www.youtube.com/@Seseren_KR/live
 Logo: https://stickershop.line-scdn.net/stickershop/v1/product/7833222/LINEStorePC/main.png?v=1
 Source: https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u
 --------------------------------------------------
@@ -7795,7 +7724,7 @@ Source: https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/C
 
 Group: eSports Live
 Name: ESL Counter Strike Live
-URL: https://www.youtube.com/channel/UCPq2ETz4aAGo2Z-8JisDPIA/live
+URL: https://www.youtube.com/@ESLCS/live
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u
 --------------------------------------------------
