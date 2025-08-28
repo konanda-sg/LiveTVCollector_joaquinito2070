@@ -1,15 +1,3 @@
-Group: Animation
-Name: Anime Zone TV (480p)
-URL: http://animezonetv.net/hls/stream.m3u8
-Logo: https://i.imgur.com/AHaXlCh.png
-Source: https://iptv-org.github.io/iptv/countries/mx.m3u
---------------------------------------------------
-Name: EnerGeek (720p) [Not 24/7]
-URL: https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=ZZDemoIPTVGH
-Logo: https://cdn.energeek.cl/logos/Marca-512.png
-Source: https://iptv-org.github.io/iptv/countries/mx.m3u
---------------------------------------------------
-
 Group: Animation;Culture;Entertainment
 Name: GikTVMx (480p)
 URL: https://pistream.ddns.net/hls/stream.m3u8
@@ -17,142 +5,111 @@ Logo: https://i.imgur.com/Gwz78jZ.png
 Source: https://iptv-org.github.io/iptv/countries/mx.m3u
 --------------------------------------------------
 
-Group: Animation;Entertainment
-Name: Kanade (1080p)
-URL: https://backend.energeek.cl/webtv/kanadeweb/index.m3u8?token=ZZDemoIPTVGH
-Logo: https://static.kanade.cl/assets/img/profilepic_512px.png
-Source: https://iptv-org.github.io/iptv/countries/mx.m3u
---------------------------------------------------
-
 Group: Anime & Gaming
 Name: Pluto TV Anime
-URL: https://stitcher.pluto.tv/stitch/hls/channel/5dcde17bf6591d0009839e02/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/5dcde17bf6591d0009839e02/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/5dcde17bf6591d0009839e02/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: Naruto
-URL: https://stitcher.pluto.tv/stitch/hls/channel/5ee92e72fb286e0007285fec/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/5ee92e72fb286e0007285fec/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/5ee92e72fb286e0007285fec/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: Naruto Shippuden
-URL: https://stitcher.pluto.tv/stitch/hls/channel/64c92fea3c3344000869e8a9/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/64c92fea3c3344000869e8a9/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/64c92fea3c3344000869e8a9/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: Boruto: Naruto Next Generations
-URL: https://stitcher.pluto.tv/stitch/hls/channel/656f37f257fe4a000884dfee/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/656f37f257fe4a000884dfee/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/656f37f257fe4a000884dfee/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: Hunter x Hunter
-URL: https://stitcher.pluto.tv/stitch/hls/channel/65d916a2f7f0af0008b6540d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/65d916a2f7f0af0008b6540d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/65d916a2f7f0af0008b6540d/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: Death Note
-URL: https://stitcher.pluto.tv/stitch/hls/channel/626c2ed933a2890007e91422/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/626c2ed933a2890007e91422/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/626c2ed933a2890007e91422/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: JoJo’s Bizarre Adventure
-URL: https://stitcher.pluto.tv/stitch/hls/channel/66c790f780a0af0008583aa4/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/66c790f780a0af0008583aa4/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/66c790f780a0af0008583aa4/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: Yu-Gi-Oh
-URL: https://stitcher.pluto.tv/stitch/hls/channel/5fceaab478f2af00080ff51f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/5fceaab478f2af00080ff51f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/5fceaab478f2af00080ff51f/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: Captain Tsubasa
-URL: https://stitcher.pluto.tv/stitch/hls/channel/64666345f3f5b1000882bfb4/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/64666345f3f5b1000882bfb4/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/64666345f3f5b1000882bfb4/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: Inuyasha
-URL: https://stitcher.pluto.tv/stitch/hls/channel/66b26665d512590008c507b7/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/66b26665d512590008c507b7/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/66b26665d512590008c507b7/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: One Piece
-URL: https://stitcher.pluto.tv/stitch/hls/channel/5ff4b9ccf938f8000779eb99/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/5ff4b9ccf938f8000779eb99/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/5ff4b9ccf938f8000779eb99/colorLogoPNG-1663941540755.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: Tokusato
-URL: https://stitcher.pluto.tv/stitch/hls/channel/5ff608e60e2996000768c366/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/5ff608e60e2996000768c366/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/5ff608e60e2996000768c366/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: Pluto TV E-Sports
-URL: https://stitcher.pluto.tv/stitch/hls/channel/5ff3934600d4c7000733ff49/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/5ff3934600d4c7000733ff49/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/5ff3934600d4c7000733ff49/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 
-Group: Auto
-Name: Garage TV Latin America
-URL: https://stream1.sersat.com/hls/garagetv.m3u8
-Logo: https://i.imgur.com/FqFxog1.png
-Source: https://iptv-org.github.io/iptv/countries/mx.m3u
---------------------------------------------------
-Name: Motorvision
-URL: http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6093f2ae4dd5ab0007d1ff9d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1e7523-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3105f589-5bf9-41ef-8229-51bdf3abb1d2
-Logo: https://i.imgur.com/v4kj8pI.png
-Source: https://iptv-org.github.io/iptv/countries/mx.m3u
---------------------------------------------------
-
-Group: Business
-Name: Tevex (720p) [Not 24/7]
-URL: https://v4.tustreaming.cl/tevexinter/index.m3u8
-Logo: https://i.imgur.com/FnInQRd.png
-Source: https://iptv-org.github.io/iptv/countries/mx.m3u
---------------------------------------------------
-
 Group: Comedia
 Name: Daria
-URL: https://stitcher.pluto.tv/stitch/hls/channel/62d0895ebe7a970008785244/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/62d0895ebe7a970008785244/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/62d0895ebe7a970008785244/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: La Familia del Barrio
-URL: https://stitcher.pluto.tv/stitch/hls/channel/62d08af527ce19000731eaa0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/62d08af527ce19000731eaa0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/62d08af527ce19000731eaa0/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: Pluto TV Humor
-URL: https://stitcher.pluto.tv/stitch/hls/channel/5e8397936791b30007ebb5a7/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/5e8397936791b30007ebb5a7/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/5e8397936791b30007ebb5a7/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: Comedy Central Pluto TV
-URL: https://stitcher.pluto.tv/stitch/hls/channel/5ffcc21a432945000762d06b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/5ffcc21a432945000762d06b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/5ffcc21a432945000762d06b/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: FailArmy
-URL: https://stitcher.pluto.tv/stitch/hls/channel/5ebaccf1734aaf0007142c86/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/5ebaccf1734aaf0007142c86/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/5ebaccf1734aaf0007142c86/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: The Pet Collective
-URL: https://stitcher.pluto.tv/stitch/hls/channel/5ebacbcae43a6d000787b88e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/5ebacbcae43a6d000787b88e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/5ebacbcae43a6d000787b88e/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: Bromas Gags - Just for Laughs
-URL: https://stitcher.pluto.tv/stitch/hls/channel/678029c654f43dad4b5c1ec0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/678029c654f43dad4b5c1ec0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/678029c654f43dad4b5c1ec0/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 
 Group: Comedy
-Name: Distrito Comedia (576p)
-URL: https://linear-405.frequency.stream/mt/studio/405/hls/master/playlist.m3u8
-Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/512px-DistritoComediaLOGO2018.png
-Source: https://iptv-org.github.io/iptv/countries/mx.m3u
---------------------------------------------------
 Name: ViX Jajaja (1080p)
 URL: https://d1f3q72l8uy8ur.cloudfront.net/dist/samsungtv/318/hls/master/playlist.m3u8
 Logo: https://i.imgur.com/UL1JtYb.png
@@ -161,56 +118,44 @@ Source: https://iptv-org.github.io/iptv/countries/mx.m3u
 
 Group: Competencia
 Name: Pluto TV  Competencias
-URL: https://stitcher.pluto.tv/stitch/hls/channel/5dd6d935d000120009bc1132/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/5dd6d935d000120009bc1132/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/5dd6d935d000120009bc1132/logo7_2-20250131170429.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: Sony One Shark Tank México
-URL: https://stitcher.pluto.tv/stitch/hls/channel/6647c02422494d000804b13a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/6647c02422494d000804b13a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/6647c02422494d000804b13a/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: MasterChef
-URL: https://stitcher.pluto.tv/stitch/hls/channel/5e3ddbd27091820009f86dd9/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/5e3ddbd27091820009f86dd9/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/5e3ddbd27091820009f86dd9/colorLogoPNG_1748266515893.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: Hells Kitchen
-URL: https://stitcher.pluto.tv/stitch/hls/channel/6095ad97351eb0000754c1e6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/6095ad97351eb0000754c1e6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/6095ad97351eb0000754c1e6/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: Minuto Para Ganar
-URL: https://stitcher.pluto.tv/stitch/hls/channel/5e46e64dc73db400094b5f0b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/5e46e64dc73db400094b5f0b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/5e46e64dc73db400094b5f0b/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: Sony One Competencias
-URL: https://stitcher.pluto.tv/stitch/hls/channel/662bf39756fc840008f25cb9/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/662bf39756fc840008f25cb9/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/662bf39756fc840008f25cb9/logo7_2-20250116184319.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: Wipe Out
-URL: https://stitcher.pluto.tv/stitch/hls/channel/5ed6828192e8b3000743ef61/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/5ed6828192e8b3000743ef61/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/5ed6828192e8b3000743ef61/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: Desafío Super Humanos
-URL: https://stitcher.pluto.tv/stitch/hls/channel/6495af324c014a000842e923/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/6495af324c014a000842e923/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/6495af324c014a000842e923/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
---------------------------------------------------
-
-Group: Cooking
-Name: Gusto TV (1080p)
-URL: https://e75fc053c0d2406fb74cdd71d77e1a7f.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/RakutenTV-eu_GustoTV/playlist.m3u8
-Logo: https://i.imgur.com/swUX3hQ.png
-Source: https://iptv-org.github.io/iptv/countries/mx.m3u
---------------------------------------------------
-Name: Tastemade en Espanol [Geo-blocked]
-URL: https://tastemadees16us-xumo.amagi.tv/playlist.m3u8
-Logo: https://i.imgur.com/8s6aRwv.png
-Source: https://iptv-org.github.io/iptv/countries/mx.m3u
 --------------------------------------------------
 
 Group: Culture
@@ -224,23 +169,8 @@ URL: https://5ca39be538307.streamlock.net/telemetrika/smil:telemetrika.smil/play
 Logo: https://i.imgur.com/bFG4Rqz.png
 Source: https://iptv-org.github.io/iptv/countries/mx.m3u
 --------------------------------------------------
-Name: Somos Cultura TV (720p)
-URL: https://srv.tropicalmoonmedia.com/somosculturatv/somosculturatv/playlist.m3u8
-Logo: https://i.imgur.com/kWR3END.png
-Source: https://iptv-org.github.io/iptv/countries/mx.m3u
---------------------------------------------------
-Name: Suyai TV (1080p)
-URL: https://signal.suyaitv.cl/live/35/playlist.m3u8?password=9PcdCnFxUe&username=ZZDemoIPTVGH
-Logo: https://suyaitv.cl/wp-content/uploads/2024/10/ico_Suyai_TV_512.png
-Source: https://iptv-org.github.io/iptv/countries/mx.m3u
---------------------------------------------------
 
 Group: Culture;Education
-Name: Classic Arts Showcase
-URL: https://classicarts.akamaized.net/hls/live/1024257/CAS/master.m3u8
-Logo: https://i.imgur.com/M6FFkc3.png
-Source: https://iptv-org.github.io/iptv/countries/mx.m3u
---------------------------------------------------
 Name: Jalisco TV (720p)
 URL: https://5fa5de1a545ae.streamlock.net/sisjalisciense/sisjalisciense/playlist.m3u8
 Logo: https://i.imgur.com/N4meE8I.png
@@ -254,228 +184,183 @@ Logo: https://i.imgur.com/8ign49i.png
 Source: https://iptv-org.github.io/iptv/countries/mx.m3u
 --------------------------------------------------
 
-Group: Culture;Music
-Name: Radio Suyai TV (1080p)
-URL: https://signal.suyaitv.cl/live/26/playlist.m3u8?password=9PcdCnFxUe&username=ZZDemoIPTVGH
-Logo: https://radio.suyaitv.cl/wp-content/uploads/2024/04/cropped-radiosuyaitvcuadrado512.png
-Source: https://iptv-org.github.io/iptv/countries/mx.m3u
---------------------------------------------------
-
-Group: Culture;News
-Name: NHK World-Japan (720p)
-URL: https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
-Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png
-Source: https://iptv-org.github.io/iptv/countries/mx.m3u
---------------------------------------------------
-
-Group: Culture;Public
-Name: ETB Basque (480p)
-URL: https://multimedia.eitb.eus/live-content/eitbbasque-hls/master.m3u8
-Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ETB_Basque_2022_logo.svg/512px-ETB_Basque_2022_logo.svg.png
-Source: https://iptv-org.github.io/iptv/countries/mx.m3u
---------------------------------------------------
-
 Group: Curiosidad
 Name: Pluto TV Naturaleza
-URL: https://stitcher.pluto.tv/stitch/hls/channel/5dd85eac039bba0009e86d1d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/5dd85eac039bba0009e86d1d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/5dd85eac039bba0009e86d1d/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: Monstruos de Rio
-URL: https://stitcher.pluto.tv/stitch/hls/channel/66a92375cd0d31000847b219/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/66a92375cd0d31000847b219/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/66a92375cd0d31000847b219/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: Paisajes por Stingray
-URL: https://stitcher.pluto.tv/stitch/hls/channel/5f4fed840a2764000720d966/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/5f4fed840a2764000720d966/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/5f4fed840a2764000720d966/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: Pluto TV Animales
-URL: https://stitcher.pluto.tv/stitch/hls/channel/5dd834c66fe2ca0009303b8d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/5dd834c66fe2ca0009303b8d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/5dd834c66fe2ca0009303b8d/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: El Encantador de Perros
-URL: https://stitcher.pluto.tv/stitch/hls/channel/61099f2b40d0640007fc5aa2/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/61099f2b40d0640007fc5aa2/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/61099f2b40d0640007fc5aa2/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: Pluto TV Aventura
-URL: https://stitcher.pluto.tv/stitch/hls/channel/5ddc266f80e3550009136843/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/5ddc266f80e3550009136843/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/5ddc266f80e3550009136843/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: Ice Pilots
-URL: https://stitcher.pluto.tv/stitch/hls/channel/62154548a2be360007cb02f0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/62154548a2be360007cb02f0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/62154548a2be360007cb02f0/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: Pluto TV Velocidad
-URL: https://stitcher.pluto.tv/stitch/hls/channel/5dd6dc7480e3550009133d4a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/5dd6dc7480e3550009133d4a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/5dd6dc7480e3550009133d4a/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: Obsesión por los Autos
-URL: https://stitcher.pluto.tv/stitch/hls/channel/64025592953da40008bf9238/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/64025592953da40008bf9238/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/64025592953da40008bf9238/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: Mi Coche Clásico
-URL: https://stitcher.pluto.tv/stitch/hls/channel/656e2536fbc15b00084ae29d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/656e2536fbc15b00084ae29d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/656e2536fbc15b00084ae29d/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: Motorvision TV
-URL: https://stitcher.pluto.tv/stitch/hls/channel/60e5ea9a9bb4200008376f76/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/60e5ea9a9bb4200008376f76/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/60e5ea9a9bb4200008376f76/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: Pluto TV Vida Real
-URL: https://stitcher.pluto.tv/stitch/hls/channel/5df265697ec3510009df1ef0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/5df265697ec3510009df1ef0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/5df265697ec3510009df1ef0/colorLogoPNG_1732044810230.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: COPS
-URL: https://stitcher.pluto.tv/stitch/hls/channel/6419ab7c9189ce000865a469/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/6419ab7c9189ce000865a469/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/6419ab7c9189ce000865a469/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: Dog el cazarrecompensas
-URL: https://stitcher.pluto.tv/stitch/hls/channel/5f9992c685a2a80007fa414a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/5f9992c685a2a80007fa414a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/5f9992c685a2a80007fa414a/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: Empeños a lo bestia
-URL: https://stitcher.pluto.tv/stitch/hls/channel/5f23102d5e239d00074b092a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/5f23102d5e239d00074b092a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/5f23102d5e239d00074b092a/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: Pluto TV Mi Obsesión Favorita
-URL: https://stitcher.pluto.tv/stitch/hls/channel/6109ab25b84d6a0007504886/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/6109ab25b84d6a0007504886/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/6109ab25b84d6a0007504886/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: Untold Stories of the ER
-URL: https://stitcher.pluto.tv/stitch/hls/channel/678533155e0e6a000828cd48/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/678533155e0e6a000828cd48/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/678533155e0e6a000828cd48/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: Misterios Medicos
-URL: https://stitcher.pluto.tv/stitch/hls/channel/5f230e416b68ff00075b0139/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/5f230e416b68ff00075b0139/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/5f230e416b68ff00075b0139/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: Pluto TV Misterios
-URL: https://stitcher.pluto.tv/stitch/hls/channel/5dcde2f53449c50009b2b4dc/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/5dcde2f53449c50009b2b4dc/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/5dcde2f53449c50009b2b4dc/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: Historias de Ultratumba
-URL: https://stitcher.pluto.tv/stitch/hls/channel/5f4d3696d938c900072679fd/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/5f4d3696d938c900072679fd/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/5f4d3696d938c900072679fd/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: Archivos Extraterrestres
-URL: https://stitcher.pluto.tv/stitch/hls/channel/645d1abbe1979c0008779d5a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/645d1abbe1979c0008779d5a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/645d1abbe1979c0008779d5a/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: Smithsonian Channel Pluto TV
-URL: https://stitcher.pluto.tv/stitch/hls/channel/63a084934734f30007457b2c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/63a084934734f30007457b2c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/63a084934734f30007457b2c/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: Pluto TV Historia
-URL: https://stitcher.pluto.tv/stitch/hls/channel/5de5758e1a30dc00094fcd6c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/5de5758e1a30dc00094fcd6c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/5de5758e1a30dc00094fcd6c/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: Pluto TV Ciencia
-URL: https://stitcher.pluto.tv/stitch/hls/channel/5dd8364ea1d6780009929902/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/5dd8364ea1d6780009929902/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/5dd8364ea1d6780009929902/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 
 Group: Deportes
 Name: Pluto TV Deportes
-URL: https://stitcher.pluto.tv/stitch/hls/channel/5dcde07af1c85b0009b18651/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/5dcde07af1c85b0009b18651/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/5dcde07af1c85b0009b18651/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: Azteca Deportes Premium
-URL: https://stitcher.pluto.tv/stitch/hls/channel/65cf60d166eec80008724e6f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/65cf60d166eec80008724e6f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/65cf60d166eec80008724e6f/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: Claro Sports Mexico
-URL: https://stitcher.pluto.tv/stitch/hls/channel/6320d2755e54db000783fd87/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/6320d2755e54db000783fd87/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/6320d2755e54db000783fd87/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: ITV Deportes
-URL: https://stitcher.pluto.tv/stitch/hls/channel/63f7e3f9dff38e00082a57af/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/63f7e3f9dff38e00082a57af/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/63f7e3f9dff38e00082a57af/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: Pluto TV Peleas
-URL: https://stitcher.pluto.tv/stitch/hls/channel/5e98b0447665f200078caded/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/5e98b0447665f200078caded/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/5e98b0447665f200078caded/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: Lucha Libre AAA
-URL: https://stitcher.pluto.tv/stitch/hls/channel/5f99a772c54853000797bf18/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/5f99a772c54853000797bf18/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/5f99a772c54853000797bf18/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: DAZN Combat
-URL: https://stitcher.pluto.tv/stitch/hls/channel/64df7a9a44fe100009b6ac5a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/64df7a9a44fe100009b6ac5a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/64df7a9a44fe100009b6ac5a/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: PFL MMA
-URL: https://stitcher.pluto.tv/stitch/hls/channel/64f6163a30ab3300083d870e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/64f6163a30ab3300083d870e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/64f6163a30ab3300083d870e/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: UFC
-URL: https://stitcher.pluto.tv/stitch/hls/channel/67a52cd4ec91870008a62164/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/67a52cd4ec91870008a62164/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/67a52cd4ec91870008a62164/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: FIFA+
-URL: https://stitcher.pluto.tv/stitch/hls/channel/66997d18a1b69e00082ee85f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/66997d18a1b69e00082ee85f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/66997d18a1b69e00082ee85f/colorLogoPNG_1749841168303.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: Pluto TV Modus Super Series Darts
-URL: https://stitcher.pluto.tv/stitch/hls/channel/673b4d992fb8a1000844292e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/673b4d992fb8a1000844292e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/673b4d992fb8a1000844292e/logo7_2-20241206122532.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
---------------------------------------------------
-
-Group: Documentary
-Name: CGTN Documentary (1080p)
-URL: https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
-Logo: https://i.imgur.com/JHv0WxM.png
-Source: https://iptv-org.github.io/iptv/countries/mx.m3u
---------------------------------------------------
-Name: History 2 Latin America
-URL: https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HISTORY2/index.m3u8
-Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/512px-History2_logo_%282022%29.svg.png
-Source: https://iptv-org.github.io/iptv/countries/mx.m3u
---------------------------------------------------
-Name: National Geographic Latin America
-URL: https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/NAT_GEO/index.m3u8
-Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png
-Source: https://iptv-org.github.io/iptv/countries/mx.m3u
---------------------------------------------------
-
-Group: Documentary;Education;Science
-Name: UMSA TVU Internacional (720p)
-URL: https://live.enhdtv.com:8081/8026/tracks-v1a1/mono.m3u8
-Logo: https://tvu.umsa.bo/documents/780216/12171558/Logo+TVU-Int.png/b67c9c61-7516-e38a-a425-72e61f3824c6?t=1751574228493
-Source: https://iptv-org.github.io/iptv/countries/mx.m3u
 --------------------------------------------------
 
 Group: Education
@@ -489,11 +374,6 @@ URL: https://tv91.hostingnuclear.com:19360/xhunestv/xhunestv.m3u8
 Logo: https://i.imgur.com/LbZkdca.png
 Source: https://iptv-org.github.io/iptv/countries/mx.m3u
 --------------------------------------------------
-Name: SET Televisión Canal 26.2 (720p) [Not 24/7]
-URL: http://189.240.210.28:1935/live/setpuebla/playlist.m3u8
-Logo: https://i.imgur.com/dbJKErB.png
-Source: https://iptv-org.github.io/iptv/countries/mx.m3u
---------------------------------------------------
 Name: TV Nuevo León Canal 28 (XHMNL-TDT) (720p)
 URL: https://s5.mexside.net:1936/canal28/canal28/playlist.m3u8
 Logo: https://i.imgur.com/9qL4LJF.png
@@ -502,13 +382,6 @@ Source: https://iptv-org.github.io/iptv/countries/mx.m3u
 Name: Unison TV (1080p)
 URL: https://stream.unison.mx/hls/unisontvatem.m3u8
 Logo: https://i.imgur.com/7ixWRId.png
-Source: https://iptv-org.github.io/iptv/countries/mx.m3u
---------------------------------------------------
-
-Group: Education;Entertainment;News
-Name: Unifranz (720p)
-URL: https://live.enhdtv.com:8081/8192/index.m3u8
-Logo: https://unifranz.edu.bo/wp-content/themes/unifranz-web/public/images/logos/logo-light-min.442cee.svg
 Source: https://iptv-org.github.io/iptv/countries/mx.m3u
 --------------------------------------------------
 
@@ -528,16 +401,6 @@ URL: https://stream.oursnetworktv.com/latin/encoder1/playlist.m3u8
 Logo: https://i.ibb.co/qYs9cPQ/Unnamed-41.jpg
 Source: https://iptv-org.github.io/iptv/countries/mx.m3u
 --------------------------------------------------
-Name: NHK World Premium (720p) [Not 24/7]
-URL: https://cdn.nhkworld.jp/www11/nhkworld-tv/pre/hlscomp.m3u8
-Logo: https://i.imgur.com/4ESi2La.png
-Source: https://iptv-org.github.io/iptv/countries/mx.m3u
---------------------------------------------------
-Name: Teleplay Sureste (720p)
-URL: https://teleplay.mediaflix.istream.mx/livestream/teleplay/livehd/playlist.m3u8
-Logo: https://i.imgur.com/MeV5N08.png
-Source: https://iptv-org.github.io/iptv/countries/mx.m3u
---------------------------------------------------
 Name: VB Media TV (1080p)
 URL: https://capomo01-enitv.eninetworks.com/locales_vbmedia_publico/index.m3u8
 Logo: https://i.imgur.com/5qlVblr.png
@@ -546,11 +409,6 @@ Source: https://iptv-org.github.io/iptv/countries/mx.m3u
 Name: Veracruz Multimedios TV (720p)
 URL: https://stream.oursnetworktv.com/latin/VeracruZMulTimedios/playlist.m3u8
 Logo: https://i.ibb.co/8sDvnT2/Screenshot-20231201-165527.jpg
-Source: https://iptv-org.github.io/iptv/countries/mx.m3u
---------------------------------------------------
-Name: Vive Kanal D Drama (1080p)
-URL: https://thema-vivekanald-rakuten.amagi.tv/playlist.m3u8
-Logo: https://i.imgur.com/WIeZMKT.png
 Source: https://iptv-org.github.io/iptv/countries/mx.m3u
 --------------------------------------------------
 Name: ViX Parejas (1080p)
@@ -571,70 +429,56 @@ Logo: https://i.imgur.com/Z52nEnH.png
 Source: https://iptv-org.github.io/iptv/countries/mx.m3u
 --------------------------------------------------
 
-Group: Entertainment;Lifestyle;Music
-Name: PRIDEtv LATAM (1080p)
-URL: https://backend.energeek.cl/webtv/pridetvweb/index.m3u8?token=ZZDemoIPTVGH
-Logo: https://neotv.cl/img/pridetv-512.png
-Source: https://iptv-org.github.io/iptv/countries/mx.m3u
---------------------------------------------------
-
-Group: Entertainment;News
-Name: PSN
-URL: https://srspsn.live/live/livestream.m3u8
-Logo: https://i.imgur.com/7i7GkSL.png
-Source: https://iptv-org.github.io/iptv/countries/mx.m3u
---------------------------------------------------
-
 Group: Entretenimiento
 Name: PRIDEtv
-URL: https://stitcher.pluto.tv/stitch/hls/channel/6643b8c42eafd40008daab8b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/6643b8c42eafd40008daab8b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/6643b8c42eafd40008daab8b/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: Azteca UNO -1 hora
-URL: https://stitcher.pluto.tv/stitch/hls/channel/646ccc7a2858cb0008127367/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/646ccc7a2858cb0008127367/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/646ccc7a2858cb0008127367/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: Azteca Internacional
-URL: https://stitcher.pluto.tv/stitch/hls/channel/646cce4d1593940008a33f09/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/646cce4d1593940008a33f09/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/646cce4d1593940008a33f09/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: Imagen TV+
-URL: https://stitcher.pluto.tv/stitch/hls/channel/64e35aff6b1fdb0008ea8441/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/64e35aff6b1fdb0008ea8441/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/64e35aff6b1fdb0008ea8441/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: Canal 6 CdMX
-URL: https://stitcher.pluto.tv/stitch/hls/channel/652e91fd6208700008dcaf7b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/652e91fd6208700008dcaf7b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/652e91fd6208700008dcaf7b/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 
 Group: Estilo de Vida
 Name: Pluto TV Viajes
-URL: https://stitcher.pluto.tv/stitch/hls/channel/5dcddfbdb7cf0e0009ae09ea/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/5dcddfbdb7cf0e0009ae09ea/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/5dcddfbdb7cf0e0009ae09ea/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: Pluto TV Hogar
-URL: https://stitcher.pluto.tv/stitch/hls/channel/5dd6ab8056beb000091fc6b6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/5dd6ab8056beb000091fc6b6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/5dd6ab8056beb000091fc6b6/colorLogoPNG_1747067282029.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: Homeful
-URL: https://stitcher.pluto.tv/stitch/hls/channel/64fb1f6e6625510008c00848/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/64fb1f6e6625510008c00848/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/64fb1f6e6625510008c00848/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: Pluto TV Cocina
-URL: https://stitcher.pluto.tv/stitch/hls/channel/5dcde0657444a40009cd2422/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/5dcde0657444a40009cd2422/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/5dcde0657444a40009cd2422/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: Tastemade
-URL: https://stitcher.pluto.tv/stitch/hls/channel/5f998c1fc54853000797bacd/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/5f998c1fc54853000797bacd/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/5f998c1fc54853000797bacd/colorLogoPNG_1730999716441.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
@@ -650,11 +494,6 @@ URL: https://stream.oursnetworktv.com/latin/encoder87b/playlist.m3u8
 Logo: https://i.imgur.com/yvQJQNF.jpg
 Source: https://iptv-org.github.io/iptv/countries/mx.m3u
 --------------------------------------------------
-Name: Antena 3 Internacional (480p)
-URL: http://38.180.133.31:8000/play/a0ki/index.m3u8
-Logo: https://i.imgur.com/QMadWXp.png
-Source: https://iptv-org.github.io/iptv/countries/mx.m3u
---------------------------------------------------
 Name: Antena TV (1080p)
 URL: https://5ca9af4645e15.streamlock.net/grd/videogrd/playlist.m3u8
 Logo: https://i.imgur.com/1sAgSME.png
@@ -668,16 +507,6 @@ Source: https://iptv-org.github.io/iptv/countries/mx.m3u
 Name: B15 (1080p)
 URL: https://60ed5b6d0df78.streamlock.net:1936/envio2/envio2/playlist.m3u8
 Logo: https://i.imgur.com/kaUhEQy.png
-Source: https://iptv-org.github.io/iptv/countries/mx.m3u
---------------------------------------------------
-Name: BCN Gospel TV (1080p)
-URL: https://live1.ovalcast.com:3641/live/bcngospeltvlive.m3u8
-Logo: https://i.imgur.com/ZKAnehs.png
-Source: https://iptv-org.github.io/iptv/countries/mx.m3u
---------------------------------------------------
-Name: BTV World (1080p)
-URL: https://www.btvlive.gov.bd/streams/ef8b8bbc-98b7-4ba7-a49d-a0adaf259d35/ES/d96eb7f4-83c2-4472-9597-3568390a8ebf/d96eb7f4-83c2-4472-9597-3568390a8ebf_3_playlist.m3u8
-Logo: https://i.imgur.com/sSnrg7o.png
 Source: https://iptv-org.github.io/iptv/countries/mx.m3u
 --------------------------------------------------
 Name: California Medios TV (720p)
@@ -790,11 +619,6 @@ URL: https://stream.oursnetworktv.com/latin/encoder80/playlist.m3u8
 Logo: https://i.imgur.com/7ib3wEh.png
 Source: https://iptv-org.github.io/iptv/countries/mx.m3u
 --------------------------------------------------
-Name: Canal 44 Ciudad Juárez (720p) [Geo-blocked]
-URL: https://5e50264bd6766.streamlock.net/canal44/videocanal44/playlist.m3u8
-Logo: https://i.imgur.com/oRudPXX.png
-Source: https://iptv-org.github.io/iptv/countries/mx.m3u
---------------------------------------------------
 Name: Canal 47 TV Puerto Escondido (480p)
 URL: https://stream.oursnetworktv.com/latin/encoder28/playlist.m3u8
 Logo: https://i.ibb.co/P6CBtbs/Screenshot-20231201-163704.jpg
@@ -810,16 +634,6 @@ URL: https://ssh101.bozztv.com/ssh101/ochotv/playlist.m3u8
 Logo: https://i.ibb.co/YND5HXD/Captura.png
 Source: https://iptv-org.github.io/iptv/countries/mx.m3u
 --------------------------------------------------
-Name: Caribbean Advantage TV (1080p) [Not 24/7]
-URL: https://video2.getstreamhosting.com:19360/8216/8216.m3u8
-Logo: https://caribbeanadvantage.com/images/CAtv-logo-512.png
-Source: https://iptv-org.github.io/iptv/countries/mx.m3u
---------------------------------------------------
-Name: CCTV-4 America (1080p)
-URL: https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8
-Logo: https://i.imgur.com/gBbLyqh.png
-Source: https://iptv-org.github.io/iptv/countries/mx.m3u
---------------------------------------------------
 Name: CNR Televisión (1080p)
 URL: https://stream.oursnetworktv.com/latin/cnrtelevision/playlist.m3u8
 Logo: https://i.imgur.com/HI5GOfF.png
@@ -833,11 +647,6 @@ Source: https://iptv-org.github.io/iptv/countries/mx.m3u
 Name: DiezTV Encarnación (1080p)
 URL: https://stream.oursnetworktv.com/latin/encoder87/playlist.m3u8
 Logo: https://i.imgur.com/UVG71ES.png
-Source: https://iptv-org.github.io/iptv/countries/mx.m3u
---------------------------------------------------
-Name: Duna World (576p)
-URL: http://146.59.85.40:89/dunaworld/index.m3u8
-Logo: https://i.imgur.com/uOBQJZS.png
 Source: https://iptv-org.github.io/iptv/countries/mx.m3u
 --------------------------------------------------
 Name: Eclipse TV (720p)
@@ -858,11 +667,6 @@ Source: https://iptv-org.github.io/iptv/countries/mx.m3u
 Name: IERTBCS Canal 8 La Paz (1080p) [Not 24/7]
 URL: https://60ed5b6d0df78.streamlock.net:1936/iertbcs/iertbcs/playlist.m3u8
 Logo: https://i.imgur.com/R3icGuG.png
-Source: https://iptv-org.github.io/iptv/countries/mx.m3u
---------------------------------------------------
-Name: IMRyT Morelos TV (720p)
-URL: https://stream8.mexiserver.com:1936/morelostv/morelostv/playlist.m3u8
-Logo: https://i.imgur.com/D91O6ka.png
 Source: https://iptv-org.github.io/iptv/countries/mx.m3u
 --------------------------------------------------
 Name: Las Estrellas +1 (1080p)
@@ -930,19 +734,9 @@ URL: https://live.iplanay.gob.mx/hls/nayarittv.m3u8
 Logo: https://i.imgur.com/aZCTkjU.jpg
 Source: https://iptv-org.github.io/iptv/countries/mx.m3u
 --------------------------------------------------
-Name: Nueve TV San Luís Potosí (720p)
-URL: https://5ca9af4645e15.streamlock.net/nuevetv/videonuevetv/.m3u8
-Logo: https://i.imgur.com/3fzB7zY.png
-Source: https://iptv-org.github.io/iptv/countries/mx.m3u
---------------------------------------------------
 Name: Raly TV (720p)
 URL: https://cloudvideo.servers10.com:8081/8072/index.m3u8
 Logo: https://i.imgur.com/W8a1dIa.png
-Source: https://iptv-org.github.io/iptv/countries/mx.m3u
---------------------------------------------------
-Name: RTP Internacional (504p) [Not 24/7]
-URL: https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
-Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/RTP_Internacional_2016_%28Reduced_Version%29.svg/512px-RTP_Internacional_2016_%28Reduced_Version%29.svg.png
 Source: https://iptv-org.github.io/iptv/countries/mx.m3u
 --------------------------------------------------
 Name: Síntesis TV (480p)
@@ -963,11 +757,6 @@ Source: https://iptv-org.github.io/iptv/countries/mx.m3u
 Name: TELE 6
 URL: https://envivo.bolivia-link.com:3337/live/tele6live.m3u8
 Logo: https://i.imgur.com/p7tt72X.png
-Source: https://iptv-org.github.io/iptv/countries/mx.m3u
---------------------------------------------------
-Name: Tropical Moon Eventos TV (720p)
-URL: https://srv2.tropicalmoonmedia.com/eventostv/eventostv/playlist.m3u8
-Logo: https://i.imgur.com/RklPmml.png
 Source: https://iptv-org.github.io/iptv/countries/mx.m3u
 --------------------------------------------------
 Name: TV5 Tu Canal (768p)
@@ -1045,11 +834,6 @@ URL: https://5ca3e84a76d30.streamlock.net/gpacifico3/obregon.smil/playlist.m3u8
 Logo: https://i.imgur.com/uX1S3kt.png
 Source: https://iptv-org.github.io/iptv/countries/mx.m3u
 --------------------------------------------------
-Name: TVQ (720p)
-URL: https://dacastmmd.mmdlive.lldns.net/dacastmmd/9b8beac9026c450fb81ed895539c4665/index.m3u8
-Logo: https://i.imgur.com/RnZU9q3.png
-Source: https://iptv-org.github.io/iptv/countries/mx.m3u
---------------------------------------------------
 Name: TVT Tabasco (720p) [Not 24/7]
 URL: https://5e50264bd6766.streamlock.net/tabasco/videotabasco/playlist.m3u8
 Logo: https://i.imgur.com/MH8YlfO.png
@@ -1058,11 +842,6 @@ Source: https://iptv-org.github.io/iptv/countries/mx.m3u
 Name: UDG TV Canal 44 (720p) [Not 24/7]
 URL: https://d1sx1b16qowo88.cloudfront.net/out/v1/c278fcc434d1437eb31ff105c6b4a538/index.m3u8
 Logo: https://i.imgur.com/QKvINA6.png
-Source: https://iptv-org.github.io/iptv/countries/mx.m3u
---------------------------------------------------
-Name: Venevisión Internacional (720p)
-URL: https://vod2live.univtec.com/manifest/4c41c0d8-e2e4-43cc-bd43-79afe715e1b3.m3u8
-Logo: https://i.imgur.com/vtGED07.jpg
 Source: https://iptv-org.github.io/iptv/countries/mx.m3u
 --------------------------------------------------
 Name: Videa Plataforma (576p) [Not 24/7]
@@ -1078,131 +857,116 @@ Source: https://iptv-org.github.io/iptv/countries/mx.m3u
 
 Group: Investigación
 Name: Pluto TV Investiga
-URL: https://stitcher.pluto.tv/stitch/hls/channel/5dcde27ffae9520009c0c75a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/5dcde27ffae9520009c0c75a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/5dcde27ffae9520009c0c75a/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: Cazador de Homicidas
-URL: https://stitcher.pluto.tv/stitch/hls/channel/6109a9f5531b840007a4a187/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/6109a9f5531b840007a4a187/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/6109a9f5531b840007a4a187/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: Los archivos del FBI
-URL: https://stitcher.pluto.tv/stitch/hls/channel/5e67d41b93312100076f3fca/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/5e67d41b93312100076f3fca/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/5e67d41b93312100076f3fca/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: Archivos Forenses
-URL: https://stitcher.pluto.tv/stitch/hls/channel/5efb8c19b2678b000780d032/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/5efb8c19b2678b000780d032/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/5efb8c19b2678b000780d032/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: The New Detectives
-URL: https://stitcher.pluto.tv/stitch/hls/channel/5ea71d48af1d0b0007d837f4/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/5ea71d48af1d0b0007d837f4/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/5ea71d48af1d0b0007d837f4/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: Misterios sin Resolver
-URL: https://stitcher.pluto.tv/stitch/hls/channel/5f610042272f68000867685b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/5f610042272f68000867685b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/5f610042272f68000867685b/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: Zona Investigación TV
-URL: https://stitcher.pluto.tv/stitch/hls/channel/680bdaf54d7cf165c705f91e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/680bdaf54d7cf165c705f91e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/680bdaf54d7cf165c705f91e/colorLogoPNG_1749054649625.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 
 Group: Kids
 Name: Nick Jr. Club
-URL: https://stitcher.pluto.tv/stitch/hls/channel/5ddd7cb2cbb9010009b4fe32/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/5ddd7cb2cbb9010009b4fe32/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/5ddd7cb2cbb9010009b4fe32/colorLogoPNG_1748446493242.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: Baby Shark TV
-URL: https://stitcher.pluto.tv/stitch/hls/channel/619d5e6a093e7c0007489211/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/619d5e6a093e7c0007489211/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/619d5e6a093e7c0007489211/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: Babyfirst
-URL: https://stitcher.pluto.tv/stitch/hls/channel/5ebac49ce4dc8b00078b23bc/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/5ebac49ce4dc8b00078b23bc/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/5ebac49ce4dc8b00078b23bc/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: Pluto TV Junior
-URL: https://stitcher.pluto.tv/stitch/hls/channel/5dcde2ac4bc6c500094ab45b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/5dcde2ac4bc6c500094ab45b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/5dcde2ac4bc6c500094ab45b/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: Barney
-URL: https://stitcher.pluto.tv/stitch/hls/channel/5f29ada4bdaebd000708d49d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/5f29ada4bdaebd000708d49d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/5f29ada4bdaebd000708d49d/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: El Reino Infantil
-URL: https://stitcher.pluto.tv/stitch/hls/channel/5f4d3d06fb60d8000781fce8/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/5f4d3d06fb60d8000781fce8/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/5f4d3d06fb60d8000781fce8/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: Nickelodeon Clásico
-URL: https://stitcher.pluto.tv/stitch/hls/channel/6824cda00101510f9eeaa011/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/6824cda00101510f9eeaa011/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/6824cda00101510f9eeaa011/colorLogoPNG_1750110888810.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: Hey Arnold!
-URL: https://stitcher.pluto.tv/stitch/hls/channel/66c79221b1a34600087e264d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/66c79221b1a34600087e264d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/66c79221b1a34600087e264d/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: Avatar: La Leyenda de Aang
-URL: https://stitcher.pluto.tv/stitch/hls/channel/6759ee82bd523200083b4f0f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/6759ee82bd523200083b4f0f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/6759ee82bd523200083b4f0f/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: Rugrats
-URL: https://stitcher.pluto.tv/stitch/hls/channel/5ea7215005d66d0007e8128a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/5ea7215005d66d0007e8128a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/5ea7215005d66d0007e8128a/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: Nickelodeon Toons
-URL: https://stitcher.pluto.tv/stitch/hls/channel/645952687cb4b100084ed52e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/645952687cb4b100084ed52e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/645952687cb4b100084ed52e/colorLogoPNG_1754038340046.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: Bob Esponja Pantalones Cuadrados
-URL: https://stitcher.pluto.tv/stitch/hls/channel/6254598f5083f800076d8563/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/6254598f5083f800076d8563/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/6254598f5083f800076d8563/colorLogoPNG_1753975707864.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: Los Padrinos Mágicos
-URL: https://stitcher.pluto.tv/stitch/hls/channel/6322099c822bbc00074857db/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/6322099c822bbc00074857db/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/6322099c822bbc00074857db/colorLogoPNG-1667576393608.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: Las Tortugas Ninja
-URL: https://stitcher.pluto.tv/stitch/hls/channel/63dd5d7a4e83e700088fbca8/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/63dd5d7a4e83e700088fbca8/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/63dd5d7a4e83e700088fbca8/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: Pluto TV Kids
-URL: https://stitcher.pluto.tv/stitch/hls/channel/5dd6dae8ce788b0009eaf77b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/5dd6dae8ce788b0009eaf77b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/5dd6dae8ce788b0009eaf77b/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
---------------------------------------------------
-Name: BabyFirst Spanish
-URL: https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/be6f9eac-280e-4748-b866-2eb2463c1844/manifest.m3u8
-Logo: https://i.imgur.com/WxLHBwu.png
-Source: https://iptv-org.github.io/iptv/countries/mx.m3u
---------------------------------------------------
-Name: Pluto TV Bob Esponja (720p)
-URL: https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1aca0b4e448e00075e7c5e/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&is_lat=1&platform=web&rdid=channel&tags=ROKU_CONTENT_TAGS
-Logo: https://i.imgur.com/nmZ2nId.png
-Source: https://iptv-org.github.io/iptv/countries/mx.m3u
---------------------------------------------------
-Name: Zoo Moo (Australia) (1080p)
-URL: https://zoomoo-samsungau.amagi.tv/playlist.m3u8
-Logo: https://i.imgur.com/ciTJrnl.png
-Source: https://iptv-org.github.io/iptv/countries/mx.m3u
 --------------------------------------------------
 
 Group: Legislative
@@ -1227,59 +991,7 @@ Logo: https://i.imgur.com/fLpkHfZ.png
 Source: https://iptv-org.github.io/iptv/countries/mx.m3u
 --------------------------------------------------
 
-Group: Lifestyle
-Name: Plous TV (1080p)
-URL: https://vcp.myplaytv.com/glowtv/glowtv/playlist.m3u8
-Logo: https://i.imgur.com/OSet4en.png
-Source: https://iptv-org.github.io/iptv/countries/mx.m3u
---------------------------------------------------
-Name: Superyacht TV (1080p)
-URL: https://sy.wns.live/hls/stream.m3u8
-Logo: https://i.imgur.com/cgjgjE1.png
-Source: https://iptv-org.github.io/iptv/countries/mx.m3u
---------------------------------------------------
-
 Group: Movies
-Name: Cine Adrenalina (720p)
-URL: https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d164d92e97a5e107638d2/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d8d164d92e97a5e107638d2&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=904&terminate=false&userId=
-Logo: https://i.imgur.com/njCKaMv.png
-Source: https://iptv-org.github.io/iptv/countries/mx.m3u
---------------------------------------------------
-Name: Cine Clásico
-URL: http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64b9671cdac71b0008f371df/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27b8f8-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=28fb2aae-fcc1-4b39-a190-1ac70222ae41
-Logo: https://i.imgur.com/hCA5BRr.png
-Source: https://iptv-org.github.io/iptv/countries/mx.m3u
---------------------------------------------------
-Name: Cine Premiere (720p)
-URL: https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-Logo: https://i.imgur.com/PdhWTO6.png
-Source: https://iptv-org.github.io/iptv/countries/mx.m3u
---------------------------------------------------
-Name: Cine Terror
-URL: http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d8d180092e97a5e107638d3/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27e001-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=c0a34186-d9cb-4907-882c-bf61e4d59e0f
-Logo: https://i.imgur.com/I5XxyLI.png
-Source: https://iptv-org.github.io/iptv/countries/mx.m3u
---------------------------------------------------
-Name: Cine Terror LATAM [Geo-blocked]
-URL: https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-Logo: https://i.imgur.com/I5XxyLI.png
-Source: https://iptv-org.github.io/iptv/countries/mx.m3u
---------------------------------------------------
-Name: Cine XOXO
-URL: http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f5136317aedfb0007016f93/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c27e002-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=308fd9dd-2f8a-441f-b59d-e02f4b0aacd7
-Logo: https://i.imgur.com/eAS86qH.png
-Source: https://iptv-org.github.io/iptv/countries/mx.m3u
---------------------------------------------------
-Name: De Película (576p)
-URL: https://linear-354.frequency.stream/mt/studio/354/hls/master/playlist.m3u8
-Logo: https://i.imgur.com/aksM8pa.png
-Source: https://iptv-org.github.io/iptv/countries/mx.m3u
---------------------------------------------------
-Name: De Película Plus (576p)
-URL: https://linear-404.frequency.stream/mt/studio/404/hls/master/playlist.m3u8
-Logo: https://i.imgur.com/MMhSmDK.png
-Source: https://iptv-org.github.io/iptv/countries/mx.m3u
---------------------------------------------------
 Name: Filmex (Xumo) (1080p) [Geo-blocked]
 URL: https://filmex-filmex-xumo.amagi.tv/playlist.m3u8
 Logo: https://i.imgur.com/Hiz2OyC.png
@@ -1295,21 +1007,6 @@ URL: https://linear-411.frequency.stream/dist/vix/411/hls/master/playlist.m3u8
 Logo: https://i.imgur.com/JMa7jws.png
 Source: https://iptv-org.github.io/iptv/countries/mx.m3u
 --------------------------------------------------
-Name: Pluto TV Cine Accion
-URL: http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=unknown&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bfef8b40-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=787d09fb-c219-46d0-b022-07fb4d7f7395&userId=
-Logo: https://i.imgur.com/PXhCzXn.png
-Source: https://iptv-org.github.io/iptv/countries/mx.m3u
---------------------------------------------------
-Name: Pluto TV Cine Estelar
-URL: http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde437229eff00091b6c30/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=unknown&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff0c3c1-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=20f53e04-9cb8-454e-ad8b-838686c353e7&userId=
-Logo: https://i.imgur.com/v3BO4nW.png
-Source: https://iptv-org.github.io/iptv/countries/mx.m3u
---------------------------------------------------
-Name: Pluto TV Cine Suspenso (720p)
-URL: https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddc4e8bcbb9010009b4e84f/master.m3u8?advertisingId=&appName=web&appVersion=5.14.0-0f5ca04c21649b8c8aad4e56266a23b96d73b83a&app_name=web&clientDeviceType=0&clientID=6fbead95-26b1-415d-998f-1bdef62d10be&clientModelNumber=na&deviceDNT=false&deviceId=6fbead95-26b1-415d-998f-1bdef62d10be&deviceLat=19.4358&deviceLon=-99.1441&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=88.0.4324.150&marketingRegion=VE&serverSideAds=false&sessionID=b8e5a857-714a-11eb-b532-0242ac110002&sid=b8e5a857-714a-11eb-b532-0242ac110002&userId=
-Logo: https://i.imgur.com/GnUmEZn.png
-Source: https://iptv-org.github.io/iptv/countries/mx.m3u
---------------------------------------------------
 
 Group: Music
 Name: Bandamax
@@ -1320,21 +1017,6 @@ Source: https://iptv-org.github.io/iptv/countries/mx.m3u
 Name: Conecta TV
 URL: https://stream8.mexiserver.com:19360/conectatvx/conectatvx.m3u8
 Logo: https://i.imgur.com/qEk0QGa.png
-Source: https://iptv-org.github.io/iptv/countries/mx.m3u
---------------------------------------------------
-Name: EnerGeek Radio (1080p)
-URL: https://backend.energeek.cl/webtv/egradioweb/index.m3u8?token=ZZDemoIPTVGH
-Logo: https://i.imgur.com/euaoN1A.png
-Source: https://iptv-org.github.io/iptv/countries/mx.m3u
---------------------------------------------------
-Name: Euro Indie Music Chart TV (360p)
-URL: http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
-Logo: https://i.imgur.com/lF0iofX.png
-Source: https://iptv-org.github.io/iptv/countries/mx.m3u
---------------------------------------------------
-Name: HTV
-URL: https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HTV/index.m3u8
-Logo: https://i.imgur.com/NlKFNHS.png
 Source: https://iptv-org.github.io/iptv/countries/mx.m3u
 --------------------------------------------------
 Name: La Imagen de Tierra Caliente (768p)
@@ -1367,16 +1049,6 @@ URL: https://cloudvideo.servers10.com:8081/8128/index.m3u8
 Logo: https://i.imgur.com/Ku1CEeb.png
 Source: https://iptv-org.github.io/iptv/countries/mx.m3u
 --------------------------------------------------
-Name: Lobo TV (720p)
-URL: https://5ca3e84a76d30.streamlock.net/tvlobo/videotvlobo/playlist.m3u8
-Logo: https://i.imgur.com/3fA50RJ.png
-Source: https://iptv-org.github.io/iptv/countries/mx.m3u
---------------------------------------------------
-Name: MTV Hits Europe
-URL: http://45.88.92.3/tr3_MTVHits_SD/index.m3u8?token=test
-Logo: https://i.imgur.com/zNscEST.png
-Source: https://iptv-org.github.io/iptv/countries/mx.m3u
---------------------------------------------------
 Name: Ola Grupera (720p)
 URL: https://s.emisoras.tv:8081/olagruperamx/index.m3u8
 Logo: https://i.imgur.com/ZnUtNHE.png
@@ -1392,31 +1064,6 @@ URL: https://cp.panelchs.com:1936/8016/8016/playlist.m3u8
 Logo: https://i.imgur.com/1rfoSt8.png
 Source: https://iptv-org.github.io/iptv/countries/mx.m3u
 --------------------------------------------------
-Name: Telehit (1080p)
-URL: http://45.175.139.194:8000/play/62
-Logo: https://i.imgur.com/NVxHxJn.png
-Source: https://iptv-org.github.io/iptv/countries/mx.m3u
---------------------------------------------------
-Name: Tropical Moon Cumbia TV (720p)
-URL: https://srv2.tropicalmoonmedia.com/cumbiatv/cumbiatv/playlist.m3u8
-Logo: https://i.imgur.com/jL1kLyS.png
-Source: https://iptv-org.github.io/iptv/countries/mx.m3u
---------------------------------------------------
-Name: Tropical Moon Salsa TV (720p)
-URL: https://srv.tropicalmoonmedia.com/musictv/musictv/playlist.m3u8
-Logo: https://i.imgur.com/jL1kLyS.png
-Source: https://iptv-org.github.io/iptv/countries/mx.m3u
---------------------------------------------------
-Name: Tropical Moon Urban TV (720p)
-URL: https://srv.tropicalmoonmedia.com/urbantvnetott/urbantvnetott/playlist.m3u8
-Logo: https://i.imgur.com/WcM7BP5.png
-Source: https://iptv-org.github.io/iptv/countries/mx.m3u
---------------------------------------------------
-Name: Tropical Music TV (720p)
-URL: https://59a564764e2b6.streamlock.net/vallenato/tropical/playlist.m3u8
-Logo: https://i.imgur.com/h48pwLn.png
-Source: https://iptv-org.github.io/iptv/countries/mx.m3u
---------------------------------------------------
 Name: Visión Televisión (720p)
 URL: https://cloudvideo.servers10.com:8081/8016/index.m3u8
 Logo: https://i.imgur.com/HV5tgcM.png
@@ -1425,70 +1072,45 @@ Source: https://iptv-org.github.io/iptv/countries/mx.m3u
 
 Group: Música
 Name: MTV Biggest Pop
-URL: https://stitcher.pluto.tv/stitch/hls/channel/6047fabfce6e8e00070bcc9f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/6047fabfce6e8e00070bcc9f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/6047fabfce6e8e00070bcc9f/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: MTV Classic
-URL: https://stitcher.pluto.tv/stitch/hls/channel/66a11a21a79dea0008aa90ca/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/66a11a21a79dea0008aa90ca/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/66a11a21a79dea0008aa90ca/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: MTV Rocks
-URL: https://stitcher.pluto.tv/stitch/hls/channel/66a01b52a4ee27000808ea36/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/66a01b52a4ee27000808ea36/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/66a01b52a4ee27000808ea36/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: MTV Flow Latino
-URL: https://stitcher.pluto.tv/stitch/hls/channel/62b218fc511d4b00070ddc0c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/62b218fc511d4b00070ddc0c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/62b218fc511d4b00070ddc0c/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: MTV on Tour!
-URL: https://stitcher.pluto.tv/stitch/hls/channel/67b4a4e41a5ca7608025da79/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/67b4a4e41a5ca7608025da79/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/67b4a4e41a5ca7608025da79/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: Conciertos por Stingray
-URL: https://stitcher.pluto.tv/stitch/hls/channel/5f85ca40eda1b10007b967cd/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/5f85ca40eda1b10007b967cd/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/5f85ca40eda1b10007b967cd/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: Karaoke por Stingray
-URL: https://stitcher.pluto.tv/stitch/hls/channel/5f85cf621d6d2200079f1de0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/5f85cf621d6d2200079f1de0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/5f85cf621d6d2200079f1de0/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 
 Group: News
-Name: ABC News (720p)
-URL: https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/512px-ABC_News_Live_logo_2021.svg.png
-Source: https://iptv-org.github.io/iptv/countries/mx.m3u
---------------------------------------------------
-Name: Arirang TV UN (1080p)
-URL: https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8
-Logo: https://i.imgur.com/Jdy3WNm.png
-Source: https://iptv-org.github.io/iptv/countries/mx.m3u
---------------------------------------------------
-Name: BBC News (North America) (1080p)
-URL: https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
-Logo: https://i.imgur.com/vSz2WEp.png
-Source: https://iptv-org.github.io/iptv/countries/mx.m3u
---------------------------------------------------
 Name: Cable Noticias Jalisco (614p) [Not 24/7]
 URL: https://stream.oursnetworktv.com/latin/encoder74/playlist.m3u8
 Logo: https://i.imgur.com/Ff7HYCZ.jpg
-Source: https://iptv-org.github.io/iptv/countries/mx.m3u
---------------------------------------------------
-Name: CGTN (1080p)
-URL: https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
-Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/512px-CGTN.svg.png
-Source: https://iptv-org.github.io/iptv/countries/mx.m3u
---------------------------------------------------
-Name: CGTN Français (1080p) [Not 24/7]
-URL: https://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8
-Logo: https://i.imgur.com/BwhledK.png
 Source: https://iptv-org.github.io/iptv/countries/mx.m3u
 --------------------------------------------------
 Name: Estrella News (1080p)
@@ -1501,21 +1123,6 @@ URL: https://channel02-notusa.akamaized.net/hls/live/2023914/event01/index.m3u8
 Logo: https://i.imgur.com/dDFrONz.png
 Source: https://iptv-org.github.io/iptv/countries/mx.m3u
 --------------------------------------------------
-Name: France 24 Español (1080p)
-URL: https://live.france24.com/hls/live/2037220-b/F24_ES_HI_HLS/master_5000.m3u8
-Logo: https://upload.wikimedia.org/wikipedia/commons/c/c1/France_24_logo_%282013%29.svg
-Source: https://iptv-org.github.io/iptv/countries/mx.m3u
---------------------------------------------------
-Name: Hispan TV
-URL: https://cdnlive.presstv.ir/live/smil:live.smil/playlist.m3u8
-Logo: https://upload.wikimedia.org/wikipedia/commons/9/9f/Hispantv_logo.jpg
-Source: https://iptv-org.github.io/iptv/countries/mx.m3u
---------------------------------------------------
-Name: I24 News English (720p)
-URL: https://bcovlive-a.akamaihd.net/ecf224f43f3b43e69471a7b626481af0/eu-central-1/5377161796001/playlist.m3u8
-Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/512px-LOGO_i24NEWS.png
-Source: https://iptv-org.github.io/iptv/countries/mx.m3u
---------------------------------------------------
 Name: Info TV 9 (720p)
 URL: https://stream.oursnetworktv.com/latin/encoder25/playlist.m3u8
 Logo: https://i.imgur.com/Rgu6Hzo.png
@@ -1524,11 +1131,6 @@ Source: https://iptv-org.github.io/iptv/countries/mx.m3u
 Name: Meganoticias MX (1080p)
 URL: https://pctv-meganoticias-1-mx.tcl.wurl.tv/playlist.m3u8
 Logo: https://i.imgur.com/kARz7SR.png
-Source: https://iptv-org.github.io/iptv/countries/mx.m3u
---------------------------------------------------
-Name: Metro Globe Network (1080p) [Not 24/7]
-URL: https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
-Logo: https://i.imgur.com/aiiinzg.png
 Source: https://iptv-org.github.io/iptv/countries/mx.m3u
 --------------------------------------------------
 Name: MiSURtv (1080p)
@@ -1571,276 +1173,234 @@ URL: https://stream.oursnetworktv.com/latin/paralelo20/playlist.m3u8
 Logo: https://i.imgur.com/9SOZ2Sh.png
 Source: https://iptv-org.github.io/iptv/countries/mx.m3u
 --------------------------------------------------
-Name: RT en Español (1080p)
-URL: https://cloud.odysee.live/content/9f638b94d11d879726ae55dd5a0923621b96a45b/master.m3u8
-Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Russia-today-logo.svg/512px-Russia-today-logo.svg.png
-Source: https://iptv-org.github.io/iptv/countries/mx.m3u
---------------------------------------------------
-Name: TeleSUR (1080p)
-URL: https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/playlist.m3u8
-Logo: https://i.imgur.com/P50VjRX.png
-Source: https://iptv-org.github.io/iptv/countries/mx.m3u
---------------------------------------------------
-Name: UN Web TV (540p)
-URL: https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
-Logo: https://i.imgur.com/UcAwBep.png
-Source: https://iptv-org.github.io/iptv/countries/mx.m3u
---------------------------------------------------
-Name: VPItv (1080p)
-URL: https://ott3.streann.com/loadbalancer/services/public/channels/5d23d5882cdce61dae029fd8/playlist.m3u8
-Logo: https://i.imgur.com/X5hyKU8.png
-Source: https://iptv-org.github.io/iptv/countries/mx.m3u
---------------------------------------------------
 
 Group: Noticias
 Name: CBS News
-URL: https://stitcher.pluto.tv/stitch/hls/channel/62310d5a5dc9550007c6f580/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/62310d5a5dc9550007c6f580/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/62310d5a5dc9550007c6f580/colorLogoPNG_1732045727243.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: Euronews Español
-URL: https://stitcher.pluto.tv/stitch/hls/channel/619d59b7cbef25000728221c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/619d59b7cbef25000728221c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/619d59b7cbef25000728221c/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: RCN Noticias
-URL: https://stitcher.pluto.tv/stitch/hls/channel/67d9b0ebc290c9499046e88f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/67d9b0ebc290c9499046e88f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/67d9b0ebc290c9499046e88f/colorLogoPNG_1747143716006.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: ADN40
-URL: https://stitcher.pluto.tv/stitch/hls/channel/646ccd3681844c000974d6f4/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/646ccd3681844c000974d6f4/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/646ccd3681844c000974d6f4/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: TeleFórmula
-URL: https://stitcher.pluto.tv/stitch/hls/channel/63d2c140c111bc0008cb890b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/63d2c140c111bc0008cb890b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/63d2c140c111bc0008cb890b/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: Milenio Televisión
-URL: https://stitcher.pluto.tv/stitch/hls/channel/652e922db4b047000825f975/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/652e922db4b047000825f975/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/652e922db4b047000825f975/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: C4 en Alerta
-URL: https://stitcher.pluto.tv/stitch/hls/channel/673f7446030a2c0008231bc3/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/673f7446030a2c0008231bc3/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/673f7446030a2c0008231bc3/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 
 Group: Novelas
 Name: Pluto TV Novelas
-URL: https://stitcher.pluto.tv/stitch/hls/channel/5dcde0cc2efd2700090b7ff4/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/5dcde0cc2efd2700090b7ff4/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/5dcde0cc2efd2700090b7ff4/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: Pluto TV Novelas de Mexico
-URL: https://stitcher.pluto.tv/stitch/hls/channel/6474a7958e3c0a0008b97cae/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/6474a7958e3c0a0008b97cae/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/6474a7958e3c0a0008b97cae/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: Corazón
-URL: https://stitcher.pluto.tv/stitch/hls/channel/646ccdd0939a5900088a1980/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/646ccdd0939a5900088a1980/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/646ccdd0939a5900088a1980/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: Pluto TV Novelas de Colombia
-URL: https://stitcher.pluto.tv/stitch/hls/channel/6474a7e7f77b6100080a89e7/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/6474a7e7f77b6100080a89e7/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/6474a7e7f77b6100080a89e7/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: Sin Tetas No Hay Paraíso
-URL: https://stitcher.pluto.tv/stitch/hls/channel/604bdf4e6d0abc0007ba77ad/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/604bdf4e6d0abc0007ba77ad/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/604bdf4e6d0abc0007ba77ad/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: La Selección
-URL: https://stitcher.pluto.tv/stitch/hls/channel/63211ba9cad976000794f988/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/63211ba9cad976000794f988/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/63211ba9cad976000794f988/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: Pluto TV Novelas de Venezuela
-URL: https://stitcher.pluto.tv/stitch/hls/channel/6474a86917f5e100089a0c1c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/6474a86917f5e100089a0c1c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/6474a86917f5e100089a0c1c/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 
-Group: Outdoor
-Name: Agrotendencia TV (1080p)
-URL: https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8
-Logo: https://i.imgur.com/frd60hR.png
-Source: https://iptv-org.github.io/iptv/countries/mx.m3u
---------------------------------------------------
-
 Group: Películas
 Name: Pluto TV Cine Estelar
-URL: https://stitcher.pluto.tv/stitch/hls/channel/5dcde437229eff00091b6c30/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/5dcde437229eff00091b6c30/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/5dcde437229eff00091b6c30/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: Pluto TV Cine Acción
-URL: https://stitcher.pluto.tv/stitch/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/5dcb62e63d4d8f0009f36881/colorLogoPNG_1733158185443.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: Estrellas de Acción
-URL: https://stitcher.pluto.tv/stitch/hls/channel/5e972a21ad709d00074195ba/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/5e972a21ad709d00074195ba/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/5e972a21ad709d00074195ba/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: Adrenalina Pura TV
-URL: https://stitcher.pluto.tv/stitch/hls/channel/61b793ccf571b80007b7a610/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/61b793ccf571b80007b7a610/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/61b793ccf571b80007b7a610/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: Pluto TV Cine Comedia
-URL: https://stitcher.pluto.tv/stitch/hls/channel/5dcdde78f080d900098550e4/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/5dcdde78f080d900098550e4/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/5dcdde78f080d900098550e4/logo7_2-20250317152757.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: Pluto TV Cine Drama
-URL: https://stitcher.pluto.tv/stitch/hls/channel/5dcddfcb229eff00091b6bdf/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/5dcddfcb229eff00091b6bdf/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/5dcddfcb229eff00091b6bdf/colorLogoPNG_1751914046614.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: Pluto TV Cine Romance
-URL: https://stitcher.pluto.tv/stitch/hls/channel/5dd7ea2aeab5230009986735/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/5dd7ea2aeab5230009986735/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/5dd7ea2aeab5230009986735/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: Pluto TV Cine Suspenso
-URL: https://stitcher.pluto.tv/stitch/hls/channel/5ddc4e8bcbb9010009b4e84f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/5ddc4e8bcbb9010009b4e84f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/5ddc4e8bcbb9010009b4e84f/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: Pluto TV Cine Crimen
-URL: https://stitcher.pluto.tv/stitch/hls/channel/624af40c004f8000079b784d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/624af40c004f8000079b784d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/624af40c004f8000079b784d/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: Pluto TV Cine Terror
-URL: https://stitcher.pluto.tv/stitch/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/5dcddf1ed95e740009fef7ab/colorLogoPNG_1730472485648.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: Pluto TV Sci-Fi
-URL: https://stitcher.pluto.tv/stitch/hls/channel/5f2817d3d7573a00080f9175/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/5f2817d3d7573a00080f9175/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/5f2817d3d7573a00080f9175/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: Runtime
-URL: https://stitcher.pluto.tv/stitch/hls/channel/62c5d80dc6de440007e033eb/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/62c5d80dc6de440007e033eb/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/62c5d80dc6de440007e033eb/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: Pluto TV  Nuestro Cine
-URL: https://stitcher.pluto.tv/stitch/hls/channel/5defde6d6c07b50009cf0757/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/5defde6d6c07b50009cf0757/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/5defde6d6c07b50009cf0757/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: Pluto TV Cine Inspirador
-URL: https://stitcher.pluto.tv/stitch/hls/channel/6806d519fea7414f33f57016/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/6806d519fea7414f33f57016/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/6806d519fea7414f33f57016/colorLogoPNG_1746817663597.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: Pluto TV A La Mexicana
-URL: https://stitcher.pluto.tv/stitch/hls/channel/5dfcde52d28b09000a42d7a2/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/5dfcde52d28b09000a42d7a2/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/5dfcde52d28b09000a42d7a2/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: Pluto TV Cine Clásico
-URL: https://stitcher.pluto.tv/stitch/hls/channel/609059dc63be6e0007b4eca6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/609059dc63be6e0007b4eca6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/609059dc63be6e0007b4eca6/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: Pluto TV Cine Familia
-URL: https://stitcher.pluto.tv/stitch/hls/channel/5dd6ddb30a1d8a000908ed4c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/5dd6ddb30a1d8a000908ed4c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/5dd6ddb30a1d8a000908ed4c/colorLogoPNG_1732662706857.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: Pluto TV Pre-Navidad
-URL: https://stitcher.pluto.tv/stitch/hls/channel/5dd6ed41526c77000941411c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/5dd6ed41526c77000941411c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/5dd6ed41526c77000941411c/colorLogoPNG_1748033658247.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 
 Group: Reality
 Name: Pluto TV Reality
-URL: https://stitcher.pluto.tv/stitch/hls/channel/5dcde197f6591d0009839e04/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/5dcde197f6591d0009839e04/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/5dcde197f6591d0009839e04/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: MTV Drag
-URL: https://stitcher.pluto.tv/stitch/hls/channel/64510d3ad3fdde00080951f2/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/64510d3ad3fdde00080951f2/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/64510d3ad3fdde00080951f2/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: MTV Pluto TV
-URL: https://stitcher.pluto.tv/stitch/hls/channel/5fab088b3279760007d4e4fd/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/5fab088b3279760007d4e4fd/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/5fab088b3279760007d4e4fd/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: MTV Reality
-URL: https://stitcher.pluto.tv/stitch/hls/channel/5de91b7ea86ee60009d89e75/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/5de91b7ea86ee60009d89e75/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/5de91b7ea86ee60009d89e75/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: MTV Dating
-URL: https://stitcher.pluto.tv/stitch/hls/channel/6851b909954170e0128bc71d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/6851b909954170e0128bc71d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/6851b909954170e0128bc71d/colorLogoPNG_1750686878183.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: MTV Shore
-URL: https://stitcher.pluto.tv/stitch/hls/channel/61a52615cbef2500072876e2/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/61a52615cbef2500072876e2/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/61a52615cbef2500072876e2/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: MTV Con Mi Ex
-URL: https://stitcher.pluto.tv/stitch/hls/channel/638693db857364000781b471/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/638693db857364000781b471/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/638693db857364000781b471/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: MTV Ridiculousness
-URL: https://stitcher.pluto.tv/stitch/hls/channel/5e98a911c881310007d7aae2/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/5e98a911c881310007d7aae2/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/5e98a911c881310007d7aae2/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: MTV Teen Mom
-URL: https://stitcher.pluto.tv/stitch/hls/channel/620fd9f4afb9a80007a9c6d5/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/620fd9f4afb9a80007a9c6d5/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/620fd9f4afb9a80007a9c6d5/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: MTV Catfish
-URL: https://stitcher.pluto.tv/stitch/hls/channel/625461ef01f27a0007976ad1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/625461ef01f27a0007976ad1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/625461ef01f27a0007976ad1/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 
 Group: Religious
-Name: 3ABN International
-URL: https://3abn.bozztv.com/3abn2/Int_live/smil:Int_live.smil/playlist.m3u8
-Logo: https://i.imgur.com/8YMLPA3.png
-Source: https://iptv-org.github.io/iptv/countries/mx.m3u
---------------------------------------------------
 Name: Alcance TV (720p)
 URL: https://5bf8041cb3fed.streamlock.net/AlcanceTV/AlcanceTV/playlist.m3u8
 Logo: https://i.imgur.com/5nYjRlb.png
 Source: https://iptv-org.github.io/iptv/countries/mx.m3u
 --------------------------------------------------
-Name: Angel TV Spanish (720p)
-URL: https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelspanish_all/playlist.m3u8
-Logo: https://i.imgur.com/qKLEGU7.png
-Source: https://iptv-org.github.io/iptv/countries/mx.m3u
---------------------------------------------------
 Name: Efeso Televisión (1080p) [Not 24/7]
 URL: https://stream.oursnetworktv.com/latin/Esotelevision/playlist.m3u8
 Logo: https://i.imgur.com/zJCsPB2.jpg
-Source: https://iptv-org.github.io/iptv/countries/mx.m3u
---------------------------------------------------
-Name: Enlace (720p)
-URL: https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8
-Logo: https://i.imgur.com/YwUVTmS.png
 Source: https://iptv-org.github.io/iptv/countries/mx.m3u
 --------------------------------------------------
 Name: María Visión Mexico (360p) [Not 24/7]
@@ -1861,203 +1421,181 @@ Source: https://iptv-org.github.io/iptv/countries/mx.m3u
 
 Group: Retro
 Name: Pluto TV Series Retro
-URL: https://stitcher.pluto.tv/stitch/hls/channel/5de802659167b10009e7deba/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/5de802659167b10009e7deba/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/5de802659167b10009e7deba/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: Hechizada
-URL: https://stitcher.pluto.tv/stitch/hls/channel/631fb6be21b7440007b9f606/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/631fb6be21b7440007b9f606/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/631fb6be21b7440007b9f606/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: MacGyver
-URL: https://stitcher.pluto.tv/stitch/hls/channel/63eb95baa99571000898a078/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/63eb95baa99571000898a078/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/63eb95baa99571000898a078/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: Baywatch
-URL: https://stitcher.pluto.tv/stitch/hls/channel/66a26a7846762a0008258d4e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/66a26a7846762a0008258d4e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/66a26a7846762a0008258d4e/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: Los Tres Chiflados
-URL: https://stitcher.pluto.tv/stitch/hls/channel/5f85f1dc1418bd0007e11eb9/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/5f85f1dc1418bd0007e11eb9/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/5f85f1dc1418bd0007e11eb9/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: Pluto TV Retro Cartoons
-URL: https://stitcher.pluto.tv/stitch/hls/channel/60142258a54aeb0007751c15/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/60142258a54aeb0007751c15/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/60142258a54aeb0007751c15/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: Popeye
-URL: https://stitcher.pluto.tv/stitch/hls/channel/677d93afe650a700081e5f18/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/677d93afe650a700081e5f18/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/677d93afe650a700081e5f18/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 
-Group: Science
-Name: Hiperconectados TV
-URL: https://stmv5.voxtvhd.com.br/hiperconectados/hiperconectados/playlist.m3u8
-Logo: https://i.imgur.com/CBbbrkI.png
-Source: https://iptv-org.github.io/iptv/countries/mx.m3u
---------------------------------------------------
-
 Group: Series
 Name: Pluto TV Series de Crimen
-URL: https://stitcher.pluto.tv/stitch/hls/channel/655f62ff954b020008c91ec6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/655f62ff954b020008c91ec6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/655f62ff954b020008c91ec6/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: CSI: Miami
-URL: https://stitcher.pluto.tv/stitch/hls/channel/63eb9255c111bc0008fe6ec4/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/63eb9255c111bc0008fe6ec4/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/63eb9255c111bc0008fe6ec4/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: NCIS
-URL: https://stitcher.pluto.tv/stitch/hls/channel/63eb947c4e83e70008ab877b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/63eb947c4e83e70008ab877b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/63eb947c4e83e70008ab877b/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: Los Asesinatos de Midsomer
-URL: https://stitcher.pluto.tv/stitch/hls/channel/6764203df433320008836bc6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/6764203df433320008836bc6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/6764203df433320008836bc6/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: Números
-URL: https://stitcher.pluto.tv/stitch/hls/channel/67f960680072d6b187a0682e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/67f960680072d6b187a0682e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/67f960680072d6b187a0682e/colorLogoPNG_1747415112008.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: Pluto TV Series de Acción
-URL: https://stitcher.pluto.tv/stitch/hls/channel/6479ff1c17f5e10008ad2797/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/6479ff1c17f5e10008ad2797/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/6479ff1c17f5e10008ad2797/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: Rookie Blue: Policías Novatos
-URL: https://stitcher.pluto.tv/stitch/hls/channel/64ff270f30ab3300084e259c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/64ff270f30ab3300084e259c/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/64ff270f30ab3300084e259c/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: The Walking Dead by AMC
-URL: https://stitcher.pluto.tv/stitch/hls/channel/678aa0b3680721c77c5035dd/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/678aa0b3680721c77c5035dd/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/678aa0b3680721c77c5035dd/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: Pluto TV Series de Sci-Fi
-URL: https://stitcher.pluto.tv/stitch/hls/channel/65662f8a2c46f300088a84cc/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/65662f8a2c46f300088a84cc/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/65662f8a2c46f300088a84cc/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: Andromeda
-URL: https://stitcher.pluto.tv/stitch/hls/channel/67e598e28b99330f75b4c629/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/67e598e28b99330f75b4c629/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/67e598e28b99330f75b4c629/colorLogoPNG_1745592400066.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: Z Nation
-URL: https://stitcher.pluto.tv/stitch/hls/channel/66b3af1c3a4ad200081c7d03/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/66b3af1c3a4ad200081c7d03/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/66b3af1c3a4ad200081c7d03/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: Pluto TV Series de Aventura
-URL: https://stitcher.pluto.tv/stitch/hls/channel/65662c1357fe4a00086b3eb1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/65662c1357fe4a00086b3eb1/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/65662c1357fe4a00086b3eb1/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: Relic Hunter
-URL: https://stitcher.pluto.tv/stitch/hls/channel/67e5941f0812459cb682d9c6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/67e5941f0812459cb682d9c6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/67e5941f0812459cb682d9c6/colorLogoPNG_1745511571298.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: Pluto TV Series
-URL: https://stitcher.pluto.tv/stitch/hls/channel/5dcde1317578340009b751d0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/5dcde1317578340009b751d0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/5dcde1317578340009b751d0/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: Pluto TV Series de Comedia
-URL: https://stitcher.pluto.tv/stitch/hls/channel/655f626d57fe4a00085c7c3e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/655f626d57fe4a00085c7c3e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/655f626d57fe4a00085c7c3e/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: Pluto TV Series de Drama
-URL: https://stitcher.pluto.tv/stitch/hls/channel/655f636d954b020008c93299/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/655f636d954b020008c93299/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/655f636d954b020008c93299/colorLogoPNG_1751914277792.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: Doc Martin
-URL: https://stitcher.pluto.tv/stitch/hls/channel/67e5987eef24f48ffca08fd7/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/67e5987eef24f48ffca08fd7/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/67e5987eef24f48ffca08fd7/colorLogoPNG_1745592891380.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: Pluto TV Series de Otros Continentes
-URL: https://stitcher.pluto.tv/stitch/hls/channel/6806d570c178637410ae4962/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/6806d570c178637410ae4962/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/6806d570c178637410ae4962/colorLogoPNG_1746817518238.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: Pluto TV Dramas Coreanos
-URL: https://stitcher.pluto.tv/stitch/hls/channel/6185a9a88b2ce30007de5128/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/6185a9a88b2ce30007de5128/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/6185a9a88b2ce30007de5128/colorLogoPNG_1751914154440.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: Pluto TV Dramas Coreanos Teen
-URL: https://stitcher.pluto.tv/stitch/hls/channel/6661d5424b10960008599fa3/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/6661d5424b10960008599fa3/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/6661d5424b10960008599fa3/colorLogoPNG_1751914207387.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: Vive Kanal D Drama
-URL: https://stitcher.pluto.tv/stitch/hls/channel/639751f81a36b400072b8f5a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/639751f81a36b400072b8f5a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/639751f81a36b400072b8f5a/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: Pluto TV Series Latinas
-URL: https://stitcher.pluto.tv/stitch/hls/channel/5dd837642c6e9300098ad484/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/5dd837642c6e9300098ad484/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/5dd837642c6e9300098ad484/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: Al Fondo Hay Sitio
-URL: https://stitcher.pluto.tv/stitch/hls/channel/66aa6e03fe11e500086038ed/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/66aa6e03fe11e500086038ed/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/66aa6e03fe11e500086038ed/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
---------------------------------------------------
-Name: Atreseries Internacional (480p)
-URL: http://181.78.208.254:8080/play/a0d5/index.m3u8
-Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Atreseries_2020_logo.svg/512px-Atreseries_2020_logo.svg.png
-Source: https://iptv-org.github.io/iptv/countries/mx.m3u
---------------------------------------------------
-Name: Investiga
-URL: http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cf96b8f4f1ca3f0629f4bf1/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c293f99-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=28f850bd-0f1c-4ede-b97c-ebd1d9a28126
-Logo: https://i.imgur.com/Sb5adD7.png
-Source: https://iptv-org.github.io/iptv/countries/mx.m3u
---------------------------------------------------
-Name: Series con Ñ
-URL: http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60fb3087fbbc120007fc46be/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b8988-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8d10604b-577d-49d0-a6bc-03b028c6758f
-Logo: https://i.imgur.com/uQfzebn.png
-Source: https://iptv-org.github.io/iptv/countries/mx.m3u
 --------------------------------------------------
 
 Group: South Park
 Name: South Park: Colección Cartman
-URL: https://stitcher.pluto.tv/stitch/hls/channel/65df731cec9fda0008b7aa8d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/65df731cec9fda0008b7aa8d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/65df731cec9fda0008b7aa8d/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: South Park: Colección Kenny
-URL: https://stitcher.pluto.tv/stitch/hls/channel/65df7272ec9fda0008b7a970/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/65df7272ec9fda0008b7a970/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/65df7272ec9fda0008b7a970/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: South Park: Colección Kyle
-URL: https://stitcher.pluto.tv/stitch/hls/channel/65df73520d4561000817c29b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/65df73520d4561000817c29b/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/65df73520d4561000817c29b/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: South Park: Colección Stan
-URL: https://stitcher.pluto.tv/stitch/hls/channel/65df72db18036500081a8292/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/65df72db18036500081a8292/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/65df72db18036500081a8292/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: Comedy Central South Park
-URL: https://stitcher.pluto.tv/stitch/hls/channel/609ae5cd48d3200007b0a98e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/609ae5cd48d3200007b0a98e/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/609ae5cd48d3200007b0a98e/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
@@ -2073,59 +1611,32 @@ URL: https://live20.bozztv.com/akamaissh101/ssh101/foxsports/playlist.m3u8
 Logo: https://i.imgur.com/3lOZWeD.png
 Source: https://iptv-org.github.io/iptv/countries/mx.m3u
 --------------------------------------------------
-Name: FUEL TV (1080p)
-URL: https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_rakutenAA-fueltvemeaen/CDN/master.m3u8
-Logo: https://i.imgur.com/I8mviBy.png
-Source: https://iptv-org.github.io/iptv/countries/mx.m3u
---------------------------------------------------
 Name: Hipódromo de las Américas (480p) [Geo-blocked]
 URL: http://wms.tecnoxia.com:1935/8158/8158/playlist.m3u8
 Logo: https://www.hipodromo.com.mx/desktop/images/LOGO_HIPODROMO_bco.png
 Source: https://iptv-org.github.io/iptv/countries/mx.m3u
 --------------------------------------------------
-Name: Red Bull TV (1080p)
-URL: https://3ea22335.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX1JlZEJ1bGxUVl9ITFM/playlist.m3u8
-Logo: https://i.postimg.cc/8c78JM28/image.png
-Source: https://iptv-org.github.io/iptv/countries/mx.m3u
---------------------------------------------------
-Name: SKI TV (1080p) [Not 24/7]
-URL: https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-SportsTribal/193.m3u8
-Logo: https://i.imgur.com/S6qgwLG.png
-Source: https://iptv-org.github.io/iptv/countries/mx.m3u
---------------------------------------------------
-Name: TVQ Sports (720p)
-URL: https://dacastmmd.mmdlive.lldns.net/dacastmmd/1b6bbade53634f5a847b953c9adfd102/index.m3u8
-Logo: https://i.imgur.com/CQpuBeQ.png
-Source: https://iptv-org.github.io/iptv/countries/mx.m3u
---------------------------------------------------
 
 Group: Teen
 Name: Nickelodeon Teen
-URL: https://stitcher.pluto.tv/stitch/hls/channel/5fab09a8749b1a00077d35d2/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/5fab09a8749b1a00077d35d2/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/5fab09a8749b1a00077d35d2/colorLogoPNG_1749640834707.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: Nickelodeon iCarly
-URL: https://stitcher.pluto.tv/stitch/hls/channel/620ff0a01f9e8700076c6f9d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/620ff0a01f9e8700076c6f9d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/620ff0a01f9e8700076c6f9d/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: Kenan y Kel
-URL: https://stitcher.pluto.tv/stitch/hls/channel/5fcea93ffcf94500071c4b2f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/5fcea93ffcf94500071c4b2f/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/5fcea93ffcf94500071c4b2f/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
 --------------------------------------------------
 Name: Pluto TV Teen
-URL: https://stitcher.pluto.tv/stitch/hls/channel/5dd6de52b9914200091f047a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=6c0d5aca-83a6-11f0-a992-9e377edb37d1
+URL: https://stitcher.pluto.tv/stitch/hls/channel/5dd6de52b9914200091f047a/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=7b1556f6-83e9-11f0-ad51-fe868438cde2
 Logo: https://images.pluto.tv/channels/5dd6de52b9914200091f047a/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_MX.m3u
---------------------------------------------------
-
-Group: Travel
-Name: Turistik TV (720p)
-URL: https://5fa5de1a545ae.streamlock.net/8030/8030/.m3u8
-Logo: https://i.imgur.com/g9j0ze8.png
-Source: https://iptv-org.github.io/iptv/countries/mx.m3u
 --------------------------------------------------
 
 Group: Uncategorized
@@ -5211,21 +4722,6 @@ Source: https://raw.githubusercontent.com/Edgar-Reyna/ListaIPTV/refs/heads/main/
 --------------------------------------------------
 
 Group: Undefined
-Name: 15tv Sabinas (XHSDD-TDT) (360p)
-URL: https://hls.gvstream.live/telesistemas/15tv.stream/playlist.m3u8
-Logo: https://i.imgur.com/EY0DlT0.png
-Source: https://iptv-org.github.io/iptv/countries/mx.m3u
---------------------------------------------------
-Name: BVN
-URL: https://viamotionhsi.netplus.ch/live/eds/bvn/browser-HLS8/bvn.m3u8
-Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/BVN_logo.svg/512px-BVN_logo.svg.png
-Source: https://iptv-org.github.io/iptv/countries/mx.m3u
---------------------------------------------------
-Name: Canal 10 Cancún (720p) [Not 24/7]
-URL: http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
-Logo: https://i.imgur.com/TvTn3hO.png
-Source: https://iptv-org.github.io/iptv/countries/mx.m3u
---------------------------------------------------
 Name: Canal 28 (720p) [Not 24/7]
 URL: https://stream.castr.com/653d77dcde70014f52ad1e19/live_bf24d4208d8611eeb116dbe87aa63be0/rewind-3600.m3u8
 Logo: https://i.imgur.com/lr4MZFg.png
@@ -5234,16 +4730,6 @@ Source: https://iptv-org.github.io/iptv/countries/mx.m3u
 Name: CorTV (800p)
 URL: https://stream.oursnetworktv.com/latin/encoder29/playlist.m3u8
 Logo: https://i.imgur.com/NLO7HO4.png
-Source: https://iptv-org.github.io/iptv/countries/mx.m3u
---------------------------------------------------
-Name: CSI en Español
-URL: http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/604928d54a4f730007ff76bc/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c285532-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ec065848-4bdc-45cb-ad2c-0ef96c23d424
-Logo: https://i.imgur.com/ifarQil.png
-Source: https://iptv-org.github.io/iptv/countries/mx.m3u
---------------------------------------------------
-Name: Golden Edge Panregional (576p)
-URL: https://linear-407.frequency.stream/mt/studio/407/hls/master/playlist.m3u8
-Logo: https://i.imgur.com/SlSbcp3.png
 Source: https://iptv-org.github.io/iptv/countries/mx.m3u
 --------------------------------------------------
 Name: Golden Multiplex (576p)
@@ -5256,19 +4742,9 @@ URL: https://linear-410.frequency.stream/dist/vix/410/hls/master/playlist.m3u8
 Logo: https://i.imgur.com/OOEkyM2.png
 Source: https://iptv-org.github.io/iptv/countries/mx.m3u
 --------------------------------------------------
-Name: Golden TV (240p) [Not 24/7]
-URL: https://rpn.bozztv.com/gusa/gusa-goldentv/index.m3u8
-Logo: https://i.imgur.com/NNd1lYl.png
-Source: https://iptv-org.github.io/iptv/countries/mx.m3u
---------------------------------------------------
 Name: Ingenio TV (720p) [Geo-blocked]
 URL: https://aprende-usea.streaming.media.azure.net/9317ea3f-03a0-4266-9292-ac97a0e41c4d/output-20230609-123537-manifest.ism/manifest(format=m3u8-cmaf).m3u8
 Logo: https://i.imgur.com/pAppH1M.png
-Source: https://iptv-org.github.io/iptv/countries/mx.m3u
---------------------------------------------------
-Name: Pluto TV The Walking Dead ESP (720p)
-URL: https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e82bb378601b80007b4bd78/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e82bb378601b80007b4bd78&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=925&terminate=false&userId=
-Logo: https://i.imgur.com/h17lAxc.png
 Source: https://iptv-org.github.io/iptv/countries/mx.m3u
 --------------------------------------------------
 Name: Quiero TV (1080p)
@@ -5294,11 +4770,6 @@ Source: https://iptv-org.github.io/iptv/countries/mx.m3u
 Name: RTQ Queretaro
 URL: https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/chunklist.m3u8
 Logo: https://i.imgur.com/RRckCvf.png
-Source: https://iptv-org.github.io/iptv/countries/mx.m3u
---------------------------------------------------
-Name: SET Televisión Canal 26.1 (720p) [Not 24/7]
-URL: http://189.240.210.28:1935/envivo/puecom/playlist.m3u8
-Logo: https://i.imgur.com/dbJKErB.png
 Source: https://iptv-org.github.io/iptv/countries/mx.m3u
 --------------------------------------------------
 Name: Sistema Michoacano de TV (1080p)
@@ -5376,11 +4847,6 @@ URL: https://5ca9af4645e15.streamlock.net/lobodurango/videolobodurango/playlist.
 Logo: https://i.imgur.com/q9p1Spj.png
 Source: https://iptv-org.github.io/iptv/countries/mx.m3u
 --------------------------------------------------
-Name: TVE Internacional America (720p)
-URL: http://190.11.225.124:5000/live/tve_hd/playlist.m3u8
-Logo: https://i.imgur.com/iODADvi.png
-Source: https://iptv-org.github.io/iptv/countries/mx.m3u
---------------------------------------------------
 Name: TVMás (720p)
 URL: https://60417ddeaf0d9.streamlock.net/telemetrika3/telemetrika3.smil/.m3u8
 Logo: https://i.imgur.com/lhI8Rs0.png
@@ -5389,21 +4855,6 @@ Source: https://iptv-org.github.io/iptv/countries/mx.m3u
 Name: Ultra TV Puebla (720p) [Not 24/7]
 URL: https://5e50264bd6766.streamlock.net/telemetrika2/smil:telemetrika2.smil/playlist.m3u8
 Logo: https://www.ultralaradio.mx/sad/imagenes/sucursales/1.png
-Source: https://iptv-org.github.io/iptv/countries/mx.m3u
---------------------------------------------------
-Name: UMTV (1080p) [Not 24/7]
-URL: https://60417ddeaf0d9.streamlock.net/montemorelos/videomontemorelos/playlist.m3u8
-Logo: https://i.imgur.com/sjxVdPh.png
-Source: https://iptv-org.github.io/iptv/countries/mx.m3u
---------------------------------------------------
-Name: USA Network Latin America
-URL: https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/SYFY/index.m3u8
-Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/512px-USA_Network_logo_%282016%29.svg.png
-Source: https://iptv-org.github.io/iptv/countries/mx.m3u
---------------------------------------------------
-Name: СТС International
-URL: https://cdn4.skygo.mn/live/disk1/STS/HLSv3-FTA/STS.m3u8
-Logo: https://i.imgur.com/mwiC0RG.png
 Source: https://iptv-org.github.io/iptv/countries/mx.m3u
 --------------------------------------------------
 
