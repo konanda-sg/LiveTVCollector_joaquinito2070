@@ -1,5 +1,5 @@
 {
-  "date": "2025-08-28 13:43:11",
+  "date": "2025-08-28 21:41:34",
   "channels": {
     "Uncategorized": [
       {
@@ -1228,313 +1228,13 @@
         "url": "https://video.yementdy.tv/hls/yementoday.m3u8"
       }
     ],
-    "Religious": [
-      {
-        "name": "3ABN International",
-        "logo": "https://i.imgur.com/8YMLPA3.png",
-        "group": "Religious",
-        "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
-        "url": "https://3abn.bozztv.com/3abn2/Int_live/smil:Int_live.smil/playlist.m3u8"
-      },
-      {
-        "name": "ABN Africa (480p)",
-        "logo": "https://i.imgur.com/SLrX8Ef.png",
-        "group": "Religious",
-        "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
-        "url": "https://mediaserver.abnvideos.com/streams/abnafrica.m3u8"
-      },
-      {
-        "name": "Angel TV Africa (720p)",
-        "logo": "https://i.imgur.com/qKLEGU7.png",
-        "group": "Religious",
-        "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
-        "url": "https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelafrica_all/playlist.m3u8"
-      },
-      {
-        "name": "Angel TV Arabia (720p)",
-        "logo": "https://i.imgur.com/qKLEGU7.png",
-        "group": "Religious",
-        "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
-        "url": "https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelarabia_all/playlist.m3u8"
-      },
-      {
-        "name": "Elbeshara GTV (1080p) [Not 24/7]",
-        "logo": "https://i.imgur.com/b0Wx7pE.png",
-        "group": "Religious",
-        "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
-        "url": "http://media3.smc-host.com:1935/elbesharagtv.com/gtv.smil/playlist.m3u8"
-      },
-      {
-        "name": "EWTN Africa Asia (720p)",
-        "logo": "https://i.imgur.com/sua70RO.png",
-        "group": "Religious",
-        "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
-        "url": "https://cdn3.wowza.com/1/ZVBYYXFLLzE0c3NC/Qk1FMURC/hls/live/playlist.m3u8"
-      },
-      {
-        "name": "GOD TV Africa (576p)",
-        "logo": "https://i.imgur.com/hW4g2oe.png",
-        "group": "Religious",
-        "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
-        "url": "https://webstreaming.viewmedia.tv/web_006/Stream/playlist.m3u8"
-      },
-      {
-        "name": "IBN TV Africa (720p)",
-        "logo": "https://i.imgur.com/eKy2ocd.png",
-        "group": "Religious",
-        "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
-        "url": "http://68.183.41.209:8080/live/5d9a537c64b9c/index.m3u8"
-      },
-      {
-        "name": "Peace TV English (1080p)",
-        "logo": "https://i.imgur.com/rjgCM2B.png",
-        "group": "Religious",
-        "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
-        "url": "https://dzkyvlfyge.erbvr.com/PeaceTvEnglish/index.m3u8"
-      },
-      {
-        "name": "SBN TV International",
-        "logo": "https://i.imgur.com/NJu6oYB.png",
-        "group": "Religious",
-        "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
-        "url": "http://trn03.bozztv.com/gin-sbntv/index.m3u8"
-      }
-    ],
-    "News": [
-      {
-        "name": "ABC News (720p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/512px-ABC_News_Live_logo_2021.svg.png",
-        "group": "News",
-        "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
-        "url": "https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8"
-      },
-      {
-        "name": "Africa 24 (1080p)",
-        "logo": "https://i.imgur.com/YWIJdai.png",
-        "group": "News",
-        "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
-        "url": "https://africa24.vedge.infomaniak.com/livecast/ik:africa24/manifest.m3u8"
-      },
-      {
-        "name": "Africanews English",
-        "logo": "https://i.imgur.com/5UxU4zc.png",
-        "group": "News",
-        "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
-        "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/africanews/africanews-en.m3u8"
-      },
-      {
-        "name": "Africanews French",
-        "logo": "https://i.imgur.com/5UxU4zc.png",
-        "group": "News",
-        "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
-        "url": "https://cdn-euronews.akamaized.net/live/eds/africanews-fr/25050/index.m3u8"
-      },
-      {
-        "name": "Al Arabiya (1080p)",
-        "logo": "https://i.imgur.com/NXFkYFj.png",
-        "group": "News",
-        "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
-        "url": "https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8"
-      },
-      {
-        "name": "Arirang TV UN (1080p)",
-        "logo": "https://i.imgur.com/Jdy3WNm.png",
-        "group": "News",
-        "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
-        "url": "https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8"
-      },
-      {
-        "name": "BBC Arabic (720p)",
-        "logo": "https://i.imgur.com/ScyTG6P.png",
-        "group": "News",
-        "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
-        "url": "https://vs-cmaf-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2.mpd"
-      },
-      {
-        "name": "BBC News (1080p)",
-        "logo": "https://i.imgur.com/vSz2WEp.png",
-        "group": "News",
-        "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
-        "url": "https://vs-cmaf-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/iptv_mse_v0_hevc.mpd"
-      },
-      {
-        "name": "CGTN (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/512px-CGTN.svg.png",
-        "group": "News",
-        "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
-        "url": "https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8"
-      },
-      {
-        "name": "CGTN Arabic (1080p) [Not 24/7]",
-        "logo": "https://i.imgur.com/AkFFrS7.png",
-        "group": "News",
-        "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
-        "url": "https://arabic-livews.cgtn.com/hls/LSveq57bErWLinBnxosqjisZ220802LSTefTAS9zc9mpU08y3np9TH220802cd/playlist.m3u8"
-      },
-      {
-        "name": "CGTN Français (1080p) [Not 24/7]",
-        "logo": "https://i.imgur.com/BwhledK.png",
-        "group": "News",
-        "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
-        "url": "https://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8"
-      },
-      {
-        "name": "DW Arabic (1080p)",
-        "logo": "https://i.imgur.com/8MRNFb9.png",
-        "group": "News",
-        "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
-        "url": "https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8"
-      },
-      {
-        "name": "For You TV (480p)",
-        "logo": "https://i.imgur.com/1oMboXL.png",
-        "group": "News",
-        "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
-        "url": "https://stream.az-multimedia.com:3793/live/foryoutvlive.m3u8"
-      },
-      {
-        "name": "France 24 Arabic (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/c/c1/France_24_logo_%282013%29.svg",
-        "group": "News",
-        "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
-        "url": "https://live.france24.com/hls/live/2037222-b/F24_AR_HI_HLS/master_5000.m3u8"
-      },
-      {
-        "name": "I24 News English (720p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/512px-LOGO_i24NEWS.png",
-        "group": "News",
-        "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
-        "url": "https://bcovlive-a.akamaihd.net/ecf224f43f3b43e69471a7b626481af0/eu-central-1/5377161796001/playlist.m3u8"
-      },
-      {
-        "name": "Medi 1 TV Afrique (1080p) [Not 24/7]",
-        "logo": "https://i.imgur.com/OioFepy.jpeg",
-        "group": "News",
-        "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
-        "url": "https://streaming1.medi1tv.com/live/smil:medi1fr.smil/playlist.m3u8"
-      },
-      {
-        "name": "Medi 1 TV Arabic (1080p) [Not 24/7]",
-        "logo": "https://i.imgur.com/jWKH922.jpeg",
-        "group": "News",
-        "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
-        "url": "https://streaming1.medi1tv.com/live/smil:medi1ar.smil/playlist.m3u8"
-      },
-      {
-        "name": "Mekameleen TV (1080p)",
-        "logo": "https://i.imgur.com/q7iVchl.png",
-        "group": "News",
-        "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
-        "url": "https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8"
-      },
-      {
-        "name": "Metro Globe Network (1080p) [Not 24/7]",
-        "logo": "https://i.imgur.com/aiiinzg.png",
-        "group": "News",
-        "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
-        "url": "https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8"
-      },
-      {
-        "name": "RT Arabic (1080p) [Geo-blocked]",
-        "logo": "https://i.imgur.com/G8vGrn1.png",
-        "group": "News",
-        "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
-        "url": "https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8"
-      },
-      {
-        "name": "Sky News Arabia (1080p) [Not 24/7]",
-        "logo": "https://i.imgur.com/SvjU4h6.png",
-        "group": "News",
-        "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
-        "url": "https://stream.skynewsarabia.com/ott/ott.m3u8"
-      },
-      {
-        "name": "Sky News Arabia (Portrait) (1280p) [Not 24/7]",
-        "logo": "https://i.imgur.com/FjtzQQs.png",
-        "group": "News",
-        "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
-        "url": "https://stream.skynewsarabia.com/vertical/vertical.m3u8"
-      },
-      {
-        "name": "TRT Arabi (1080p) [Not 24/7]",
-        "logo": "https://i.imgur.com/dEfI2M9.png",
-        "group": "News",
-        "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
-        "url": "https://tv-trtarabi.medya.trt.com.tr/master.m3u8"
-      },
-      {
-        "name": "UN Web TV (540p)",
-        "logo": "https://i.imgur.com/UcAwBep.png",
-        "group": "News",
-        "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
-        "url": "https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8"
-      },
-      {
-        "name": "WION (1080p)",
-        "logo": "https://i.imgur.com/Wc5Z3iS.png",
-        "group": "News",
-        "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
-        "url": "https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8"
-      }
-    ],
-    "Sports": [
-      {
-        "name": "Abu Dhabi Sports 1 (1080p)",
-        "logo": "https://i.imgur.com/6BVWk8z.png",
-        "group": "Sports",
-        "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
-        "url": "https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8"
-      },
-      {
-        "name": "Africa 24 Sport (1080p)",
-        "logo": "https://i.imgur.com/YWIJdai.png",
-        "group": "Sports",
-        "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
-        "url": "https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8"
-      },
-      {
-        "name": "FUEL TV (1080p)",
-        "logo": "https://i.imgur.com/I8mviBy.png",
-        "group": "Sports",
-        "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
-        "url": "https://amg01074-fueltv-fueltvemeaen-rakuten-b6j62.amagi.tv/hls/amagi_hls_data_rakutenAA-fueltvemeaen/CDN/master.m3u8"
-      },
-      {
-        "name": "Red Bull TV (1080p)",
-        "logo": "https://i.postimg.cc/8c78JM28/image.png",
-        "group": "Sports",
-        "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
-        "url": "https://3ea22335.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX1JlZEJ1bGxUVl9ITFM/playlist.m3u8"
-      },
-      {
-        "name": "SKI TV (1080p) [Not 24/7]",
-        "logo": "https://i.imgur.com/S6qgwLG.png",
-        "group": "Sports",
-        "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
-        "url": "https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-SportsTribal/193.m3u8"
-      }
-    ],
     "General": [
-      {
-        "name": "Afroturk TV (1080p)",
-        "logo": "https://i.imgur.com/fWlLvRA.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
-        "url": "https://edge.socialsmart.tv/naturaltv/bant1/playlist.m3u8"
-      },
       {
         "name": "Al Masriyah",
         "logo": "https://i.imgur.com/wTeOM2J.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
         "url": "https://fl1002.bozztv.com/ga-almasriya/index.m3u8"
-      },
-      {
-        "name": "Alforat TV (1080p)",
-        "logo": "https://i.imgur.com/f6PQzKd.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
-        "url": "http://95.216.180.111:1935/live/10/playlist.m3u8"
       },
       {
         "name": "Alhayat TV",
@@ -1551,34 +1251,6 @@
         "url": "https://play.tactivemedia.com/memfs/c5919b97-5329-4b84-91b2-613c6ed9953e.m3u8"
       },
       {
-        "name": "Bahrain International (720p) [Not 24/7]",
-        "logo": "https://i.imgur.com/t6Lmntr.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
-        "url": "https://5c7b683162943.streamlock.net/live/ngrp:bahraininternational_all/playlist.m3u8"
-      },
-      {
-        "name": "BTV World (1080p)",
-        "logo": "https://i.imgur.com/sSnrg7o.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
-        "url": "https://www.btvlive.gov.bd/streams/ef8b8bbc-98b7-4ba7-a49d-a0adaf259d35/ES/d96eb7f4-83c2-4472-9597-3568390a8ebf/d96eb7f4-83c2-4472-9597-3568390a8ebf_3_playlist.m3u8"
-      },
-      {
-        "name": "Canaf54 TV",
-        "logo": "https://i.imgur.com/viB0FS2.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
-        "url": "https://5caf24a595d94.streamlock.net:1937/pvyugfkzkc/pvyugfkzkc/playlist.m3u8"
-      },
-      {
-        "name": "Canal 2 International",
-        "logo": "https://i.imgur.com/BzA2z7m.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
-        "url": "http://69.64.57.208/canal2international/playlist.m3u8"
-      },
-      {
         "name": "CBC (1080p)",
         "logo": "https://i.imgur.com/8apNaLP.png",
         "group": "General",
@@ -1593,46 +1265,11 @@
         "url": "https://bcovlive-a.akamaihd.net/ba3169004d40484b9ff29e194964c9e8/eu-west-1/6057955906001/playlist.m3u8"
       },
       {
-        "name": "Dubai One (1080p)",
-        "logo": "https://www.dmi.gov.ae/content/dam/corporate/dev/2023/elogos-ar/dubaione-logo.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
-        "url": "https://dminnvllta.cdn.mgmlcdn.com/dubaione/smil:dubaione.stream.smil/chunklist.m3u8"
-      },
-      {
-        "name": "Duna World (576p)",
-        "logo": "https://i.imgur.com/uOBQJZS.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
-        "url": "http://146.59.85.40:89/dunaworld/index.m3u8"
-      },
-      {
         "name": "El Mehwar Channel",
         "logo": "https://i.imgur.com/dCAHZfG.png",
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
         "url": "https://fl1002.bozztv.com/ga-elmehwar/tracks-v1a1/mono.m3u8"
-      },
-      {
-        "name": "ERT World (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/ChannelLogo-ERTWORLD1.png/512px-ChannelLogo-ERTWORLD1.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
-        "url": "https://cbd537474fbad4634b64787657ff6456.msvdn.net/ertworld/ert_world_main/mainabr/playlist_dvr.m3u8"
-      },
-      {
-        "name": "LBC International",
-        "logo": "https://i.imgur.com/h26xtUv.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
-        "url": "https://samaflix.com:12103/channel2/tracks-v1a1/mono.m3u8"
-      },
-      {
-        "name": "MBC 1 (1080p)",
-        "logo": "https://i.imgur.com/CiA3plN.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
-        "url": "https://mbc1-enc.edgenextcdn.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8"
       },
       {
         "name": "MBC Masr 1 (1080p)",
@@ -1647,140 +1284,6 @@
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
         "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-masr-2/754931856515075b0aabf0e583495c68/index.m3u8"
-      },
-      {
-        "name": "MTV (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/7/75/Murr_tv.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
-        "url": "https://hms.pfs.gdn/v1/broadcast/mtv/playlist.m3u8"
-      },
-      {
-        "name": "REFLET TV (1080p)",
-        "logo": "https://i.imgur.com/EauXR22.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
-        "url": "https://edge-a3.evrideo.tv/8f37c9f0-fe22-44f4-b64a-76ad11730daf_1000026630_HLS/manifest.m3u8"
-      },
-      {
-        "name": "RTP África (504p) [Not 24/7]",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/RTP_%C3%81frica_2016_%28Reduced_Version%29.svg/512px-RTP_%C3%81frica_2016_%28Reduced_Version%29.svg.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
-        "url": "https://streaming-live.rtp.pt/liverepeater/smil:rtpafrica.smil/playlist.m3u8"
-      },
-      {
-        "name": "TV BRICS Africa (1080p)",
-        "logo": "https://admango.cdn.mangomolo.com/analytics/uploads/188/666abcee75.jpeg",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
-        "url": "https://cdn.freevisiontv.co.za/sttv/smil:brics.stream.smil/playlist.m3u8"
-      },
-      {
-        "name": "TVI África (480p) [Not 24/7]",
-        "logo": "https://i.ibb.co/vBbSHB4/Tvi-africa.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
-        "url": "https://video-auth4.iol.pt/live_tvi_africa/live_tvi_africa/edge_servers/tviafrica-480p/playlist.m3u8"
-      },
-      {
-        "name": "TVM Internacional (480p) [Not 24/7]",
-        "logo": "https://i.imgur.com/fRV6p50.png",
-        "group": "General",
-        "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
-        "url": "http://online.tvm.co.mz:1935/live/smil:Channel2.smil/playlist.m3u8"
-      }
-    ],
-    "Business": [
-      {
-        "name": "Al Arabiya Business (1080p)",
-        "logo": "https://i.imgur.com/eEV4r6J.jpg",
-        "group": "Business",
-        "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
-        "url": "https://live.alarabiya.net/alarabiapublish/aswaaq.smil/playlist.m3u8"
-      },
-      {
-        "name": "Bloomberg TV EMEA Live Event (720p)",
-        "logo": "https://i.imgur.com/OuogLHx.png",
-        "group": "Business",
-        "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
-        "url": "https://bloomberg.com/media-manifest/streams/eu-event.m3u8"
-      },
-      {
-        "name": "CNBC Africa (480p)",
-        "logo": "https://i.imgur.com/BnNYzWI.png",
-        "group": "Business",
-        "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
-        "url": "https://5be2f59e715dd.streamlock.net/CNBC/smil:CNBCSandton.smil/playlist.m3u8"
-      },
-      {
-        "name": "CNBC Arabiya (1080p)",
-        "logo": "https://i.imgur.com/opBXx1K.png",
-        "group": "Business",
-        "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
-        "url": "https://cnbc-live.akamaized.net/cnbc/master.m3u8"
-      }
-    ],
-    "Documentary;News": [
-      {
-        "name": "Al Arabiya Programs (1080p)",
-        "logo": "https://i.imgur.com/Hoc3cfO.png",
-        "group": "Documentary;News",
-        "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
-        "url": "https://d1j4r34gq3qw9y.cloudfront.net/out/v1/96804f3a14864641a21c25e8ca9afb74/index.m3u8"
-      }
-    ],
-    "Undefined": [
-      {
-        "name": "Al Qamar TV (1080p)",
-        "logo": "https://i.imgur.com/zkBT0C8.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
-        "url": "https://streamer3.premio.link/alqamar/playlist.m3u8"
-      },
-      {
-        "name": "BVN",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/BVN_logo.svg/512px-BVN_logo.svg.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
-        "url": "https://viamotionhsi.netplus.ch/live/eds/bvn/browser-HLS8/bvn.m3u8"
-      },
-      {
-        "name": "Romanza+ Africa (720p)",
-        "logo": "https://i.imgur.com/HYg75w2.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
-        "url": "https://origin3.afxp.telemedia.co.za/PremiumFree/romanza/playlist.m3u8"
-      },
-      {
-        "name": "TBN Africa (1080p)",
-        "logo": "https://i.imgur.com/6VjLFmR.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
-        "url": "https://tbn-jw.cdn.vustreams.com/live/tbn-africa/live.isml/master.m3u8"
-      },
-      {
-        "name": "Zee World",
-        "logo": "https://i.imgur.com/UokbZaU.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
-        "url": "https://live20.bozztv.com/dvrfl06/astv/astv-zeemagicafrica/index.m3u8"
-      },
-      {
-        "name": "СТС International",
-        "logo": "https://i.imgur.com/mwiC0RG.png",
-        "group": "Undefined",
-        "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
-        "url": "https://cdn4.skygo.mn/live/disk1/STS/HLSv3-FTA/STS.m3u8"
-      }
-    ],
-    "Culture": [
-      {
-        "name": "Amani TV (1080p) [Not 24/7]",
-        "logo": "https://i.imgur.com/0cY4K7G.png",
-        "group": "Culture",
-        "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
-        "url": "https://goccn.cloud/hls/amanitv/index.m3u8"
       }
     ],
     "Series": [
@@ -1813,208 +1316,33 @@
         "group": "Lifestyle",
         "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
         "url": "https://bcovlive-a.akamaihd.net/753a1f2c951b4fb3914f30e1deb147d8/us-west-2/6057955906001/playlist.m3u8"
-      },
-      {
-        "name": "Superyacht TV (1080p)",
-        "logo": "https://i.imgur.com/cgjgjE1.png",
-        "group": "Lifestyle",
-        "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
-        "url": "https://sy.wns.live/hls/stream.m3u8"
       }
     ],
-    "Documentary": [
+    "Religious": [
       {
-        "name": "CGTN Documentary (1080p)",
-        "logo": "https://i.imgur.com/JHv0WxM.png",
-        "group": "Documentary",
+        "name": "Elbeshara GTV (1080p) [Not 24/7]",
+        "logo": "https://i.imgur.com/b0Wx7pE.png",
+        "group": "Religious",
         "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
-        "url": "https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8"
-      },
-      {
-        "name": "National Geographic Abu Dhabi (1080p) [Geo-blocked]",
-        "logo": "https://i.imgur.com/fNA00VF.png",
-        "group": "Documentary",
-        "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
-        "url": "https://vo-live.cdb.cdn.orange.com/Content/Channel/NationalGeographicHDChannel/HLS/index.m3u8"
-      },
-      {
-        "name": "National Geographic Abu Dhabi HD (1080p)",
-        "logo": "https://i.imgur.com/fNA00VF.png",
-        "group": "Documentary",
-        "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
-        "url": "http://213.57.91.138:8000/play/a05a"
+        "url": "http://media3.smc-host.com:1935/elbesharagtv.com/gtv.smil/playlist.m3u8"
       }
     ],
-    "Education": [
+    "News": [
       {
-        "name": "CuriosityStream (720p)",
-        "logo": "https://i.imgur.com/KUb4vEz.png",
-        "group": "Education",
+        "name": "Mekameleen TV (1080p)",
+        "logo": "https://i.imgur.com/q7iVchl.png",
+        "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
-        "url": "https://fl3.moveonjoy.com/Curiosity_Stream/index.m3u8"
-      }
-    ],
-    "Kids": [
-      {
-        "name": "ducktv (720p)",
-        "logo": "https://i.imgur.com/gRFQ35W.png",
-        "group": "Kids",
-        "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
-        "url": "https://jmp2.uk/stvp-ESBC4700001GR"
-      },
-      {
-        "name": "Majid (1080p) [Geo-blocked]",
-        "logo": "https://i.imgur.com/TzOKMMy.png",
-        "group": "Kids",
-        "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
-        "url": "https://vo-live-media.cdb.cdn.orange.com/Content/Channel/MajidChildrenChannel/HLS/index.m3u8"
-      },
-      {
-        "name": "Roya Kids",
-        "logo": "https://i.imgur.com/acuCGF8.png",
-        "group": "Kids",
-        "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
-        "url": "https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids/playlist.m3u8"
-      },
-      {
-        "name": "Zoo Moo (Australia) (1080p)",
-        "logo": "https://i.imgur.com/ciTJrnl.png",
-        "group": "Kids",
-        "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
-        "url": "https://zoomoo-samsungau.amagi.tv/playlist.m3u8"
-      }
-    ],
-    "Music": [
-      {
-        "name": "Euro Indie Music Chart TV (360p)",
-        "logo": "https://i.imgur.com/lF0iofX.png",
-        "group": "Music",
-        "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
-        "url": "http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8"
-      },
-      {
-        "name": "MBC FM (1080p)",
-        "logo": "https://i.imgur.com/lF8UxvR.png",
-        "group": "Music",
-        "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
-        "url": "https://dbbv9umqcd7cs.cloudfront.net/out/v1/db15b75c3cc0400c91961468d6a232ac/index.m3u8"
-      },
-      {
-        "name": "MTV Hits Europe",
-        "logo": "https://i.imgur.com/zNscEST.png",
-        "group": "Music",
-        "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
-        "url": "http://45.88.92.3/tr3_MTVHits_SD/index.m3u8?token=test"
-      },
-      {
-        "name": "PMC Royale (1080p)",
-        "logo": "https://www.lyngsat.com/logo/tv/pp/pmc-royale-ch.png",
-        "group": "Music",
-        "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
-        "url": "https://pmcrohls.wns.live/hls/stream.m3u8"
-      },
-      {
-        "name": "Qwest TV (1080p)",
-        "logo": "https://i.imgur.com/DjgNNHK.png",
-        "group": "Music",
-        "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
-        "url": "https://qwestjazz-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-qwestjazz-rakuten/CDN/master.m3u8"
-      },
-      {
-        "name": "Wanasah (1080p)",
-        "logo": "https://i.imgur.com/nLtiXNf.png",
-        "group": "Music",
-        "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
-        "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-wanasah/13e82ea6232fa647c43b26e8a41f173d/index.m3u8"
+        "url": "https://mn-nl.mncdn.com/mekameleen/smil:mekameleentv.smil/playlist.m3u8"
       }
     ],
     "Movies": [
-      {
-        "name": "MBC 2 (576p)",
-        "logo": "https://i.imgur.com/n9mSHuP.png",
-        "group": "Movies",
-        "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
-        "url": "http://213.57.91.138:8000/play/a05k"
-      },
-      {
-        "name": "MBC Bollywood (1080p) [Geo-blocked]",
-        "logo": "https://i.imgur.com/TTAGFHG.png",
-        "group": "Movies",
-        "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
-        "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-bollywood/546eb40d7dcf9a209255dd2496903764/index.m3u8"
-      },
       {
         "name": "Rotana Cinema Egypt (1080p)",
         "logo": "https://i.imgur.com/dGlKoLW.png",
         "group": "Movies",
         "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
         "url": "https://rotana.hibridcdn.net/rotananet/cinemamasr_net-7Y83PP5adWixDF93/playlist.m3u8"
-      }
-    ],
-    "Entertainment": [
-      {
-        "name": "MBC 4 (1080p)",
-        "logo": "https://i.imgur.com/BcXASJp.png",
-        "group": "Entertainment",
-        "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
-        "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-4/24f134f1cd63db9346439e96b86ca6ed/index.m3u8"
-      },
-      {
-        "name": "MBC Action (576p)",
-        "logo": "https://i.imgur.com/OWZAghw.png",
-        "group": "Entertainment",
-        "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
-        "url": "http://213.57.91.138:8000/play/a05l"
-      },
-      {
-        "name": "MBC Drama KSA (1080p)",
-        "logo": "https://i.imgur.com/g5PWnqp.png",
-        "group": "Entertainment",
-        "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
-        "url": "https://mbc1-enc.edgenextcdn.net/out/v1/b0b3a0e6750d4408bb86d703d5feffd1/index.m3u8"
-      },
-      {
-        "name": "NHK World Premium (720p) [Not 24/7]",
-        "logo": "https://i.imgur.com/4ESi2La.png",
-        "group": "Entertainment",
-        "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
-        "url": "https://cdn.nhkworld.jp/www11/nhkworld-tv/pre/hlscomp.m3u8"
-      }
-    ],
-    "Family": [
-      {
-        "name": "MBC 5 (1080p)",
-        "logo": "https://i.imgur.com/fRWaDyF.png",
-        "group": "Family",
-        "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
-        "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-5/ee6b000cee0629411b666ab26cb13e9b/index.m3u8"
-      }
-    ],
-    "Auto": [
-      {
-        "name": "Motorvision",
-        "logo": "https://i.imgur.com/v4kj8pI.png",
-        "group": "Auto",
-        "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
-        "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6093f2ae4dd5ab0007d1ff9d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1e7523-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3105f589-5bf9-41ef-8229-51bdf3abb1d2"
-      }
-    ],
-    "Culture;News": [
-      {
-        "name": "NHK World-Japan (720p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png",
-        "group": "Culture;News",
-        "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
-        "url": "https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8"
-      }
-    ],
-    "Animation;Kids": [
-      {
-        "name": "Spacetoon Arabic (1080p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/2/2b/Spacetoon_logo.png",
-        "group": "Animation;Kids",
-        "source": "https://iptv-org.github.io/iptv/countries/eg.m3u",
-        "url": "https://shd-gcp-live.edgenextcdn.net/live/bitmovin-spacetoon/d8382fb9ab4b2307058f12c7ea90db54/index.m3u8"
       }
     ]
   }
