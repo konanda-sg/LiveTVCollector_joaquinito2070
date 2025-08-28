@@ -12,6 +12,12 @@
     "img": "https://ssl.com.bd/sites/default/files/BTV%20Logo%20Gallery.png"
   },
   {
+    "name": "SOMOY TV",
+    "type": "BANGLA",
+    "url": "https://tvsen6.aynaott.com/somoytv/index.m3u8",
+    "img": "https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png"
+  },
+  {
     "name": "SOMOY TV-[2]",
     "type": "BANGLA",
     "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8",
@@ -26,7 +32,7 @@
   {
     "name": "Ekon tv",
     "type": "BANGLA",
-    "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/globaltv.stream/playlist.m3u8",
+    "url": "https://tvsen6.aynaott.com/ekhontv/index.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/en/0/0d/Ekhon_Logo.png"
   },
   {
@@ -48,9 +54,15 @@
     "img": "https://dl.dropbox.com/s/k7z1dsec1jfjbkn/jamuna_tv_bd.png"
   },
   {
+    "name": "NEWS 24 HD",
+    "type": "BANGLA",
+    "url": "https://tvsen6.aynaott.com/news24/index.m3u8",
+    "img": "https://dl.dropbox.com/s/bl983avhouqd47c/news_24_bd.png"
+  },
+  {
     "name": "DBC News",
     "type": "BANGLA",
-    "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/dbcnews.stream/playlist.m3u8",
+    "url": "https://tvsen6.aynaott.com/dbcnews/index.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/9/9f/DBC_News_logo.png"
   },
   {
@@ -74,7 +86,7 @@
   {
     "name": "RTV",
     "type": "BANGLA",
-    "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/rtv-sg.stream/playlist.m3u8",
+    "url": "https://tvsen5.aynaott.com/RtvHD/index.m3u8",
     "img": "https://s4.gifyu.com/images/image29282f9d45a183d6.png"
   },
   {
@@ -84,9 +96,15 @@
     "img": "https://s4.gifyu.com/images/image5c0bfa6b281be803.png"
   },
   {
+    "name": "SATV",
+    "type": "BANGLA",
+    "url": "https://tvsen6.aynaott.com/satv/index.m3u8",
+    "img": "https://s4.gifyu.com/images/image9f4a0ee9cd069bad.png"
+  },
+  {
     "name": "BOISHAKHI TV",
     "type": "BANGLA",
-    "url": "https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8",
+    "url": "https://tvsen6.aynaott.com/boishakhitv/index.m3u8",
     "img": "https://dl.dropbox.com/s/xolazzofexo6ub8/boishakhi.png"
   },
   {
@@ -222,6 +240,366 @@
     "img": "https://pbs.twimg.com/profile_images/739539785304281088/zMwNO936_400x400.jpg"
   },
   {
+    "name": "GAZI TV",
+    "type": "SPORTS",
+    "url": "https://tvsen5.aynaott.com/Ravc7gPCZpxk/index.m3u8",
+    "img": "https://i.ibb.co/pQGXzMP/images-1-removebg-preview.png"
+  },
+  {
+    "name": "Live Sports-1",
+    "type": "SPORTS",
+    "url": "http://178.217.72.66:8080/Eurosport_HD/video.m3u8",
+    "img": "http://dds.oncast.me/img/logo/sp1.png"
+  },
+  {
+    "name": "Live Sports-2",
+    "type": "SPORTS",
+    "url": "https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/03.m3u8",
+    "img": "http://dds.oncast.me/img/logo/sp2.png"
+  },
+  {
+    "name": "Live Sports-3",
+    "type": "SPORTS",
+    "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/pll-network-ww/pll.m3u8",
+    "img": "http://dds.oncast.me/img/logo/sp3.png"
+  },
+  {
+    "name": "Live Sports-4",
+    "type": "SPORTS",
+    "url": "https://app.hughag.store/api/ef22d71b0e/playlist.m3u8",
+    "img": "http://dds.oncast.me/img/logo/sp4.png"
+  },
+  {
+    "name": "T-Sports [1]",
+    "type": "SPORTS",
+    "url": "https://tvsen5.aynaott.com/tsports/index.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png"
+  },
+  {
+    "name": "T-Sports [3]",
+    "type": "SPORTS",
+    "url": "https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png"
+  },
+  {
+    "name": "Star Sports 1",
+    "type": "SPORTS",
+    "url": "http://mag.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A6:AB:CA&stream=155968&extension=ts",
+    "img": "https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg"
+  },
+  {
+    "name": "Star Sports 1-[2]",
+    "type": "SPORTS",
+    "url": "https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=star1in",
+    "img": "https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg"
+  },
+  {
+    "name": "Star Sports-1 Hindi",
+    "type": "SPORTS",
+    "url": "https://starsportshindiii.pages.dev/index.m3u8",
+    "img": "https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg"
+  },
+  {
+    "name": "Star Sports-2",
+    "type": "SPORTS",
+    "url": "http://link.luckonline.eu/live/Ali130225/Cpyej2JL56Xy/1370.m3u8",
+    "img": "https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg"
+  },
+  {
+    "name": "Star Sports 2",
+    "type": "SPORTS",
+    "url": "http://103.110.111.36:8081/live/ssport2_720p/playlist.m3u8",
+    "img": "https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg"
+  },
+  {
+    "name": "Star Sports 3",
+    "type": "SPORTS",
+    "url": "https://live.dinesh29.com.np/stream/jiotvplus/starsportsselecthd1/master.m3u8",
+    "img": "https://static.wikia.nocookie.net/logopedia/images/2/2a/StarSports3India.jpg/revision/latest?cb=20191214234112"
+  },
+  {
+    "name": "Star Sports Select 1",
+    "type": "SPORTS",
+    "url": "https://tvsen6.aynaott.com/spsel1/index.m3u8",
+    "img": "https://imgur.com/ZTxVYed.png"
+  },
+  {
+    "name": "Star Sports Select 2",
+    "type": "SPORTS",
+    "url": "http://pankajgorasiya.net/play/live.php?mac=00:1a:79:1C:03:CE&stream=1114584&extension=ts&play_token=LNvo1XOyv5",
+    "img": "https://imgur.com/pFgUCZF.png"
+  },
+  {
+    "name": "Sony Sports-1 HD",
+    "type": "SPORTS",
+    "url": "http://103.110.111.36:8081/live/ten1_720p/chunks.m3u8",
+    "img": "https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen1_HD.png"
+  },
+  {
+    "name": "Sony Sports-2 HD",
+    "type": "SPORTS",
+    "url": "http://103.110.111.36:8081/live/spten2_720p/playlist.m3u8",
+    "img": "https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen2_HD.png"
+  },
+  {
+    "name": "Sony Sports-3 HD",
+    "type": "SPORTS",
+    "url": "http://front-main.eagle-4k.me/play/live.php?mac=00:1A:79:BD:42:AC&stream=276739&extension=.m3u8",
+    "img": "https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen3_HD.png"
+  },
+  {
+    "name": "Sony Sports-5 SD",
+    "type": "SPORTS",
+    "url": "http://103.110.111.36:8081/live/spten5_720p/playlist.m3u8",
+    "img": "https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_SD_Logo_CLR.png"
+  },
+  {
+    "name": "PTV Sports",
+    "type": "SPORTS",
+    "url": "http://175.107.244.52:4457/play/a08g/index.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png"
+  },
+  {
+    "name": "PTV Sports-[2]",
+    "type": "SPORTS",
+    "url": "http://nayatv.ydns.eu:80/xfireflix/flixfire/12331.ts",
+    "img": "https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png"
+  },
+  {
+    "name": "Ten Sports",
+    "type": "SPORTS",
+    "url": "http://filex.tv:8080/live/Multicity/1234/52106.ts",
+    "img": "https://iconape.com/wp-content/files/da/323865/png/323865.png"
+  },
+  {
+    "name": "A Sports",
+    "type": "SPORTS",
+    "url": "https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=asportshd",
+    "img": "https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png"
+  },
+  {
+    "name": "Geo Super TV",
+    "type": "SPORTS",
+    "url": "http://175.107.244.52:4456/play/a06z/index.m3u8",
+    "img": "https://i.pinimg.com/originals/a0/f1/02/a0f102f34a179d207602df014cbf203d.jpg"
+  },
+  {
+    "name": "Willow HD",
+    "type": "SPORTS",
+    "url": "http://filex.tv:8080/live/Multicity/1234/52109.ts",
+    "img": "https://aimages.willow.tv/wlo_logo_200_200.jpg"
+  },
+  {
+    "name": "FOX Cricket 501",
+    "type": "SPORTS",
+    "url": "http://iptvtree.net:8080/live/F15554/Tve5ZWQEd485/279034.ts",
+    "img": "https://upload.wikimedia.org/wikipedia/en/f/f4/Fox_Cricket_Logo.png"
+  },
+  {
+    "name": "Sky Sports Cricket",
+    "type": "SPORTS",
+    "url": "http://astv.life:8080/anil@123/anil@123/208260",
+    "img": "https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2020/09/Sky-Sports-Cricket-2020-logo-250.png"
+  },
+  {
+    "name": "Sky Sports Action",
+    "type": "SPORTS",
+    "url": "http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/7335/index.m3u8",
+    "img": "https://cdn-0.tvprofil.com/img/kanali-logo/Sky_Sports_Football.png"
+  },
+  {
+    "name": "Super Sport Cricket",
+    "type": "SPORTS",
+    "url": "http://astv.life:8080/anil@123/anil@123/208258",
+    "img": "https://www.thesportsdb.com/images/media/channel/tvlogo/srtijz1643382350.png"
+  },
+  {
+    "name": "Laliga tv",
+    "type": "SPORTS",
+    "url": "http://xtv.ooo:8080/live/03353290992/03353290992/238479.ts",
+    "img": "https://supersport-cms-prod.azureedge.net/media/wx5prn11/football-6.png?width=200"
+  },
+  {
+    "name": "BeIN Sports 1",
+    "type": "SPORTS",
+    "url": "https://events3.liveboxpro.com/event/91.m3u8",
+    "img": "https://static.epg.best/qa/beINSports1.qa.png"
+  },
+  {
+    "name": "BeIN Sports 2",
+    "type": "SPORTS",
+    "url": "https://events3.liveboxpro.com/event/92.m3u8",
+    "img": "https://static.epg.best/qa/beINSports2.qa.png"
+  },
+  {
+    "name": "BeIN Sports 3",
+    "type": "SPORTS",
+    "url": "https://events3.liveboxpro.com/event/93.m3u8",
+    "img": "https://static.epg.best/qa/beINSports3.qa.png"
+  },
+  {
+    "name": "BeIN Sports Extra",
+    "type": "SPORTS",
+    "url": "https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8",
+    "img": "https://static.epg.best/qa/beINSports1.qa.png"
+  },
+  {
+    "name": "RTV Sports",
+    "type": "SPORTS",
+    "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Cowboy tv",
+    "type": "SPORTS",
+    "url": "https://amg17292-amg17292c1-distrotv-us-4170.playouts.now.amagi.tv/playlist/amg17292-tetonridgellc-tetonridgefast-distrotvus/playlist.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Raching.com",
+    "type": "SPORTS",
+    "url": "https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Fitness tv",
+    "type": "SPORTS",
+    "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/lifefit-by-triptic/master.m3u8",
+    "img": "https://lo1.in/LOGO/CARIBBEAN/NBCGOLF.png"
+  },
+  {
+    "name": "SONY LIV",
+    "type": "SPORTS",
+    "url": "https://dai.google.com/linear/hls/event/biQJgf06SJCitj-nd502ow/master.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "SONY LIV2",
+    "type": "SPORTS",
+    "url": "https://dai.google.com/linear/hls/event/tG04-ukTSleEi0819p-EqA/master.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Abu Dhabi Sports 1",
+    "type": "SPORTS",
+    "url": "https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Abu_Dhabi_Sports_logo_2023.svg/220px-Abu_Dhabi_Sports_logo_2023.svg.png"
+  },
+  {
+    "name": "EURO SPORTS",
+    "type": "SPORTS",
+    "url": "http://iptv-hls.idc.md:8200/hls/260/live1.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Eurosport_Logo_%282011-2015%29.svg/200px-Eurosport_Logo_%282011-2015%29.svg.png"
+  },
+  {
+    "name": "Oman Sports TV",
+    "type": "SPORTS",
+    "url": "https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist_b900000.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "One Golf",
+    "type": "SPORTS",
+    "url": "http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "SportsGrid",
+    "type": "SPORTS",
+    "url": "https://sportsgrid-tribal.amagi.tv/playlistR432p.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Tennis Channel",
+    "type": "SPORTS",
+    "url": "https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Trace Sports Stars",
+    "type": "SPORTS",
+    "url": "https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Bein Sports 2",
+    "type": "SPORTS",
+    "url": "http://125.209.88.166:45793/BRN/beINSP12.stream/playlist.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "BeiN Sports Extra",
+    "type": "SPORTS",
+    "url": "https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Europe  Sports 2 HD",
+    "type": "SPORTS",
+    "url": "http://185.189.225.157/EuroSport2/index.m3u8",
+    "img": "https://sunplex.net/iptv/logo/channel-24.jpg"
+  },
+  {
+    "name": "Europe Sports 1 HD",
+    "type": "SPORTS",
+    "url": "http://185.189.225.157/EuroSport1/index.m3u8",
+    "img": "https://sunplex.net/iptv/logo/channel-24.jpg"
+  },
+  {
+    "name": "Live",
+    "type": "SPORTS",
+    "url": "https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Live Sports Football Laliga",
+    "type": "SPORTS",
+    "url": "https://drjpy7suzu4c5.cloudfront.net/out/v1/0c06db0274c04e64ab6ae0450f5fbda8/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Live T10",
+    "type": "SPORTS",
+    "url": "http://125.209.88.166:45793/BRN/ArySports.stream/chunklist.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "MU TV",
+    "type": "SPORTS",
+    "url": "https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8",
+    "img": "https://starsat.co.za/wp-content/uploads/2021/02/MUTV-Manchester-United-TV.png"
+  },
+  {
+    "name": "MU TV",
+    "type": "SPORTS",
+    "url": "https://bcovlive-a.akamaihd.net/r6b4170ad9e8e4ed49986ecc03bac588b/eu-west-1/6058004203001/playlist.m3u8",
+    "img": "https://starsat.co.za/wp-content/uploads/2021/02/MUTV-Manchester-United-TV.png"
+  },
+  {
+    "name": "Redbull TV",
+    "type": "SPORTS",
+    "url": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "SONY TEN 3 SD",
+    "type": "SPORTS",
+    "url": "http://45.143.220.6:3333/live/premium-aostv-free/download-fdrm-aostv.asia/2837.ts",
+    "img": "https://sunplex.net/iptv/logo/sony-ten-3-hd.jpg"
+  },
+  {
+    "name": "Ten Sports PK",
+    "type": "SPORTS",
+    "url": "http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8",
+    "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ten%20Sports%20PK.png"
+  },
+  {
+    "name": "TYC Sports Play",
+    "type": "SPORTS",
+    "url": "https://d1xm2jznwi5xzj.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index_14.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
     "name": "Al Jazeera",
     "type": "English News",
     "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/al-jazeera-english/master.m3u8",
@@ -272,7 +650,7 @@
   {
     "name": "Duronto TV",
     "type": "Kids",
-    "url": "https://live.dinesh29.com.np/stream/jiotv/nickbangla/master.m3u8",
+    "url": "https://tvsen4.aynaott.com/durontotv/index.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png"
   },
   {
@@ -298,6 +676,12 @@
     "type": "Kids",
     "url": "https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsungin-pogo-samsungin/playlist.m3u8",
     "img": "https://i.imgur.com/chT8xP5.png"
+  },
+  {
+    "name": "Cartoon Network English",
+    "type": "Kids",
+    "url": "https://app.hughag.store/api/68b0f4e13e/playlist.m3u8",
+    "img": "https://logos-world.net/wp-content/uploads/2021/08/Cartoon-Network-Emblem.png"
   },
   {
     "name": "Sony Yay",
@@ -362,7 +746,7 @@
   {
     "name": "Animal Planet HD",
     "type": "Documentary",
-    "url": "https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8",
+    "url": "https://tvsen6.aynaott.com/animal_planet_hd/index.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/1280px-Animal_Planet_logo.svg.png"
   },
   {
@@ -440,7 +824,7 @@
   {
     "name": "Sony Aath",
     "type": "Indian-Bangla",
-    "url": "https://tv.bongoflix.top/toffee/live.php?id=7e00fee81848&e=.m3u8",
+    "url": "https://app.hughag.store/api/b6a720edea/playlist.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/1200px-Sony_Aath_logo.svg.png"
   },
   {
@@ -807,360 +1191,6 @@
     "name": "Netflix Movies",
     "type": "English Movie",
     "url": "https://live20.bozztv.com/akamaissh101/ssh101/sungo546/chunks.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Live Sports-1",
-    "type": "SPORTS",
-    "url": "http://178.217.72.66:8080/Eurosport_HD/video.m3u8",
-    "img": "http://dds.oncast.me/img/logo/sp1.png"
-  },
-  {
-    "name": "Live Sports-2",
-    "type": "SPORTS",
-    "url": "https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/03.m3u8",
-    "img": "http://dds.oncast.me/img/logo/sp2.png"
-  },
-  {
-    "name": "Live Sports-3",
-    "type": "SPORTS",
-    "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/pll-network-ww/pll.m3u8",
-    "img": "http://dds.oncast.me/img/logo/sp3.png"
-  },
-  {
-    "name": "T-Sports [1]",
-    "type": "SPORTS",
-    "url": "https://tvsen5.aynaott.com/tsports/index.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png"
-  },
-  {
-    "name": "T-Sports [2]",
-    "type": "SPORTS",
-    "url": "http://163.227.238.44/Tsports/index.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png"
-  },
-  {
-    "name": "T-Sports [3]",
-    "type": "SPORTS",
-    "url": "https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png"
-  },
-  {
-    "name": "Star Sports 1",
-    "type": "SPORTS",
-    "url": "http://mag.premiumplus.tv:80/play/live.php?mac=A0:BB:3E:A6:AB:CA&stream=155968&extension=ts",
-    "img": "https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg"
-  },
-  {
-    "name": "Star Sports 1-[2]",
-    "type": "SPORTS",
-    "url": "https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=star1in",
-    "img": "https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg"
-  },
-  {
-    "name": "Star Sports-1 Hindi",
-    "type": "SPORTS",
-    "url": "https://starsportshindiii.pages.dev/index.m3u8",
-    "img": "https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg"
-  },
-  {
-    "name": "Star Sports-2",
-    "type": "SPORTS",
-    "url": "http://link.luckonline.eu/live/Ali130225/Cpyej2JL56Xy/1370.m3u8",
-    "img": "https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg"
-  },
-  {
-    "name": "Star Sports 2",
-    "type": "SPORTS",
-    "url": "http://103.110.111.36:8081/live/ssport2_720p/playlist.m3u8",
-    "img": "https://i.ytimg.com/vi/CXTxw-69Ch8/maxresdefault.jpg"
-  },
-  {
-    "name": "Star Sports 3",
-    "type": "SPORTS",
-    "url": "https://live.dinesh29.com.np/stream/jiotvplus/starsportsselecthd1/master.m3u8",
-    "img": "https://static.wikia.nocookie.net/logopedia/images/2/2a/StarSports3India.jpg/revision/latest?cb=20191214234112"
-  },
-  {
-    "name": "Star Sports Select 1",
-    "type": "SPORTS",
-    "url": "http://pankajgorasiya.net/play/live.php?mac=00:1a:79:1C:03:CE&stream=155972&extension=ts&play_token=JD4P7ykzYY",
-    "img": "https://imgur.com/ZTxVYed.png"
-  },
-  {
-    "name": "Star Sports Select 2",
-    "type": "SPORTS",
-    "url": "http://pankajgorasiya.net/play/live.php?mac=00:1a:79:1C:03:CE&stream=1114584&extension=ts&play_token=LNvo1XOyv5",
-    "img": "https://imgur.com/pFgUCZF.png"
-  },
-  {
-    "name": "Sony Sports-1 HD",
-    "type": "SPORTS",
-    "url": "http://103.110.111.36:8081/live/ten1_720p/chunks.m3u8",
-    "img": "https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen1_HD.png"
-  },
-  {
-    "name": "Sony Sports-2 HD",
-    "type": "SPORTS",
-    "url": "http://103.110.111.36:8081/live/spten2_720p/playlist.m3u8",
-    "img": "https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen2_HD.png"
-  },
-  {
-    "name": "Sony Sports-3 HD",
-    "type": "SPORTS",
-    "url": "http://front-main.eagle-4k.me/play/live.php?mac=00:1A:79:BD:42:AC&stream=276739&extension=.m3u8",
-    "img": "https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen3_HD.png"
-  },
-  {
-    "name": "Sony Sports-5 SD",
-    "type": "SPORTS",
-    "url": "http://103.110.111.36:8081/live/spten5_720p/playlist.m3u8",
-    "img": "https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_SD_Logo_CLR.png"
-  },
-  {
-    "name": "PTV Sports",
-    "type": "SPORTS",
-    "url": "http://175.107.244.52:4457/play/a08g/index.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png"
-  },
-  {
-    "name": "PTV Sports-[2]",
-    "type": "SPORTS",
-    "url": "http://nayatv.ydns.eu:80/xfireflix/flixfire/12331.ts",
-    "img": "https://upload.wikimedia.org/wikipedia/en/e/e4/PTV_Sports.png"
-  },
-  {
-    "name": "Ten Sports",
-    "type": "SPORTS",
-    "url": "http://filex.tv:8080/live/Multicity/1234/52106.ts",
-    "img": "https://iconape.com/wp-content/files/da/323865/png/323865.png"
-  },
-  {
-    "name": "A Sports",
-    "type": "SPORTS",
-    "url": "https://crichdplaylist.extratvteam.workers.dev/master.m3u8?cid=asportshd",
-    "img": "https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png"
-  },
-  {
-    "name": "Geo Super TV",
-    "type": "SPORTS",
-    "url": "http://175.107.244.52:4456/play/a06z/index.m3u8",
-    "img": "https://i.pinimg.com/originals/a0/f1/02/a0f102f34a179d207602df014cbf203d.jpg"
-  },
-  {
-    "name": "Willow HD",
-    "type": "SPORTS",
-    "url": "http://filex.tv:8080/live/Multicity/1234/52109.ts",
-    "img": "https://aimages.willow.tv/wlo_logo_200_200.jpg"
-  },
-  {
-    "name": "FOX Cricket 501",
-    "type": "SPORTS",
-    "url": "http://iptvtree.net:8080/live/F15554/Tve5ZWQEd485/279034.ts",
-    "img": "https://upload.wikimedia.org/wikipedia/en/f/f4/Fox_Cricket_Logo.png"
-  },
-  {
-    "name": "Sky Sports Cricket",
-    "type": "SPORTS",
-    "url": "http://astv.life:8080/anil@123/anil@123/208260",
-    "img": "https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2020/09/Sky-Sports-Cricket-2020-logo-250.png"
-  },
-  {
-    "name": "Sky Sports Action",
-    "type": "SPORTS",
-    "url": "http://rhsbjv7k.tvclub.xyz/iptv/FAGK589PV9BQAG/7335/index.m3u8",
-    "img": "https://cdn-0.tvprofil.com/img/kanali-logo/Sky_Sports_Football.png"
-  },
-  {
-    "name": "Super Sport Cricket",
-    "type": "SPORTS",
-    "url": "http://astv.life:8080/anil@123/anil@123/208258",
-    "img": "https://www.thesportsdb.com/images/media/channel/tvlogo/srtijz1643382350.png"
-  },
-  {
-    "name": "Laliga tv",
-    "type": "SPORTS",
-    "url": "http://xtv.ooo:8080/live/03353290992/03353290992/238479.ts",
-    "img": "https://supersport-cms-prod.azureedge.net/media/wx5prn11/football-6.png?width=200"
-  },
-  {
-    "name": "BeIN Sports 1",
-    "type": "SPORTS",
-    "url": "https://events3.liveboxpro.com/event/91.m3u8",
-    "img": "https://static.epg.best/qa/beINSports1.qa.png"
-  },
-  {
-    "name": "BeIN Sports 2",
-    "type": "SPORTS",
-    "url": "https://events3.liveboxpro.com/event/92.m3u8",
-    "img": "https://static.epg.best/qa/beINSports2.qa.png"
-  },
-  {
-    "name": "BeIN Sports 3",
-    "type": "SPORTS",
-    "url": "https://events3.liveboxpro.com/event/93.m3u8",
-    "img": "https://static.epg.best/qa/beINSports3.qa.png"
-  },
-  {
-    "name": "BeIN Sports Extra",
-    "type": "SPORTS",
-    "url": "https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8",
-    "img": "https://static.epg.best/qa/beINSports1.qa.png"
-  },
-  {
-    "name": "RTV Sports",
-    "type": "SPORTS",
-    "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Cowboy tv",
-    "type": "SPORTS",
-    "url": "https://amg17292-amg17292c1-distrotv-us-4170.playouts.now.amagi.tv/playlist/amg17292-tetonridgellc-tetonridgefast-distrotvus/playlist.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Raching.com",
-    "type": "SPORTS",
-    "url": "https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Fitness tv",
-    "type": "SPORTS",
-    "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/lifefit-by-triptic/master.m3u8",
-    "img": "https://lo1.in/LOGO/CARIBBEAN/NBCGOLF.png"
-  },
-  {
-    "name": "SONY LIV",
-    "type": "SPORTS",
-    "url": "https://dai.google.com/linear/hls/event/biQJgf06SJCitj-nd502ow/master.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "SONY LIV2",
-    "type": "SPORTS",
-    "url": "https://dai.google.com/linear/hls/event/tG04-ukTSleEi0819p-EqA/master.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Abu Dhabi Sports 1",
-    "type": "SPORTS",
-    "url": "https://vo-live.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/HLS/index.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Abu_Dhabi_Sports_logo_2023.svg/220px-Abu_Dhabi_Sports_logo_2023.svg.png"
-  },
-  {
-    "name": "EURO SPORTS",
-    "type": "SPORTS",
-    "url": "http://iptv-hls.idc.md:8200/hls/260/live1.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Eurosport_Logo_%282011-2015%29.svg/200px-Eurosport_Logo_%282011-2015%29.svg.png"
-  },
-  {
-    "name": "Oman Sports TV",
-    "type": "SPORTS",
-    "url": "https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/chunklist_b900000.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "One Golf",
-    "type": "SPORTS",
-    "url": "http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "SportsGrid",
-    "type": "SPORTS",
-    "url": "https://sportsgrid-tribal.amagi.tv/playlistR432p.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Tennis Channel",
-    "type": "SPORTS",
-    "url": "https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Trace Sports Stars",
-    "type": "SPORTS",
-    "url": "https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Bein Sports 2",
-    "type": "SPORTS",
-    "url": "http://125.209.88.166:45793/BRN/beINSP12.stream/playlist.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "BeiN Sports Extra",
-    "type": "SPORTS",
-    "url": "https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Europe  Sports 2 HD",
-    "type": "SPORTS",
-    "url": "http://185.189.225.157/EuroSport2/index.m3u8",
-    "img": "https://sunplex.net/iptv/logo/channel-24.jpg"
-  },
-  {
-    "name": "Europe Sports 1 HD",
-    "type": "SPORTS",
-    "url": "http://185.189.225.157/EuroSport1/index.m3u8",
-    "img": "https://sunplex.net/iptv/logo/channel-24.jpg"
-  },
-  {
-    "name": "Live",
-    "type": "SPORTS",
-    "url": "https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Live Sports Football Laliga",
-    "type": "SPORTS",
-    "url": "https://drjpy7suzu4c5.cloudfront.net/out/v1/0c06db0274c04e64ab6ae0450f5fbda8/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Live T10",
-    "type": "SPORTS",
-    "url": "http://125.209.88.166:45793/BRN/ArySports.stream/chunklist.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "MU TV",
-    "type": "SPORTS",
-    "url": "https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8",
-    "img": "https://starsat.co.za/wp-content/uploads/2021/02/MUTV-Manchester-United-TV.png"
-  },
-  {
-    "name": "MU TV",
-    "type": "SPORTS",
-    "url": "https://bcovlive-a.akamaihd.net/r6b4170ad9e8e4ed49986ecc03bac588b/eu-west-1/6058004203001/playlist.m3u8",
-    "img": "https://starsat.co.za/wp-content/uploads/2021/02/MUTV-Manchester-United-TV.png"
-  },
-  {
-    "name": "Redbull TV",
-    "type": "SPORTS",
-    "url": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "SONY TEN 3 SD",
-    "type": "SPORTS",
-    "url": "http://45.143.220.6:3333/live/premium-aostv-free/download-fdrm-aostv.asia/2837.ts",
-    "img": "https://sunplex.net/iptv/logo/sony-ten-3-hd.jpg"
-  },
-  {
-    "name": "Ten Sports PK",
-    "type": "SPORTS",
-    "url": "http://125.209.88.166:45793/BRN/TenSports.stream/playlist.m3u8",
-    "img": "https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Ten%20Sports%20PK.png"
-  },
-  {
-    "name": "TYC Sports Play",
-    "type": "SPORTS",
-    "url": "https://d1xm2jznwi5xzj.cloudfront.net/out/v1/34e0da501a8c4489b713809eb08a9bf3/index_14.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -1686,12 +1716,6 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "Duronto TV",
-    "type": "Uncategorized",
-    "url": "https://tvsen4.aynaott.com/durontotv/index.m3u8",
-    "img": "https://s3.aynaott.com/storage/1d3d06e02fc9ba45a990b65aebd04ebc"
-  },
-  {
     "name": "Star Jalsha HD",
     "type": "Uncategorized",
     "url": "https://tvsen5.aynaott.com/gUX8BJmNc2yF/index.m3u8",
@@ -1770,6 +1794,12 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
+    "name": "Ekhon TV",
+    "type": "Uncategorized",
+    "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/globaltv.stream/playlist.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
     "name": "Atn News",
     "type": "Uncategorized",
     "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/atnws-sg.stream/playlist.m3u8",
@@ -1809,6 +1839,12 @@
     "name": "Channel 9",
     "type": "Uncategorized",
     "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/channel9hd.stream/playlist.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "RTV",
+    "type": "Uncategorized",
+    "url": "https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/rtv-sg.stream/playlist.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -6306,6 +6342,12 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
+    "name": "BOISHAKHI TV",
+    "type": "Uncategorized",
+    "url": "https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
     "name": "Al Jazeera",
     "type": "Uncategorized",
     "url": "https://live-hls-web-aje.getaj.net/AJE/02.m3u8",
@@ -6528,12 +6570,6 @@
     "img": "https://s3.aynaott.com/storage/e86c14566b4d5b6dd68ac37dce4f6043"
   },
   {
-    "name": "RTV",
-    "type": "Channels",
-    "url": "https://tvsen5.aynaott.com/RtvHD/index.m3u8",
-    "img": "https://s3.aynaott.com/storage/fd634ca672c8294f109225ca42d20991"
-  },
-  {
     "name": "ATN Bangla",
     "type": "Channels",
     "url": "https://tvsen5.aynaott.com/atnbangla/index.m3u8",
@@ -6564,28 +6600,10 @@
     "img": "https://s3.aynaott.com/storage/d805cf57543080b49de8a2621cd54da4"
   },
   {
-    "name": "Somoy News TV",
-    "type": "Channels",
-    "url": "https://tvsen6.aynaott.com/somoytv/index.m3u8",
-    "img": "https://s3.aynaott.com/storage/cbadf009eebf7506c7633b3a98a2f042"
-  },
-  {
-    "name": "Gazi TV",
-    "type": "Channels",
-    "url": "https://tvsen5.aynaott.com/Ravc7gPCZpxk/index.m3u8",
-    "img": "https://s3.aynaott.com/storage/0b4d83d0baf7513beae135e134fced2c"
-  },
-  {
     "name": "Desh TV",
     "type": "Channels",
     "url": "https://tvsen6.aynaott.com/deshtv/index.m3u8",
     "img": "https://s3.aynaott.com/storage/9ef657aca7c0009e4f0675af3b5190d8"
-  },
-  {
-    "name": "Boishakhi TV",
-    "type": "Channels",
-    "url": "https://tvsen6.aynaott.com/boishakhitv/index.m3u8",
-    "img": "https://s3.aynaott.com/storage/ec66cdf9538da75b08112f9ae2f151bc"
   },
   {
     "name": "Channel 9",
@@ -6616,30 +6634,6 @@
     "type": "Channels",
     "url": "https://tvsen6.aynaott.com/independenttv/index.m3u8",
     "img": "https://s3.aynaott.com/storage/ee4466e6b775bf83f4f5a90a1dc89234"
-  },
-  {
-    "name": "SA TV",
-    "type": "Channels",
-    "url": "https://tvsen6.aynaott.com/satv/index.m3u8",
-    "img": "https://s3.aynaott.com/storage/83796140b05a889d37c4c98ed8c43821"
-  },
-  {
-    "name": "DBC News",
-    "type": "Channels",
-    "url": "https://tvsen6.aynaott.com/dbcnews/index.m3u8",
-    "img": "https://s3.aynaott.com/storage/e8bb743022a2b6b0ee714bbdb2715cbe"
-  },
-  {
-    "name": "Ekhon TV",
-    "type": "Channels",
-    "url": "https://tvsen6.aynaott.com/ekhontv/index.m3u8",
-    "img": "https://s3.aynaott.com/storage/94ff4123b6c533d0332d63944ccf5868"
-  },
-  {
-    "name": "News 24 BD",
-    "type": "Channels",
-    "url": "https://tvsen6.aynaott.com/news24/index.m3u8",
-    "img": "https://s3.aynaott.com/storage/b102f206ea73dfdbc591e9cf6c8c478d"
   },
   {
     "name": "Bangla TV",
