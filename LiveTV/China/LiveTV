@@ -4452,6 +4452,12 @@
     "img": "https://live.fanmingming.cn/tv/CGTN阿语.png"
   },
   {
+    "name": "CCTV4",
+    "type": "央视频道",
+    "url": "https://global.cgtn.cicc.media.caton.cloud/master/cgtn-america.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
     "name": "CCTV央视台球",
     "type": "央视频道",
     "url": "https://epg.pw/stream/25677ac2e8c1f7c3dd6359c43eb5f0f54efb3f5c11f9dda18d01b3e0308ed017.m3u8",
@@ -4485,12 +4491,6 @@
     "name": "CETV2",
     "type": "央视频道",
     "url": "https://cc06.tv12.xyz/24.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "CETV4",
-    "type": "央视频道",
-    "url": "https://mursor.ottiptv.cc/migu/923287339.m3u8?migutoken=165b545b4402eaba61cdc31defb6548a443d9b5eebb1d99392852bd799c553e8817e85eb324c512581ca9a1ed8e56e530144f79606cf44fe5b2d5e97b6da577e0f2adae2a90c2a55089c95880b",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -5214,21 +5214,15 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
+    "name": "广西卫视",
+    "type": "卫视频道",
+    "url": "https://hlscdn.liangtv.cn/live/de0f97348eb84f62aa6b7d8cf0430770/dd505d87880c478f901f38560ca4d4e6.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
     "name": "安多卫视",
     "type": "卫视频道",
     "url": "https://liveout.xntv.tv/a65jur/96iln2.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "山东教育",
-    "type": "卫视频道",
-    "url": "https://test1.live.sdetv.com.cn/live/dianshizhibo/playlist.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "莲花卫视",
-    "type": "卫视频道",
-    "url": "https://fenghuang.tv12.xyz/187.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -5241,6 +5235,12 @@
     "name": "河北4K",
     "type": "卫视频道",
     "url": "https://event.pull.hebtv.com:443/live/live101.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "山东教育",
+    "type": "卫视频道",
+    "url": "https://test1.live.sdetv.com.cn/live/dianshizhibo/playlist.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -5913,12 +5913,6 @@
     "name": "纪实科教8K",
     "type": "数字频道",
     "url": "https://gdcucc.v1.mk/gdcucc/brtv8k.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "美亚电影台",
-    "type": "数字频道",
-    "url": "https://live.tvfix.org/live/mydy/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -7764,6 +7758,12 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
+    "name": "1930年代经典电影",
+    "type": "电影频道",
+    "url": "https://mursor.ottiptv.cc/yy/1356363815",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
     "name": "24h高分电影",
     "type": "电影频道",
     "url": "https://mursor.ottiptv.cc/yy/1355171357",
@@ -7830,9 +7830,9 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "前任电影",
+    "name": "刘哔电影",
     "type": "电影频道",
-    "url": "https://mursor.ottiptv.cc/douyu/9329242",
+    "url": "https://mursor.ottiptv.cc/douyu/2632223",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -7842,9 +7842,9 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "同同电影",
+    "name": "古枫影视",
     "type": "电影频道",
-    "url": "https://mursor.ottiptv.cc/douyu/10155359",
+    "url": "https://mursor.ottiptv.cc/huya/30297201",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -7914,6 +7914,12 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
+    "name": "国内玄幻电影林正英",
+    "type": "电影频道",
+    "url": "https://mursor.ottiptv.cc/yy/1354932444",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
     "name": "墨逗电影",
     "type": "电影频道",
     "url": "https://mursor.ottiptv.cc/douyu/9614847",
@@ -7923,6 +7929,18 @@
     "name": "夏洛特烦恼国内电影喜剧",
     "type": "电影频道",
     "url": "https://mursor.ottiptv.cc/yy/1354936201",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "大仙爱电影",
+    "type": "电影频道",
+    "url": "https://mursor.ottiptv.cc/huya/30695684",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "大壮撞电影",
+    "type": "电影频道",
+    "url": "https://mursor.ottiptv.cc/douyu/9437349",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -7938,9 +7956,21 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
+    "name": "大潘影视",
+    "type": "电影频道",
+    "url": "https://mursor.ottiptv.cc/huya/30439834",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
     "name": "大米饭影视",
     "type": "电影频道",
     "url": "https://mursor.ottiptv.cc/douyu/9824094",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "大荒电影",
+    "type": "电影频道",
+    "url": "https://mursor.ottiptv.cc/douyu/3508538",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -7964,25 +7994,13 @@
   {
     "name": "天映经典",
     "type": "电影频道",
-    "url": "https://migu.188766.xyz/?migutoken=3637f4ae3861b554c9b368728cc8b391&id=Celestial2&type=dy",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "太空生命高分科幻电影开播",
-    "type": "电影频道",
-    "url": "https://mursor.ottiptv.cc/yy/1382851586",
+    "url": "https://epg.pw/stream/cb817875cf26eb683af274dd8cdf7f559a71353d9565c32447c8d98894bc8095.ctv",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "奇幻电影放映厅",
     "type": "电影频道",
     "url": "https://mursor.ottiptv.cc/huya/26355847",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "奇怪电影",
-    "type": "电影频道",
-    "url": "https://mursor.ottiptv.cc/douyu/9440966",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -8004,39 +8022,15 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "小若影视",
-    "type": "电影频道",
-    "url": "https://mursor.ottiptv.cc/huya/29868594",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "少年看电影",
     "type": "电影频道",
     "url": "https://mursor.ottiptv.cc/douyu/8762120",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "岳云鹏宋小宝也来演电影了",
+    "name": "影视插班生",
     "type": "电影频道",
-    "url": "https://mursor.ottiptv.cc/yy/1354926612",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "张小宾电影",
-    "type": "电影频道",
-    "url": "https://mursor.ottiptv.cc/huya/29862176",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "影视小艺",
-    "type": "电影频道",
-    "url": "https://mursor.ottiptv.cc/yy/1382737886",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "影视梗大叔",
-    "type": "电影频道",
-    "url": "https://mursor.ottiptv.cc/douyu/9480648",
+    "url": "https://mursor.ottiptv.cc/huya/29882513",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -8046,15 +8040,15 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "影视集装箱",
-    "type": "电影频道",
-    "url": "https://mursor.ottiptv.cc/douyu/8651489",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "怪兽马提尼电影",
     "type": "电影频道",
     "url": "https://mursor.ottiptv.cc/douyu/9075333",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "怪医文三块影视剧",
+    "type": "电影频道",
+    "url": "https://mursor.ottiptv.cc/yy/1354936154",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -8064,15 +8058,33 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
+    "name": "恐怖电影",
+    "type": "电影频道",
+    "url": "https://mursor.ottiptv.cc/yy/24066336",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "悬疑电影放映厅",
+    "type": "电影频道",
+    "url": "https://mursor.ottiptv.cc/huya/29982641",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "惊悚电影放映厅",
+    "type": "电影频道",
+    "url": "https://mursor.ottiptv.cc/huya/26355795",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
     "name": "我是吃泡面看电影",
     "type": "电影频道",
     "url": "https://mursor.ottiptv.cc/douyu/8851063",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "扁豆看电影",
+    "name": "战争电影放映厅",
     "type": "电影频道",
-    "url": "https://mursor.ottiptv.cc/huya/16028551",
+    "url": "https://mursor.ottiptv.cc/huya/21059618",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -8094,9 +8106,9 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "木子电影V",
+    "name": "无限复活张柏芝主演爱情电影",
     "type": "电影频道",
-    "url": "https://mursor.ottiptv.cc/huya/27314057",
+    "url": "https://mursor.ottiptv.cc/yy/1382745190",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -8118,15 +8130,39 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
+    "name": "林正英经典电影",
+    "type": "电影频道",
+    "url": "https://mursor.ottiptv.cc/yy/34229877",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "梦溪影视",
+    "type": "电影频道",
+    "url": "https://mursor.ottiptv.cc/huya/25742076",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
     "name": "欧美配音电影",
     "type": "电影频道",
     "url": "https://mursor.ottiptv.cc/yy/1354693629",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
+    "name": "止戈电影",
+    "type": "电影频道",
+    "url": "https://mursor.ottiptv.cc/huya/19863777",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
     "name": "武侠电影放映厅",
     "type": "电影频道",
     "url": "https://mursor.ottiptv.cc/huya/29982611",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "江苏影视",
+    "type": "电影频道",
+    "url": "https://migu.188766.xyz/?migutoken=91756b74eb13850e4c87b15c25817e42&id=%E6%B1%9F%E8%8B%8F%E5%BD%B1%E8%A7%86%E9%A2%91%E9%81%93&type=yy",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -8148,27 +8184,15 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "港剧影视汇",
-    "type": "电影频道",
-    "url": "https://mursor.ottiptv.cc/huya/23903142",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "热血动作电影",
     "type": "电影频道",
     "url": "https://mursor.ottiptv.cc/yy/1382736804",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "热血抗日电影",
+    "name": "熊猫电影",
     "type": "电影频道",
-    "url": "https://mursor.ottiptv.cc/yy/1382749907",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "爆裂电影2",
-    "type": "电影频道",
-    "url": "https://mursor.ottiptv.cc/huya/29982678",
+    "url": "https://mursor.ottiptv.cc/douyu/3506483",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -8184,9 +8208,33 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
+    "name": "狗毛电影",
+    "type": "电影频道",
+    "url": "https://mursor.ottiptv.cc/douyu/9356637",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "独立鱼电影",
+    "type": "电影频道",
+    "url": "https://mursor.ottiptv.cc/douyu/2413555",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "狼肉影视故事",
+    "type": "电影频道",
+    "url": "https://mursor.ottiptv.cc/huya/30375709",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
     "name": "猛虎电影",
     "type": "电影频道",
     "url": "https://mursor.ottiptv.cc/huya/24770988",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "猫丸酱影视",
+    "type": "电影频道",
+    "url": "https://mursor.ottiptv.cc/huya/26999674",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -8199,6 +8247,12 @@
     "name": "玖月影视",
     "type": "电影频道",
     "url": "https://mursor.ottiptv.cc/douyu/9339251",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "电影七十二变",
+    "type": "电影频道",
+    "url": "https://mursor.ottiptv.cc/douyu/9323164",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -8226,21 +8280,21 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "电影小班长",
-    "type": "电影频道",
-    "url": "https://mursor.ottiptv.cc/douyu/549693",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "电影幕后喵",
     "type": "电影频道",
     "url": "https://mursor.ottiptv.cc/douyu/8884074",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "电影最TOP2",
+    "name": "电影探长官方",
     "type": "电影频道",
-    "url": "https://mursor.ottiptv.cc/huya/29982676",
+    "url": "https://mursor.ottiptv.cc/huya/30277705",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "电影漩涡",
+    "type": "电影频道",
+    "url": "https://mursor.ottiptv.cc/douyu/8706350",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -8250,15 +8304,15 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "电影电影电影电影电影电影",
-    "type": "电影频道",
-    "url": "https://mursor.ottiptv.cc/yy/1351496216",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "电影百团大战",
     "type": "电影频道",
     "url": "https://mursor.ottiptv.cc/yy/1382736871",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "电影笔记",
+    "type": "电影频道",
+    "url": "https://mursor.ottiptv.cc/douyu/9636034",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -8268,27 +8322,9 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "电影黑豹",
-    "type": "电影频道",
-    "url": "https://mursor.ottiptv.cc/yy/1382736816",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "看电影了没V",
     "type": "电影频道",
     "url": "https://mursor.ottiptv.cc/douyu/9562616",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "科幻电影环太平洋",
-    "type": "电影频道",
-    "url": "https://mursor.ottiptv.cc/yy/1354936170",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "站内看电影",
-    "type": "电影频道",
-    "url": "https://mursor.ottiptv.cc/bilibili/22786371",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -8304,15 +8340,33 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "粤语电影放映厅",
+    "name": "精彩动作电影",
     "type": "电影频道",
-    "url": "https://mursor.ottiptv.cc/huya/21059572",
+    "url": "https://mursor.ottiptv.cc/yy/1382736823",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "精彩动作电影享不停",
     "type": "电影频道",
     "url": "https://mursor.ottiptv.cc/yy/1382736809",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "经典武侠电影如来神掌",
+    "type": "电影频道",
+    "url": "https://mursor.ottiptv.cc/yy/1382749944",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "经典港片电影",
+    "type": "电影频道",
+    "url": "https://mursor.ottiptv.cc/yy/1461889059",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "经典电影港片枪战",
+    "type": "电影频道",
+    "url": "https://mursor.ottiptv.cc/yy/1355076627",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -8324,7 +8378,7 @@
   {
     "name": "绝版电影港片女鬼",
     "type": "电影频道",
-    "url": "https://mursor.ottiptv.cc/yy/1455988450",
+    "url": "https://mursor.ottiptv.cc/yy/1461579859",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -8346,6 +8400,24 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
+    "name": "美亚电影",
+    "type": "电影频道",
+    "url": "https://live.tvfix.org/live/mydy/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "老卓电影",
+    "type": "电影频道",
+    "url": "https://mursor.ottiptv.cc/yy/1354770516",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "老巴电影",
+    "type": "电影频道",
+    "url": "https://mursor.ottiptv.cc/huya/29340502",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
     "name": "老王的夜电影院",
     "type": "电影频道",
     "url": "https://mursor.ottiptv.cc/douyu/3498219",
@@ -8358,15 +8430,15 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "舒克影视梗",
+    "name": "腹黑电影",
     "type": "电影频道",
-    "url": "https://mursor.ottiptv.cc/huya/24517063",
+    "url": "https://mursor.ottiptv.cc/douyu/8867878",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "英叔电影",
+    "name": "芒月影视厅",
     "type": "电影频道",
-    "url": "https://mursor.ottiptv.cc/yy/1414858842",
+    "url": "https://mursor.ottiptv.cc/huya/30649924",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -8400,12 +8472,6 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "越越爱影视",
-    "type": "电影频道",
-    "url": "https://mursor.ottiptv.cc/yy/1382736886",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "远去的飞鹰影视剧",
     "type": "电影频道",
     "url": "https://mursor.ottiptv.cc/yy/1354930912",
@@ -8424,9 +8490,21 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
+    "name": "野山鹰影视剧",
+    "type": "电影频道",
+    "url": "https://mursor.ottiptv.cc/yy/1354932395",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
     "name": "野格影视",
     "type": "电影频道",
     "url": "https://mursor.ottiptv.cc/douyu/9931766",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "鑫鑫影视",
+    "type": "电影频道",
+    "url": "https://mursor.ottiptv.cc/huya/30439676",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -8436,33 +8514,15 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "阳阳影视",
+    "name": "阿苏电影",
     "type": "电影频道",
-    "url": "https://mursor.ottiptv.cc/huya/29805872",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "阿光影视",
-    "type": "电影频道",
-    "url": "https://mursor.ottiptv.cc/huya/30292086",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "阿涛影视",
-    "type": "电影频道",
-    "url": "https://mursor.ottiptv.cc/huya/30292047",
+    "url": "https://mursor.ottiptv.cc/douyu/9037784",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "雨哥影视",
     "type": "电影频道",
     "url": "https://mursor.ottiptv.cc/huya/29517294",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "青年电影馆",
-    "type": "电影频道",
-    "url": "https://mursor.ottiptv.cc/huya/21388479",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -8475,18 +8535,6 @@
     "name": "韩国电影2",
     "type": "电影频道",
     "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=743",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "香兰爱影视",
-    "type": "电影频道",
-    "url": "https://mursor.ottiptv.cc/douyu/9487090",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "驴子爱影视",
-    "type": "电影频道",
-    "url": "https://mursor.ottiptv.cc/huya/20380270",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -9792,21 +9840,9 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "无锡娱乐",
-    "type": "地方频道",
-    "url": "https://stream.thmz.com/wxtv2/playlist.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "无锡生活",
     "type": "地方频道",
     "url": "https://stream.thmz.com/wxtv4/playlist.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "无锡经济",
-    "type": "地方频道",
-    "url": "https://stream.thmz.com/wxtv5/playlist.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -9861,12 +9897,6 @@
     "name": "永昌综合",
     "type": "地方频道",
     "url": "https://play.kankanlive.com/live/1652755738635915.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "江苏教育",
-    "type": "地方频道",
-    "url": "https://migu.188766.xyz/?migutoken=bfd96895aa8e3e9aa47561510518c058&id=%E6%B1%9F%E8%8B%8F%E6%95%99%E8%82%B2&type=yy",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -9933,6 +9963,12 @@
     "name": "清河经济综艺",
     "type": "地方频道",
     "url": "https://jwcdnqx.hebyun.com.cn/live/qinghe1/1500k/tzwj_video.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "湖州文化娱乐",
+    "type": "地方频道",
+    "url": "https://hzcm-live.media.hugd.com/613c47f0ab0d4eaa98b21378d0db6ded/0051d31c9dd543a7825eea4e49675b2a.m3u8?auth_key=2277598059-0a5ebfa1c0dc4671b42a60810fc37039-0-fa625b7d1feab612062453c12e3c8887",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -10830,12 +10866,6 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "Sky News",
-    "type": "国际",
-    "url": "http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/153846.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "RT NEWS",
     "type": "国际",
     "url": "http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/181651.m3u8",
@@ -11346,12 +11376,6 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "Investigation Discovery",
-    "type": "国际",
-    "url": "http://panelguys.top:8080/txd7Fd/030774/57442",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "MSNBC",
     "type": "国际",
     "url": "http://panelguys.top:8080/txd7Fd/030774/47332",
@@ -11481,36 +11505,6 @@
     "name": "TSN 5",
     "type": "国际",
     "url": "http://fl5.moveonjoy.com/TSN_5/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "TNT SPORT 1",
-    "type": "国际",
-    "url": "http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/153714.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "TNT SPORT 2",
-    "type": "国际",
-    "url": "http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/153716.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "TNT SPORT 3",
-    "type": "国际",
-    "url": "http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/153718.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "TNT SPORT 4",
-    "type": "国际",
-    "url": "http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/13716.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "TNT SPORT 5",
-    "type": "国际",
-    "url": "http://mwyceyp.mhubery.xyz:80/live/2161039006/6680421603/62800.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -12276,9 +12270,69 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "中华小当家",
-    "type": "儿童频道",
-    "url": "https://live.metshop.top/huya/11342413",
+    "name": "Golf Channel",
+    "type": "国际",
+    "url": "https://fl3.moveonjoy.com/GOLF/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Travel Channel",
+    "type": "国际",
+    "url": "http://fl1.moveonjoy.com/Travel_Channel/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "TVOne",
+    "type": "国际",
+    "url": "https://fl3.moveonjoy.com/TV_ONE/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "WeTV",
+    "type": "国际",
+    "url": "http://fl1.moveonjoy.com/WE_TV/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "WGN",
+    "type": "国际",
+    "url": "https://fl3.moveonjoy.com/WGN/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "W NETWORK",
+    "type": "国际",
+    "url": "https://fl3.moveonjoy.com/W_NETWORK/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Vice",
+    "type": "国际",
+    "url": "https://fl3.moveonjoy.com/VICELAND/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Tennis Channel",
+    "type": "国际",
+    "url": "http://fl1.moveonjoy.com/TENNIS_CHANNEL/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "SYFY",
+    "type": "国际",
+    "url": "https://fl3.moveonjoy.com/SYFY/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "TBS",
+    "type": "国际",
+    "url": "http://fl1.moveonjoy.com/TBS/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "TCM",
+    "type": "国际",
+    "url": "http://fl1.moveonjoy.com/TCM/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -12294,6 +12348,18 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
+    "name": "只会画儿童画",
+    "type": "儿童频道",
+    "url": "https://mursor.ottiptv.cc/bilibili/549290",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "少儿频道日间",
+    "type": "儿童频道",
+    "url": "https://mursor.ottiptv.cc/bilibili/5572613",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
     "name": "林小二动画",
     "type": "儿童频道",
     "url": "https://mursor.ottiptv.cc/douyu/11184164",
@@ -12303,6 +12369,12 @@
     "name": "火影忍者",
     "type": "儿童频道",
     "url": "https://hd.ijycnd.com/play/Yer3NWLa/index.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "立秋动画",
+    "type": "儿童频道",
+    "url": "https://mursor.ottiptv.cc/douyu/10351891",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -12354,9 +12426,21 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "3说电影",
+    "name": "7块说故事",
     "type": "解说频道",
-    "url": "https://mursor.ottiptv.cc/douyu/9643264",
+    "url": "https://mursor.ottiptv.cc/huya/27661804",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Ido漫说",
+    "type": "解说频道",
+    "url": "https://mursor.ottiptv.cc/douyu/9456379",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "JG影视解说",
+    "type": "解说频道",
+    "url": "https://mursor.ottiptv.cc/douyu/9391277",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -12366,27 +12450,15 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "Michael说大片",
-    "type": "解说频道",
-    "url": "https://mursor.ottiptv.cc/douyu/8841881",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "SAO东西又再说SAO话",
     "type": "解说频道",
     "url": "https://mursor.ottiptv.cc/douyu/8833450",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "yaoyao说",
+    "name": "丽姐说电影",
     "type": "解说频道",
-    "url": "https://mursor.ottiptv.cc/douyu/884073",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "且听我说",
-    "type": "解说频道",
-    "url": "https://mursor.ottiptv.cc/huya/20985820",
+    "url": "https://mursor.ottiptv.cc/douyu/9437283",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -12402,9 +12474,15 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "代娱说美剧",
+    "name": "亮哥讲电影",
     "type": "解说频道",
-    "url": "https://mursor.ottiptv.cc/douyu/9123570",
+    "url": "https://mursor.ottiptv.cc/huya/16144175",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "伯乐说电影V",
+    "type": "解说频道",
+    "url": "https://mursor.ottiptv.cc/douyu/9386057",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -12414,27 +12492,21 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "侃片黑菠萝",
+    "name": "冷君聊大片",
     "type": "解说频道",
-    "url": "https://mursor.ottiptv.cc/douyu/5803764",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "冬粮说故事",
-    "type": "解说频道",
-    "url": "https://mursor.ottiptv.cc/douyu/5192695",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "刘老师说电影",
-    "type": "解说频道",
-    "url": "https://mursor.ottiptv.cc/douyu/8317926",
+    "url": "https://mursor.ottiptv.cc/douyu/9666219",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "剧能说",
     "type": "解说频道",
     "url": "https://mursor.ottiptv.cc/huya/30298490",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "剧说有惊喜",
+    "type": "解说频道",
+    "url": "https://mursor.ottiptv.cc/huya/30339670",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -12450,9 +12522,9 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "博然讲电影",
+    "name": "南南说动漫",
     "type": "解说频道",
-    "url": "https://mursor.ottiptv.cc/douyu/9561992",
+    "url": "https://mursor.ottiptv.cc/huya/30296754",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -12462,9 +12534,27 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "听wo姐说",
+    "name": "吾聊电影",
     "type": "解说频道",
-    "url": "https://mursor.ottiptv.cc/douyu/8830082",
+    "url": "https://mursor.ottiptv.cc/huya/16424416",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "吾聊电影2",
+    "type": "解说频道",
+    "url": "https://mursor.ottiptv.cc/huya/29982684",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "哏老师撩电影",
+    "type": "解说频道",
+    "url": "https://mursor.ottiptv.cc/douyu/9991820",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "哑巴竟然会说话",
+    "type": "解说频道",
+    "url": "https://mursor.ottiptv.cc/yy/1354932427",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -12480,9 +12570,9 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "大魔王动漫解说",
+    "name": "大漠讲电影",
     "type": "解说频道",
-    "url": "https://mursor.ottiptv.cc/douyu/9963128",
+    "url": "https://mursor.ottiptv.cc/huya/30301298",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -12492,9 +12582,15 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "天依说影",
+    "name": "天雷鼓鼓说剧",
     "type": "解说频道",
-    "url": "https://mursor.ottiptv.cc/huya/15174372",
+    "url": "https://mursor.ottiptv.cc/huya/30277823",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "好像视说故事",
+    "type": "解说频道",
+    "url": "https://mursor.ottiptv.cc/douyu/8891883",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -12510,27 +12606,15 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "将军侃片",
+    "name": "小丽说电影",
     "type": "解说频道",
-    "url": "https://mursor.ottiptv.cc/douyu/8529736",
+    "url": "https://mursor.ottiptv.cc/douyu/9368016",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "小司马说剧",
+    "name": "小松说剧",
     "type": "解说频道",
-    "url": "https://mursor.ottiptv.cc/douyu/9660127",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "小岛讲电影",
-    "type": "解说频道",
-    "url": "https://mursor.ottiptv.cc/douyu/9390955",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "小川侃电影",
-    "type": "解说频道",
-    "url": "https://mursor.ottiptv.cc/huya/15870999",
+    "url": "https://mursor.ottiptv.cc/huya/11593369",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -12540,39 +12624,15 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "小涛讲电影V",
-    "type": "解说频道",
-    "url": "https://mursor.ottiptv.cc/douyu/8415464",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "小片片说大片",
-    "type": "解说频道",
-    "url": "https://mursor.ottiptv.cc/douyu/4258555",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "小片片说大片二台",
     "type": "解说频道",
     "url": "https://mursor.ottiptv.cc/douyu/10011547",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "崽崽撩电影",
+    "name": "小超讲电影",
     "type": "解说频道",
-    "url": "https://mursor.ottiptv.cc/douyu/8325511",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "幕撩电影",
-    "type": "解说频道",
-    "url": "https://mursor.ottiptv.cc/douyu/9486015",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "强人说笑",
-    "type": "解说频道",
-    "url": "https://mursor.ottiptv.cc/douyu/10329713",
+    "url": "https://mursor.ottiptv.cc/douyu/3432645",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -12594,6 +12654,12 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
+    "name": "撩电影8",
+    "type": "解说频道",
+    "url": "https://mursor.ottiptv.cc/douyu/9351043",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
     "name": "新视角解说",
     "type": "解说频道",
     "url": "https://mursor.ottiptv.cc/douyu/8813254",
@@ -12612,21 +12678,33 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
+    "name": "晓麦讲电影",
+    "type": "解说频道",
+    "url": "https://mursor.ottiptv.cc/douyu/453963",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
     "name": "末日说电影",
     "type": "解说频道",
     "url": "https://mursor.ottiptv.cc/douyu/9431125",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "松轩说电影",
+    "name": "欣姐说剧",
     "type": "解说频道",
-    "url": "https://mursor.ottiptv.cc/douyu/1524969",
+    "url": "https://mursor.ottiptv.cc/huya/28021302",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "楚哥说电影",
+    "name": "汪哥说电影",
     "type": "解说频道",
-    "url": "https://mursor.ottiptv.cc/douyu/9375743",
+    "url": "https://mursor.ottiptv.cc/douyu/9312685",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "泛爱心说剧",
+    "type": "解说频道",
+    "url": "https://mursor.ottiptv.cc/huya/14734068",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -12638,25 +12716,19 @@
   {
     "name": "漫画解说",
     "type": "解说频道",
-    "url": "https://mursor.ottiptv.cc/yy/1382735568",
+    "url": "https://www.goodiptv.club/douyu/5907076",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "火华君说电影",
+    "type": "解说频道",
+    "url": "https://mursor.ottiptv.cc/huya/27312232",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "火龙果讲电影本人",
     "type": "解说频道",
     "url": "https://mursor.ottiptv.cc/douyu/2039501",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "火龙果说电影",
-    "type": "解说频道",
-    "url": "https://mursor.ottiptv.cc/douyu/9559158",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "灯泡兄弟影游谈",
-    "type": "解说频道",
-    "url": "https://mursor.ottiptv.cc/douyu/1690081",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -12690,15 +12762,27 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "猴博士爱讲课V",
+    "name": "王坑坑聊电影",
     "type": "解说频道",
-    "url": "https://mursor.ottiptv.cc/douyu/8799739",
+    "url": "https://mursor.ottiptv.cc/douyu/9402110",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "珞珞说电影",
     "type": "解说频道",
     "url": "https://mursor.ottiptv.cc/douyu/3718888",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "球哥解说",
+    "type": "解说频道",
+    "url": "https://mursor.ottiptv.cc/huya/29465875",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "百家讲坛之女皇武则天",
+    "type": "解说频道",
+    "url": "https://mursor.ottiptv.cc/yy/1354889015",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -12714,15 +12798,9 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "百晓生说剧",
+    "name": "神之传说sh",
     "type": "解说频道",
-    "url": "https://mursor.ottiptv.cc/douyu/9649681",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "真香动漫解说",
-    "type": "解说频道",
-    "url": "https://mursor.ottiptv.cc/douyu/9391292",
+    "url": "https://mursor.ottiptv.cc/douyu/9370168",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -12732,51 +12810,21 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
+    "name": "秀才侃娱乐",
+    "type": "解说频道",
+    "url": "https://mursor.ottiptv.cc/douyu/9382873",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
     "name": "童乐说电影",
     "type": "解说频道",
     "url": "https://mursor.ottiptv.cc/douyu/9660704",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "竹叶青说球",
-    "type": "解说频道",
-    "url": "https://mursor.ottiptv.cc/huya/29982604",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "罗叔说戏",
     "type": "解说频道",
     "url": "https://mursor.ottiptv.cc/douyu/9788756",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "老微讲故事",
-    "type": "解说频道",
-    "url": "https://mursor.ottiptv.cc/huya/27693540",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "老秦说秦",
-    "type": "解说频道",
-    "url": "https://mursor.ottiptv.cc/douyu/9650131",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "老邪说电影",
-    "type": "解说频道",
-    "url": "https://mursor.ottiptv.cc/douyu/9222870",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "老鱼说剧",
-    "type": "解说频道",
-    "url": "https://mursor.ottiptv.cc/douyu/9994377",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "自说自话的总裁",
-    "type": "解说频道",
-    "url": "https://mursor.ottiptv.cc/douyu/9317739",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -12798,15 +12846,15 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "蛋黄讲动漫",
+    "name": "西施撩电影",
     "type": "解说频道",
-    "url": "https://mursor.ottiptv.cc/douyu/9542834",
+    "url": "https://mursor.ottiptv.cc/douyu/7532080",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "诚信丶三哥解说26842",
+    "name": "言雨说剧",
     "type": "解说频道",
-    "url": "https://mursor.ottiptv.cc/huya/594913",
+    "url": "https://mursor.ottiptv.cc/huya/30297024",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -12834,9 +12882,15 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "贷款小说家",
+    "name": "豆客解说",
     "type": "解说频道",
-    "url": "https://mursor.ottiptv.cc/huya/30080249",
+    "url": "https://mursor.ottiptv.cc/douyu/8883122",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "越哥说电影",
+    "type": "解说频道",
+    "url": "https://mursor.ottiptv.cc/huya/15894162",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -12852,21 +12906,15 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "钱小元说电影",
+    "name": "阎君说剧",
     "type": "解说频道",
-    "url": "https://mursor.ottiptv.cc/douyu/9368265",
+    "url": "https://mursor.ottiptv.cc/douyu/10475459",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "锋哥聊商机",
+    "name": "阿松撩剧",
     "type": "解说频道",
-    "url": "https://mursor.ottiptv.cc/douyu/9472141",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "露爷说漫",
-    "type": "解说频道",
-    "url": "https://mursor.ottiptv.cc/douyu/9542830",
+    "url": "https://mursor.ottiptv.cc/douyu/8880843",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -12888,6 +12936,12 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
+    "name": "鬼兄奇谈",
+    "type": "解说频道",
+    "url": "https://mursor.ottiptv.cc/douyu/8722254",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
     "name": "鲨说电影",
     "type": "解说频道",
     "url": "https://mursor.ottiptv.cc/douyu/9544628",
@@ -12900,109 +12954,67 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
+    "name": "鹏友说电影",
+    "type": "解说频道",
+    "url": "https://mursor.ottiptv.cc/huya/29340612",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "黑眼侃片",
+    "type": "解说频道",
+    "url": "https://mursor.ottiptv.cc/huya/24609357",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
     "name": "音乐广播",
     "type": "音乐频道",
     "url": "https://tv-1.iill.top/fm/552",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "丽江古城大水车",
+    "name": "乌镇蓝印花布",
     "type": "直播中国",
-    "url": "https://gcalic.v.myalicdn.com/gc/ljgcdsc_1/index.m3u8",
+    "url": "https://gcalic.v.myalicdn.com/gc/zjwzlyhb_1/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "丽江古城大研花巷观景",
+    "name": "乌镇西市河",
     "type": "直播中国",
-    "url": "https://gcalic.v.myalicdn.com/gc/ljgcdyhxgjt_1/index.m3u8",
+    "url": "https://gcalic.v.myalicdn.com/gc/zjwzbblh_1/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "云南大理崇圣寺三塔远景",
+    "name": "乌镇龙形田",
     "type": "直播中国",
-    "url": "https://gcalic.v.myalicdn.com/gc/dlst01_1/index.m3u8",
+    "url": "https://gcalic.v.myalicdn.com/gc/zjwzlxt_1/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "厦门鼓浪屿",
+    "name": "乐山大佛全景",
     "type": "直播中国",
-    "url": "https://gcalic.v.myalicdn.com/gc/gly01_1/index.m3u8",
+    "url": "https://gcalic.v.myalicdn.com/gc/lsdfgfl_1/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "四川峨眉山远眺贡嘎雪山",
+    "name": "云南大理崇圣寺三塔中景",
     "type": "直播中国",
-    "url": "https://gcalic.v.myalicdn.com/gc/emsyh_1/index.m3u8",
+    "url": "https://gcalic.v.myalicdn.com/gc/dlst03_1/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "安徽池州九华山风景区九华山",
+    "name": "普陀山",
     "type": "直播中国",
-    "url": "https://gcalic.v.myalicdn.com/gc/jhs05_1/index.m3u8",
+    "url": "https://gcalic.v.myalicdn.com/gc/pts01_1/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "张掖七彩丹霞",
+    "name": "浙江舟山东极岛",
     "type": "直播中国",
-    "url": "https://gcalic.v.myalicdn.com/gc/zyqcdx01_1/index.m3u8",
+    "url": "https://gcalic.v.myalicdn.com/gc/djd01_1/index.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "泰山太平岭",
-    "type": "直播中国",
-    "url": "https://gcalic.v.myalicdn.com/gc/hkts09_1/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "泰山玉皇顶",
-    "type": "直播中国",
-    "url": "https://gcalic.v.myalicdn.com/gc/taishan06_1/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "泰山白云亭悬崖",
-    "type": "直播中国",
-    "url": "https://gcalic.v.myalicdn.com/gc/hkts02_1/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "湖南张家界天门山西线玻璃栈道",
-    "type": "直播中国",
-    "url": "https://gcalic.v.myalicdn.com/gc/tms05_1/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "福建漳州醉美沙滩翡翠湾",
-    "type": "直播中国",
-    "url": "https://gcalic.v.myalicdn.com/gc/fcw03_1/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "雪乡梦幻家园",
-    "type": "直播中国",
-    "url": "https://gcalic.v.myalicdn.com/gc/mdjxxmhjyxj_1/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "黄山",
-    "type": "直播中国",
-    "url": "https://gcalic.v.myalicdn.com/gc/ahhs01_1/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "黄山始信新道",
-    "type": "直播中国",
-    "url": "https://gcalic.v.myalicdn.com/gc/hsyg_1/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "黄山排云亭",
-    "type": "直播中国",
-    "url": "https://gcalic.v.myalicdn.com/gc/hspyt_1/index.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "2025-08-28 12:44:34",
+    "name": "2025-08-28 18:49:32",
     "type": "更新时间",
     "url": "https://vd3.bdstatic.com/mda-ren0u3qx5hknf8wb/1080p/cae_h264/1747960722207612951/mda-ren0u3qx5hknf8wb.mp4",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
