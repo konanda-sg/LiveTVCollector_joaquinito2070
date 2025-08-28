@@ -5,20 +5,6 @@ Logo: https://raw.githubusercontent.com/mariosanthos/arquivos/main/canal.png
 Source: https://raw.githubusercontent.com/GelsondoForro/Listas-m3u/refs/heads/main/Lista.m3u
 --------------------------------------------------
 
-Group: Animation
-Name: EnerGeek (720p) [Not 24/7]
-URL: https://backend.energeek.cl/webtv/egretroweb/index.m3u8?token=ZZDemoIPTVGH
-Logo: https://cdn.energeek.cl/logos/Marca-512.png
-Source: https://iptv-org.github.io/iptv/countries/br.m3u
---------------------------------------------------
-
-Group: Animation;Entertainment
-Name: Kanade (1080p)
-URL: https://backend.energeek.cl/webtv/kanadeweb/index.m3u8?token=ZZDemoIPTVGH
-Logo: https://static.kanade.cl/assets/img/profilepic_512px.png
-Source: https://iptv-org.github.io/iptv/countries/br.m3u
---------------------------------------------------
-
 Group: Animation;Kids;Religious
 Name: Kuriakos Kids (1080p)
 URL: https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
@@ -113,18 +99,6 @@ Logo: https://images.pluto.tv/channels/64c815e8a1c6130008fef928/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_BR.m3u
 --------------------------------------------------
 
-Group: Auto
-Name: Garage TV Latin America
-URL: https://stream1.sersat.com/hls/garagetv.m3u8
-Logo: https://i.imgur.com/FqFxog1.png
-Source: https://iptv-org.github.io/iptv/countries/br.m3u
---------------------------------------------------
-Name: Motorvision
-URL: http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6093f2ae4dd5ab0007d1ff9d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1e7523-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3105f589-5bf9-41ef-8229-51bdf3abb1d2
-Logo: https://i.imgur.com/v4kj8pI.png
-Source: https://iptv-org.github.io/iptv/countries/br.m3u
---------------------------------------------------
-
 Group: Classic;Series
 Name: AWTV (1080p)
 URL: https://acesso.ecast.site:3070/live/awtvlive.m3u8
@@ -172,67 +146,9 @@ Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/
 --------------------------------------------------
 
 Group: Culture
-Name: Suyai TV (1080p)
-URL: https://signal.suyaitv.cl/live/35/playlist.m3u8?password=9PcdCnFxUe&username=ZZDemoIPTVGH
-Logo: https://suyaitv.cl/wp-content/uploads/2024/10/ico_Suyai_TV_512.png
-Source: https://iptv-org.github.io/iptv/countries/br.m3u
---------------------------------------------------
-Name: TV das Artes (360p)
-URL: http://tv02.logicahost.com.br:1935/tvdasartes/tvdasartes/playlist.m3u8
-Logo: https://i.imgur.com/fSWaiKt.png
-Source: https://iptv-org.github.io/iptv/countries/br.m3u
---------------------------------------------------
 Name: TV Life America (720p)
 URL: https://streaming.cloudecast.com/hls/tvlifeamerica/index.m3u8
 Logo: https://i.imgur.com/HZI0ilU.png
-Source: https://iptv-org.github.io/iptv/countries/br.m3u
---------------------------------------------------
-Name: TV Omindaré (360p)
-URL: https://video01.kshost.com.br/lourdes52007/lourdes52007/playlist.m3u8
-Logo: https://i.imgur.com/naZZUIT.png
-Source: https://iptv-org.github.io/iptv/countries/br.m3u
---------------------------------------------------
-
-Group: Culture;Education
-Name: TVBE Joinville (720p)
-URL: https://5c483b9d1019c.streamlock.net/8022/8022/playlist.m3u8
-Logo: https://i.imgur.com/zUpWcUN.png
-Source: https://iptv-org.github.io/iptv/countries/br.m3u
---------------------------------------------------
-Name: TVE RS (1080p)
-URL: https://streaming.procergs.com.br:8443/tve/stve/playlist.m3u8
-Logo: https://i.imgur.com/MQ6lJpS.png
-Source: https://iptv-org.github.io/iptv/countries/br.m3u
---------------------------------------------------
-Name: UNISUL TV (720p)
-URL: https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token=
-Logo: https://i.imgur.com/N0TvAFz.png
-Source: https://iptv-org.github.io/iptv/countries/br.m3u
---------------------------------------------------
-
-Group: Culture;Music
-Name: Radio Suyai TV (1080p)
-URL: https://signal.suyaitv.cl/live/26/playlist.m3u8?password=9PcdCnFxUe&username=ZZDemoIPTVGH
-Logo: https://radio.suyaitv.cl/wp-content/uploads/2024/04/cropped-radiosuyaitvcuadrado512.png
-Source: https://iptv-org.github.io/iptv/countries/br.m3u
---------------------------------------------------
-
-Group: Culture;News
-Name: NHK World-Japan (720p)
-URL: https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
-Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png
-Source: https://iptv-org.github.io/iptv/countries/br.m3u
---------------------------------------------------
-Name: STZ TV (720p)
-URL: https://cdn.jmvstream.com/w/AVJ-12952/playlist/playlist.m3u8
-Logo: https://i.imgur.com/SeF2I7q.png
-Source: https://iptv-org.github.io/iptv/countries/br.m3u
---------------------------------------------------
-
-Group: Culture;Public
-Name: ETB Basque (480p)
-URL: https://multimedia.eitb.eus/live-content/eitbbasque-hls/master.m3u8
-Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/ETB_Basque_2022_logo.svg/512px-ETB_Basque_2022_logo.svg.png
 Source: https://iptv-org.github.io/iptv/countries/br.m3u
 --------------------------------------------------
 
@@ -329,31 +245,9 @@ Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/
 --------------------------------------------------
 
 Group: Documentary
-Name: CGTN Documentary (1080p)
-URL: https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
-Logo: https://i.imgur.com/JHv0WxM.png
-Source: https://iptv-org.github.io/iptv/countries/br.m3u
---------------------------------------------------
-Name: History 2 Latin America
-URL: https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HISTORY2/index.m3u8
-Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/512px-History2_logo_%282022%29.svg.png
-Source: https://iptv-org.github.io/iptv/countries/br.m3u
---------------------------------------------------
-Name: National Geographic Latin America
-URL: https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/NAT_GEO/index.m3u8
-Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png
-Source: https://iptv-org.github.io/iptv/countries/br.m3u
---------------------------------------------------
 Name: Pluto TV Investigação (720p)
 URL: https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f32cf37c9ff2b00082adbc8/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 Logo: https://i.imgur.com/JlQq0YJ.png
-Source: https://iptv-org.github.io/iptv/countries/br.m3u
---------------------------------------------------
-
-Group: Documentary;Education;Science
-Name: UMSA TVU Internacional (720p)
-URL: https://live.enhdtv.com:8081/8026/tracks-v1a1/mono.m3u8
-Logo: https://tvu.umsa.bo/documents/780216/12171558/Logo+TVU-Int.png/b67c9c61-7516-e38a-a425-72e61f3824c6?t=1751574228493
 Source: https://iptv-org.github.io/iptv/countries/br.m3u
 --------------------------------------------------
 
@@ -411,13 +305,6 @@ Logo: https://i.imgur.com/GmA5uuk.png
 Source: https://iptv-org.github.io/iptv/countries/br.m3u
 --------------------------------------------------
 
-Group: Education;Entertainment;News
-Name: Unifranz (720p)
-URL: https://live.enhdtv.com:8081/8192/index.m3u8
-Logo: https://unifranz.edu.bo/wp-content/themes/unifranz-web/public/images/logos/logo-light-min.442cee.svg
-Source: https://iptv-org.github.io/iptv/countries/br.m3u
---------------------------------------------------
-
 Group: Education;Lifestyle
 Name: Canal Saúde (720p) [Not 24/7]
 URL: https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz.stream/playlist.m3u8
@@ -431,21 +318,6 @@ URL: https://video01.kshost.com.br/bdctv/bdctv/playlist.m3u8
 Logo: https://i.imgur.com/6ckHV6k.jpeg
 Source: https://iptv-org.github.io/iptv/countries/br.m3u
 --------------------------------------------------
-Name: Cabo Frio TV (720p)
-URL: https://59f2354c05961.streamlock.net:1443/ararutv/_definst_/ararutv/playlist.m3u8
-Logo: https://i.imgur.com/mPi6Wp3.png
-Source: https://iptv-org.github.io/iptv/countries/br.m3u
---------------------------------------------------
-Name: Chroma TV (480p)
-URL: https://5c483b9d1019c.streamlock.net/8054/8054/playlist.m3u8
-Logo: https://i.imgur.com/SnaIMgj.png
-Source: https://iptv-org.github.io/iptv/countries/br.m3u
---------------------------------------------------
-Name: Conecta+ TV (720p)
-URL: http://189.14.239.62:1935/webtv/livestream1/playlist.m3u8
-Logo: https://i.imgur.com/qHwTWlz.png
-Source: https://iptv-org.github.io/iptv/countries/br.m3u
---------------------------------------------------
 Name: Elemental Channel (1080p)
 URL: https://5d82644094cc0.streamlock.net/8116/8116/playlist.m3u8
 Logo: https://i.imgur.com/8upyApg.png
@@ -454,11 +326,6 @@ Source: https://iptv-org.github.io/iptv/countries/br.m3u
 Name: ElyTV (360p)
 URL: https://stmv1.srvsite.com/ely/ely/playlist.m3u8
 Logo: https://i.imgur.com/1eHNe91.png
-Source: https://iptv-org.github.io/iptv/countries/br.m3u
---------------------------------------------------
-Name: NHK World Premium (720p) [Not 24/7]
-URL: https://cdn.nhkworld.jp/www11/nhkworld-tv/pre/hlscomp.m3u8
-Logo: https://i.imgur.com/4ESi2La.png
 Source: https://iptv-org.github.io/iptv/countries/br.m3u
 --------------------------------------------------
 Name: Pluto TV MTV (Brazil) (720p)
@@ -471,54 +338,9 @@ URL: https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f12
 Logo: https://i.imgur.com/wztO3GM.png
 Source: https://iptv-org.github.io/iptv/countries/br.m3u
 --------------------------------------------------
-Name: Rede NGT (1080p)
-URL: https://isaocorp.cloudecast.com/ngt/index.m3u8
-Logo: https://i.imgur.com/ZFN1R4B.png
-Source: https://iptv-org.github.io/iptv/countries/br.m3u
---------------------------------------------------
-Name: TV Boqueirão (720p)
-URL: https://srv3.zcast.com.br/tvboqueirao/tvboqueirao/playlist.m3u8
-Logo: https://i.imgur.com/1XrArrG.png
-Source: https://iptv-org.github.io/iptv/countries/br.m3u
---------------------------------------------------
-Name: TV CN Agitos (360p)
-URL: https://serv2.videovox.pw/cnagitos/cnagitos/playlist.m3u8
-Logo: https://i.imgur.com/5gvGC0P.png
-Source: https://iptv-org.github.io/iptv/countries/br.m3u
---------------------------------------------------
-Name: TV Curuça (360p)
-URL: https://stmv1.srvif.com/tvcurucasp/tvcurucasp/playlist.m3u8
-Logo: https://i.imgur.com/JdCKNZ4.png
-Source: https://iptv-org.github.io/iptv/countries/br.m3u
---------------------------------------------------
-Name: TV Digital Biriguí (640p)
-URL: http://wse01.logicahost.com.br:1935/tvdigitalbirigui/_definst_/tvdigitalbirigui/playlist.m3u8
-Logo: https://i.imgur.com/B5ZTMzY.png
-Source: https://iptv-org.github.io/iptv/countries/br.m3u
---------------------------------------------------
-Name: TV Empire Magazine (720p)
-URL: https://5d82644094cc0.streamlock.net/empiremagazinetv/empiremagazinetv/playlist.m3u8
-Logo: https://i.imgur.com/tT1NVfV.png
-Source: https://iptv-org.github.io/iptv/countries/br.m3u
---------------------------------------------------
-Name: TV Grande Natal (1080p)
-URL: http://tvgrandenatalhd.duckdns.org:8080/hls/live.m3u8
-Logo: https://i.imgur.com/MTuErdw.png
-Source: https://iptv-org.github.io/iptv/countries/br.m3u
---------------------------------------------------
-Name: TV Viçosa (480p)
-URL: http://wz4.dnip.com.br/fratevitv/fratevitv.sdp/playlist.m3u8
-Logo: https://i.imgur.com/TZF55f9.png
-Source: https://iptv-org.github.io/iptv/countries/br.m3u
---------------------------------------------------
 Name: UMA TV (1080p)
 URL: https://acesso.ecast.site:3011/live/umatvlive.m3u8
 Logo: https://i.imgur.com/m0RVb79.png
-Source: https://iptv-org.github.io/iptv/countries/br.m3u
---------------------------------------------------
-Name: VRT Channel (720p)
-URL: https://sistemavrt.vrtchannel.tv.br:3473/stream/play.m3u8
-Logo: https://i.imgur.com/crszh3d.png
 Source: https://iptv-org.github.io/iptv/countries/br.m3u
 --------------------------------------------------
 
@@ -529,38 +351,10 @@ Logo: https://duckduckgo.com/i/e408ea02.png
 Source: https://iptv-org.github.io/iptv/countries/br.m3u
 --------------------------------------------------
 
-Group: Entertainment;General;News
-Name: TV Modelo (720p)
-URL: https://video09.logicahost.com.br/tvmodelo/tvmodelo/playlist.m3u
-Logo: https://play-lh.googleusercontent.com/7kD2A0jUqWrVMxd_15RAPt9S0P9pxPMpNEc9dHOSl8Bi0DOMVlQHijXaL7ppUC5F46g
-Source: https://iptv-org.github.io/iptv/countries/br.m3u
---------------------------------------------------
-
-Group: Entertainment;Lifestyle;Music
-Name: PRIDEtv LATAM (1080p)
-URL: https://backend.energeek.cl/webtv/pridetvweb/index.m3u8?token=ZZDemoIPTVGH
-Logo: https://neotv.cl/img/pridetv-512.png
-Source: https://iptv-org.github.io/iptv/countries/br.m3u
---------------------------------------------------
-
 Group: Entertainment;Movies;Series
 Name: Superflix TV (720p)
 URL: https://streaming.cloudecast.com/hls/superflix/index.m3u8
 Logo: https://i.imgur.com/lvUbMen.png
-Source: https://iptv-org.github.io/iptv/countries/br.m3u
---------------------------------------------------
-
-Group: Entertainment;Music;News
-Name: TV A7 Plus (1080p)
-URL: https://srv3.zcast.com.br/wellington7720/wellington7720/playlist.m3u8
-Logo: https://i.imgur.com/qeo2oPM.png
-Source: https://iptv-org.github.io/iptv/countries/br.m3u
---------------------------------------------------
-
-Group: Entertainment;News
-Name: TV Zoom (720p)
-URL: https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8
-Logo: https://i.imgur.com/jCGrjf5.png
 Source: https://iptv-org.github.io/iptv/countries/br.m3u
 --------------------------------------------------
 
@@ -641,13 +435,6 @@ Name: Tastemade
 URL: https://stitcher.pluto.tv/stitch/hls/channel/5fd1419a3b4f4b000773ba85/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=3e9d3f7b-7e69-11f0-8fa6-1e206499dc74
 Logo: https://images.pluto.tv/channels/5fd1419a3b4f4b000773ba85/colorLogoPNG.png
 Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/tv/m3u/PlutoTV_tv_BR.m3u
---------------------------------------------------
-
-Group: Family;General
-Name: CWB TV (720p)
-URL: https://59d39900ebfb8.streamlock.net/cwbtv/cwbtv/playlist.m3u8
-Logo: https://i.imgur.com/S0ISpmU.png
-Source: https://iptv-org.github.io/iptv/countries/br.m3u
 --------------------------------------------------
 
 Group: Filmes
@@ -763,44 +550,9 @@ Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/
 --------------------------------------------------
 
 Group: General
-Name: Adesso TV (720p)
-URL: https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8
-Logo: https://i.imgur.com/KgetM8j.png
-Source: https://iptv-org.github.io/iptv/countries/br.m3u
---------------------------------------------------
-Name: Alpha Channel (720p)
-URL: https://5b01a3d32b65c.streamlock.net:1936/tvalpha/tvalpha/playlist.m3u8
-Logo: https://i.imgur.com/c1QqslA.png
-Source: https://iptv-org.github.io/iptv/countries/br.m3u
---------------------------------------------------
-Name: Bem TV (720p)
-URL: http://wz4.dnip.com.br/bemtv/bemtv.sdp/playlist.m3u8
-Logo: https://i.imgur.com/ifGQGJx.png
-Source: https://iptv-org.github.io/iptv/countries/br.m3u
---------------------------------------------------
-Name: BTV World (1080p)
-URL: https://www.btvlive.gov.bd/streams/ef8b8bbc-98b7-4ba7-a49d-a0adaf259d35/ES/d96eb7f4-83c2-4472-9597-3568390a8ebf/d96eb7f4-83c2-4472-9597-3568390a8ebf_3_playlist.m3u8
-Logo: https://i.imgur.com/sSnrg7o.png
-Source: https://iptv-org.github.io/iptv/countries/br.m3u
---------------------------------------------------
 Name: Canal Libras (720p)
 URL: https://canallibras-stream.ebc.com.br/mux_video_ts/index-1.m3u8
 Logo: https://i.imgur.com/LnWWKzP.png
-Source: https://iptv-org.github.io/iptv/countries/br.m3u
---------------------------------------------------
-Name: Canal Ricos (480p)
-URL: https://5d82644094cc0.streamlock.net/ricostv/ricostv/playlist.m3u8
-Logo: https://i.imgur.com/hs2YVJ3.png
-Source: https://iptv-org.github.io/iptv/countries/br.m3u
---------------------------------------------------
-Name: Canal Sete (1080p)
-URL: http://189.51.193.70:1935/canalsete/xpl-c7/playlist.m3u8
-Logo: https://i.imgur.com/0cq0BPp.png
-Source: https://iptv-org.github.io/iptv/countries/br.m3u
---------------------------------------------------
-Name: Caribbean Advantage TV (1080p) [Not 24/7]
-URL: https://video2.getstreamhosting.com:19360/8216/8216.m3u8
-Logo: https://caribbeanadvantage.com/images/CAtv-logo-512.png
 Source: https://iptv-org.github.io/iptv/countries/br.m3u
 --------------------------------------------------
 Name: Catve2 (720p)
@@ -823,11 +575,6 @@ URL: https://br5093.streamingdevideo.com.br/abc/abc/playlist.m3u8
 Logo: https://i.imgur.com/GrjGwKM.png
 Source: https://iptv-org.github.io/iptv/countries/br.m3u
 --------------------------------------------------
-Name: ConecTV Brasil (720p)
-URL: https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8
-Logo: https://i.imgur.com/XN6jjMR.png
-Source: https://iptv-org.github.io/iptv/countries/br.m3u
---------------------------------------------------
 Name: Conexão TV (720p)
 URL: https://5a57bda70564a.streamlock.net/conexaotv/conexaotv.sdp/playlist.m3u8
 Logo: https://i.imgur.com/CJ9SPsZ.png
@@ -843,24 +590,9 @@ URL: https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8
 Logo: https://i.imgur.com/Md3xibE.png
 Source: https://iptv-org.github.io/iptv/countries/br.m3u
 --------------------------------------------------
-Name: Duna World (576p)
-URL: http://146.59.85.40:89/dunaworld/index.m3u8
-Logo: https://i.imgur.com/uOBQJZS.png
-Source: https://iptv-org.github.io/iptv/countries/br.m3u
---------------------------------------------------
-Name: Fala Litoral (480p)
-URL: https://5c483b9d1019c.streamlock.net/falalitoraltv/falalitoraltv/playlist.m3u8
-Logo: https://i.imgur.com/NF6PL8O.png
-Source: https://iptv-org.github.io/iptv/countries/br.m3u
---------------------------------------------------
 Name: MKK Web TV (720p) [Not 24/7]
 URL: https://video01.logicahost.com.br/mkkwebtv/mkkwebtv/playlist.m3u8
 Logo: https://i.imgur.com/A8Yhtid.png
-Source: https://iptv-org.github.io/iptv/countries/br.m3u
---------------------------------------------------
-Name: Primer TV (1080p)
-URL: http://200.194.238.229:8383/live/primer/playlist.m3u8
-Logo: https://i.imgur.com/PMptSP3.png
 Source: https://iptv-org.github.io/iptv/countries/br.m3u
 --------------------------------------------------
 Name: RBATV (720p)
@@ -913,24 +645,9 @@ URL: https://acesso.ecast.site:3456/hybrid/play.m3u8
 Logo: https://i.imgur.com/qJx9Zvd.png
 Source: https://iptv-org.github.io/iptv/countries/br.m3u
 --------------------------------------------------
-Name: Rede SPTV (360p)
-URL: https://video01.logicahost.com.br/websptv/websptv/playlist.m3u8
-Logo: https://i.imgur.com/kh3LGAP.png
-Source: https://iptv-org.github.io/iptv/countries/br.m3u
---------------------------------------------------
 Name: Rede TV! (720p)
 URL: https://cdn.jmvstream.com/w/AVJ-15235/playlist/playlist.m3u8
 Logo: https://i.imgur.com/ZJgD38F.png
-Source: https://iptv-org.github.io/iptv/countries/br.m3u
---------------------------------------------------
-Name: RTP Internacional (504p) [Not 24/7]
-URL: https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
-Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/RTP_Internacional_2016_%28Reduced_Version%29.svg/512px-RTP_Internacional_2016_%28Reduced_Version%29.svg.png
-Source: https://iptv-org.github.io/iptv/countries/br.m3u
---------------------------------------------------
-Name: Sertão TV (720p)
-URL: http://wz4.dnip.com.br/sertaotv/sertaotv.sdp/playlist.m3u8
-Logo: https://i.imgur.com/b5xOCsC.png
 Source: https://iptv-org.github.io/iptv/countries/br.m3u
 --------------------------------------------------
 Name: TELE 6
@@ -941,11 +658,6 @@ Source: https://iptv-org.github.io/iptv/countries/br.m3u
 Name: TV Aldeia (720p)
 URL: https://stmv1.samcast.com.br/giovane7843/giovane7843/playlist.m3u8
 Logo: https://i.imgur.com/rsfnv4Z.png
-Source: https://iptv-org.github.io/iptv/countries/br.m3u
---------------------------------------------------
-Name: TV Aliança Catarinense (720p)
-URL: https://video01.logicahost.com.br/tvalianca/tvalianca/playlist.m3u8
-Logo: https://i.imgur.com/eqmOhtP.png
 Source: https://iptv-org.github.io/iptv/countries/br.m3u
 --------------------------------------------------
 Name: TV Alternativa (410p)
@@ -963,29 +675,14 @@ URL: https://59f2354c05961.streamlock.net:1443/tvdigitalbirigui/_definst_/tvdigi
 Logo: https://i.imgur.com/VqIzaFz.png
 Source: https://iptv-org.github.io/iptv/countries/br.m3u
 --------------------------------------------------
-Name: TV Brasil Oeste (720p)
-URL: https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8
-Logo: https://i.imgur.com/noqGfuy.png
-Source: https://iptv-org.github.io/iptv/countries/br.m3u
---------------------------------------------------
 Name: TV BRICS Portuguese (1080p)
 URL: https://porbrics.mediacdn.ru/cdn/brics/portuguese/playlist.m3u8
 Logo: https://i.imgur.com/vLpm8tN.png
 Source: https://iptv-org.github.io/iptv/countries/br.m3u
 --------------------------------------------------
-Name: TV Cidade Oeste
-URL: https://radios.dataprimer.com.br:5443/LiveApp/streams/psuqNyPC1AW1BcUZ1573443847601.m3u8
-Logo: https://i.imgur.com/EmYaxEh.png
-Source: https://iptv-org.github.io/iptv/countries/br.m3u
---------------------------------------------------
 Name: TV Cidade Verde (720p)
 URL: https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/playlist.m3u8
 Logo: https://i.imgur.com/SysgBqZ.png
-Source: https://iptv-org.github.io/iptv/countries/br.m3u
---------------------------------------------------
-Name: TV COM Santos (416p)
-URL: https://srv1.zcast.com.br/tvcomsantos/tvcomsantos/playlist.m3u8
-Logo: https://i.imgur.com/KX3fner.png
 Source: https://iptv-org.github.io/iptv/countries/br.m3u
 --------------------------------------------------
 Name: TV Destak (360p)
@@ -998,11 +695,6 @@ URL: https://5ad482a77183d.streamlock.net/marliomelohotmail.com/marliomelohotmai
 Logo: https://i.imgur.com/yAW2Z5j.jpg
 Source: https://iptv-org.github.io/iptv/countries/br.m3u
 --------------------------------------------------
-Name: TV Difusora Leste (1080p)
-URL: https://stream.amsolution.net.br:8443/live/60d0a8ea6b884/index.m3u8
-Logo: https://i.imgur.com/hEd25Cr.png
-Source: https://iptv-org.github.io/iptv/countries/br.m3u
---------------------------------------------------
 Name: TV Encontro das Aguas
 URL: https://stmv7.samcast.com.br/sistemaencontrodasaguas/sistemaencontrodasaguas/playlist.m3u8
 Logo: https://www.lyngsat.com/logo/tv/tt/tv-encontro-das-aguas-br.png
@@ -1011,26 +703,6 @@ Source: https://iptv-org.github.io/iptv/countries/br.m3u
 Name: TV Futuro (1080p)
 URL: https://tv02.zas.media:1936/tvfuturo/tvfuturo/playlist.m3u8
 Logo: https://i.imgur.com/xonrNBf.png
-Source: https://iptv-org.github.io/iptv/countries/br.m3u
---------------------------------------------------
-Name: TV Grao Pará (720p)
-URL: https://video01.kshost.com.br:4443/moises3834/moises3834/playlist.m3u8
-Logo: https://i.imgur.com/1drg0E9.png
-Source: https://iptv-org.github.io/iptv/countries/br.m3u
---------------------------------------------------
-Name: TV Japi (720p)
-URL: https://stmv1.paineltv.net/tvjapi/tvjapi/playlist.m3u8
-Logo: https://i.imgur.com/dnmzIhF.png
-Source: https://iptv-org.github.io/iptv/countries/br.m3u
---------------------------------------------------
-Name: TV Maceió (360p)
-URL: https://srv5.zcast.com.br/paulo4100/paulo4100/playlist.m3u8
-Logo: https://i.imgur.com/zZ9LEOZ.png
-Source: https://iptv-org.github.io/iptv/countries/br.m3u
---------------------------------------------------
-Name: TV Mais Maricá (1080p)
-URL: https://5cf4a2c2512a2.streamlock.net/tvmaismarica/tvmaismarica/playlist.m3u8
-Logo: https://i.imgur.com/lgCRX7q.png
 Source: https://iptv-org.github.io/iptv/countries/br.m3u
 --------------------------------------------------
 Name: TV Marajoara (720p)
@@ -1043,34 +715,9 @@ URL: https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playl
 Logo: https://i.imgur.com/bJyjLpg.png
 Source: https://iptv-org.github.io/iptv/countries/br.m3u
 --------------------------------------------------
-Name: TV Passo Fundo (720p)
-URL: https://5a57bda70564a.streamlock.net/tvpasso/tvpasso.sdp/playlist.m3u8
-Logo: https://i.imgur.com/QFE6TiV.png
-Source: https://iptv-org.github.io/iptv/countries/br.m3u
---------------------------------------------------
-Name: TV Plan (720p)
-URL: https://live.cdn.upx.com/723b/myStream.sdp/playlist.m3u8
-Logo: https://i.imgur.com/U1cYYuy.png
-Source: https://iptv-org.github.io/iptv/countries/br.m3u
---------------------------------------------------
 Name: TV Rio Preto (720p)
 URL: https://video02.logicahost.com.br/tvriopreto/tvriopreto/playlist.m3u8
 Logo: https://i.imgur.com/9EqSKLc.png
-Source: https://iptv-org.github.io/iptv/countries/br.m3u
---------------------------------------------------
-Name: TV Sandegi (360p)
-URL: https://video01.kshost.com.br/antonio9510/antonio9510/playlist.m3u8
-Logo: https://i.imgur.com/vJ6ZQSG.png
-Source: https://iptv-org.github.io/iptv/countries/br.m3u
---------------------------------------------------
-Name: TV São Raimundo (268p)
-URL: https://stmv1.voxtvhd.com.br/9030/9030/playlist.m3u8
-Logo: https://i.imgur.com/f34CQIG.png
-Source: https://iptv-org.github.io/iptv/countries/br.m3u
---------------------------------------------------
-Name: TV Sul de Minas (720p)
-URL: https://5cf4a2c2512a2.streamlock.net/tvsuldeminas/tvsuldeminas/playlist.m3u8
-Logo: https://i.imgur.com/hPh8cxK.png
 Source: https://iptv-org.github.io/iptv/countries/br.m3u
 --------------------------------------------------
 Name: TV Thathi (720p) [Not 24/7]
@@ -1083,44 +730,9 @@ URL: https://stmv1.paineltv.net/valeradiowebtv/valeradiowebtv/playlist.m3u8
 Logo: https://i.imgur.com/WgXsfIa.png
 Source: https://iptv-org.github.io/iptv/countries/br.m3u
 --------------------------------------------------
-Name: TVC-Rio
-URL: https://video05.logicahost.com.br/comunitariario/comunitariario/playlist.m3u8
-Logo: https://i.imgur.com/WDiikWv.png
-Source: https://iptv-org.github.io/iptv/countries/br.m3u
---------------------------------------------------
-Name: TVCOM DF (360p)
-URL: https://5b7f3c45ab7c2.streamlock.net/8008/smil:8008.smil/playlist.m3u8?DVR=
-Logo: https://i.imgur.com/uxefHY3.png
-Source: https://iptv-org.github.io/iptv/countries/br.m3u
---------------------------------------------------
 Name: TVCOM Maceió (480p)
 URL: https://srv5.zcast.com.br/tvcommaceio/tvcommaceio/playlist.m3u8
 Logo: https://i.imgur.com/IE7IZzi.png
-Source: https://iptv-org.github.io/iptv/countries/br.m3u
---------------------------------------------------
-Name: TVitapé (720p)
-URL: https://stream01.msolutionbrasil.com.br/hls/tvitape/live.m3u8
-Logo: https://i.imgur.com/XeqcwKe.png
-Source: https://iptv-org.github.io/iptv/countries/br.m3u
---------------------------------------------------
-Name: TVM Internacional (480p) [Not 24/7]
-URL: http://online.tvm.co.mz:1935/live/smil:Channel2.smil/playlist.m3u8
-Logo: https://i.imgur.com/fRV6p50.png
-Source: https://iptv-org.github.io/iptv/countries/br.m3u
---------------------------------------------------
-Name: TVMaster (720p)
-URL: https://virtues.es:1936/tvmaster/tvmaster/playlist.m3u8
-Logo: https://i.imgur.com/fTgGvNJ.png
-Source: https://iptv-org.github.io/iptv/countries/br.m3u
---------------------------------------------------
-Name: TVNBN (720p)
-URL: https://cdn.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/playlist.m3u8
-Logo: https://i.imgur.com/zoHBxn1.png
-Source: https://iptv-org.github.io/iptv/countries/br.m3u
---------------------------------------------------
-Name: VV8 TV (720p)
-URL: https://video01.kshost.com.br/seap8272/seap8272/playlist.m3u8
-Logo: https://i.imgur.com/TxHWAeD.png
 Source: https://iptv-org.github.io/iptv/countries/br.m3u
 --------------------------------------------------
 
@@ -1264,11 +876,6 @@ URL: https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f99
 Logo: https://i.imgur.com/nrvPPrW.png
 Source: https://iptv-org.github.io/iptv/countries/br.m3u
 --------------------------------------------------
-Name: Zoo Moo (Australia) (1080p)
-URL: https://zoomoo-samsungau.amagi.tv/playlist.m3u8
-Logo: https://i.imgur.com/ciTJrnl.png
-Source: https://iptv-org.github.io/iptv/countries/br.m3u
---------------------------------------------------
 
 Group: Legislative
 Name: TV Assembléia Ceará (720p)
@@ -1281,21 +888,11 @@ URL: https://stream3.camara.gov.br/tv2/manifest.m3u8
 Logo: https://i.imgur.com/dHrUG1R.png
 Source: https://iptv-org.github.io/iptv/countries/br.m3u
 --------------------------------------------------
-Name: TV Câmara Salvador (288p) [Not 24/7]
-URL: https://596639ebdd89b.streamlock.net/8114/8114/playlist.m3u8
-Logo: https://i.imgur.com/VEXEzSx.png
-Source: https://iptv-org.github.io/iptv/countries/br.m3u
---------------------------------------------------
 
 Group: Lifestyle
 Name: Revry Brasil
 URL: https://linear-181.frequency.stream/dist/24i/181/hls/master/playlist.m3u8
 Logo: https://images.samsung.com/is/image/samsung/assets/br/tvs/smart-tv/channel-list/Revry_Brasil_476x476circle.png?$ORIGIN_PNG$
-Source: https://iptv-org.github.io/iptv/countries/br.m3u
---------------------------------------------------
-Name: Superyacht TV (1080p)
-URL: https://sy.wns.live/hls/stream.m3u8
-Logo: https://i.imgur.com/cgjgjE1.png
 Source: https://iptv-org.github.io/iptv/countries/br.m3u
 --------------------------------------------------
 
@@ -1327,16 +924,6 @@ Source: https://iptv-org.github.io/iptv/countries/br.m3u
 --------------------------------------------------
 
 Group: Music
-Name: EnerGeek Radio (1080p)
-URL: https://backend.energeek.cl/webtv/egradioweb/index.m3u8?token=ZZDemoIPTVGH
-Logo: https://i.imgur.com/euaoN1A.png
-Source: https://iptv-org.github.io/iptv/countries/br.m3u
---------------------------------------------------
-Name: Euro Indie Music Chart TV (360p)
-URL: http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
-Logo: https://i.imgur.com/lF0iofX.png
-Source: https://iptv-org.github.io/iptv/countries/br.m3u
---------------------------------------------------
 Name: KpopTV Play (576p)
 URL: https://giatv.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8
 Logo: https://i.imgur.com/Tf0vweF.png
@@ -1345,11 +932,6 @@ Source: https://iptv-org.github.io/iptv/countries/br.m3u
 Name: Master Show TV (360p)
 URL: https://mastershowtv.videovox.pw/master6123/master6123/playlist.m3u8
 Logo: https://i.imgur.com/haXHFCT.png
-Source: https://iptv-org.github.io/iptv/countries/br.m3u
---------------------------------------------------
-Name: MTV Hits Europe
-URL: http://45.88.92.3/tr3_MTVHits_SD/index.m3u8?token=test
-Logo: https://i.imgur.com/zNscEST.png
 Source: https://iptv-org.github.io/iptv/countries/br.m3u
 --------------------------------------------------
 
@@ -1381,34 +963,9 @@ Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/
 --------------------------------------------------
 
 Group: News
-Name: ABC News (720p)
-URL: https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/512px-ABC_News_Live_logo_2021.svg.png
-Source: https://iptv-org.github.io/iptv/countries/br.m3u
---------------------------------------------------
-Name: Arirang TV UN (1080p)
-URL: https://amdlive-ch02-ctnd-com.akamaized.net/arirang_2ch/smil:arirang_2ch.smil/playlist.m3u8
-Logo: https://i.imgur.com/Jdy3WNm.png
-Source: https://iptv-org.github.io/iptv/countries/br.m3u
---------------------------------------------------
 Name: Canal 38 (720p)
 URL: https://cdn.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/playlist.m3u8
 Logo: https://i.imgur.com/co7TCWC.png
-Source: https://iptv-org.github.io/iptv/countries/br.m3u
---------------------------------------------------
-Name: CGTN (1080p)
-URL: https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
-Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/512px-CGTN.svg.png
-Source: https://iptv-org.github.io/iptv/countries/br.m3u
---------------------------------------------------
-Name: CGTN Français (1080p) [Not 24/7]
-URL: https://francais-livews.cgtn.com/hls/LSvev95OuFZtKLc6CeKEFYXj220802LSTeV6PO0Ut9r71Uq3k5goCA220802cd/playlist.m3u8
-Logo: https://i.imgur.com/BwhledK.png
-Source: https://iptv-org.github.io/iptv/countries/br.m3u
---------------------------------------------------
-Name: I24 News English (720p)
-URL: https://bcovlive-a.akamaihd.net/ecf224f43f3b43e69471a7b626481af0/eu-central-1/5377161796001/playlist.m3u8
-Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/512px-LOGO_i24NEWS.png
 Source: https://iptv-org.github.io/iptv/countries/br.m3u
 --------------------------------------------------
 Name: Jovem Pan News (JP News) (1080p) [Not 24/7]
@@ -1416,24 +973,9 @@ URL: https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bb
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Jovem_Pan_logo_2018.svg/512px-Jovem_Pan_logo_2018.svg.png
 Source: https://iptv-org.github.io/iptv/countries/br.m3u
 --------------------------------------------------
-Name: Metro Globe Network (1080p) [Not 24/7]
-URL: https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
-Logo: https://i.imgur.com/aiiinzg.png
-Source: https://iptv-org.github.io/iptv/countries/br.m3u
---------------------------------------------------
-Name: Plena TV (720p)
-URL: https://cdn.jmvstream.com/w/LVW-9591/LVW9591_PmXtgATnaS/playlist.m3u8
-Logo: https://i.imgur.com/lH4RT7b.png
-Source: https://iptv-org.github.io/iptv/countries/br.m3u
---------------------------------------------------
 Name: Record News (720p)
 URL: https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8
 Logo: https://i.imgur.com/HZDRG0K.png
-Source: https://iptv-org.github.io/iptv/countries/br.m3u
---------------------------------------------------
-Name: TCM 10 HD (1080p)
-URL: https://live.tcm10.com.br/tcm10hd/stream.m3u8
-Logo: https://i.imgur.com/aMuMVvB.png
 Source: https://iptv-org.github.io/iptv/countries/br.m3u
 --------------------------------------------------
 Name: Times Brasil (1080p)
@@ -1441,44 +983,14 @@ URL: https://cr7v.short.gy/ManoTV/TimesBrasil/Whats75991634025/CNBC/Index.m3u8
 Logo: https://i.ibb.co/X726G1j/Times-Brasil-CNBC-logo-svg-1.png
 Source: https://iptv-org.github.io/iptv/countries/br.m3u
 --------------------------------------------------
-Name: TV A Folha (720p)
-URL: https://video01.logicahost.com.br/tvafolha/tvafolha/playlist.m3u8
-Logo: https://i.imgur.com/I7XGMhj.png
-Source: https://iptv-org.github.io/iptv/countries/br.m3u
---------------------------------------------------
 Name: TV Brusque (720p)
 URL: https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/5d880199c902eb4a1e8df00d/playlist.m3u8
 Logo: https://i.imgur.com/J2EAZPS.png
 Source: https://iptv-org.github.io/iptv/countries/br.m3u
 --------------------------------------------------
-Name: TV do Povo (540p)
-URL: https://video01.logicahost.com.br/tvdopovo1/tvdopovo1/playlist.m3u8
-Logo: https://i.imgur.com/58EQ5qX.png
-Source: https://iptv-org.github.io/iptv/countries/br.m3u
---------------------------------------------------
-Name: TV Sim Cachoeiro (720p)
-URL: https://5cf4a2c2512a2.streamlock.net/8104/8104/playlist.m3u8
-Logo: https://i.imgur.com/t5oUK3C.png
-Source: https://iptv-org.github.io/iptv/countries/br.m3u
---------------------------------------------------
-Name: TV Sim Colatina (720p)
-URL: https://5cf4a2c2512a2.streamlock.net/8132/8132/playlist.m3u8
-Logo: https://i.imgur.com/t5oUK3C.png
-Source: https://iptv-org.github.io/iptv/countries/br.m3u
---------------------------------------------------
-Name: TV Sim São Mateus (720p)
-URL: https://5cf4a2c2512a2.streamlock.net/8236/8236/playlist.m3u8
-Logo: https://i.imgur.com/t5oUK3C.png
-Source: https://iptv-org.github.io/iptv/countries/br.m3u
---------------------------------------------------
 Name: TVídeoNews (720p) [Not 24/7]
 URL: https://video01.logicahost.com.br/tvideonews/tvideonews/playlist.m3u8
 Logo: https://i.imgur.com/vstHOYx.png
-Source: https://iptv-org.github.io/iptv/countries/br.m3u
---------------------------------------------------
-Name: UN Web TV (540p)
-URL: https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
-Logo: https://i.imgur.com/UcAwBep.png
 Source: https://iptv-org.github.io/iptv/countries/br.m3u
 --------------------------------------------------
 
@@ -1606,11 +1118,6 @@ Source: https://raw.githubusercontent.com/HelmerLuzo/PlutoTV_HL/refs/heads/main/
 --------------------------------------------------
 
 Group: Religious
-Name: 3ABN International
-URL: https://3abn.bozztv.com/3abn2/Int_live/smil:Int_live.smil/playlist.m3u8
-Logo: https://i.imgur.com/8YMLPA3.png
-Source: https://iptv-org.github.io/iptv/countries/br.m3u
---------------------------------------------------
 Name: Angel TV Portuguese (720p)
 URL: https://cdn3.wowza.com/5/TDJ0aWNkNXFxWWta/angeltvcloud/ngrp:angelportuguese_all/playlist.m3u8
 Logo: https://i.imgur.com/qKLEGU7.png
@@ -1629,11 +1136,6 @@ Source: https://iptv-org.github.io/iptv/countries/br.m3u
 Name: IMPD TV (720p)
 URL: https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8
 Logo: https://i.imgur.com/23m7LHH.png
-Source: https://iptv-org.github.io/iptv/countries/br.m3u
---------------------------------------------------
-Name: SBN TV International
-URL: http://trn03.bozztv.com/gin-sbntv/index.m3u8
-Logo: https://i.imgur.com/NJu6oYB.png
 Source: https://iptv-org.github.io/iptv/countries/br.m3u
 --------------------------------------------------
 Name: TV Evangelizar (480p)
@@ -1749,16 +1251,6 @@ Source: https://iptv-org.github.io/iptv/countries/br.m3u
 Name: Combate Global
 URL: https://stream.ads.ottera.tv/playlist.m3u8?network_id=960
 Logo: https://i.imgur.com/ZPYK5jr.png
-Source: https://iptv-org.github.io/iptv/countries/br.m3u
---------------------------------------------------
-Name: Red Bull TV (1080p)
-URL: https://3ea22335.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWdiX1JlZEJ1bGxUVl9ITFM/playlist.m3u8
-Logo: https://i.postimg.cc/8c78JM28/image.png
-Source: https://iptv-org.github.io/iptv/countries/br.m3u
---------------------------------------------------
-Name: SKI TV (1080p) [Not 24/7]
-URL: https://d2xeo83q8fcni6.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/SkiTV-SportsTribal/193.m3u8
-Logo: https://i.imgur.com/S6qgwLG.png
 Source: https://iptv-org.github.io/iptv/countries/br.m3u
 --------------------------------------------------
 Name: TVMatic Fight (720p)
@@ -4936,11 +4428,6 @@ URL: http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8
 Logo: https://i.imgur.com/IK3F9Uq.png
 Source: https://iptv-org.github.io/iptv/countries/br.m3u
 --------------------------------------------------
-Name: Play TV (720p)
-URL: https://playtv.mediastreaming.com.br/play/live.stream/playlist.m3u8
-Logo: https://i.imgur.com/Ikrj3lk.png
-Source: https://iptv-org.github.io/iptv/countries/br.m3u
---------------------------------------------------
 Name: Rede RC (720p) [Not 24/7]
 URL: http://tv02.logicahost.com.br:1935/rederc/rederc/live.m3u8
 Logo: https://i.imgur.com/y9dqo3f.png
@@ -5046,11 +4533,6 @@ URL: https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
 Logo: https://i.imgur.com/Z1uWe7g.png
 Source: https://iptv-org.github.io/iptv/countries/br.m3u
 --------------------------------------------------
-Name: TVE Internacional America (720p)
-URL: http://190.11.225.124:5000/live/tve_hd/playlist.m3u8
-Logo: https://i.imgur.com/iODADvi.png
-Source: https://iptv-org.github.io/iptv/countries/br.m3u
---------------------------------------------------
 Name: TVMatic Crafts (720p)
 URL: http://cdn.tvmatic.net/crafts.m3u8
 Logo: https://i.imgur.com/l5PBcKN.png
@@ -5069,11 +4551,6 @@ Source: https://iptv-org.github.io/iptv/countries/br.m3u
 Name: TVMatic TikTok (720p)
 URL: http://cdn.tvmatic.net/tiktok.m3u8
 Logo: https://i.imgur.com/l5PBcKN.png
-Source: https://iptv-org.github.io/iptv/countries/br.m3u
---------------------------------------------------
-Name: USA Network Latin America
-URL: https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/SYFY/index.m3u8
-Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/512px-USA_Network_logo_%282016%29.svg.png
 Source: https://iptv-org.github.io/iptv/countries/br.m3u
 --------------------------------------------------
 
