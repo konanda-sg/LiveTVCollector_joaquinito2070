@@ -680,7 +680,7 @@
   {
     "name": "Euronews IN DIRETTA",
     "type": "notizie",
-    "url": "https://dab794fcc38647efbf5f86bf01fa5c21.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6570/bitok/eyJzdGlkIjoiYjc2Zjk4MWEtMGI0OS00NDhmLTgyZmEtZWIzZWY2YjIxNjhhIiwibWt0IjoiaXQiLCJjaCI6NjU3MCwicHRmIjo1fQ%3D%3D/25674/euronews-it.m3u8",
+    "url": "https://dab794fcc38647efbf5f86bf01fa5c21.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6570/bitok/eyJzdGlkIjoiZjFhM2NmOTctZDk4OC00OTkwLTg5NzgtNTM2MjNhZTBiNzY1IiwibWt0IjoiaXQiLCJjaCI6NjU3MCwicHRmIjo1fQ%3D%3D/25674/euronews-it.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -716,7 +716,7 @@
   {
     "name": "Africanews",
     "type": "notizie",
-    "url": "https://c3c275b999764df8a2dd55ffe2996818.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576/bitok/eyJzdGlkIjoiOGUzMTZiYTctNjRjZC00MDczLTlhY2MtZDVmZjE2OTE5MTIyIiwibWt0IjoiaXQiLCJjaCI6NjU4NywicHRmIjo1fQ%3D%3D/26036/africanews-en.m3u8",
+    "url": "https://c3c275b999764df8a2dd55ffe2996818.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576/bitok/eyJzdGlkIjoiYzdmNmYzNTgtZjRhZS00NmNiLThiYWMtYTRlZGFkNDE5MTRjIiwibWt0IjoiaXQiLCJjaCI6NjU4NywicHRmIjo1fQ%3D%3D/26036/africanews-en.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -2370,6 +2370,24 @@
     "img": "https://spotlight-cl.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.cdn.telefonica.com%2Fstoragearea0%2FIMAGES%2F00%2F06%2F57%2F6577079_6A66E5AB224CD2F5.png&height=60&resize=RATIO&format=PNG"
   },
   {
+    "name": "FOX SPORTS",
+    "type": "DEPORTES",
+    "url": "http://143.0.67.77:8000/play/a07j/index.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/b/be/Logo_Fox_Sports_Argentina_2023.png"
+  },
+  {
+    "name": "FOX SPORTS 2",
+    "type": "DEPORTES",
+    "url": "http://143.0.67.77:8000/play/a05c/index.m3u8",
+    "img": "https://cdn.storage.foromedios.com/monthly_2023_02/small.1344882745_FOXSports2ARG(2023-).png.cd26bb6f6340e81d793b7a598b51aa32.png"
+  },
+  {
+    "name": "FOX SPORTS 3",
+    "type": "DEPORTES",
+    "url": "http://143.0.67.77:8000/play/a02t/index.m3u8",
+    "img": "https://cdn.storage.foromedios.com/monthly_2023_02/large.551251533_FOXSports3ARG(2023-).png.9facfaf5bfc0dd66a8d9535ea8d7cb05.png"
+  },
+  {
     "name": "L1MAX",
     "type": "DEPORTES",
     "url": "http://200.60.124.19:29000/play/a07k/index.m3u8",
@@ -2534,7 +2552,7 @@
   {
     "name": "STAR CHANNEL",
     "type": "CINE Y SERIES",
-    "url": "http://195.66.210.10:80/LINDSAY01/MABDU/439744",
+    "url": "http://143.0.67.77:8000/play/a079/index.m3u8",
     "img": "https://i.ibb.co/kBS1sFh/star-channel.png"
   },
   {
@@ -2577,7 +2595,7 @@
     "name": "HBO MUNDI",
     "type": "CINE Y SERIES",
     "url": "http://104.238.222.251:8989/278501_.m3u8",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
+    "img": "https://i.pinimg.com/736x/fe/a7/21/fea7218afa419fa1b695002bca9f2f9f.jpg"
   },
   {
     "name": "HBO XTREME",
@@ -2684,7 +2702,7 @@
   {
     "name": "SONY MOVIES",
     "type": "CINE Y SERIES",
-    "url": "http://179.49.163.34:45000/play/a02b/index.m3u8",
+    "url": "http://143.0.67.77:8000/play/a05k/index.m3u8",
     "img": "https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/638e5a17d1ffff3784898822_sonymovies.png"
   },
   {
@@ -2996,7 +3014,7 @@
   {
     "name": "LOVE NATURE",
     "type": "CULTURA Y ENTRETENIMIENTO",
-    "url": "http://190.60.33.245:4002/play/a1k9/index.m3u8",
+    "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-lovenature-lgus/playlist.m3u8",
     "img": "https://img.favpng.com/2/10/16/love-nature-4k-resolution-television-blue-ant-media-png-favpng-RY7LZXfJKyeC7jiHSX0PK1Br3.jpg"
   },
   {
@@ -3056,7 +3074,7 @@
   {
     "name": "Cantinflas",
     "type": "24/7",
-    "url": "http://195.66.210.10:80/LINDSAY01/MABDU/107891",
+    "url": "http://tvdirecto.pro:8080/live/948068511/8noplifre/291406.m3u",
     "img": "https://images.hive.blog/DQmf6Widr3qLecLzjAC6F8rEQeTPSGYNwZo7oX38KmMzshf/image.png"
   },
   {
@@ -3120,6 +3138,60 @@
     "img": "noimage.png"
   },
   {
+    "name": "Bones",
+    "type": "24/7",
+    "url": "http://tv.zeuspro.xyz:8080/Juan1/DPDNFED9Xr/94919",
+    "img": "https://i.postimg.cc/g0TNLX8Y/Proyectox-Cinemax-19.png"
+  },
+  {
+    "name": "Cinema - Parodias",
+    "type": "24/7",
+    "url": "http://tv.zeuspro.xyz:8080/Juan1/DPDNFED9Xr/94978",
+    "img": "https://i.postimg.cc/BZFNfBTN/Proyectox-Cinema-20.png"
+  },
+  {
+    "name": "Cinema 4K",
+    "type": "24/7",
+    "url": "http://tv.zeuspro.xyz:8080/Juan1/DPDNFED9Xr/95608",
+    "img": "https://i.postimg.cc/y8p0ZDhk/Proyectox-Cinema-7.png"
+  },
+  {
+    "name": "CSI Miami",
+    "type": "24/7",
+    "url": "http://tv.zeuspro.xyz:8080/Juan1/DPDNFED9Xr/94924",
+    "img": "https://i.postimg.cc/XYN82cgj/Proyectox-Cinemax-27.png"
+  },
+  {
+    "name": "Detective Conan",
+    "type": "24/7",
+    "url": "http://tv.zeuspro.xyz:8080/Juan1/DPDNFED9Xr/94892",
+    "img": "https://i.postimg.cc/jdS3331z/Proyectox-24-7-Anime-1.png"
+  },
+  {
+    "name": "Hawaii 5.0",
+    "type": "24/7",
+    "url": "http://tv.zeuspro.xyz:8080/Juan1/DPDNFED9Xr/94929",
+    "img": "https://i.postimg.cc/d1GrQL9N/Proyectox-Cinemax2-8.png"
+  },
+  {
+    "name": "Shameless",
+    "type": "24/7",
+    "url": "http://tv.zeuspro.xyz:8080/Juan1/DPDNFED9Xr/94865",
+    "img": "https://i.postimg.cc/jqznKyZg/Proyectox-24-7-series-Animacion3-26.png"
+  },
+  {
+    "name": "The Big Bang Theory",
+    "type": "24/7",
+    "url": "http://tv.zeuspro.xyz:8080/Juan1/DPDNFED9Xr/94867",
+    "img": "https://i.postimg.cc/PrTpqN7t/Proyectox-24-7-series-Animacion3-28.png"
+  },
+  {
+    "name": "The Fresh Prince of Bel Air",
+    "type": "24/7",
+    "url": "http://tv.zeuspro.xyz:8080/Juan1/DPDNFED9Xr/94868",
+    "img": "https://i.postimg.cc/vZm4WkMk/Proyectox-24-7-series-Animacion3-29.png"
+  },
+  {
     "name": "El Superagente 86",
     "type": " 24/7",
     "url": "http://tvdirecto.pro:8080/live/948068511/8noplifre/5567.m3u",
@@ -3136,12 +3208,6 @@
     "type": " 24/7",
     "url": "http://195.66.210.10:80/LINDSAY01/MABDU/217386",
     "img": "http://oaktvpro.club:50003/images/3a2a64b44dd21b29626d1c37dbc4074b.jpg"
-  },
-  {
-    "name": "HotClub 2 FHD Adult",
-    "type": "ADULTOS",
-    "url": "http://jellyiptv.streamtv.to:8080/KaljaOS/8Emtqzv62k/13560",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
     "name": "PLAYBOY",
@@ -3172,66 +3238,6 @@
     "type": "ADULTOS",
     "url": "http://tvbross.com:8080/Inter_Jomy2023/yeAUn7PKe8/204014",
     "img": "https://i.postimg.cc/g20rGxF9/18.png"
-  },
-  {
-    "name": "BRATTYSISS",
-    "type": "ADULTOS",
-    "url": "http://tvbross.com:8080/Inter_Jomy2023/yeAUn7PKe8/1184",
-    "img": "http://novabox.club:80/images/TMV9eogCjCe7JLvuoik-l9T58IHIesvTOw76CqXqCMWgy-Ljz65q1loAe__8PR-nDLtsbXLuiLNCzEvf4z5NKTwgTjfvNGKFVCdkp3Smxdg.jpg"
-  },
-  {
-    "name": "LATINA TV",
-    "type": "ADULTOS",
-    "url": "http://tvbross.com:8080/Inter_Jomy2023/yeAUn7PKe8/2378",
-    "img": "http://novabox.club:80/images/TMV9eogCjCe7JLvuoik-l9T58IHIesvTOw76CqXqCMWgy-Ljz65q1loAe__8PR-nDLtsbXLuiLNCzEvf4z5NKTwgTjfvNGKFVCdkp3Smxdg.jpg"
-  },
-  {
-    "name": "RED",
-    "type": "ADULTOS",
-    "url": "http://tvbross.com:8080/Inter_Jomy2023/yeAUn7PKe8/158353",
-    "img": "http://novabox.club:80/images/TMV9eogCjCe7JLvuoik-l9T58IHIesvTOw76CqXqCMWgy-Ljz65q1loAe__8PR-nDLtsbXLuiLNCzEvf4z5NKTwgTjfvNGKFVCdkp3Smxdg.jpg"
-  },
-  {
-    "name": "RED BOX",
-    "type": "ADULTOS",
-    "url": "http://tvbross.com:8080/Inter_Jomy2023/yeAUn7PKe8/162036",
-    "img": "http://novabox.club:80/images/TMV9eogCjCe7JLvuoik-l9T58IHIesvTOw76CqXqCMWgy-Ljz65q1loAe__8PR-nDLtsbXLuiLNCzEvf4z5NKTwgTjfvNGKFVCdkp3Smxdg.jpg"
-  },
-  {
-    "name": "EROLUXE",
-    "type": "ADULTOS",
-    "url": "http://tvbross.com:8080/Inter_Jomy2023/yeAUn7PKe8/162037",
-    "img": "http://novabox.club:80/images/TMV9eogCjCe7JLvuoik-l9T58IHIesvTOw76CqXqCMWgy-Ljz65q1loAe__8PR-nDLtsbXLuiLNCzEvf4z5NKTwgTjfvNGKFVCdkp3Smxdg.jpg"
-  },
-  {
-    "name": "PORN BOX",
-    "type": "ADULTOS",
-    "url": "http://tvbross.com:8080/Inter_Jomy2023/yeAUn7PKe8/162294",
-    "img": "https://www.appcreator24.com/srv/imgs/gen/946701_ico.png?v=21"
-  },
-  {
-    "name": "DORCEL XXX",
-    "type": "ADULTOS",
-    "url": "http://tvbross.com:8080/Inter_Jomy2023/yeAUn7PKe8/162662",
-    "img": "http://novabox.club:80/images/TMV9eogCjCe7JLvuoik-l9T58IHIesvTOw76CqXqCMWgy-Ljz65q1loAe__8PR-nDLtsbXLuiLNCzEvf4z5NKTwgTjfvNGKFVCdkp3Smxdg.jpg"
-  },
-  {
-    "name": "XY PLUSS",
-    "type": "ADULTOS",
-    "url": "http://tvbross.com:8080/Inter_Jomy2023/yeAUn7PKe8/162808",
-    "img": "https://www.appcreator24.com/srv/imgs/gen/946701_ico.png?v=21"
-  },
-  {
-    "name": "CHERRY PIMPS",
-    "type": "ADULTOS",
-    "url": "http://tvbross.com:8080/Inter_Jomy2023/yeAUn7PKe8/166266",
-    "img": "https://www.appcreator24.com/srv/imgs/gen/946701_ico.png?v=21"
-  },
-  {
-    "name": "PLAYBOY 01",
-    "type": "ADULTOS",
-    "url": "http://tvbross.com:8080/Inter_Jomy2023/yeAUn7PKe8/166269",
-    "img": "https://www.appcreator24.com/srv/imgs/gen/946701_ico.png?v=21"
   },
   {
     "name": "PLAYBOY",

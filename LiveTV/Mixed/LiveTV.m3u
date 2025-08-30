@@ -226,7 +226,7 @@ https://videosolutions-wedobigstories-rakuten.amagi.tv/hls/amagi_hls_data_rakute
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="documentari",CGTN Documentary
 https://amg00405-rakutentv-cgtndocumentary-rakuten-0ql8j.amagi.tv/master.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="notizie",Euronews IN DIRETTA
-https://dab794fcc38647efbf5f86bf01fa5c21.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6570/bitok/eyJzdGlkIjoiYjc2Zjk4MWEtMGI0OS00NDhmLTgyZmEtZWIzZWY2YjIxNjhhIiwibWt0IjoiaXQiLCJjaCI6NjU3MCwicHRmIjo1fQ%3D%3D/25674/euronews-it.m3u8
+https://dab794fcc38647efbf5f86bf01fa5c21.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6570/bitok/eyJzdGlkIjoiZjFhM2NmOTctZDk4OC00OTkwLTg5NzgtNTM2MjNhZTBiNzY1IiwibWt0IjoiaXQiLCJjaCI6NjU3MCwicHRmIjo1fQ%3D%3D/25674/euronews-it.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="notizie",The Reuters 60
 https://amg00453-reuters-amg00453c1-rakuten-uk-2110.playouts.now.amagi.tv/playlist/amg00453-reuters-reuters-rakutenuk/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="notizie",Urania News
@@ -238,7 +238,7 @@ https://e96a7526.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="notizie",Bloomberg TV+
 https://86ebec83.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0Jsb29tYmVyZ1RWUGx1c19ITFM/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="notizie",Africanews
-https://c3c275b999764df8a2dd55ffe2996818.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576/bitok/eyJzdGlkIjoiOGUzMTZiYTctNjRjZC00MDczLTlhY2MtZDVmZjE2OTE5MTIyIiwibWt0IjoiaXQiLCJjaCI6NjU4NywicHRmIjo1fQ%3D%3D/26036/africanews-en.m3u8
+https://c3c275b999764df8a2dd55ffe2996818.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576/bitok/eyJzdGlkIjoiYzdmNmYzNTgtZjRhZS00NmNiLThiYWMtYTRlZGFkNDE5MTRjIiwibWt0IjoiaXQiLCJjaCI6NjU4NywicHRmIjo1fQ%3D%3D/26036/africanews-en.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="notizie",CGTN
 https://amg00405-rakutentv-cgtn-rakuten-i9tar.amagi.tv/master.m3u8
 #EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="notizie",NewsWorld
@@ -789,6 +789,12 @@ http://190.60.33.245:4002/play/a1gg/index.m3u8
 http://higherpro.xyz:8080/live/56956478056/270924ztv/54411.m3u8
 #EXTINF:-1 tvg-logo="https://spotlight-cl.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.cdn.telefonica.com%2Fstoragearea0%2FIMAGES%2F00%2F06%2F57%2F6577079_6A66E5AB224CD2F5.png&height=60&resize=RATIO&format=PNG" group-title="DEPORTES",TYC SPORTS
 https://cdn-live.mundogo.cl/tycsports/tycsports.mpd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/be/Logo_Fox_Sports_Argentina_2023.png" group-title="DEPORTES",FOX SPORTS
+http://143.0.67.77:8000/play/a07j/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.storage.foromedios.com/monthly_2023_02/small.1344882745_FOXSports2ARG(2023-).png.cd26bb6f6340e81d793b7a598b51aa32.png" group-title="DEPORTES",FOX SPORTS 2
+http://143.0.67.77:8000/play/a05c/index.m3u8
+#EXTINF:-1 tvg-logo="https://cdn.storage.foromedios.com/monthly_2023_02/large.551251533_FOXSports3ARG(2023-).png.9facfaf5bfc0dd66a8d9535ea8d7cb05.png" group-title="DEPORTES",FOX SPORTS 3
+http://143.0.67.77:8000/play/a02t/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/L1MAX-LOGO.svg/1280px-L1MAX-LOGO.svg.png" group-title="DEPORTES",L1MAX
 http://200.60.124.19:29000/play/a07k/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/W0mWyNr/cdo.png" group-title="DEPORTES",CDO
@@ -844,7 +850,7 @@ http://190.60.33.245:4002/play/a1l0/index.m3u8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/rarter/images/f/fc/Skskskksks.png/revision/latest?cb=20240430152411" group-title="CINE Y SERIES",CINE PREMIUM
 http://190.60.33.245:4002/play/a1mg/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kBS1sFh/star-channel.png" group-title="CINE Y SERIES",STAR CHANNEL
-http://195.66.210.10:80/LINDSAY01/MABDU/439744
+http://143.0.67.77:8000/play/a079/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.citypng.com/public/uploads/preview/hd-hbo-white-logo-transparent-background-701751694708059eqwbw0wzhn.png" group-title="CINE Y SERIES",HBO
 http://190.238.172.153:8000/play/a09m
 #EXTINF:-1 tvg-logo="https://www.pnguniverse.com/wp-content/uploads/2021/03/HBO-plus.png" group-title="CINE Y SERIES",HBO PLUS
@@ -857,7 +863,7 @@ http://190.238.172.153:8000/play/a0bw
 http://104.238.222.251:8989/278505_.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Lk0vJ32/hbo-pop.png" group-title="CINE Y SERIES",HBO POP
 http://190.238.172.153:8000/play/a0el
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="CINE Y SERIES",HBO MUNDI
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/736x/fe/a7/21/fea7218afa419fa1b695002bca9f2f9f.jpg" group-title="CINE Y SERIES",HBO MUNDI
 http://104.238.222.251:8989/278501_.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LNfZmpK/hbo-extreme.png" group-title="CINE Y SERIES",HBO XTREME
 http://190.238.172.153:8000/play/a0g8
@@ -894,7 +900,7 @@ http://190.238.172.153:8000/play/a0gx
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fb/Sony_Cine_2021_Logo.png/revision/latest?cb=20210222022500&path-prefix=es" group-title="CINE Y SERIES",SONY CINE
 https://a-cdn.klowdtv.com/live1/cine_720p/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/638e5a17d1ffff3784898822_sonymovies.png" group-title="CINE Y SERIES",SONY MOVIES
-http://179.49.163.34:45000/play/a02b/index.m3u8
+http://143.0.67.77:8000/play/a05k/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WcnmY6M/tnt.png" group-title="CINE Y SERIES",TNT
 https://cdn-live.mundogo.cl/tnthd/tnthd.mpd
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="CINE Y SERIES",TNT SERIES
@@ -998,7 +1004,7 @@ http://190.60.33.245:4002/play/a1kz/index.m3u8
 #EXTINF:-1 tvg-logo="https://www.fmh.la/images/team/logo_atlas.png" group-title="CULTURA Y ENTRETENIMIENTO",ATLAS
 http://179.49.163.34:45000/play/a03l/index.m3u8
 #EXTINF:-1 tvg-logo="https://img.favpng.com/2/10/16/love-nature-4k-resolution-television-blue-ant-media-png-favpng-RY7LZXfJKyeC7jiHSX0PK1Br3.jpg" group-title="CULTURA Y ENTRETENIMIENTO",LOVE NATURE
-http://190.60.33.245:4002/play/a1k9/index.m3u8
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-lovenature-lgus/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://spotlight-cl.cdn.telefonica.com/customer/v1/source?image=http%3A%2F%2Fmedia.cdn.telefonica.com%2Fstoragearea0%2FIMAGES%2F00%2F06%2F40%2F6402338_F2F85E917E131706.png&height=60&resize=RATIO&format=PNG" group-title="CULTURA Y ENTRETENIMIENTO",HOLA TV
 http://45.5.119.43:4000/play/a0hx/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/J897iGL.jpg" group-title="CULTURA Y ENTRETENIMIENTO",HISTORY
@@ -1018,7 +1024,7 @@ http://195.66.210.10:80/LINDSAY01/MABDU/216295
 #EXTINF:-1 tvg-logo="http://oaktvpro.club:50003/images/802f56af1ab121f9344cb963ef5a384b.jpg" group-title="24/7",Los Picapiedra
 http://tvdirecto.pro:8080/live/948068511/8noplifre/5659.m3u
 #EXTINF:-1 tvg-logo="https://images.hive.blog/DQmf6Widr3qLecLzjAC6F8rEQeTPSGYNwZo7oX38KmMzshf/image.png" group-title="24/7",Cantinflas
-http://195.66.210.10:80/LINDSAY01/MABDU/107891
+http://tvdirecto.pro:8080/live/948068511/8noplifre/291406.m3u
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/995/853/png-transparent-futurama-worlds-of-tomorrow-philip-j-fry-bender-futurama-season-2-the-lesser-of-two-evils-futurama-heroes-cartoon-fictional-character.png" group-title="24/7",FUTURAMA
 http://tvdirecto.pro:8080/live/948068511/8noplifre/291407.m3u
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w400/b9mY0X5T20ZM073hoa5n0dgmbfN.jpg" group-title="24/7",BLUEY
@@ -1039,14 +1045,30 @@ http://195.66.210.10:80/LINDSAY01/MABDU/177121
 http://195.66.210.10:80/LINDSAY01/MABDU/107873
 #EXTINF:-1 tvg-logo="noimage.png" group-title="24/7",PAW PATROL
 http://195.66.210.10:80/LINDSAY01/MABDU/108007
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/g0TNLX8Y/Proyectox-Cinemax-19.png" group-title="24/7",Bones
+http://tv.zeuspro.xyz:8080/Juan1/DPDNFED9Xr/94919
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/BZFNfBTN/Proyectox-Cinema-20.png" group-title="24/7",Cinema - Parodias
+http://tv.zeuspro.xyz:8080/Juan1/DPDNFED9Xr/94978
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/y8p0ZDhk/Proyectox-Cinema-7.png" group-title="24/7",Cinema 4K
+http://tv.zeuspro.xyz:8080/Juan1/DPDNFED9Xr/95608
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XYN82cgj/Proyectox-Cinemax-27.png" group-title="24/7",CSI Miami
+http://tv.zeuspro.xyz:8080/Juan1/DPDNFED9Xr/94924
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jdS3331z/Proyectox-24-7-Anime-1.png" group-title="24/7",Detective Conan
+http://tv.zeuspro.xyz:8080/Juan1/DPDNFED9Xr/94892
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/d1GrQL9N/Proyectox-Cinemax2-8.png" group-title="24/7",Hawaii 5.0
+http://tv.zeuspro.xyz:8080/Juan1/DPDNFED9Xr/94929
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/jqznKyZg/Proyectox-24-7-series-Animacion3-26.png" group-title="24/7",Shameless
+http://tv.zeuspro.xyz:8080/Juan1/DPDNFED9Xr/94865
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/PrTpqN7t/Proyectox-24-7-series-Animacion3-28.png" group-title="24/7",The Big Bang Theory
+http://tv.zeuspro.xyz:8080/Juan1/DPDNFED9Xr/94867
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/vZm4WkMk/Proyectox-24-7-series-Animacion3-29.png" group-title="24/7",The Fresh Prince of Bel Air
+http://tv.zeuspro.xyz:8080/Juan1/DPDNFED9Xr/94868
 #EXTINF:-1 tvg-logo="http://oaktvpro.club:50003/images/db690694f7e26942e9c9feaf4427045c.jpg" group-title=" 24/7",El Superagente 86
 http://tvdirecto.pro:8080/live/948068511/8noplifre/5567.m3u
 #EXTINF:-1 tvg-logo="http://oaktvpro.club:50003/images/86c90219afa44b32031283a0a2382952.jpg" group-title=" 24/7",El Chapulín Colorado
 http://tvdirecto.pro:8080/live/948068511/8noplifre/5564.m3u
 #EXTINF:-1 tvg-logo="http://oaktvpro.club:50003/images/3a2a64b44dd21b29626d1c37dbc4074b.jpg" group-title=" 24/7",El gran Chaparral
 http://195.66.210.10:80/LINDSAY01/MABDU/217386
-#EXTINF:-1 tvg-logo="https://buddytv.netlify.app/img/no-logo.png" group-title="ADULTOS",HotClub 2 FHD Adult
-http://jellyiptv.streamtv.to:8080/KaljaOS/8Emtqzv62k/13560
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="ADULTOS",PLAYBOY
 http://45.5.119.43:4000/play/a02t/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="ADULTOS",PLAYBOY+
@@ -1057,26 +1079,6 @@ http://45.5.119.43:4000/play/a02u/index.m3u8
 http://38.49.128.38:8000/play/a09b/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="ADULTOS",PORN PLUS
 http://tvbross.com:8080/Inter_Jomy2023/yeAUn7PKe8/204014
-#EXTINF:-1 tvg-logo="http://novabox.club:80/images/TMV9eogCjCe7JLvuoik-l9T58IHIesvTOw76CqXqCMWgy-Ljz65q1loAe__8PR-nDLtsbXLuiLNCzEvf4z5NKTwgTjfvNGKFVCdkp3Smxdg.jpg" group-title="ADULTOS",BRATTYSISS
-http://tvbross.com:8080/Inter_Jomy2023/yeAUn7PKe8/1184
-#EXTINF:-1 tvg-logo="http://novabox.club:80/images/TMV9eogCjCe7JLvuoik-l9T58IHIesvTOw76CqXqCMWgy-Ljz65q1loAe__8PR-nDLtsbXLuiLNCzEvf4z5NKTwgTjfvNGKFVCdkp3Smxdg.jpg" group-title="ADULTOS",LATINA TV
-http://tvbross.com:8080/Inter_Jomy2023/yeAUn7PKe8/2378
-#EXTINF:-1 tvg-logo="http://novabox.club:80/images/TMV9eogCjCe7JLvuoik-l9T58IHIesvTOw76CqXqCMWgy-Ljz65q1loAe__8PR-nDLtsbXLuiLNCzEvf4z5NKTwgTjfvNGKFVCdkp3Smxdg.jpg" group-title="ADULTOS",RED
-http://tvbross.com:8080/Inter_Jomy2023/yeAUn7PKe8/158353
-#EXTINF:-1 tvg-logo="http://novabox.club:80/images/TMV9eogCjCe7JLvuoik-l9T58IHIesvTOw76CqXqCMWgy-Ljz65q1loAe__8PR-nDLtsbXLuiLNCzEvf4z5NKTwgTjfvNGKFVCdkp3Smxdg.jpg" group-title="ADULTOS",RED BOX
-http://tvbross.com:8080/Inter_Jomy2023/yeAUn7PKe8/162036
-#EXTINF:-1 tvg-logo="http://novabox.club:80/images/TMV9eogCjCe7JLvuoik-l9T58IHIesvTOw76CqXqCMWgy-Ljz65q1loAe__8PR-nDLtsbXLuiLNCzEvf4z5NKTwgTjfvNGKFVCdkp3Smxdg.jpg" group-title="ADULTOS",EROLUXE
-http://tvbross.com:8080/Inter_Jomy2023/yeAUn7PKe8/162037
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/946701_ico.png?v=21" group-title="ADULTOS",PORN BOX
-http://tvbross.com:8080/Inter_Jomy2023/yeAUn7PKe8/162294
-#EXTINF:-1 tvg-logo="http://novabox.club:80/images/TMV9eogCjCe7JLvuoik-l9T58IHIesvTOw76CqXqCMWgy-Ljz65q1loAe__8PR-nDLtsbXLuiLNCzEvf4z5NKTwgTjfvNGKFVCdkp3Smxdg.jpg" group-title="ADULTOS",DORCEL XXX
-http://tvbross.com:8080/Inter_Jomy2023/yeAUn7PKe8/162662
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/946701_ico.png?v=21" group-title="ADULTOS",XY PLUSS
-http://tvbross.com:8080/Inter_Jomy2023/yeAUn7PKe8/162808
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/946701_ico.png?v=21" group-title="ADULTOS",CHERRY PIMPS
-http://tvbross.com:8080/Inter_Jomy2023/yeAUn7PKe8/166266
-#EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/gen/946701_ico.png?v=21" group-title="ADULTOS",PLAYBOY 01
-http://tvbross.com:8080/Inter_Jomy2023/yeAUn7PKe8/166269
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="ADULTOS",PLAYBOY
 http://higherpro.xyz:8080/live/56956478056/270924ztv/14087.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/g20rGxF9/18.png" group-title="ADULTOS",SEXTREME_LA1
