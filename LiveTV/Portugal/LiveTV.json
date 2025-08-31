@@ -1,5 +1,5 @@
 {
-  "date": "2025-08-30 21:47:50",
+  "date": "2025-08-31 06:50:33",
   "channels": {
     "TV": [
       {
@@ -28,7 +28,7 @@
         "logo": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI.png",
         "group": "TV",
         "source": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u",
-        "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8zMC8yMDI1IDQ6Njo0OSBQTSZoYXNoX3ZhbHVlPXhtRXhQMVFMNVdsMlUyVFVOc2JsTVE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0wYmMwOWFjNi00YWFjLTQ3NWQtYWJmNS1lZmYwN2JlNDYyYTc=/"
+        "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8zMS8yMDI1IDEyOjMyOjM0IEFNJmhhc2hfdmFsdWU9MEt3a3MwR3E3S2RoaXdsT1FIMnEvUT09JnZhbGlkbWludXRlcz0xNDQwJmlkPTQ3MzA5YjAwLWI0YWUtNDg5MS04NWY5LTE4NGFhY2JmNThhMA==/"
       },
       {
         "name": "RTP 3",
@@ -49,7 +49,7 @@
         "logo": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png",
         "group": "TV",
         "source": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u",
-        "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8zMC8yMDI1IDQ6Njo1MCBQTSZoYXNoX3ZhbHVlPTRRaDZ6eHVKb25wdjVvaEJqTkZHVVE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0zYzFiODdmZi1kY2RkLTRlMTktODIxNC05MGFhMmQxYjA3NDU=/"
+        "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8zMS8yMDI1IDEyOjMyOjM1IEFNJmhhc2hfdmFsdWU9S1ZXN3FUNE9zYVBxTUNqUE9ZNEg4Zz09JnZhbGlkbWludXRlcz0xNDQwJmlkPTkxNTA3YWUxLTkyMmMtNDczZi1hNDE4LTM1NDU4OWJmMGNjOQ==/"
       },
       {
         "name": "CNN Brasil",
@@ -112,7 +112,7 @@
         "logo": "https://github.com/LITUATUI/M3UPT/raw/main/logos/TVI-Internacional.png",
         "group": "TV",
         "source": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u",
-        "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8zMC8yMDI1IDQ6Njo1MCBQTSZoYXNoX3ZhbHVlPUE3dlIvSkFoWm5rdXRCNXQwNFFjVlE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD04ZmE4YzM2Mi03NDhjLTRlYjAtYTg2Yy0zMWYxMzI0NWYzZTg=/"
+        "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8zMS8yMDI1IDEyOjMyOjM2IEFNJmhhc2hfdmFsdWU9UzljTjNpQ2t6eFNLeHpMakJwekM2Zz09JnZhbGlkbWludXRlcz0xNDQwJmlkPTdlZjM0ZTg4LTcxNGItNGI1Ni05OGYxLWI2MjE0YWU4ZjIxMA==/"
       },
       {
         "name": "TVI África",
@@ -6667,15 +6667,6 @@
         "group": "Music",
         "source": "https://iptv-org.github.io/iptv/countries/pt.m3u",
         "url": "https://stmv1.srvif.com/npc/npc/playlist.m3u8"
-      }
-    ],
-    "Kids": [
-      {
-        "name": "Nickelodeon (Spain) (576p)",
-        "logo": "https://i.imgur.com/E84jnP8.png",
-        "group": "Kids",
-        "source": "https://iptv-org.github.io/iptv/countries/pt.m3u",
-        "url": "http://185.189.225.150:85/nickelodeon/index.m3u8"
       }
     ],
     "General": [
