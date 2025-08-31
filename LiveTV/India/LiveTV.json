@@ -1,5 +1,5 @@
 {
-  "date": "2025-08-30 21:48:23",
+  "date": "2025-08-31 06:52:50",
   "channels": {
     "News": [
       {
@@ -157,6 +157,13 @@
         "url": "https://legitpro.co.in/bharat24live/bharat24live/index.m3u8"
       },
       {
+        "name": "Bharat Express (480p)",
+        "logo": "https://bharatexpress.com/wp-content/themes/newstrackcms/images/bharat-express-new-logo.png",
+        "group": "News",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "https://stream1.livebox.co.in/VCAREhls/live.m3u8"
+      },
+      {
         "name": "Bharat Samachar TV (576p)",
         "logo": "https://i.imgur.com/x5f8E3K.png",
         "group": "News",
@@ -255,11 +262,11 @@
         "url": "https://server.livelegitpro.in/globalpunjab/globalpunjab/index.m3u8"
       },
       {
-        "name": "Goa365 (720p)",
+        "name": "Goa365 (1080p)",
         "logo": "https://www.goa365.tv/images/GOA-365-Logo.jpg",
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "https://asia.mslivestream.net/mslive/f9fe659e19d111baf97526ad526b55b4.sdp/playlist.m3u8"
+        "url": "https://ktismaservers.in:3086/live/goa365live.m3u8"
       },
       {
         "name": "Good News Today (720p)",
@@ -309,6 +316,13 @@
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "https://cdn-1.pishow.tv/live/280/master.m3u8"
+      },
+      {
+        "name": "HNN 24x7 (576p)",
+        "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCVaHnXsaEt_m9s71ZRgHMPUckFZ8cW87J-AsQh0Q6pA&s",
+        "group": "News",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "https://ott.livelegitpro.in:9899/hnnnews/hnnnews/tracks-v1/index.fmp4.m3u8"
       },
       {
         "name": "Hornbill TV (576p)",
@@ -563,11 +577,11 @@
         "url": "https://cdn-3.pishow.tv/live/1481/master.m3u8"
       },
       {
-        "name": "MH One News (1080p)",
+        "name": "Mh 1 News (1080p)",
         "logo": "https://i.imgur.com/RH52BX4.png",
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "https://mhlive.paramountinfosystem.com/mhonetest/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8"
+        "url": "https://mhonenews.in/hls/stream.m3u8"
       },
       {
         "name": "Mirror Now (720p)",
@@ -582,6 +596,13 @@
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "https://player.mslivestream.net/mslive/e10bb900976df9177b9a080314f26f86.sdp/index.m3u8"
+      },
+      {
+        "name": "Munsif TV (720p)",
+        "logo": "https://i.imgur.com/FQLqnE8.png",
+        "group": "News",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/munsif-tv/e5ae862b-c65c-4b17-b9a8-038853525c64/0.m3u8"
       },
       {
         "name": "Naxatra News (720p)",
@@ -808,11 +829,11 @@
         "url": "https://5dd3981940faa.streamlock.net/kbcration/kbcration/playlist.m3u8"
       },
       {
-        "name": "Sudarshan News (720p)",
+        "name": "Sudarshan News (1080p)",
         "logo": "https://i.imgur.com/7AV1VI9.png",
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "https://ott.livelegitpro.in/pusa/sudarshantv/index.m3u8"
+        "url": "https://ott.livelegitpro.in/sudarshannews/sudarshannews/tracks-v1/index.fmp4.m3u8"
       },
       {
         "name": "Swadesh News (720p)",
@@ -1076,11 +1097,11 @@
         "url": "https://sablive-ddpb.akamaized.net/mastii/playlist.m3u8"
       },
       {
-        "name": "MH One Music (1080p)",
+        "name": "Mh 1 Music (720p)",
         "logo": "https://i.imgur.com/Pi6ldXm.png",
         "group": "Music",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "https://mhlive.paramountinfosystem.com/mhonemusictest/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8"
+        "url": "https://mhonemusic.com/hls/1/stream.m3u8"
       },
       {
         "name": "MK Tunes (720p) [Not 24/7]",
@@ -1787,11 +1808,11 @@
         "url": "https://5dd3981940faa.streamlock.net/mercytv/mercytv/playlist.m3u8"
       },
       {
-        "name": "MH One Shraddha (1080p)",
+        "name": "MH One Shraddha (720p)",
         "logo": "https://i.imgur.com/Lrm8qTO.png",
         "group": "Religious",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "https://mhlive.paramountinfosystem.com/mhoneshraddhatest/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8"
+        "url": "https://mhoneshaddha.com/hls/1/stream.m3u8"
       },
       {
         "name": "Namdhari (404p) [Not 24/7]",
@@ -2611,7 +2632,7 @@
         "logo": "https://i.imgur.com/gxKFKRG.png",
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "https://livetv-channels.b-cdn.net/8076/playlist.m3u8"
+        "url": "https://duw35ict5q7th.cloudfront.net/index_3.m3u8"
       },
       {
         "name": "Zing! (576p)",
