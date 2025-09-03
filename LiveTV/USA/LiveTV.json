@@ -1,5 +1,5 @@
 {
-  "date": "2025-09-03 06:57:00",
+  "date": "2025-09-03 13:56:48",
   "channels": {
     "Religious": [
       {
@@ -2535,6 +2535,13 @@
         "url": "https://lockedonsports-losangeles-live.sports.tv/v1/master/758627660e995d43cdf594915ca608eac6cd36d6/DSP_66fae3bdc84b54939d0f5dc3_lockedonsports-losangeles-live/playlist.m3u8"
       },
       {
+        "name": "K-Baseball TV",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Sports",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "https://amg02040-lguplus-amg02040c10-lg-us-6979.playouts.now.amagi.tv/playlist/amg02040-lguplus-kbo-lgus/playlist.m3u8"
+      },
+      {
         "name": "Eleven Sports Network",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Sports",
@@ -4104,7 +4111,7 @@
         "logo": "https://upload.wikimedia.org/wikipedia/commons/7/7a/News_12_logo_2019.png",
         "group": "News",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "https://apollo.production-public.tubi.io/live/ac-news12ny.m3u8"
+        "url": "https://5fcc2ee3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEdfTmV3czEyTmV3WW9ya19ITFM/playlist.m3u8"
       },
       {
         "name": "News 12 (Long Island NY)",
@@ -4219,11 +4226,25 @@
         "url": "https://dbrb49pjoymg4.cloudfront.net/10001/99951337/hls/playlist.m3u8?ads.xumo_channelId=99951337"
       },
       {
+        "name": "ABC Localish",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "News",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "https://live-manifest.production-public.tubi.io/live/ed84a986-071d-484d-b835-e6f0585bff83/playlist.m3u8"
+      },
+      {
         "name": "ABC News",
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "News",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
         "url": "http://content-dtci.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8"
+      },
+      {
+        "name": "ABC 20/20",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "News",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "https://amg00497-amg00497c23-amgplt0023.playout.now3.amagi.tv/playlist/amg00497-amg00497c23-amgplt0023/playlist.m3u8"
       },
       {
         "name": "CBS News",
@@ -4272,7 +4293,7 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "News",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "https://amg00488-foxdigital-newsnow-xumo-qbvgp.amagi.tv/playlist.m3u8"
+        "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/vizioAAAA-foxnewsnow-vizio/playlist.m3u8"
       },
       {
         "name": "FOX News Channel",
@@ -10990,7 +11011,7 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Cooking",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
-        "url": "https://dbrb49pjoymg4.cloudfront.net/10001/99951323/hls/playlist.m3u8?ads.xumo_channelId=99951323"
+        "url": "https://amg01420-amg01420c5-lg-us-5093.playouts.now.amagi.tv/playlist/amg01420-americastestkitchen-cookscountrychannel-lgus/playlist.m3u8"
       },
       {
         "name": "Food52",
@@ -11012,6 +11033,13 @@
         "group": "Cooking",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
         "url": "https://bozztv.com/gusa/gusa-chefrock/index.m3u8"
+      },
+      {
+        "name": "America's Test Kitchen",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Cooking",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "https://amg01420-americastestkitchen-amg01420c1-lg-us-1280.playouts.now.amagi.tv/playlist/amg01420-americastestkitchen-americastestkitchen-lgus/playlist.m3u8"
       }
     ],
     "Family": [
@@ -23507,6 +23535,13 @@
     ],
     "Children Channels": [
       {
+        "name": "PBS Kids #1",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_%282022%29.svg/2048px-PBS_Kids_logo_%282022%29.svg.png",
+        "group": "Children Channels",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est_2.m3u8"
+      },
+      {
         "name": "PBS Kids #2",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_%282022%29.svg/2048px-PBS_Kids_logo_%282022%29.svg.png",
         "group": "Children Channels",
@@ -23757,6 +23792,20 @@
         "group": "Children Channels",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
         "url": "http://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/c8d16110-566c-4e95-a1df-55d175e9e201/manifest.m3u8"
+      },
+      {
+        "name": "Kids TV",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Children Channels",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "https://27d04f2ffe5446e6be4a4a49cf799af7.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LG_KidsTV/playlist.m3u8"
+      },
+      {
+        "name": "Baby Einstein",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Children Channels",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992126"
       },
       {
         "name": "Brat TV",
@@ -29341,6 +29390,20 @@
         "group": "Premium Channels",
         "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
         "url": "https://linear-798.frequency.stream/dist/tcltv/798/hls/master/playlist.m3u8"
+      },
+      {
+        "name": "LG Channel Showcase",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Premium Channels",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "https://amg00497-amg00497c4-amgplt0023.playout.now3.amagi.tv/playlist/amg00497-amg00497c4-amgplt0023/playlist.m3u8"
+      },
+      {
+        "name": "LG Channel Romance Showcase",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "Premium Channels",
+        "source": "https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u",
+        "url": "https://amg00497-amg00497c10-amgplt0023.playout.now3.amagi.tv/playlist/amg00497-amg00497c10-amgplt0023/playlist.m3u8"
       },
       {
         "name": "At the Movies by WB",

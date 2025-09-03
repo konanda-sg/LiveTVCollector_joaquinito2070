@@ -3318,6 +3318,11 @@ Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 
 Group: Children Channels
+Name: PBS Kids #1
+URL: https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est_2.m3u8
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_%282022%29.svg/2048px-PBS_Kids_logo_%282022%29.svg.png
+Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
+--------------------------------------------------
 Name: PBS Kids #2
 URL: https://dce3793146fef017.mediapackage.us-west-2.amazonaws.com/out/v1/55cdf73af7894775ba6de8f57482b66a/CMAF_HLS/index.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/PBS_Kids_logo_%282022%29.svg/2048px-PBS_Kids_logo_%282022%29.svg.png
@@ -3495,6 +3500,16 @@ Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Baby First #2
 URL: http://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/c8d16110-566c-4e95-a1df-55d175e9e201/manifest.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
+--------------------------------------------------
+Name: Kids TV
+URL: https://27d04f2ffe5446e6be4a4a49cf799af7.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/LG_KidsTV/playlist.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
+--------------------------------------------------
+Name: Baby Einstein
+URL: https://d29h829bjuxghm.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99992126
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -4401,7 +4416,7 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Cook's Country Channel
-URL: https://dbrb49pjoymg4.cloudfront.net/10001/99951323/hls/playlist.m3u8?ads.xumo_channelId=99951323
+URL: https://amg01420-amg01420c5-lg-us-5093.playouts.now.amagi.tv/playlist/amg01420-americastestkitchen-cookscountrychannel-lgus/playlist.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -4417,6 +4432,11 @@ Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Chef Roc Show
 URL: https://bozztv.com/gusa/gusa-chefrock/index.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
+--------------------------------------------------
+Name: America's Test Kitchen
+URL: https://amg01420-americastestkitchen-amg01420c1-lg-us-1280.playouts.now.amagi.tv/playlist/amg01420-americastestkitchen-americastestkitchen-lgus/playlist.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -19800,7 +19820,7 @@ Logo: https://t4.ftcdn.net/jpg/03/88/22/21/360_F_388222175_D6PTsMoUyegpPJ63zvkec
 Source: https://iptv-org.github.io/iptv/countries/us.m3u
 --------------------------------------------------
 Name: News 12 (New York NY)
-URL: https://apollo.production-public.tubi.io/live/ac-news12ny.m3u8
+URL: https://5fcc2ee3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEdfTmV3czEyTmV3WW9ya19ITFM/playlist.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/7/7a/News_12_logo_2019.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -19884,8 +19904,18 @@ URL: https://dbrb49pjoymg4.cloudfront.net/10001/99951337/hls/playlist.m3u8?ads.x
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
+Name: ABC Localish
+URL: https://live-manifest.production-public.tubi.io/live/ed84a986-071d-484d-b835-e6f0585bff83/playlist.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
+--------------------------------------------------
 Name: ABC News
 URL: http://content-dtci.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
+--------------------------------------------------
+Name: ABC 20/20
+URL: https://amg00497-amg00497c23-amgplt0023.playout.now3.amagi.tv/playlist/amg00497-amg00497c23-amgplt0023/playlist.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -19920,7 +19950,7 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: LiveNOW from FOX
-URL: https://amg00488-foxdigital-newsnow-xumo-qbvgp.amagi.tv/playlist.m3u8
+URL: https://cdn-ue1-prod.tsv2.amagi.tv/linear/vizioAAAA-foxnewsnow-vizio/playlist.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -21577,6 +21607,16 @@ Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Miramax Movie Channel
 URL: https://linear-798.frequency.stream/dist/tcltv/798/hls/master/playlist.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
+--------------------------------------------------
+Name: LG Channel Showcase
+URL: https://amg00497-amg00497c4-amgplt0023.playout.now3.amagi.tv/playlist/amg00497-amg00497c4-amgplt0023/playlist.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
+--------------------------------------------------
+Name: LG Channel Romance Showcase
+URL: https://amg00497-amg00497c10-amgplt0023.playout.now3.amagi.tv/playlist/amg00497-amg00497c10-amgplt0023/playlist.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
@@ -24248,6 +24288,11 @@ Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
 Name: Locked on Los Angeles
 URL: https://lockedonsports-losangeles-live.sports.tv/v1/master/758627660e995d43cdf594915ca608eac6cd36d6/DSP_66fae3bdc84b54939d0f5dc3_lockedonsports-losangeles-live/playlist.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
+--------------------------------------------------
+Name: K-Baseball TV
+URL: https://amg02040-lguplus-amg02040c10-lg-us-6979.playouts.now.amagi.tv/playlist/amg02040-lguplus-kbo-lgus/playlist.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/aceray50/iptv/refs/heads/main/tv.m3u
 --------------------------------------------------
