@@ -1,5 +1,5 @@
 {
-  "date": "2025-09-02 21:51:06",
+  "date": "2025-09-03 06:44:39",
   "channels": {
     "News": [
       {
@@ -717,11 +717,11 @@
         "url": "https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/ntv_nim_https/110322/ntv/playlist.m3u8"
       },
       {
-        "name": "Polimer News (720p) [Geo-blocked]",
+        "name": "Polimer News (576p)",
         "logo": "https://i.imgur.com/CxcuvXX.png",
         "group": "News",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "https://versewsa.pc.cdn.bitgravity.com/versewsa/live/polimernews.smil/chunklist_b1800000.m3u8"
+        "url": "https://segment.yuppcdn.net/110322/polimernews/playlist.m3u8"
       },
       {
         "name": "Prameya News7 (1080p) [Not 24/7]",
@@ -1199,7 +1199,7 @@
         "logo": "https://i.imgur.com/Egijzx3.png",
         "group": "Music",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "http://cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8"
+        "url": "https://cdn2.in/SteelbirdMusicTVhls/live.m3u8"
       },
       {
         "name": "Tarang Music (720p)",
@@ -1221,6 +1221,148 @@
         "group": "Music",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "https://server.zillarbarta.com/zbmusic/index.m3u8"
+      }
+    ],
+    "Movies": [
+      {
+        "name": "&flix (360p)",
+        "logo": "https://i.imgur.com/WOyfzjC.png",
+        "group": "Movies",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "https://edge3-moblive.yuppcdn.net/drm/smil:nflixdrm.smil/chunklist_b996000.m3u8"
+      },
+      {
+        "name": "Abzy Dhakad (480p)",
+        "logo": "https://i.imgur.com/5ORC4tn.png",
+        "group": "Movies",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/4fe6ab07a13543d6bdb2ec63b3e2df44/index.m3u8"
+      },
+      {
+        "name": "Abzy Movies (480p)",
+        "logo": "https://i.imgur.com/LnVgKVF.png",
+        "group": "Movies",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/db8d4eca72d64748a00d0631debf542d/index.m3u8"
+      },
+      {
+        "name": "B4U Bhojpuri (1080p)",
+        "logo": "https://i.imgur.com/NwOQUDp.png",
+        "group": "Movies",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "https://cdnb4u.wiseplayout.com/B4U_Bhojpuri/master.m3u8"
+      },
+      {
+        "name": "B4U Kadak (1080p) [Not 24/7]",
+        "logo": "https://i.imgur.com/CKLn0ft.png",
+        "group": "Movies",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "https://cdnb4u.wiseplayout.com/B4U_Kadak/master.m3u8"
+      },
+      {
+        "name": "B4U Movies India (1080p)",
+        "logo": "https://i.imgur.com/M9kMFJl.png",
+        "group": "Movies",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "https://cdnb4u.wiseplayout.com/B4U_Movies/master.m3u8"
+      },
+      {
+        "name": "B4U Plus (576p)",
+        "logo": "https://i.imgur.com/ly8hBqS.png",
+        "group": "Movies",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "http://183.89.246.119:8881/play/a08l/index.m3u8"
+      },
+      {
+        "name": "Bhojpuri Cinema (720p)",
+        "logo": "https://i.imgur.com/ABxIO7r.jpg",
+        "group": "Movies",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8"
+      },
+      {
+        "name": "Dhinchaak (576p) [Not 24/7]",
+        "logo": "https://i.imgur.com/oqqChlH.png",
+        "group": "Movies",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "http://14.199.164.20:4001/play/a0o5/index.m3u8"
+      },
+      {
+        "name": "ETV Cinema HD (1080p)",
+        "logo": "https://i.imgur.com/iMxePjI.png",
+        "group": "Movies",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "https://d1q7j6ha51ro6f.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264-3_cloud_in/index.m3u8"
+      },
+      {
+        "name": "Filamchi Bhojpuri (1080p)",
+        "logo": "https://pbs.twimg.com/profile_images/1356516689601564672/g3Umyo2t_400x400.jpg",
+        "group": "Movies",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "https://epiconvh.akamaized.net/live/filamchi/master.m3u8"
+      },
+      {
+        "name": "Filmeraa (720p)",
+        "logo": "https://i.ibb.co/p4BwH0x/images-5.png",
+        "group": "Movies",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "https://a.jsrdn.com/broadcast/7ef91d3d7a/+0000/c.m3u8"
+      },
+      {
+        "name": "Kairali We (396p)",
+        "logo": "https://i.imgur.com/zXpROBj.png",
+        "group": "Movies",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/wetv_nim_https/050522/wetv/playlist.m3u8"
+      },
+      {
+        "name": "Maha Movie (576p) [Not 24/7]",
+        "logo": "https://i.imgur.com/hpShFDL.png",
+        "group": "Movies",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "http://14.199.164.20:4001/play/a0q7/index.m3u8"
+      },
+      {
+        "name": "Manoranjan Grand (720p)",
+        "logo": "https://i.imgur.com/qfMEz78.png",
+        "group": "Movies",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "https://cdn-1.pishow.tv/live/1011/master.m3u8"
+      },
+      {
+        "name": "Manoranjan Movies (720p)",
+        "logo": "https://i.imgur.com/oTBVML2.png",
+        "group": "Movies",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "https://cdn-2.pishow.tv/live/228/master.m3u8"
+      },
+      {
+        "name": "Oscar Movies Bhojpuri (720p)",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/e/e7/Oscar-Movies_Bhojpuri.jpg",
+        "group": "Movies",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "https://cdn-4.pishow.tv/live/233/master.m3u8"
+      },
+      {
+        "name": "Star Gold HD (1080p)",
+        "logo": "https://i.imgur.com/xC460sj.png",
+        "group": "Movies",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "http://103.81.104.118/hls/stream19.m3u8"
+      },
+      {
+        "name": "Studio One + (720p)",
+        "logo": "https://i.imgur.com/yOPB7JB.png",
+        "group": "Movies",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "https://cdn-1.pishow.tv/live/276/master.m3u8"
+      },
+      {
+        "name": "Zee Cinema (1080p) [Geo-blocked]",
+        "logo": "https://i.imgur.com/uYjCv5p.png",
+        "group": "Movies",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "https://amg17931-zee-amg17931c5-samsung-th-5696.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeecinema-samsungth/playlist.m3u8"
       }
     ],
     "Entertainment": [
@@ -1899,141 +2041,6 @@
         "url": "https://server.zillarbarta.com/zbbhakti/index.m3u8"
       }
     ],
-    "Movies": [
-      {
-        "name": "Abzy Dhakad (480p)",
-        "logo": "https://i.imgur.com/5ORC4tn.png",
-        "group": "Movies",
-        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/4fe6ab07a13543d6bdb2ec63b3e2df44/index.m3u8"
-      },
-      {
-        "name": "Abzy Movies (480p)",
-        "logo": "https://i.imgur.com/LnVgKVF.png",
-        "group": "Movies",
-        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/db8d4eca72d64748a00d0631debf542d/index.m3u8"
-      },
-      {
-        "name": "B4U Bhojpuri (1080p)",
-        "logo": "https://i.imgur.com/NwOQUDp.png",
-        "group": "Movies",
-        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "https://cdnb4u.wiseplayout.com/B4U_Bhojpuri/master.m3u8"
-      },
-      {
-        "name": "B4U Kadak (1080p) [Not 24/7]",
-        "logo": "https://i.imgur.com/CKLn0ft.png",
-        "group": "Movies",
-        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "https://cdnb4u.wiseplayout.com/B4U_Kadak/master.m3u8"
-      },
-      {
-        "name": "B4U Movies India (1080p)",
-        "logo": "https://i.imgur.com/M9kMFJl.png",
-        "group": "Movies",
-        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "https://cdnb4u.wiseplayout.com/B4U_Movies/master.m3u8"
-      },
-      {
-        "name": "B4U Plus (576p)",
-        "logo": "https://i.imgur.com/ly8hBqS.png",
-        "group": "Movies",
-        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "http://183.89.246.119:8881/play/a08l/index.m3u8"
-      },
-      {
-        "name": "Bhojpuri Cinema (720p)",
-        "logo": "https://i.imgur.com/ABxIO7r.jpg",
-        "group": "Movies",
-        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8"
-      },
-      {
-        "name": "Dhinchaak (576p) [Not 24/7]",
-        "logo": "https://i.imgur.com/oqqChlH.png",
-        "group": "Movies",
-        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "http://14.199.164.20:4001/play/a0o5/index.m3u8"
-      },
-      {
-        "name": "ETV Cinema HD (1080p)",
-        "logo": "https://i.imgur.com/iMxePjI.png",
-        "group": "Movies",
-        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "https://d1q7j6ha51ro6f.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264-3_cloud_in/index.m3u8"
-      },
-      {
-        "name": "Filamchi Bhojpuri (1080p)",
-        "logo": "https://pbs.twimg.com/profile_images/1356516689601564672/g3Umyo2t_400x400.jpg",
-        "group": "Movies",
-        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "https://epiconvh.akamaized.net/live/filamchi/master.m3u8"
-      },
-      {
-        "name": "Filmeraa (720p)",
-        "logo": "https://i.ibb.co/p4BwH0x/images-5.png",
-        "group": "Movies",
-        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "https://a.jsrdn.com/broadcast/7ef91d3d7a/+0000/c.m3u8"
-      },
-      {
-        "name": "Kairali We (396p)",
-        "logo": "https://i.imgur.com/zXpROBj.png",
-        "group": "Movies",
-        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/wetv_nim_https/050522/wetv/playlist.m3u8"
-      },
-      {
-        "name": "Maha Movie (576p) [Not 24/7]",
-        "logo": "https://i.imgur.com/hpShFDL.png",
-        "group": "Movies",
-        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "http://14.199.164.20:4001/play/a0q7/index.m3u8"
-      },
-      {
-        "name": "Manoranjan Grand (720p)",
-        "logo": "https://i.imgur.com/qfMEz78.png",
-        "group": "Movies",
-        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "https://cdn-1.pishow.tv/live/1011/master.m3u8"
-      },
-      {
-        "name": "Manoranjan Movies (720p)",
-        "logo": "https://i.imgur.com/oTBVML2.png",
-        "group": "Movies",
-        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "https://cdn-2.pishow.tv/live/228/master.m3u8"
-      },
-      {
-        "name": "Oscar Movies Bhojpuri (720p)",
-        "logo": "https://upload.wikimedia.org/wikipedia/en/e/e7/Oscar-Movies_Bhojpuri.jpg",
-        "group": "Movies",
-        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "https://cdn-4.pishow.tv/live/233/master.m3u8"
-      },
-      {
-        "name": "Star Gold HD (1080p)",
-        "logo": "https://i.imgur.com/xC460sj.png",
-        "group": "Movies",
-        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "http://103.81.104.118/hls/stream19.m3u8"
-      },
-      {
-        "name": "Studio One + (720p)",
-        "logo": "https://i.imgur.com/yOPB7JB.png",
-        "group": "Movies",
-        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "https://cdn-1.pishow.tv/live/276/master.m3u8"
-      },
-      {
-        "name": "Zee Cinema (1080p) [Geo-blocked]",
-        "logo": "https://i.imgur.com/uYjCv5p.png",
-        "group": "Movies",
-        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
-        "url": "https://amg17931-zee-amg17931c5-samsung-th-5696.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeecinema-samsungth/playlist.m3u8"
-      }
-    ],
     "Animation": [
       {
         "name": "Animax [Geo-blocked]",
@@ -2479,6 +2486,13 @@
         "group": "Undefined",
         "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
         "url": "https://cdn-4.pishow.tv/live/239/master.m3u8"
+      },
+      {
+        "name": "Thendral TV (576p)",
+        "logo": "https://i.imgur.com/kQK80gB.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/in.m3u",
+        "url": "https://live.thendralcloud.in/thendraltv/d0dbe915091d400bd8ee7f27f0791303.sdp/chunks.m3u8"
       },
       {
         "name": "Total Bhakti (1080p)",

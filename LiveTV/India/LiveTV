@@ -612,9 +612,9 @@
     "img": "https://i.imgur.com/WqTIoWS.png"
   },
   {
-    "name": "Polimer News (720p) [Geo-blocked]",
+    "name": "Polimer News (576p)",
     "type": "News",
-    "url": "https://versewsa.pc.cdn.bitgravity.com/versewsa/live/polimernews.smil/chunklist_b1800000.m3u8",
+    "url": "https://segment.yuppcdn.net/110322/polimernews/playlist.m3u8",
     "img": "https://i.imgur.com/CxcuvXX.png"
   },
   {
@@ -1022,7 +1022,7 @@
   {
     "name": "Steelbird Music (720p) [Not 24/7]",
     "type": "Music",
-    "url": "http://cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8",
+    "url": "https://cdn2.in/SteelbirdMusicTVhls/live.m3u8",
     "img": "https://i.imgur.com/Egijzx3.png"
   },
   {
@@ -1042,6 +1042,126 @@
     "type": "Music",
     "url": "https://server.zillarbarta.com/zbmusic/index.m3u8",
     "img": "https://i.imgur.com/k1nb8u1.jpeg"
+  },
+  {
+    "name": "&flix (360p)",
+    "type": "Movies",
+    "url": "https://edge3-moblive.yuppcdn.net/drm/smil:nflixdrm.smil/chunklist_b996000.m3u8",
+    "img": "https://i.imgur.com/WOyfzjC.png"
+  },
+  {
+    "name": "Abzy Dhakad (480p)",
+    "type": "Movies",
+    "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/4fe6ab07a13543d6bdb2ec63b3e2df44/index.m3u8",
+    "img": "https://i.imgur.com/5ORC4tn.png"
+  },
+  {
+    "name": "Abzy Movies (480p)",
+    "type": "Movies",
+    "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/db8d4eca72d64748a00d0631debf542d/index.m3u8",
+    "img": "https://i.imgur.com/LnVgKVF.png"
+  },
+  {
+    "name": "B4U Bhojpuri (1080p)",
+    "type": "Movies",
+    "url": "https://cdnb4u.wiseplayout.com/B4U_Bhojpuri/master.m3u8",
+    "img": "https://i.imgur.com/NwOQUDp.png"
+  },
+  {
+    "name": "B4U Kadak (1080p) [Not 24/7]",
+    "type": "Movies",
+    "url": "https://cdnb4u.wiseplayout.com/B4U_Kadak/master.m3u8",
+    "img": "https://i.imgur.com/CKLn0ft.png"
+  },
+  {
+    "name": "B4U Movies India (1080p)",
+    "type": "Movies",
+    "url": "https://cdnb4u.wiseplayout.com/B4U_Movies/master.m3u8",
+    "img": "https://i.imgur.com/M9kMFJl.png"
+  },
+  {
+    "name": "B4U Plus (576p)",
+    "type": "Movies",
+    "url": "http://183.89.246.119:8881/play/a08l/index.m3u8",
+    "img": "https://i.imgur.com/ly8hBqS.png"
+  },
+  {
+    "name": "Bhojpuri Cinema (720p)",
+    "type": "Movies",
+    "url": "https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8",
+    "img": "https://i.imgur.com/ABxIO7r.jpg"
+  },
+  {
+    "name": "Dhinchaak (576p) [Not 24/7]",
+    "type": "Movies",
+    "url": "http://14.199.164.20:4001/play/a0o5/index.m3u8",
+    "img": "https://i.imgur.com/oqqChlH.png"
+  },
+  {
+    "name": "ETV Cinema HD (1080p)",
+    "type": "Movies",
+    "url": "https://d1q7j6ha51ro6f.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264-3_cloud_in/index.m3u8",
+    "img": "https://i.imgur.com/iMxePjI.png"
+  },
+  {
+    "name": "Filamchi Bhojpuri (1080p)",
+    "type": "Movies",
+    "url": "https://epiconvh.akamaized.net/live/filamchi/master.m3u8",
+    "img": "https://pbs.twimg.com/profile_images/1356516689601564672/g3Umyo2t_400x400.jpg"
+  },
+  {
+    "name": "Filmeraa (720p)",
+    "type": "Movies",
+    "url": "https://a.jsrdn.com/broadcast/7ef91d3d7a/+0000/c.m3u8",
+    "img": "https://i.ibb.co/p4BwH0x/images-5.png"
+  },
+  {
+    "name": "Kairali We (396p)",
+    "type": "Movies",
+    "url": "https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/wetv_nim_https/050522/wetv/playlist.m3u8",
+    "img": "https://i.imgur.com/zXpROBj.png"
+  },
+  {
+    "name": "Maha Movie (576p) [Not 24/7]",
+    "type": "Movies",
+    "url": "http://14.199.164.20:4001/play/a0q7/index.m3u8",
+    "img": "https://i.imgur.com/hpShFDL.png"
+  },
+  {
+    "name": "Manoranjan Grand (720p)",
+    "type": "Movies",
+    "url": "https://cdn-1.pishow.tv/live/1011/master.m3u8",
+    "img": "https://i.imgur.com/qfMEz78.png"
+  },
+  {
+    "name": "Manoranjan Movies (720p)",
+    "type": "Movies",
+    "url": "https://cdn-2.pishow.tv/live/228/master.m3u8",
+    "img": "https://i.imgur.com/oTBVML2.png"
+  },
+  {
+    "name": "Oscar Movies Bhojpuri (720p)",
+    "type": "Movies",
+    "url": "https://cdn-4.pishow.tv/live/233/master.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/en/e/e7/Oscar-Movies_Bhojpuri.jpg"
+  },
+  {
+    "name": "Star Gold HD (1080p)",
+    "type": "Movies",
+    "url": "http://103.81.104.118/hls/stream19.m3u8",
+    "img": "https://i.imgur.com/xC460sj.png"
+  },
+  {
+    "name": "Studio One + (720p)",
+    "type": "Movies",
+    "url": "https://cdn-1.pishow.tv/live/276/master.m3u8",
+    "img": "https://i.imgur.com/yOPB7JB.png"
+  },
+  {
+    "name": "Zee Cinema (1080p) [Geo-blocked]",
+    "type": "Movies",
+    "url": "https://amg17931-zee-amg17931c5-samsung-th-5696.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeecinema-samsungth/playlist.m3u8",
+    "img": "https://i.imgur.com/uYjCv5p.png"
   },
   {
     "name": "Aakaash Aath (720p)",
@@ -1620,120 +1740,6 @@
     "img": "https://i.imgur.com/MBaKNPC.jpeg"
   },
   {
-    "name": "Abzy Dhakad (480p)",
-    "type": "Movies",
-    "url": "https://d2lk5u59tns74c.cloudfront.net/out/v1/4fe6ab07a13543d6bdb2ec63b3e2df44/index.m3u8",
-    "img": "https://i.imgur.com/5ORC4tn.png"
-  },
-  {
-    "name": "Abzy Movies (480p)",
-    "type": "Movies",
-    "url": "https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/db8d4eca72d64748a00d0631debf542d/index.m3u8",
-    "img": "https://i.imgur.com/LnVgKVF.png"
-  },
-  {
-    "name": "B4U Bhojpuri (1080p)",
-    "type": "Movies",
-    "url": "https://cdnb4u.wiseplayout.com/B4U_Bhojpuri/master.m3u8",
-    "img": "https://i.imgur.com/NwOQUDp.png"
-  },
-  {
-    "name": "B4U Kadak (1080p) [Not 24/7]",
-    "type": "Movies",
-    "url": "https://cdnb4u.wiseplayout.com/B4U_Kadak/master.m3u8",
-    "img": "https://i.imgur.com/CKLn0ft.png"
-  },
-  {
-    "name": "B4U Movies India (1080p)",
-    "type": "Movies",
-    "url": "https://cdnb4u.wiseplayout.com/B4U_Movies/master.m3u8",
-    "img": "https://i.imgur.com/M9kMFJl.png"
-  },
-  {
-    "name": "B4U Plus (576p)",
-    "type": "Movies",
-    "url": "http://183.89.246.119:8881/play/a08l/index.m3u8",
-    "img": "https://i.imgur.com/ly8hBqS.png"
-  },
-  {
-    "name": "Bhojpuri Cinema (720p)",
-    "type": "Movies",
-    "url": "https://live-bhojpuri.akamaized.net/liveabr/playlist.m3u8",
-    "img": "https://i.imgur.com/ABxIO7r.jpg"
-  },
-  {
-    "name": "Dhinchaak (576p) [Not 24/7]",
-    "type": "Movies",
-    "url": "http://14.199.164.20:4001/play/a0o5/index.m3u8",
-    "img": "https://i.imgur.com/oqqChlH.png"
-  },
-  {
-    "name": "ETV Cinema HD (1080p)",
-    "type": "Movies",
-    "url": "https://d1q7j6ha51ro6f.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264-3_cloud_in/index.m3u8",
-    "img": "https://i.imgur.com/iMxePjI.png"
-  },
-  {
-    "name": "Filamchi Bhojpuri (1080p)",
-    "type": "Movies",
-    "url": "https://epiconvh.akamaized.net/live/filamchi/master.m3u8",
-    "img": "https://pbs.twimg.com/profile_images/1356516689601564672/g3Umyo2t_400x400.jpg"
-  },
-  {
-    "name": "Filmeraa (720p)",
-    "type": "Movies",
-    "url": "https://a.jsrdn.com/broadcast/7ef91d3d7a/+0000/c.m3u8",
-    "img": "https://i.ibb.co/p4BwH0x/images-5.png"
-  },
-  {
-    "name": "Kairali We (396p)",
-    "type": "Movies",
-    "url": "https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/wetv_nim_https/050522/wetv/playlist.m3u8",
-    "img": "https://i.imgur.com/zXpROBj.png"
-  },
-  {
-    "name": "Maha Movie (576p) [Not 24/7]",
-    "type": "Movies",
-    "url": "http://14.199.164.20:4001/play/a0q7/index.m3u8",
-    "img": "https://i.imgur.com/hpShFDL.png"
-  },
-  {
-    "name": "Manoranjan Grand (720p)",
-    "type": "Movies",
-    "url": "https://cdn-1.pishow.tv/live/1011/master.m3u8",
-    "img": "https://i.imgur.com/qfMEz78.png"
-  },
-  {
-    "name": "Manoranjan Movies (720p)",
-    "type": "Movies",
-    "url": "https://cdn-2.pishow.tv/live/228/master.m3u8",
-    "img": "https://i.imgur.com/oTBVML2.png"
-  },
-  {
-    "name": "Oscar Movies Bhojpuri (720p)",
-    "type": "Movies",
-    "url": "https://cdn-4.pishow.tv/live/233/master.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/en/e/e7/Oscar-Movies_Bhojpuri.jpg"
-  },
-  {
-    "name": "Star Gold HD (1080p)",
-    "type": "Movies",
-    "url": "http://103.81.104.118/hls/stream19.m3u8",
-    "img": "https://i.imgur.com/xC460sj.png"
-  },
-  {
-    "name": "Studio One + (720p)",
-    "type": "Movies",
-    "url": "https://cdn-1.pishow.tv/live/276/master.m3u8",
-    "img": "https://i.imgur.com/yOPB7JB.png"
-  },
-  {
-    "name": "Zee Cinema (1080p) [Geo-blocked]",
-    "type": "Movies",
-    "url": "https://amg17931-zee-amg17931c5-samsung-th-5696.playouts.now.amagi.tv/playlist/amg17931-asiatvusaltdfast-zeecinema-samsungth/playlist.m3u8",
-    "img": "https://i.imgur.com/uYjCv5p.png"
-  },
-  {
     "name": "Animax [Geo-blocked]",
     "type": "Animation",
     "url": "https://amg02159-kcglobal-amg02159c1-samsung-in-521.playouts.now.amagi.tv/playlist/amg02159-kcglobal-animax-samsungin/playlist.m3u8",
@@ -2110,6 +2116,12 @@
     "type": "Undefined",
     "url": "https://cdn-4.pishow.tv/live/239/master.m3u8",
     "img": "https://i.imgur.com/PCVOdup.png"
+  },
+  {
+    "name": "Thendral TV (576p)",
+    "type": "Undefined",
+    "url": "https://live.thendralcloud.in/thendraltv/d0dbe915091d400bd8ee7f27f0791303.sdp/chunks.m3u8",
+    "img": "https://i.imgur.com/kQK80gB.png"
   },
   {
     "name": "Total Bhakti (1080p)",

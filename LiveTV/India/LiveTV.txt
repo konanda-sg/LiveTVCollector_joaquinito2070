@@ -949,6 +949,11 @@ Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 
 Group: Movies
+Name: &flix (360p)
+URL: https://edge3-moblive.yuppcdn.net/drm/smil:nflixdrm.smil/chunklist_b996000.m3u8
+Logo: https://i.imgur.com/WOyfzjC.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
 Name: Abzy Dhakad (480p)
 URL: https://d2lk5u59tns74c.cloudfront.net/out/v1/4fe6ab07a13543d6bdb2ec63b3e2df44/index.m3u8
 Logo: https://i.imgur.com/5ORC4tn.png
@@ -1209,7 +1214,7 @@ Logo: https://i.imgur.com/Zm4Fhah.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: Steelbird Music (720p) [Not 24/7]
-URL: http://cdn25.live247stream.com/steelbirdmusic/tv/playlist.m3u8
+URL: https://cdn2.in/SteelbirdMusicTVhls/live.m3u8
 Logo: https://i.imgur.com/Egijzx3.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
@@ -1740,8 +1745,8 @@ URL: https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b
 Logo: https://i.imgur.com/WqTIoWS.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
-Name: Polimer News (720p) [Geo-blocked]
-URL: https://versewsa.pc.cdn.bitgravity.com/versewsa/live/polimernews.smil/chunklist_b1800000.m3u8
+Name: Polimer News (576p)
+URL: https://segment.yuppcdn.net/110322/polimernews/playlist.m3u8
 Logo: https://i.imgur.com/CxcuvXX.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
@@ -8298,6 +8303,11 @@ Source: https://iptv-org.github.io/iptv/countries/in.m3u
 Name: Tehzeeb TV (720p)
 URL: https://cdn-4.pishow.tv/live/239/master.m3u8
 Logo: https://i.imgur.com/PCVOdup.png
+Source: https://iptv-org.github.io/iptv/countries/in.m3u
+--------------------------------------------------
+Name: Thendral TV (576p)
+URL: https://live.thendralcloud.in/thendraltv/d0dbe915091d400bd8ee7f27f0791303.sdp/chunks.m3u8
+Logo: https://i.imgur.com/kQK80gB.png
 Source: https://iptv-org.github.io/iptv/countries/in.m3u
 --------------------------------------------------
 Name: Total Bhakti (1080p)
