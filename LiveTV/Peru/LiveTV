@@ -1,5 +1,17 @@
 [
   {
+    "name": "Agro TV (Apurimac) (720p) [Not 24/7]",
+    "type": "Outdoor",
+    "url": "https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8",
+    "img": "https://i.imgur.com/1uLGa3w.png"
+  },
+  {
+    "name": "Agrotendencia TV (1080p)",
+    "type": "Outdoor",
+    "url": "https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8",
+    "img": "https://i.imgur.com/frd60hR.png"
+  },
+  {
     "name": "America Television",
     "type": "General",
     "url": "http://181.188.216.5:18000/play/a014/index.m3u8",
@@ -10,6 +22,12 @@
     "type": "General",
     "url": "https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8",
     "img": "https://i.imgur.com/eUzYZfg.png"
+  },
+  {
+    "name": "ATV Sur (720p) [Not 24/7]",
+    "type": "General",
+    "url": "https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8",
+    "img": "https://i.imgur.com/LnyVa5H.png"
   },
   {
     "name": "Auténtica Televisión (720p) [Not 24/7]",
@@ -78,16 +96,34 @@
     "img": "https://i.imgur.com/zK1YcpJ.png"
   },
   {
+    "name": "Milenial TV",
+    "type": "General",
+    "url": "https://www.milenial.news/salida/milenial.m3u8",
+    "img": "https://i.imgur.com/8ZiNoEa.png"
+  },
+  {
     "name": "Nativa (720p) [Not 24/7]",
     "type": "General",
     "url": "https://oneplay.iptvperu.tv:1936/static/nativa1.stream/chunks.m3u8",
     "img": "https://i.imgur.com/Y9k9XSO.png"
   },
   {
+    "name": "Nativa TV Satipo (720p) [Not 24/7]",
+    "type": "General",
+    "url": "https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8",
+    "img": "https://i.imgur.com/ScCAgGB.png"
+  },
+  {
     "name": "Oasis RTV (720p) [Not 24/7]",
     "type": "General",
     "url": "https://7.innovatestream.pe:19360/oasisrtv/oasisrtv.m3u8",
     "img": "https://i.imgur.com/48L65SG.png"
+  },
+  {
+    "name": "ONDA DIGITAL (720p)",
+    "type": "General",
+    "url": "https://tv.ondadigital.pe/ondadigital/index.m3u8",
+    "img": "https://i.imgur.com/3R2emx7.jpg"
   },
   {
     "name": "Primavera 15",
@@ -124,6 +160,12 @@
     "type": "General",
     "url": "https://tvdatta.com:3084/live/toptvaguaytialive.m3u8",
     "img": "https://i.imgur.com/tiNvihZ.png"
+  },
+  {
+    "name": "Trivu (1080p) [Not 24/7]",
+    "type": "General",
+    "url": "https://www.chasquirouter.com/salida/sd/trivu.m3u8",
+    "img": "https://i.imgur.com/QrUYjOS.png"
   },
   {
     "name": "TV Cosmos (720p) [Not 24/7]",
@@ -172,6 +214,12 @@
     "type": "General",
     "url": "https://videoserver.tmcreativos.com:19360/cablerasvia/cablerasvia.m3u8",
     "img": "https://i.imgur.com/FiptbGQ.png"
+  },
+  {
+    "name": "Visión Sur TV (1080p) [Not 24/7]",
+    "type": "General",
+    "url": "https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8",
+    "img": "https://i.imgur.com/AbZYWEQ.png"
   },
   {
     "name": "WOW TV (576p) [Not 24/7]",
@@ -306,12 +354,6 @@
     "img": "https://i.imgur.com/2zCD4TB.png"
   },
   {
-    "name": "Nativa TV (Satipo)",
-    "type": "General",
-    "url": "https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8",
-    "img": "https://i.imgur.com/ScCAgGB.png"
-  },
-  {
     "name": "N Mas tv (Mexico) (540p)",
     "type": "General",
     "url": "https://channel07-notusa.akamaized.net/hls/live/2036971/event01/index_4.m3u8",
@@ -408,12 +450,6 @@
     "img": "https://i.imgur.com/FiptbGQ.png"
   },
   {
-    "name": "VisionSur (Arequipa)",
-    "type": "General",
-    "url": "https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8",
-    "img": "https://i.imgur.com/AbZYWEQ.png"
-  },
-  {
     "name": "X TV (Chachapoyas)",
     "type": "General",
     "url": "https://vdo.panelchs.com:3927/live/xtvcontrollive.m3u8",
@@ -430,6 +466,120 @@
     "type": "General",
     "url": "https://live.obslivestream.com/wtv/index.m3u8",
     "img": "https://i.imgur.com/V10iVeh.png"
+  },
+  {
+    "name": "Angienet TV",
+    "type": "Music",
+    "url": "https://servilive.com:3624/stream/play.m3u8",
+    "img": "https://i.imgur.com/GCCriH4.png"
+  },
+  {
+    "name": "Karibena",
+    "type": "Music",
+    "url": "https://live-evg1.tv360.bitel.com.pe/bitel/karibeñatv/playlist.m3u8",
+    "img": "https://i.imgur.com/cgHjg1e.png"
+  },
+  {
+    "name": "Miel TV (720p) [Not 24/7]",
+    "type": "Music",
+    "url": "https://7.innovatestream.pe:19360/mieltv/mieltv.m3u8",
+    "img": "https://i.imgur.com/dPSFrCs.png"
+  },
+  {
+    "name": "Millenium 109 FM (720p) [Not 24/7]",
+    "type": "Music",
+    "url": "https://videoserver.tmcreativos.com:19360/nqvnhujhrx/nqvnhujhrx.m3u8",
+    "img": "https://i.imgur.com/sfNL6Bv.png"
+  },
+  {
+    "name": "Radio Master (720p)",
+    "type": "Music",
+    "url": "https://videoserver.tmcreativos.com:19360/radiomaster/radiomaster.m3u8",
+    "img": "https://i.imgur.com/AUoxyzP.png"
+  },
+  {
+    "name": "Radio Onda Digital",
+    "type": "Music",
+    "url": "https://v4.tustreaming.cl/radioondadigitaltv/index.m3u8",
+    "img": "https://i.imgur.com/Lid5RTv.png"
+  },
+  {
+    "name": "Radio Tropical Tarapoto (480p) [Not 24/7]",
+    "type": "Music",
+    "url": "https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8",
+    "img": "https://i.imgur.com/TBPVOBI.png"
+  },
+  {
+    "name": "Radio TV Tendencias (1080p) [Not 24/7]",
+    "type": "Music",
+    "url": "https://s1.tvdatta.com:3950/multi_web/play.m3u8",
+    "img": "https://i.imgur.com/tsdrrV9.png"
+  },
+  {
+    "name": "Turbo Mix Radio TV (360p) [Not 24/7]",
+    "type": "Music",
+    "url": "https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8",
+    "img": "https://i.imgur.com/AsdBQa3.png"
+  },
+  {
+    "name": "TVUNO (720p)",
+    "type": "Music",
+    "url": "https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8",
+    "img": "https://i.imgur.com/dht94P4.png"
+  },
+  {
+    "name": "Vallenato Internacional (720p)",
+    "type": "Music",
+    "url": "https://59a564764e2b6.streamlock.net/vallenato/Vallenato2/playlist.m3u8",
+    "img": "https://i.imgur.com/rVKroNW.png"
+  },
+  {
+    "name": "Hatun TV (480p)",
+    "type": "Music",
+    "url": "https://mi.godo.net.pe/Best00Hatum-0032101002/tracks-v1a1/mono.m3u8?remote=190.42.31.131&token=abe3aaba2b2090138d33b2daf5f7a41b6cbe7497-60dfbdde2eed4c9b4012fc83d6a0fc2d-1700436144-1700425344",
+    "img": "https://i.imgur.com/cWz2vgV.png"
+  },
+  {
+    "name": "Radio San Borja TV (720p)",
+    "type": "Music",
+    "url": "https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/playlist.m3u8",
+    "img": "https://i.imgur.com/75dJBtH.png"
+  },
+  {
+    "name": "TV Peruanísima (720p)",
+    "type": "Music",
+    "url": "https://62fc643fbf1aa.streamlock.net/TVperuanisima/TVperuanisima/chunklist_w1935074754.m3u8",
+    "img": "https://i.imgur.com/m50qAVY.png"
+  },
+  {
+    "name": "Visión TV Musica (720p)",
+    "type": "Music",
+    "url": "https://multimedia.tmcreativos.com:1936/visionmusica/visionmusica/playlist.m3u8",
+    "img": "https://i.imgur.com/AihIIGn.png"
+  },
+  {
+    "name": "Retro Plus HD",
+    "type": "Music",
+    "url": "https://video06.logicahost.com.br/retroplustv/retroplustv/chunklist_w1081887482.m3u8",
+    "img": "https://i.imgur.com/fkCasXI.png"
+  },
+  {
+    "name": "Retro Plus 2 HD",
+    "type": "Music",
+    "url": "https://video06.logicahost.com.br/retroplussenal2/retroplussenal2/chunklist_w1846257259.m3u8",
+    "img": "https://i.imgur.com/5G5kian.png"
+  },
+  {
+    "name": "SanjuaneraTV",
+    "type": "Music",
+    "url": "https://live.obslivestream.com/sanjuanera/index.m3u8",
+    "img": "https://i.imgur.com/QB3tz0d.png"
+  },
+  {
+    "name": "Radio El Pueblo (480p)",
+    "type": "Music",
+    "url": "https://tv.mediacp.eu:8081/radioelpueblo/index.m3u8",
+    "img": "https://i.imgur.com/Up1u4TH.png"
   },
   {
     "name": "Antares Televisión (720p) [Not 24/7]",
@@ -532,6 +682,12 @@
     "type": "News",
     "url": "https://luna-1-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a3cb0e3243c/video.m3u8",
     "img": "https://i.imgur.com/pu0BSB7.png"
+  },
+  {
+    "name": "Like TV",
+    "type": "News",
+    "url": "https://live-evg1.tv360.bitel.com.pe/bitel/liketv/playlist.m3u8",
+    "img": "https://i.imgur.com/5IwS0sJ.png"
   },
   {
     "name": "PBO",
@@ -750,6 +906,12 @@
     "img": "https://i.imgur.com/I6tRVkA.png"
   },
   {
+    "name": "Nova TV Star (360p) [Not 24/7]",
+    "type": "Undefined",
+    "url": "https://7.innovatestream.pe:19360/radionovastar/radionovastar.m3u8",
+    "img": "https://i.imgur.com/CN2j8S3.png"
+  },
+  {
     "name": "Planeta TV (720p) [Not 24/7]",
     "type": "Undefined",
     "url": "https://live.obslivestream.com/planetatv/index.m3u8",
@@ -766,6 +928,12 @@
     "type": "Undefined",
     "url": "https://videoserver.tmcreativos.com:19360/rnyurimaguas/rnyurimaguas.m3u8",
     "img": "https://i.imgur.com/oFGiW7u.png"
+  },
+  {
+    "name": "Señal Perú TV (404p) [Not 24/7]",
+    "type": "Undefined",
+    "url": "https://livestream.perucast.com/hls/stream.m3u8",
+    "img": "https://i.imgur.com/1q0R6R9.png"
   },
   {
     "name": "Sol Televisión (720p)",
@@ -786,6 +954,12 @@
     "img": "https://i.imgur.com/eotfCMd.png"
   },
   {
+    "name": "Teleselva",
+    "type": "Undefined",
+    "url": "https://7.innovatestream.pe:19360/tvnoticiassatipo/tvnoticiassatipo.m3u8",
+    "img": "https://i.imgur.com/cu7hTn8.png"
+  },
+  {
     "name": "Tumpis TV (720p)",
     "type": "Undefined",
     "url": "https://servilive.com:3531/stream/play.m3u8",
@@ -796,6 +970,12 @@
     "type": "Undefined",
     "url": "https://live.obslivestream.com/uraniotv/index.m3u8",
     "img": "https://i.imgur.com/EeNpfIr.png"
+  },
+  {
+    "name": "Viva TV Yurimaguas (720p)",
+    "type": "Undefined",
+    "url": "https://live.obslivestream.com/vivatv/index.m3u8",
+    "img": "https://i.imgur.com/GkSoxhx.png"
   },
   {
     "name": "Agro TV (Cusco)",
@@ -912,12 +1092,6 @@
     "img": "https://i.imgur.com/cVUmoKE.png"
   },
   {
-    "name": "Nova TV Star (360p)",
-    "type": "Undefined",
-    "url": "https://7.innovatestream.pe:19360/radionovastar/radionovastar.m3u8",
-    "img": "https://i.imgur.com/CN2j8S3.png"
-  },
-  {
     "name": "La Ribereña Conectate + (480p)",
     "type": "Undefined",
     "url": "https://vdo.grupolimalive.com:3277/live/riberenatvlive.m3u8",
@@ -928,108 +1102,6 @@
     "type": "Undefined",
     "url": "https://cloudvideo.servers10.com:8081/8070/index.m3u8",
     "img": "https://i.imgur.com/BOXIRBT.png"
-  },
-  {
-    "name": "Karibena",
-    "type": "Music",
-    "url": "https://live-evg1.tv360.bitel.com.pe/bitel/karibeñatv/playlist.m3u8",
-    "img": "https://i.imgur.com/cgHjg1e.png"
-  },
-  {
-    "name": "Millenium 109 FM (720p) [Not 24/7]",
-    "type": "Music",
-    "url": "https://videoserver.tmcreativos.com:19360/nqvnhujhrx/nqvnhujhrx.m3u8",
-    "img": "https://i.imgur.com/sfNL6Bv.png"
-  },
-  {
-    "name": "Radio Master (720p)",
-    "type": "Music",
-    "url": "https://videoserver.tmcreativos.com:19360/radiomaster/radiomaster.m3u8",
-    "img": "https://i.imgur.com/AUoxyzP.png"
-  },
-  {
-    "name": "Radio Onda Digital",
-    "type": "Music",
-    "url": "https://v4.tustreaming.cl/radioondadigitaltv/index.m3u8",
-    "img": "https://i.imgur.com/Lid5RTv.png"
-  },
-  {
-    "name": "Radio Tropical Tarapoto (480p) [Not 24/7]",
-    "type": "Music",
-    "url": "https://videoserver.tmcreativos.com:19360/raditropical/raditropical.m3u8",
-    "img": "https://i.imgur.com/TBPVOBI.png"
-  },
-  {
-    "name": "Radio TV Tendencias (1080p) [Not 24/7]",
-    "type": "Music",
-    "url": "https://s1.tvdatta.com:3950/multi_web/play.m3u8",
-    "img": "https://i.imgur.com/tsdrrV9.png"
-  },
-  {
-    "name": "Turbo Mix Radio TV (360p) [Not 24/7]",
-    "type": "Music",
-    "url": "https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8",
-    "img": "https://i.imgur.com/AsdBQa3.png"
-  },
-  {
-    "name": "TVUNO (720p)",
-    "type": "Music",
-    "url": "https://streamtv.onliv3.online:1936/karibtv/karibtv/playlist.m3u8",
-    "img": "https://i.imgur.com/dht94P4.png"
-  },
-  {
-    "name": "Vallenato Internacional (720p)",
-    "type": "Music",
-    "url": "https://59a564764e2b6.streamlock.net/vallenato/Vallenato2/playlist.m3u8",
-    "img": "https://i.imgur.com/rVKroNW.png"
-  },
-  {
-    "name": "Hatun TV (480p)",
-    "type": "Music",
-    "url": "https://mi.godo.net.pe/Best00Hatum-0032101002/tracks-v1a1/mono.m3u8?remote=190.42.31.131&token=abe3aaba2b2090138d33b2daf5f7a41b6cbe7497-60dfbdde2eed4c9b4012fc83d6a0fc2d-1700436144-1700425344",
-    "img": "https://i.imgur.com/cWz2vgV.png"
-  },
-  {
-    "name": "Radio San Borja TV (720p)",
-    "type": "Music",
-    "url": "https://5c3fb01839654.streamlock.net:1963/iptvsanborja/livesanborjatv/playlist.m3u8",
-    "img": "https://i.imgur.com/75dJBtH.png"
-  },
-  {
-    "name": "TV Peruanísima (720p)",
-    "type": "Music",
-    "url": "https://62fc643fbf1aa.streamlock.net/TVperuanisima/TVperuanisima/chunklist_w1935074754.m3u8",
-    "img": "https://i.imgur.com/m50qAVY.png"
-  },
-  {
-    "name": "Visión TV Musica (720p)",
-    "type": "Music",
-    "url": "https://multimedia.tmcreativos.com:1936/visionmusica/visionmusica/playlist.m3u8",
-    "img": "https://i.imgur.com/AihIIGn.png"
-  },
-  {
-    "name": "Retro Plus HD",
-    "type": "Music",
-    "url": "https://video06.logicahost.com.br/retroplustv/retroplustv/chunklist_w1081887482.m3u8",
-    "img": "https://i.imgur.com/fkCasXI.png"
-  },
-  {
-    "name": "Retro Plus 2 HD",
-    "type": "Music",
-    "url": "https://video06.logicahost.com.br/retroplussenal2/retroplussenal2/chunklist_w1846257259.m3u8",
-    "img": "https://i.imgur.com/5G5kian.png"
-  },
-  {
-    "name": "SanjuaneraTV",
-    "type": "Music",
-    "url": "https://live.obslivestream.com/sanjuanera/index.m3u8",
-    "img": "https://i.imgur.com/QB3tz0d.png"
-  },
-  {
-    "name": "Radio El Pueblo (480p)",
-    "type": "Music",
-    "url": "https://tv.mediacp.eu:8081/radioelpueblo/index.m3u8",
-    "img": "https://i.imgur.com/Up1u4TH.png"
   },
   {
     "name": "Latina Clasicos",
@@ -1260,12 +1332,6 @@
     "img": "https://www.newslinereport.com/online/nota_bethel-televisin-ahora-en-hd-.jpg"
   },
   {
-    "name": "Agrotendencia TV (1080p)",
-    "type": "Outdoor",
-    "url": "https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8",
-    "img": "https://i.imgur.com/frd60hR.png"
-  },
-  {
     "name": "El Histonauta TV (360p)",
     "type": "Documentary",
     "url": "https://stmv6.voxtvhd.com.br/elhistonautatv/elhistonautatv/chunklist_w368121454.m3u8",
@@ -1434,12 +1500,6 @@
     "img": "https://i.imgur.com/ozCZYSN.jpeg"
   },
   {
-    "name": "9.2 | ATV SUR |",
-    "type": "TV PERU",
-    "url": "https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8",
-    "img": "https://raw.githubusercontent.com/jesaro15/iptv/main/images/ATVSUR.jpg"
-  },
-  {
     "name": "10 | PBO |",
     "type": "TV PERU",
     "url": "https://live-evg20.tv360.bitel.com.pe/bitel/pbo_abr/bitel/pbo_480p/chunks.m3u8",
@@ -1590,22 +1650,10 @@
     "img": "http://imgfz.com/i/PjShtw5.jpeg"
   },
   {
-    "name": "45 | VIVA TV |",
-    "type": "TV PERU",
-    "url": "https://live.obslivestream.com/vivatv/index.m3u8",
-    "img": "http://imgfz.com/i/dSoq8QK.jpeg"
-  },
-  {
     "name": "46.1 |  SUPER TV ᴴᴰ |",
     "type": "TV PERU",
     "url": "https://play.agenciastreaming.com:8081/superhits/tracks-v1a1/mono.m3u8",
     "img": "https://i.imgur.com/ITgwlL5.jpeg"
-  },
-  {
-    "name": "47 | TELESELVA |",
-    "type": "TV PERU",
-    "url": "https://7.innovatestream.pe:19360/tvnoticiassatipo/tvnoticiassatipo.m3u8",
-    "img": "https://raw.githubusercontent.com/jesaro15/iptv/main/images/TeleselvaTv.jpg"
   },
   {
     "name": "49 | VITAL TV |",
@@ -1776,12 +1824,6 @@
     "img": "https://raw.githubusercontent.com/jesaro15/iptv/main/images/ucayalitv.jpg"
   },
   {
-    "name": "86 | MIEL TV |",
-    "type": "TV PERU",
-    "url": "https://7.innovatestream.pe:19360/mieltv/mieltv.m3u8",
-    "img": "https://raw.githubusercontent.com/jesaro15/iptv/main/images/miel.jpg"
-  },
-  {
     "name": "89 | BETHEL TV |",
     "type": "TV PERU",
     "url": "https://live-evg25.tv360.bitel.com.pe/bitel/bethel/bitel/bethel_ori_480p/chunks.m3u8",
@@ -1792,12 +1834,6 @@
     "type": "TV PERU",
     "url": "https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/chunklist_b3628000_slspa.m3u8",
     "img": "https://i.imgur.com/X4LRIVX.jpeg"
-  },
-  {
-    "name": "90 | AGRO HORIZONTE TV |",
-    "type": "TV PERU",
-    "url": "https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8",
-    "img": "http://imgfz.com/i/rQPHG2b.jpeg"
   },
   {
     "name": "90.1 | AGRO TV |",
@@ -1864,12 +1900,6 @@
     "type": "TV PERU",
     "url": "https://live.obslivestream.com/rtvtotal/tracks-v1a1/mono.m3u8",
     "img": "https://raw.githubusercontent.com/jesaro15/iptv/main/images/RTvTotal.jpg"
-  },
-  {
-    "name": "107 | MILENIAL TV |",
-    "type": "TV PERU",
-    "url": "https://www.milenial.news/salida/milenial.m3u8",
-    "img": "https://raw.githubusercontent.com/jesaro15/iptv/main/images/milenialTV.jpg"
   },
   {
     "name": "108 | SELVA TV |",

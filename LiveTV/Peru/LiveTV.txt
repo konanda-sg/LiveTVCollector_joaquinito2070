@@ -206,6 +206,11 @@ URL: https://alba-pe-atv-atv.stream.mediatiquestream.com/index.m3u8
 Logo: https://i.imgur.com/eUzYZfg.png
 Source: https://iptv-org.github.io/iptv/countries/pe.m3u
 --------------------------------------------------
+Name: ATV Sur (720p) [Not 24/7]
+URL: https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8
+Logo: https://i.imgur.com/LnyVa5H.png
+Source: https://iptv-org.github.io/iptv/countries/pe.m3u
+--------------------------------------------------
 Name: Auténtica Televisión (720p) [Not 24/7]
 URL: https://live.obslivestream.com/autenticatvmux/index.m3u8
 Logo: https://i.imgur.com/bEJK3RN.png
@@ -261,14 +266,29 @@ URL: https://7.innovatestream.pe:19360/megatvjaen/megatvjaen.m3u8
 Logo: https://i.imgur.com/zK1YcpJ.png
 Source: https://iptv-org.github.io/iptv/countries/pe.m3u
 --------------------------------------------------
+Name: Milenial TV
+URL: https://www.milenial.news/salida/milenial.m3u8
+Logo: https://i.imgur.com/8ZiNoEa.png
+Source: https://iptv-org.github.io/iptv/countries/pe.m3u
+--------------------------------------------------
 Name: Nativa (720p) [Not 24/7]
 URL: https://oneplay.iptvperu.tv:1936/static/nativa1.stream/chunks.m3u8
 Logo: https://i.imgur.com/Y9k9XSO.png
 Source: https://iptv-org.github.io/iptv/countries/pe.m3u
 --------------------------------------------------
+Name: Nativa TV Satipo (720p) [Not 24/7]
+URL: https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8
+Logo: https://i.imgur.com/ScCAgGB.png
+Source: https://iptv-org.github.io/iptv/countries/pe.m3u
+--------------------------------------------------
 Name: Oasis RTV (720p) [Not 24/7]
 URL: https://7.innovatestream.pe:19360/oasisrtv/oasisrtv.m3u8
 Logo: https://i.imgur.com/48L65SG.png
+Source: https://iptv-org.github.io/iptv/countries/pe.m3u
+--------------------------------------------------
+Name: ONDA DIGITAL (720p)
+URL: https://tv.ondadigital.pe/ondadigital/index.m3u8
+Logo: https://i.imgur.com/3R2emx7.jpg
 Source: https://iptv-org.github.io/iptv/countries/pe.m3u
 --------------------------------------------------
 Name: Primavera 15
@@ -299,6 +319,11 @@ Source: https://iptv-org.github.io/iptv/countries/pe.m3u
 Name: Top FM TV (240p) [Not 24/7]
 URL: https://tvdatta.com:3084/live/toptvaguaytialive.m3u8
 Logo: https://i.imgur.com/tiNvihZ.png
+Source: https://iptv-org.github.io/iptv/countries/pe.m3u
+--------------------------------------------------
+Name: Trivu (1080p) [Not 24/7]
+URL: https://www.chasquirouter.com/salida/sd/trivu.m3u8
+Logo: https://i.imgur.com/QrUYjOS.png
 Source: https://iptv-org.github.io/iptv/countries/pe.m3u
 --------------------------------------------------
 Name: TV Cosmos (720p) [Not 24/7]
@@ -339,6 +364,11 @@ Source: https://iptv-org.github.io/iptv/countries/pe.m3u
 Name: Vía Televisión (720P) [Not 24/7]
 URL: https://videoserver.tmcreativos.com:19360/cablerasvia/cablerasvia.m3u8
 Logo: https://i.imgur.com/FiptbGQ.png
+Source: https://iptv-org.github.io/iptv/countries/pe.m3u
+--------------------------------------------------
+Name: Visión Sur TV (1080p) [Not 24/7]
+URL: https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8
+Logo: https://i.imgur.com/AbZYWEQ.png
 Source: https://iptv-org.github.io/iptv/countries/pe.m3u
 --------------------------------------------------
 Name: WOW TV (576p) [Not 24/7]
@@ -451,11 +481,6 @@ URL: https://7.innovatestream.pe:19360/cctvchupaca/cctvchupaca.m3u8
 Logo: https://i.imgur.com/2zCD4TB.png
 Source: https://raw.githubusercontent.com/antholyber1a/lista-iptv-peru/refs/heads/main/iptvperu.m3u
 --------------------------------------------------
-Name: Nativa TV (Satipo)
-URL: https://7.innovatestream.pe:19360/nativatv/nativatv.m3u8
-Logo: https://i.imgur.com/ScCAgGB.png
-Source: https://raw.githubusercontent.com/antholyber1a/lista-iptv-peru/refs/heads/main/iptvperu.m3u
---------------------------------------------------
 Name: N Mas tv (Mexico) (540p)
 URL: https://channel07-notusa.akamaized.net/hls/live/2036971/event01/index_4.m3u8
 Logo: https://www.eleconomista.com.mx/__export/1648521768298/sites/eleconomista/img/2022/03/28/nmas-televisa-univision-cortesia-twitter.png_554688468.png
@@ -534,11 +559,6 @@ Source: https://raw.githubusercontent.com/antholyber1a/lista-iptv-peru/refs/head
 Name: Vía Televisión (Tarapoto)
 URL: https://multimedia.tmcreativos.com:1936/viatelevision/viatelevision/playlist.m3u8
 Logo: https://i.imgur.com/FiptbGQ.png
-Source: https://raw.githubusercontent.com/antholyber1a/lista-iptv-peru/refs/heads/main/iptvperu.m3u
---------------------------------------------------
-Name: VisionSur (Arequipa)
-URL: https://ott1.hdlatam.tv/live_abr/webtvVisionSur/playlist.m3u8
-Logo: https://i.imgur.com/AbZYWEQ.png
 Source: https://raw.githubusercontent.com/antholyber1a/lista-iptv-peru/refs/heads/main/iptvperu.m3u
 --------------------------------------------------
 Name: X TV (Chachapoyas)
@@ -626,9 +646,19 @@ Source: https://raw.githubusercontent.com/antholyber1a/lista-iptv-peru/refs/head
 --------------------------------------------------
 
 Group: Music
+Name: Angienet TV
+URL: https://servilive.com:3624/stream/play.m3u8
+Logo: https://i.imgur.com/GCCriH4.png
+Source: https://iptv-org.github.io/iptv/countries/pe.m3u
+--------------------------------------------------
 Name: Karibena
 URL: https://live-evg1.tv360.bitel.com.pe/bitel/karibeñatv/playlist.m3u8
 Logo: https://i.imgur.com/cgHjg1e.png
+Source: https://iptv-org.github.io/iptv/countries/pe.m3u
+--------------------------------------------------
+Name: Miel TV (720p) [Not 24/7]
+URL: https://7.innovatestream.pe:19360/mieltv/mieltv.m3u8
+Logo: https://i.imgur.com/dPSFrCs.png
 Source: https://iptv-org.github.io/iptv/countries/pe.m3u
 --------------------------------------------------
 Name: Millenium 109 FM (720p) [Not 24/7]
@@ -780,6 +810,11 @@ URL: https://luna-1-video.mediaserver.digital/exitosatv_233b-4b49-a726-5a3cb0e32
 Logo: https://i.imgur.com/pu0BSB7.png
 Source: https://iptv-org.github.io/iptv/countries/pe.m3u
 --------------------------------------------------
+Name: Like TV
+URL: https://live-evg1.tv360.bitel.com.pe/bitel/liketv/playlist.m3u8
+Logo: https://i.imgur.com/5IwS0sJ.png
+Source: https://iptv-org.github.io/iptv/countries/pe.m3u
+--------------------------------------------------
 Name: PBO
 URL: https://live-evg1.tv360.bitel.com.pe/bitel/pbo/playlist.m3u8
 Logo: https://i.imgur.com/vBpxX4S.png
@@ -872,6 +907,11 @@ Source: https://raw.githubusercontent.com/antholyber1a/lista-iptv-peru/refs/head
 --------------------------------------------------
 
 Group: Outdoor
+Name: Agro TV (Apurimac) (720p) [Not 24/7]
+URL: https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
+Logo: https://i.imgur.com/1uLGa3w.png
+Source: https://iptv-org.github.io/iptv/countries/pe.m3u
+--------------------------------------------------
 Name: Agrotendencia TV (1080p)
 URL: https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/playlist.m3u8
 Logo: https://i.imgur.com/frd60hR.png
@@ -1098,11 +1138,6 @@ URL: http://planettvweb.com:8091/sebastianmartinez/6tvs33u3/14030
 Logo: https://i.imgur.com/ozCZYSN.jpeg
 Source: https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u
 --------------------------------------------------
-Name: 9.2 | ATV SUR |
-URL: https://alba-pe-atv-atvsur.stream.mediatiquestream.com/index.m3u8
-Logo: https://raw.githubusercontent.com/jesaro15/iptv/main/images/ATVSUR.jpg
-Source: https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u
---------------------------------------------------
 Name: 10 | PBO |
 URL: https://live-evg20.tv360.bitel.com.pe/bitel/pbo_abr/bitel/pbo_480p/chunks.m3u8
 Logo: http://imgfz.com/i/FjOT9LP.jpeg
@@ -1228,19 +1263,9 @@ URL: https://live-evg25.tv360.bitel.com.pe/bitel/radiounotv/chunks.m3u8
 Logo: http://imgfz.com/i/PjShtw5.jpeg
 Source: https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u
 --------------------------------------------------
-Name: 45 | VIVA TV |
-URL: https://live.obslivestream.com/vivatv/index.m3u8
-Logo: http://imgfz.com/i/dSoq8QK.jpeg
-Source: https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u
---------------------------------------------------
 Name: 46.1 |  SUPER TV ᴴᴰ |
 URL: https://play.agenciastreaming.com:8081/superhits/tracks-v1a1/mono.m3u8
 Logo: https://i.imgur.com/ITgwlL5.jpeg
-Source: https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u
---------------------------------------------------
-Name: 47 | TELESELVA |
-URL: https://7.innovatestream.pe:19360/tvnoticiassatipo/tvnoticiassatipo.m3u8
-Logo: https://raw.githubusercontent.com/jesaro15/iptv/main/images/TeleselvaTv.jpg
 Source: https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u
 --------------------------------------------------
 Name: 49 | VITAL TV |
@@ -1383,11 +1408,6 @@ URL: https://eu1.servers10.com:8081/8180/tracks-v1a1/mono.m3u8
 Logo: https://raw.githubusercontent.com/jesaro15/iptv/main/images/ucayalitv.jpg
 Source: https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u
 --------------------------------------------------
-Name: 86 | MIEL TV |
-URL: https://7.innovatestream.pe:19360/mieltv/mieltv.m3u8
-Logo: https://raw.githubusercontent.com/jesaro15/iptv/main/images/miel.jpg
-Source: https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u
---------------------------------------------------
 Name: 89 | BETHEL TV |
 URL: https://live-evg25.tv360.bitel.com.pe/bitel/bethel/bitel/bethel_ori_480p/chunks.m3u8
 Logo: http://imgfz.com/i/b6DzWyF.jpeg
@@ -1396,11 +1416,6 @@ Source: https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u
 Name: 89.1 | NUEVO TIEMPO |
 URL: https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/chunklist_b3628000_slspa.m3u8
 Logo: https://i.imgur.com/X4LRIVX.jpeg
-Source: https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u
---------------------------------------------------
-Name: 90 | AGRO HORIZONTE TV |
-URL: https://ed21ov.live.opencaster.com/pAtGzcAnwziC/index.m3u8
-Logo: http://imgfz.com/i/rQPHG2b.jpeg
 Source: https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u
 --------------------------------------------------
 Name: 90.1 | AGRO TV |
@@ -1456,11 +1471,6 @@ Source: https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u
 Name: 106 | RTV TOTAL |
 URL: https://live.obslivestream.com/rtvtotal/tracks-v1a1/mono.m3u8
 Logo: https://raw.githubusercontent.com/jesaro15/iptv/main/images/RTvTotal.jpg
-Source: https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u
---------------------------------------------------
-Name: 107 | MILENIAL TV |
-URL: https://www.milenial.news/salida/milenial.m3u8
-Logo: https://raw.githubusercontent.com/jesaro15/iptv/main/images/milenialTV.jpg
 Source: https://raw.githubusercontent.com/jesaro15/iptv/refs/heads/main/play.m3u
 --------------------------------------------------
 Name: 108 | SELVA TV |
@@ -1684,6 +1694,11 @@ URL: https://video.misistemareseller.com/corporationhc/corporationhc/playlist.m3
 Logo: https://i.imgur.com/I6tRVkA.png
 Source: https://iptv-org.github.io/iptv/countries/pe.m3u
 --------------------------------------------------
+Name: Nova TV Star (360p) [Not 24/7]
+URL: https://7.innovatestream.pe:19360/radionovastar/radionovastar.m3u8
+Logo: https://i.imgur.com/CN2j8S3.png
+Source: https://iptv-org.github.io/iptv/countries/pe.m3u
+--------------------------------------------------
 Name: Planeta TV (720p) [Not 24/7]
 URL: https://live.obslivestream.com/planetatv/index.m3u8
 Logo: https://i.imgur.com/mL3lLAF.png
@@ -1697,6 +1712,11 @@ Source: https://iptv-org.github.io/iptv/countries/pe.m3u
 Name: RN Televisión (720p) [Not 24/7]
 URL: https://videoserver.tmcreativos.com:19360/rnyurimaguas/rnyurimaguas.m3u8
 Logo: https://i.imgur.com/oFGiW7u.png
+Source: https://iptv-org.github.io/iptv/countries/pe.m3u
+--------------------------------------------------
+Name: Señal Perú TV (404p) [Not 24/7]
+URL: https://livestream.perucast.com/hls/stream.m3u8
+Logo: https://i.imgur.com/1q0R6R9.png
 Source: https://iptv-org.github.io/iptv/countries/pe.m3u
 --------------------------------------------------
 Name: Sol Televisión (720p)
@@ -1714,6 +1734,11 @@ URL: https://live.obslivestream.com/supercanal/index.m3u8
 Logo: https://i.imgur.com/eotfCMd.png
 Source: https://iptv-org.github.io/iptv/countries/pe.m3u
 --------------------------------------------------
+Name: Teleselva
+URL: https://7.innovatestream.pe:19360/tvnoticiassatipo/tvnoticiassatipo.m3u8
+Logo: https://i.imgur.com/cu7hTn8.png
+Source: https://iptv-org.github.io/iptv/countries/pe.m3u
+--------------------------------------------------
 Name: Tumpis TV (720p)
 URL: https://servilive.com:3531/stream/play.m3u8
 Logo: https://i.imgur.com/KZFWGwV.png
@@ -1722,6 +1747,11 @@ Source: https://iptv-org.github.io/iptv/countries/pe.m3u
 Name: Uranio TV (Yurimaguas) (720p) [Not 24/7]
 URL: https://live.obslivestream.com/uraniotv/index.m3u8
 Logo: https://i.imgur.com/EeNpfIr.png
+Source: https://iptv-org.github.io/iptv/countries/pe.m3u
+--------------------------------------------------
+Name: Viva TV Yurimaguas (720p)
+URL: https://live.obslivestream.com/vivatv/index.m3u8
+Logo: https://i.imgur.com/GkSoxhx.png
 Source: https://iptv-org.github.io/iptv/countries/pe.m3u
 --------------------------------------------------
 Name: Agro TV (Cusco)
@@ -1817,11 +1847,6 @@ Source: https://raw.githubusercontent.com/antholyber1a/lista-iptv-peru/refs/head
 Name: LimaLive (720p)
 URL: https://vdo.grupolimalive.com:3245/stream/play.m3u8
 Logo: https://i.imgur.com/cVUmoKE.png
-Source: https://raw.githubusercontent.com/antholyber1a/lista-iptv-peru/refs/heads/main/iptvperu.m3u
---------------------------------------------------
-Name: Nova TV Star (360p)
-URL: https://7.innovatestream.pe:19360/radionovastar/radionovastar.m3u8
-Logo: https://i.imgur.com/CN2j8S3.png
 Source: https://raw.githubusercontent.com/antholyber1a/lista-iptv-peru/refs/heads/main/iptvperu.m3u
 --------------------------------------------------
 Name: La Ribereña Conectate + (480p)
