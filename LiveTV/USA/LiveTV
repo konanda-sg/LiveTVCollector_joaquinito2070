@@ -3072,6 +3072,12 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
+    "name": "ESPN Ocho",
+    "type": "Sports",
+    "url": "https://amg00497-amg00497c24-amgplt0023.playout.now3.amagi.tv/playlist/amg00497-amg00497c24-amgplt0023/playlist.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
     "name": "PAC 12 Insider",
     "type": "Sports",
     "url": "https://amg00384-amg00384c1-freelivesports-emea-7308.playouts.now.amagi.tv/playlist/amg00384-pac12-pac12-freelivesportsemea/playlist.m3u8",
@@ -3234,12 +3240,6 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "The NBA Channel",
-    "type": "Sports",
-    "url": "https://dbrb49pjoymg4.cloudfront.net/10001/99951383/hls/playlist.m3u8?ads.xumo_channelId=99951383",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "NBA G League TV",
     "type": "Sports",
     "url": "https://apollo.production-public.tubi.io/live/nba-g-league2-5ViUll.m3u8",
@@ -3321,12 +3321,6 @@
     "name": "NHL Network",
     "type": "Sports",
     "url": "http://kstv.us:8080/live/pubPPn3kY7/9190645106/15941.ts",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "NHL Channel",
-    "type": "Sports",
-    "url": "https://apollo.production-public.tubi.io/live/ac-nhl.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -19304,25 +19298,25 @@
   {
     "name": "Telemundo Noticias California",
     "type": "Latino (Spanish)",
-    "url": "http://d3i0aurg3nyoct.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-25zej4uwofrfd/playlist.m3u8",
+    "url": "https://nbcu-telemundowest-firetv.amagi.tv/playlist1080.m3u8",
     "img": "https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png"
   },
   {
     "name": "Telemundo Noticias Texas",
     "type": "Latino (Spanish)",
-    "url": "https://d1rqgw5gocwo9i.cloudfront.net/10009/99951226/hls/playlist.m3u8?ads.xumo_channelId=99951226",
+    "url": "https://nbcu-telemundotexas-firetv.amagi.tv/playlist1080.m3u8",
     "img": "https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png"
   },
   {
     "name": "Telemundo Noticias Noreste",
     "type": "Latino (Spanish)",
-    "url": "https://d1rqgw5gocwo9i.cloudfront.net/10009/99951228/hls/playlist.m3u8?ads.xumo_channelId=99951228",
+    "url": "https://nbcu-telemundonortheast-firetv.amagi.tv/playlist1080.m3u8",
     "img": "https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png"
   },
   {
     "name": "Telemundo Noticias Florida",
     "type": "Latino (Spanish)",
-    "url": "https://nbcu-Telemundoflorida-firetv.amagi.tv/playlist1080.m3u8",
+    "url": "https://nbcu-telemundoflorida-firetv.amagi.tv/playlist1080.m3u8",
     "img": "https://www.wola.org/wp-content/uploads/2019/10/Telemundo.png"
   },
   {
@@ -28728,12 +28722,6 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "Nickelodeon (Canada)",
-    "type": "Canadian Channels",
-    "url": "http://thevdm.xyz:25461/live/timmadden/timmad4765/127928.ts",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
     "name": "Treehouse (Canada)",
     "type": "Canadian Channels",
     "url": "http://thevdm.xyz:25461/live/timmadden/timmad4765/128096.ts",
@@ -28767,24 +28755,6 @@
     "name": "Disney Channel (Canada)",
     "type": "Canadian Channels",
     "url": "http://thevdm.xyz:25461/live/timmadden/timmad4765/127888.ts",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Disney Channel French (Canada)",
-    "type": "Canadian Channels",
-    "url": "http://kstv.us:8080/live/pubPPn3kY7/9190645106/40724.ts",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Disney XD (Canada)",
-    "type": "Canadian Channels",
-    "url": "http://thevdm.xyz:25461/live/timmadden/timmad4765/128048.ts",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "Disney Jr. (Canada)",
-    "type": "Canadian Channels",
-    "url": "http://thevdm.xyz:25461/live/timmadden/timmad4765/127889.ts",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -28839,12 +28809,6 @@
     "name": "A&E (Canada)",
     "type": "Canadian Channels",
     "url": "http://thevdm.xyz:25461/live/timmadden/timmad4765/127854.ts",
-    "img": "https://buddytv.netlify.app/img/no-logo.png"
-  },
-  {
-    "name": "ABC Spark (Canada)",
-    "type": "Canadian Channels",
-    "url": "http://kstv.us:8080/live/pubPPn3kY7/9190645106/40781.ts",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
