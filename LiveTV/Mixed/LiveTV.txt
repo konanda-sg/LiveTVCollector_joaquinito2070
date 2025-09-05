@@ -1483,6 +1483,11 @@ URL: https://pbc.furrera.ps/palestinehd/index.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u
 --------------------------------------------------
+Name: Press TV
+URL: https://live.presstv.ir/hls/presstv.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u
+--------------------------------------------------
 Name: IRIB 1
 URL: https://ncdn.telewebion.com/tv1/live/playlist.m3u8
 Logo: https://i.ibb.co/tMV7LBL/irib1.png
@@ -1881,7 +1886,7 @@ Logo: https://algorit.ma/wp-content/uploads/2023/04/Antaranews.png
 Source: https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u
 --------------------------------------------------
 Name: ANTV
-URL: https://atemeshield1-voe.sysln.id/live/eds/ANTV/mpd/ANTV.mpd
+URL: https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Antv_logo.svg/960px-Antv_logo.svg.png
 Source: https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u
 --------------------------------------------------
@@ -2556,23 +2561,6 @@ Name: ZTV ANIME
 URL: https://mitv.zplay.cl/Ztv/index.m3u8
 Logo: https://cdn.m3u.cl/logo/1604_ZTV_Anime.png
 Source: https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv
---------------------------------------------------
-
-Group: IRAN🇮🇷
-Name: IMAM HOSSAIN TV
-URL: https://live.imamhossaintv.com/live/ih1.m3u8
-Logo: https://imamhusseintv.com/assets/images/ihtv-logo.webp
-Source: https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u
---------------------------------------------------
-Name: IRAN INTERNATIONAL
-URL: https://irantv.icdndhcp.com/hls/stream.m3u8
-Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Iran_International.svg/500px-Iran_International.svg.png
-Source: https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u
---------------------------------------------------
-Name: PRESS TV
-URL: https://live.presstv.ir/hls/presstv.m3u8
-Logo: https://upload.wikimedia.org/wikipedia/commons/1/14/Press_TV_logo.png
-Source: https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u
 --------------------------------------------------
 
 Group: Idol Game Channel
@@ -3296,11 +3284,6 @@ Source: https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/C
 --------------------------------------------------
 
 Group: MALAYSIA🇲🇾
-Name: HEROES
-URL: https://linearjitp-playback.astro.com.my/dash-wv/linear/5183/default_ott.mpd
-Logo: https://static.wikia.nocookie.net/logopedia/images/5/50/HeroesTVchannel.png
-Source: https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u
---------------------------------------------------
 Name: RTM ASEAN
 URL: https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/chunklist_b2596000_slENG.m3u8
 Logo: https://raw.githubusercontent.com/PuteraPerlis74/My-Logo/main/RTM%20ASEAN%20Malay.png
@@ -4342,43 +4325,6 @@ Name: JXTV江西卫视 (Truyền Hình Vệ tinh Giang Tây /Nijisanji Cover Cor
 URL: https://hls-gateway.vpstv.net/streams/708831.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Nijisanji_EN_logo.svg/560px-Nijisanji_EN_logo.svg.png?20240308190751
 Source: https://raw.githubusercontent.com/phamanhquan2001/IPTV/refs/heads/main/Conflict%20Zone.m3u
---------------------------------------------------
-
-Group: PALESTINE🇵🇸
-Name: AL JAZEERA ARABIC
-URL: https://live-hls-web-aja-fa.getaj.net/AJA/04.m3u8
-Logo: https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/Al_Jazeera_Media_Network_Logo.svg/440px-Al_Jazeera_Media_Network_Logo.svg.png
-Source: https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u
---------------------------------------------------
-Name: FALASTINI TV
-URL: https://rp.tactivemedia.com/falastinitv/live/chunks.m3u8
-Logo: https://upload.wikimedia.org/wikipedia/commons/7/7f/Palestine_Satellite_Channel_Logo.png?20230225115043
-Source: https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u
---------------------------------------------------
-Name: MUSAWA
-URL: https://pbc.furrera.ps/musawahd/tracks-v1a1/mono.m3u8
-Logo: https://media0061.elcinema.com/tvguide/1343_1.png
-Source: https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u
---------------------------------------------------
-Name: NBC — NAJAH BROADCASTING CHANNEL
-URL: https://streaming.najah.edu:8443/hls/AlNajah_high/index.m3u8
-Logo: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFbL1p_PE5dEqj4fPQCN04fq9As4BienPHvQ&s
-Source: https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u
---------------------------------------------------
-Name: PALESTINE AL YAWN
-URL: https://live.paltodaytv.com/paltv/live/chunklist.m3u8
-Logo: https://i5.satexpat.com/cha/ps/palestine_al_yawm_95x72.gif
-Source: https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u
---------------------------------------------------
-Name: PALESTINE MOBASHER
-URL: https://pbc.furrera.ps/palestinelivehd/tracks-v2a1/mono.m3u8
-Logo: https://www.lyngsat.com/logo/tv/pp/palestine-mobasher-ps.png
-Source: https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u
---------------------------------------------------
-Name: PALESTINE TV
-URL: https://pbc.furrera.ps/palestinehd/tracks-v3a1/mono.m3u8
-Logo: https://mir-s3-cdn-cf.behance.net/project_modules/disp/2ebba914598923.56036d805849d.jpg
-Source: https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u
 --------------------------------------------------
 
 Group: PJSK-TV
@@ -11134,9 +11080,9 @@ URL: http://youtube
 Logo: https://lh4.ggpht.com/f-zQdGn5dAUEybjbCJ94QTfabrzijJBNcADcaWn5dCoA3isCWrnN7-Pj0C73wSCbmHQ=w300
 Source: https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u
 --------------------------------------------------
-Name: IRAN🇮🇷
+Name: RTM SPECIAL
 URL: http://youtube.com
-Logo: https://www.lyngsat.com/logo/flag/az/ps.png
+Logo: https://static.wikia.nocookie.net/logopedia/images/e/e2/RTMKlik.png
 Source: https://raw.githubusercontent.com/PuteraPerlis74/Tv/refs/heads/main/MYTV.m3u
 --------------------------------------------------
 Name: BRUNEI🇧🇳
@@ -12710,7 +12656,7 @@ Source: https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/hea
 
 Group: notizie
 Name: Euronews IN DIRETTA
-URL: https://dab794fcc38647efbf5f86bf01fa5c21.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6570/bitok/eyJzdGlkIjoiM2Q3OGM0MjAtZmQ5Yy00YmFiLTg3YWItZDU5MTc1ZTc3OTI2IiwibWt0IjoiaXQiLCJjaCI6NjU3MCwicHRmIjo1fQ%3D%3D/25674/euronews-it.m3u8
+URL: https://dab794fcc38647efbf5f86bf01fa5c21.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6570/bitok/eyJzdGlkIjoiZTAxYzdmMzUtNmNjYS00NWU0LWJiZTEtNzA0ODY5ZmQ1ZTQyIiwibWt0IjoiaXQiLCJjaCI6NjU3MCwicHRmIjo1fQ%3D%3D/25674/euronews-it.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/heads/master/output/rakuten.m3u
 --------------------------------------------------
@@ -12740,7 +12686,7 @@ Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/heads/master/output/rakuten.m3u
 --------------------------------------------------
 Name: Africanews
-URL: https://c3c275b999764df8a2dd55ffe2996818.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576/bitok/eyJzdGlkIjoiMTYyYjY3ZjEtODM5MS00M2VmLTg5ZDYtZjZjZDRlODIxNDU0IiwibWt0IjoiaXQiLCJjaCI6NjU4NywicHRmIjo1fQ%3D%3D/26036/africanews-en.m3u8
+URL: https://c3c275b999764df8a2dd55ffe2996818.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6576/bitok/eyJzdGlkIjoiMGU5ZjJmZjctN2MyMi00ODJkLWFiODQtODhjMGQ1ZmI1ZmE0IiwibWt0IjoiaXQiLCJjaCI6NjU4NywicHRmIjo1fQ%3D%3D/26036/africanews-en.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/pandvan/rakuten-m3u-generator/refs/heads/master/output/rakuten.m3u
 --------------------------------------------------
