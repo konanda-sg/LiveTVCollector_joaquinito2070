@@ -169,6 +169,23 @@ Logo: https://i.imgur.com/HXFNbuc.png
 Source: https://iptv-org.github.io/iptv/countries/th.m3u
 --------------------------------------------------
 
+Group: HBO
+Name: HBO HITS
+URL: https://s8.sky4k.top/stream/astro/hbohits/master.m3u8?u=cvappuser&p=0f573e68e00dff8dca0ea6fb2e78c1b9b490a64e8d103112965404558fc00aa8
+Logo: https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png
+Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
+--------------------------------------------------
+Name: HBO FAMLIY
+URL: https://s8.sky4k.top/stream/astro/hbofamily/master.m3u8?u=cvappuser&p=0f573e68e00dff8dca0ea6fb2e78c1b9b490a64e8d103112965404558fc00aa8
+Logo: https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1920px-HBO_Family_Asia_logo.svg.png
+Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
+--------------------------------------------------
+Name: HBO SIGNATURE
+URL: http://50.7.234.10:8278/hbosignature_twn/playlist.m3u8?tid=m48ee99a5dacb15948906&ct=17874&tsum=3d127801d49fa098b4118400117b4fbb
+Logo: https://i.imgur.com/KtWxxS3.png
+Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
+--------------------------------------------------
+
 Group: HTV
 Name: HTV1
 URL: https://live.fptplay53.net/epzhd1/htv1_hls.smil/chunklist.m3u8
@@ -176,7 +193,7 @@ Logo: https://i.imgur.com/KEMSBD3.png
 Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
 --------------------------------------------------
 Name: HTV2
-URL: https://sgchill.io.vn/v1/b522/htv2/index.m3u8
+URL: https://live.fptplay53.net/epzhd1/htv2hd_vhls.smil/chunklist.m3u8
 Logo: https://i.imgur.com/Yc3cmAi.png
 Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
 --------------------------------------------------
@@ -539,7 +556,7 @@ Logo: https://i.imgur.com/hsByQfe.png
 Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
 --------------------------------------------------
 Name: Bloomberg TV
-URL: http://p1.cvtv.xyz:81/bb?token=live
+URL: https://hls.mskycdn.online/tv/bloomberg/index.m3u8
 Logo: https://i.imgur.com/OuogLHx.png
 Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
 --------------------------------------------------
@@ -574,7 +591,7 @@ Logo: https://i.imgur.com/no9Mv3X.png
 Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
 --------------------------------------------------
 Name: France 24 French
-URL: https://hls.mskycdn.online/tv/france24eng/index.m3u8
+URL: https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_5000.m3u8
 Logo: https://i.imgur.com/no9Mv3X.png
 Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
 --------------------------------------------------
@@ -606,11 +623,6 @@ Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
 Name: Fashion TV
 URL: https://hls.mskycdn.online/tv/fashionhd/index.m3u8
 Logo: https://i.imgur.com/6u4tZn6.png
-Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
---------------------------------------------------
-Name: Clubbingtv
-URL: https://clubbingtv-samsungnz.amagi.tv/playlist.m3u8
-Logo: https://clubbingtv.com/wp-content/uploads/2019/11/Clubbing_TV_logoWhiteCircleSmall-e1575730056140.png
 Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
 --------------------------------------------------
 
@@ -743,6 +755,11 @@ Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
 Name: THVL4
 URL: https://live.fptplay53.net/epzhd2/vinhlong4hd_hls.smil/chunklist.m3u8
 Logo: https://i.imgur.com/JWDsJxB.png
+Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
+--------------------------------------------------
+Name: THVL5
+URL: https://xem.hoiquan.Click/CoBan/tra-vinh/TuyetDoiKhongKinhDoanh.m3u8
+Logo: https://github.com/kupjta/vuminhthanh12/blob/main/THVL5.jpg?raw=true
 Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
 --------------------------------------------------
 
@@ -919,12 +936,12 @@ Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
 
 Group: VTVcab HD
 Name: ON Vie Giải Trí
-URL: https://sgchill.io.vn/v1/b521/180/index.m3u8
+URL: https://xem.hoiquan.Click/CoBan/vtvcab-1-vie-giai-tri-hd/TuyetDoiKhongKinhDoanh.m3u8
 Logo: https://i.imgur.com/7GSKm46.png
 Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
 --------------------------------------------------
 Name: ON Phim Việt
-URL: https://sgchill.io.vn/v1/b521/175/index.m3u8
+URL: https://xem.hoiquan.Click/CoBan/vtvcab-2-phim-viet-hd/TuyetDoiKhongKinhDoanh.m3u8
 Logo: https://i.imgur.com/MPNlpzb.png
 Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
 --------------------------------------------------
@@ -934,12 +951,12 @@ Logo: https://img.lichphatsong.xyz/logo/on-sports.jpg
 Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
 --------------------------------------------------
 Name: ON Movies
-URL: https://sgchill.io.vn/v1/b521/181/index.m3u8
+URL: https://xem.hoiquan.Click/CoBan/vtvcab-4-on-movies/TuyetDoiKhongKinhDoanh.m3u8
 Logo: https://i.imgur.com/765Y3jw.png
 Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
 --------------------------------------------------
 Name: ON E Channel
-URL: https://sgchill.io.vn/v1/b521/182/index.m3u8
+URL: https://xem.hoiquan.Click/CoBan/vtvcab-5-e-channel-hd/TuyetDoiKhongKinhDoanh.m3u8
 Logo: https://i.imgur.com/87JEXEQ.png
 Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
 --------------------------------------------------
@@ -949,32 +966,32 @@ Logo: https://img.lichphatsong.xyz/logo/on-sportsplus.jpg
 Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
 --------------------------------------------------
 Name: ON O2TV
-URL: https://sgchill.io.vn/v1/b521/136/index.m3u8
+URL: https://xem.hoiquan.Click/CoBan/o2tv/TuyetDoiKhongKinhDoanh.m3u8
 Logo: https://i.imgur.com/nqwVkmM.png
 Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
 --------------------------------------------------
 Name: ON BiBi
-URL: https://sgchill.io.vn/v1/b521/178/index.m3u8
+URL: https://xem.hoiquan.Click/CoBan/vtvcab-8-bi-bi-sd/TuyetDoiKhongKinhDoanh.m3u8
 Logo: https://i.imgur.com/YFmPo7l.png
 Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
 --------------------------------------------------
 Name: ON Info TV
-URL: https://sgchill.io.vn/v1/b521/189/index.m3u8
+URL: https://xem.hoiquan.Click/CoBan/vtvcab-9-infotv-hd/TuyetDoiKhongKinhDoanh.m3u8
 Logo: https://i.imgur.com/jp57P0v.png
 Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
 --------------------------------------------------
 Name: ON Cine
-URL: https://sgchill.io.vn/v1/b521/176/index.m3u8
+URL: https://xem.hoiquan.Click/CoBan/vtvcab10-on-cine-hd/TuyetDoiKhongKinhDoanh.m3u8
 Logo: https://i.imgur.com/6f9ngwY.png
 Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
 --------------------------------------------------
 Name: ON Style TV
-URL: https://sgchill.io.vn/v1/b521/184/index.m3u8
+URL: https://xem.hoiquan.Click/CoBan/vtvcab-12-styletv-hd/TuyetDoiKhongKinhDoanh.m3u8
 Logo: https://i.imgur.com/6LQ0Z1O.png
 Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
 --------------------------------------------------
 Name: ON Music
-URL: https://sgchill.io.vn/v1/b521/185/index.m3u8
+URL: https://xem.hoiquan.Click/CoBan/vtvcab15-on-music/TuyetDoiKhongKinhDoanh.m3u8
 Logo: https://i.imgur.com/45BXPY3.png
 Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
 --------------------------------------------------
@@ -984,7 +1001,7 @@ Logo: https://img.lichphatsong.xyz/logo/on-football.jpg
 Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
 --------------------------------------------------
 Name: ON Trending TV
-URL: https://sgchill.io.vn/v1/b521/186/index.m3u8
+URL: https://xem.hoiquan.Click/CoBan/vtvcab17-trending-tv/TuyetDoiKhongKinhDoanh.m3u8
 Logo: https://i.imgur.com/hHYzxmS.png
 Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
 --------------------------------------------------
@@ -994,27 +1011,27 @@ Logo: https://img.lichphatsong.xyz/logo/on-sportsnews.jpg
 Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
 --------------------------------------------------
 Name: ON Vie DRAMAS
-URL: https://sgchill.io.vn/v1/b521/177/index.m3u8
+URL: https://xem.hoiquan.Click/CoBan/vtvcab19-vie-dramas/TuyetDoiKhongKinhDoanh.m3u8
 Logo: https://i.imgur.com/n7QICK7.png
 Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
 --------------------------------------------------
 Name: ON VFamily
-URL: https://sgchill.io.vn/v1/b521/187/index.m3u8
+URL: https://xem.hoiquan.Click/CoBan/vtvcab-20-v-family-hd/TuyetDoiKhongKinhDoanh.m3u8
 Logo: https://i.imgur.com/R82M53x.png
 Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
 --------------------------------------------------
 Name: ON KIDS
-URL: https://sgchill.io.vn/v1/b521/179/index.m3u8
+URL: https://xem.hoiquan.Click/CoBan/vtvcab-21-cartoon-kids-hd/TuyetDoiKhongKinhDoanh.m3u8
 Logo: https://i.ibb.co/mq65M0Y/On-kids.jpg
 Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
 --------------------------------------------------
 Name: On Life
-URL: https://sgchill.io.vn/v1/b521/188/index.m3u8
+URL: https://xem.hoiquan.Click/CoBan/vtvcab-22-life-tv-hd/TuyetDoiKhongKinhDoanh.m3u8
 Logo: https://i.ibb.co/QXk7C6G/On-life.jpg
 Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
 --------------------------------------------------
 Name: ON Golf
-URL: https://sgchill.io.vn/v1/b521/169/index.m3u8?ongolf
+URL: https://xem.hoiquan.Click/CoBan/vtvcab-23-golf-channel/TuyetDoiKhongKinhDoanh.m3u8
 Logo: https://i.imgur.com/BGF2I58.png
 Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
 --------------------------------------------------
@@ -1120,14 +1137,19 @@ URL: https://618b88f69e53b.streamlock.net/THDT2/thdttv2/playlist.m3u8
 Logo: https://i.imgur.com/PfETBEp.png
 Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
 --------------------------------------------------
-Name: LTV1 | TH Lâm Đồng
+Name: LTV1 | TH Lâm Đồng 1
 URL: http://118.107.85.5:1935/live/smil:LTV.smil/playlist.m3u8
-Logo: https://i.imgur.com/iaexSxL.png
+Logo: https://github.com/kupjta/vuminhthanh12/blob/main/LTV1.png?raw=true
 Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
 --------------------------------------------------
 Name: LTV2 | TH Lâm Đồng 2
 URL: https://618b88f69e53b.streamlock.net/BTVTV/binhthuantv/chunklist.m3u8
-Logo: https://i.imgur.com/iaexSxL.png
+Logo: https://github.com/kupjta/vuminhthanh12/blob/main/LTV2HD.png?raw=true
+Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
+--------------------------------------------------
+Name: LTV3 | TH Lâm Đồng 3
+URL: https://xem.hoiquan.Click/CoBan/dac-nong/TuyetDoiKhongKinhDoanh.m3u8
+Logo: https://github.com/kupjta/vuminhthanh12/blob/main/LTV3HD.png?raw=true
 Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
 --------------------------------------------------
 Name: TTV1 | TH Tây Ninh 1
