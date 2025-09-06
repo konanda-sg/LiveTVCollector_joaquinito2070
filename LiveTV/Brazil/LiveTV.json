@@ -1,5 +1,5 @@
 {
-  "date": "2025-09-05 21:49:31",
+  "date": "2025-09-06 06:42:59",
   "channels": {
     "": [
       {
@@ -6622,6 +6622,13 @@
         "url": "https://playplusspo-lh.akamaihd.net/i/pp_sp@350176/index_720_av-p.m3u8"
       },
       {
+        "name": "RecordTV Interior SP",
+        "logo": "https://i.imgur.com/VcHy0fu.png",
+        "group": "General",
+        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
+        "url": "http://200.77.176.130:8000/udp/224.0.0.4:49152"
+      },
+      {
         "name": "Rede CNT Salvador (576i)",
         "logo": "https://i.imgur.com/jcasAmw.png",
         "group": "General",
@@ -7453,6 +7460,13 @@
         "group": "Sports",
         "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
         "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=960"
+      },
+      {
+        "name": "Premiere Clubes",
+        "logo": "https://i.imgur.com/3FyVsJz.png",
+        "group": "Sports",
+        "source": "https://iptv-org.github.io/iptv/countries/br.m3u",
+        "url": "http://187.120.222.37:721/"
       },
       {
         "name": "TVMatic Fight (720p)",
