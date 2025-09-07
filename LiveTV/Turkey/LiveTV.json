@@ -1,5 +1,5 @@
 {
-  "date": "2025-09-06 21:51:27",
+  "date": "2025-09-07 07:12:01",
   "channels": {
     ".🇹🇷 ULUSAL 🇹🇷 .COM/1.M3U ESKİ USUL": [
       {
@@ -36435,6 +36435,13 @@
         "url": "https://s01.vpis.io/sinopyildiz/sinopyildiz.m3u8"
       },
       {
+        "name": "Tarih TV",
+        "logo": "https://i.imgur.com/HbIGZUt.png",
+        "group": "Undefined",
+        "source": "https://iptv-org.github.io/iptv/countries/tr.m3u",
+        "url": "https://tv1.arectv30.sbs/live/tarihtv.m3u8"
+      },
+      {
         "name": "Tarim TV (1080p)",
         "logo": "https://i.imgur.com/q30sFms.png",
         "group": "Undefined",
@@ -36929,6 +36936,15 @@
         "group": "Culture",
         "source": "https://iptv-org.github.io/iptv/countries/tr.m3u",
         "url": "http://broadcasttr.com:1935/naturaltv/bant1/playlist.m3u8"
+      }
+    ],
+    "Movies": [
+      {
+        "name": "MovieSmart Turk",
+        "logo": "https://i.imgur.com/DWN9ulT.png",
+        "group": "Movies",
+        "source": "https://iptv-org.github.io/iptv/countries/tr.m3u",
+        "url": "https://tv1.arectv30.sbs/live/mvturk.m3u8"
       }
     ],
     "Education": [
