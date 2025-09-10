@@ -1,5 +1,5 @@
 {
-  "date": "2025-09-10 13:31:27",
+  "date": "2025-09-10 21:31:28",
   "channels": {
     "INDONESIA": [
       {
@@ -13744,6 +13744,13 @@
         "url": "http://op-group1-swiftservehd-1.dens.tv/h/h235/index.m3u8?app_type=web&userid=lite&chname=indosiar"
       },
       {
+        "name": "13. Indosiar Digital",
+        "logo": "https://iili.io/JMp3wV1.png",
+        "group": "NASIONAL",
+        "source": "https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist",
+        "url": "http://103.179.182.117:6768/hls/56/56.m3u8"
+      },
+      {
         "name": "19. TVOne",
         "logo": "https://grafologiindonesia.com/wp-content/uploads/2016/05/Logo-TvOne.jpg",
         "group": "NASIONAL",
@@ -13821,18 +13828,11 @@
         "url": "http://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=RTV|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/"
       },
       {
-        "name": "Daai TV",
-        "logo": "https://i.imgur.com/JKFhF4W.png",
+        "name": "Channel Jowo",
+        "logo": "https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1725851535_tvchannels_v1.jpg",
         "group": "NASIONAL",
         "source": "https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist",
-        "url": "https://inditv.openwindow042.workers.dev/https://cdn08jtedge.indihometv.com/dassdvr/134/daaitv/manifest.mpd"
-      },
-      {
-        "name": "BTV ⚪",
-        "logo": "https://picture.dens.tv/wp/img/tvchannels_v1/340x160/1735687940_tvchannels_v1.jpeg",
-        "group": "NASIONAL",
-        "source": "https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist",
-        "url": "https://op-group1-swiftservehd-1.dens.tv/h/h210/index.m3u8?app_type=web&userid=lite&chname=BTV"
+        "url": "https://op-group1-swiftservehd-1.dens.tv/h/h77/S4/mnf.m3u8"
       }
     ],
     "HBO": [
@@ -16122,13 +16122,13 @@
         "url": "http://extraott.com:900/live/3162523972/3791698850/13127.m3u8"
       }
     ],
-    "LIVE": [
+    "LIVOLI 2025": [
       {
-        "name": "Indo VS Korea",
-        "logo": "https://mediaaceh.co.id/wp-content/uploads/2025/09/Korea-Selatan-U23-vs-Indonesia-U23.webp",
-        "group": "LIVE",
+        "name": "BOLA VOLI",
+        "logo": "https://asset-2.tribunnews.com/tribunnews/foto/bank/originals/Logo-Livoli-Divisi-Utama-2025.jpg",
+        "group": "LIVOLI 2025",
         "source": "https://raw.githubusercontent.com/abidinrj/nontontv/refs/heads/main/playlist",
-        "url": "http://103.179.182.117:6768/hls/56/56.m3u8"
+        "url": "http://103.179.182.117:6768/hls/50/50.m3u8"
       }
     ],
     "KNOWLEDGE": [
