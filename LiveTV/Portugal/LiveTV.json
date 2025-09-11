@@ -1,5 +1,5 @@
 {
-  "date": "2025-09-10 21:50:12",
+  "date": "2025-09-11 06:45:05",
   "channels": {
     "TV": [
       {
@@ -28,7 +28,7 @@
         "logo": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI.png",
         "group": "TV",
         "source": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u",
-        "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xMC8yMDI1IDQ6Nzo1OCBQTSZoYXNoX3ZhbHVlPXdxNnFtU2Ewakp0U2pJZXFLZEd2V2c9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1jYmRjZGQzMS0zMTNlLTQ5M2YtODIyYi1lZWNiNmQ3YTBhNTM=/"
+        "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xMS8yMDI1IDEyOjI5OjIgQU0maGFzaF92YWx1ZT02R2J1SlA3VlRZNDVCOHh3cDdkejhRPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9N2YyN2JlMGMtZDM4Ny00MWRiLWIxMjEtNGNmMGExNWJmMTYx/"
       },
       {
         "name": "RTP 3",
@@ -49,7 +49,7 @@
         "logo": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png",
         "group": "TV",
         "source": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u",
-        "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xMC8yMDI1IDQ6ODowIFBNJmhhc2hfdmFsdWU9dXVmcFVIbUd4b3BKVmR2d2EwUERFZz09JnZhbGlkbWludXRlcz0xNDQwJmlkPWYwMzY5MDVmLWMwNGItNDY4Ny04MWM2LWRjZWRjMWU2YTBmMA==/"
+        "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xMS8yMDI1IDEyOjI5OjMgQU0maGFzaF92YWx1ZT1sb0xIVDBnYkFjdFhNUjJ2eHh0QkRBPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9OTJjNjBhZmYtM2IwZi00N2Y2LTk4MWQtNTg0OWZhNTIzMTg2/"
       },
       {
         "name": "CNN Brasil",
@@ -112,7 +112,7 @@
         "logo": "https://github.com/LITUATUI/M3UPT/raw/main/logos/TVI-Internacional.png",
         "group": "TV",
         "source": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u",
-        "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xMC8yMDI1IDQ6ODoxIFBNJmhhc2hfdmFsdWU9MUNsUHBOeW5LR3B3REp3Z0RWSk9adz09JnZhbGlkbWludXRlcz0xNDQwJmlkPTA0MWQ0NDE3LTZiNzYtNGMyNy05MTBmLTVlNjM0Mjc4MmFhYQ==/"
+        "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xMS8yMDI1IDEyOjI5OjQgQU0maGFzaF92YWx1ZT1DbzBXemdlczUrZUJ2SGdaOVFHOGtnPT0mdmFsaWRtaW51dGVzPTE0NDAmaWQ9MmYwZmYwYjctYzc4MS00YzI3LWI2MDAtMDU5YWM4NjE0ODYw/"
       },
       {
         "name": "TVI África",
@@ -6640,22 +6640,6 @@
         "url": "https://playout172.livextend.cloud/liveiframe/_definst_/liveartvabr/playlist.m3u8"
       }
     ],
-    "News": [
-      {
-        "name": "Euronews Português (1080p)",
-        "logo": "https://i.imgur.com/8t9mdg9.png",
-        "group": "News",
-        "source": "https://iptv-org.github.io/iptv/countries/pt.m3u",
-        "url": "https://euronews-live-por-pt.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6572/bitok/eyJzdGlkIjoiOWE0ZWZmNzItMmE0ZC00NmFjLWIzZjgtNzJiNjIzODU3N2I5IiwibWt0IjoicHQiLCJjaCI6NjU3MiwicHRmIjo1fQ==/26035/euronews-pt.m3u8"
-      },
-      {
-        "name": "RTP 3 (720p) [Not 24/7]",
-        "logo": "https://i.imgur.com/ohXJmiR.png",
-        "group": "News",
-        "source": "https://iptv-org.github.io/iptv/countries/pt.m3u",
-        "url": "https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8"
-      }
-    ],
     "Sports": [
       {
         "name": "FUEL TV (1080p)",
@@ -6748,6 +6732,15 @@
         "group": "General",
         "source": "https://iptv-org.github.io/iptv/countries/pt.m3u",
         "url": "https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tvipt/sh/tvi.m3u8"
+      }
+    ],
+    "News": [
+      {
+        "name": "RTP 3 (720p) [Not 24/7]",
+        "logo": "https://i.imgur.com/ohXJmiR.png",
+        "group": "News",
+        "source": "https://iptv-org.github.io/iptv/countries/pt.m3u",
+        "url": "https://streaming-live.rtp.pt/livetvhlsDVR/rtpnHDdvr.smil/playlist.m3u8"
       }
     ],
     "Series": [
