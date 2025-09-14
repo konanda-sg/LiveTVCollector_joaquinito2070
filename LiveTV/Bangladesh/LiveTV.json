@@ -1,5 +1,5 @@
 {
-  "date": "2025-09-14 06:41:08",
+  "date": "2025-09-14 13:46:50",
   "channels": {
     "BANGLA": [
       {
@@ -544,6 +544,13 @@
         "url": "https://tvsen5.aynaott.com/willowhd/index.m3u8"
       },
       {
+        "name": "FOX Cricket 501",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/f/f4/Fox_Cricket_Logo.png",
+        "group": "SPORTS",
+        "source": "https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my",
+        "url": "http://51.89.148.37:8080/catena-9-15390503-streamer-_fox_sports_505_fhd/tracks-v1a1a2a3l1l2/mono.m3u8?token=ef1c6f27da4b04de8c97b52b9255617b"
+      },
+      {
         "name": "BeIN Sports Extra",
         "logo": "https://static.epg.best/qa/beINSports1.qa.png",
         "group": "SPORTS",
@@ -570,6 +577,13 @@
         "group": "SPORTS",
         "source": "https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my",
         "url": "https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8"
+      },
+      {
+        "name": "ERT Sports",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "SPORTS",
+        "source": "https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my",
+        "url": "https://live-1-201.uma.media/stream/1054/HLS/ntvplus/6waJsh3SdP-FJKQVGp7UzA/1757839306/eyJzZXNzaW9uSWQiOiJZblJ3VFRreGFFcERkMVZEVldOWGFpOTFZbk5FUlVGak1XZEVhMVpvV1dwcGVGaHFNM1J2V1RseEsxbHZkRVV6YjFGeGN6WnVheXRJWkZwbFRVSjNPRGwyYlRCUEt5OWhabVoxZFRoR1dqTnFTakp2U1djOVBRPT0iLCJ1c2VySWQiOiI1ZmIwOGJmOTZmZDJjMTdmYzE3ZDMwNWEifQ/1054-288p.m3u8"
       },
       {
         "name": "Dubai Sports 1",
@@ -930,11 +944,18 @@
         "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/dronetv/playlist.m3u8"
       },
       {
+        "name": "BBC Earth",
+        "logo": "https://upload.wikimedia.org/wikipedia/en/4/44/BBC_Earth_logo.png",
+        "group": "Documentary",
+        "source": "https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my",
+        "url": "http://89.187.189.98/BBCEARTHHD/index.m3u8"
+      },
+      {
         "name": "Animal Planet HD",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/1280px-Animal_Planet_logo.svg.png",
         "group": "Documentary",
         "source": "https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my",
-        "url": "https://tvsen6.aynaott.com/animal_planet_hd/index.m3u8"
+        "url": "http://89.187.189.98/ANIMALPLANETHD/index.m3u8"
       },
       {
         "name": "Animal Plant",
@@ -1442,6 +1463,13 @@
         "url": "http://195.181.169.162/SONY_PIX_HD/index.m3u8?token=test"
       },
       {
+        "name": "Movies Now",
+        "logo": "https://i.ibb.co/Ns62bY2/2021-04-22-10-24-01.png",
+        "group": "English Movie",
+        "source": "https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my",
+        "url": "http://89.187.189.98/MOVIESNOWHD/index.m3u8"
+      },
+      {
         "name": "Lotus",
         "logo": "https://i.ibb.co/Ns62bY2/2021-04-22-10-24-01.png",
         "group": "English Movie",
@@ -1456,11 +1484,25 @@
         "url": "https://d3s7x6kmqcnb6b.cloudfront.net/d/distro001a/QK2TKFREGRYXDI8IJGHW/hls3/now,-1m/m.m3u8"
       },
       {
+        "name": "Star Movies HD",
+        "logo": "https://i.ibb.co/Ns62bY2/2021-04-22-10-24-01.png",
+        "group": "English Movie",
+        "source": "https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my",
+        "url": "http://89.187.189.98/STARMOVIESHD/index.m3u8"
+      },
+      {
         "name": "Sci-fi",
         "logo": "https://i.ibb.co/Ns62bY2/2021-04-22-10-24-01.png",
         "group": "English Movie",
         "source": "https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my",
         "url": "http://45.159.74.22/Kinoseriya/mono.m3u8"
+      },
+      {
+        "name": "HBO",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/2560px-HBO_logo.svg.png",
+        "group": "English Movie",
+        "source": "https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my",
+        "url": "http://93.184.10.248/MBCBollywood/index.m3u8"
       },
       {
         "name": "My Cinema",
