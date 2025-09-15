@@ -1,5 +1,5 @@
 {
-  "date": "2025-09-15 13:52:13",
+  "date": "2025-09-15 21:50:05",
   "channels": {
     "TV": [
       {
@@ -28,7 +28,7 @@
         "logo": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TVI.png",
         "group": "TV",
         "source": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u",
-        "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNS8yMDI1IDg6OTozMSBBTSZoYXNoX3ZhbHVlPW4xVnlGRk1SbnM3ZGFvTjVBUXlHNEE9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1jYzMwOWRkMy0xN2MzLTQwZjgtODMzOS0yNzY3MzAzZWE4NzU=/"
+        "url": "https://video-auth6.iol.pt/live_tvi/live_tvi/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNS8yMDI1IDQ6Nzo1NSBQTSZoYXNoX3ZhbHVlPUdBSjJQNlBoZlRaaWdMU2hNejAvU1E9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0wMTJhNGUzNi05YzE5LTRlNDUtYWQ2MC0xMjk3YzI1ZTVlNGM=/"
       },
       {
         "name": "RTP 3",
@@ -49,7 +49,7 @@
         "logo": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/CNN-Portugal.png",
         "group": "TV",
         "source": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u",
-        "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNS8yMDI1IDg6OTozMiBBTSZoYXNoX3ZhbHVlPVpRbGRyS2k4VjZuMlNJT1JpbkRCOXc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1kY2Q1NjMxMC1iYzdhLTQ0NTYtYjY3ZC05YThiZGUwOWYxOWM=/"
+        "url": "https://video-auth7.iol.pt/live_cnn/live_cnn/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNS8yMDI1IDQ6Nzo1NiBQTSZoYXNoX3ZhbHVlPUlqRUU0eGlsWmpDUlc1S2xXUnFVZ0E9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD0wM2FiZjI5OC1kZGYyLTRjNTctYjUwNi02NTQ3ODgwNWM3YjM=/"
       },
       {
         "name": "CNN Brasil",
@@ -112,7 +112,7 @@
         "logo": "https://github.com/LITUATUI/M3UPT/raw/main/logos/TVI-Internacional.png",
         "group": "TV",
         "source": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u",
-        "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNS8yMDI1IDg6OTozMyBBTSZoYXNoX3ZhbHVlPW1ocHYvK29KRlZIa05FMTBZZTRqQmc9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD1lMGYzODc2OS0wMzVjLTQ5N2QtOTIyOS0wOWEzODRjNWEwYmQ=/"
+        "url": "https://video-auth6.iol.pt/live_tvi_internacional/live_tvi_internacional/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8xNS8yMDI1IDQ6Nzo1NyBQTSZoYXNoX3ZhbHVlPXZucU9uZm12VWlNU0VjV2t6ejcra2c9PSZ2YWxpZG1pbnV0ZXM9MTQ0MCZpZD04NjhhNGZiYi0xNzIyLTRiMzgtYjRlNy1lNWYzOWIzN2VjMDk=/"
       },
       {
         "name": "TVI África",
@@ -5378,6 +5378,13 @@
       }
     ],
     "IEGCQT": [
+      {
+        "name": "IEGCQT S12E02 14-09-2025",
+        "logo": "https://upload.wikimedia.org/wikipedia/pt/thumb/8/8a/IeGcQT.png/800px-IeGcQT.png",
+        "group": "IEGCQT",
+        "source": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/M3U/M3UPT.m3u",
+        "url": "https://cdnapisec.kaltura.com/p/4526593/sp/452659300/playManifest/entryId/1_hjso5unx/protocol/https/format/mpegdash/flavorIds/1_s34xoolz,1_49uq6yhe,1_7g823qez,1_az2cghib,1_plzd2b9o,1_w7lp9eyg/a.mpd"
+      },
       {
         "name": "IEGCQT S12E01 07-09-2025",
         "logo": "https://upload.wikimedia.org/wikipedia/pt/thumb/8/8a/IeGcQT.png/800px-IeGcQT.png",
