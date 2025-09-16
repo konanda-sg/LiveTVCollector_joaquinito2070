@@ -169,23 +169,6 @@ Logo: https://i.imgur.com/HXFNbuc.png
 Source: https://iptv-org.github.io/iptv/countries/th.m3u
 --------------------------------------------------
 
-Group: HBO
-Name: HBO HITS
-URL: https://s8.sky4k.top/stream/astro/hbohits/master.m3u8?u=cvappuser&p=0f573e68e00dff8dca0ea6fb2e78c1b9b490a64e8d103112965404558fc00aa8
-Logo: https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png
-Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
---------------------------------------------------
-Name: HBO FAMLIY
-URL: https://s8.sky4k.top/stream/astro/hbofamily/master.m3u8?u=cvappuser&p=0f573e68e00dff8dca0ea6fb2e78c1b9b490a64e8d103112965404558fc00aa8
-Logo: https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1920px-HBO_Family_Asia_logo.svg.png
-Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
---------------------------------------------------
-Name: HBO SIGNATURE
-URL: http://50.7.234.10:8278/hbosignature_twn/playlist.m3u8?tid=m48ee99a5dacb15948906&ct=17874&tsum=3d127801d49fa098b4118400117b4fbb
-Logo: https://i.imgur.com/KtWxxS3.png
-Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
---------------------------------------------------
-
 Group: HTV
 Name: HTV1
 URL: https://live.fptplay53.net/epzhd1/htv1_hls.smil/chunklist.m3u8
@@ -342,41 +325,6 @@ URL: https://xem.hoiquan.click/CoBan2/tv360.sk3/TuyetDoiKhongKinhDoanh.m3u8
 Logo: https://img-zlr1.tv360.vn/image1/2024/09/24/21/1727189872609/e569653d09d3_480_270.png
 Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
 --------------------------------------------------
-Name: TV360+4
-URL: https://xem.hoiquan.click/CoBan2/tv360.sk4/TuyetDoiKhongKinhDoanh.m3u8
-Logo: https://img-zlr1.tv360.vn/image1/2024/09/24/21/1727189917617/5db9e5a7d0fd_480_270.png
-Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
---------------------------------------------------
-Name: TV360+5
-URL: https://xem.hoiquan.click/CoBan2/tv360.sk5/TuyetDoiKhongKinhDoanh.m3u8
-Logo: https://img-zlr1.tv360.vn/image1/2024/09/24/21/1727189978632/51f31c767a91_640_360.png
-Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
---------------------------------------------------
-Name: TV360+6
-URL: https://xem.hoiquan.click/CoBan2/tv360.sk6/TuyetDoiKhongKinhDoanh.m3u8
-Logo: https://img-zlr1.tv360.vn/image1/2024/09/24/22/1727190010448/7463a4b5c14d_640_360.png
-Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
---------------------------------------------------
-Name: TV360+7
-URL: https://xem.hoiquan.click/CoBan2/tv360.sk7/TuyetDoiKhongKinhDoanh.m3u8
-Logo: https://img-zlr1.tv360.vn/image1/2024/09/24/22/1727190077791/4922144877f1_640_360.png
-Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
---------------------------------------------------
-Name: TV360+8
-URL: https://xem.hoiquan.click/CoBan2/tv360.sk8/TuyetDoiKhongKinhDoanh.m3u8
-Logo: https://img-zlr1.tv360.vn/image1/2024/09/24/22/172719012995/8df54b2f7576_640_360.png
-Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
---------------------------------------------------
-Name: TV360+9
-URL: https://xem.hoiquan.click/CoBan2/tv360.sk9/TuyetDoiKhongKinhDoanh.m3u8
-Logo: https://img-zlr1.tv360.vn/image1/2024/09/30/22/1727709197325/1be646ba55c5_640_360.png
-Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
---------------------------------------------------
-Name: Mê Kông
-URL: https://xem.hoiquan.click/CoBan/tv360.Mekong/TuyetDoiKhongKinhDoanh.m3u8
-Logo: https://img-zlr1.tv360.vn/image1/2025/03/24/23/1742835047229/a15638593826_640_360.png
-Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
---------------------------------------------------
 Name: Phim Âu Mỹ
 URL: https://xem.hoiquan.click/CoBan/tv360.PhimAuMy/TuyetDoiKhongKinhDoanh.m3u8
 Logo: https://img-zlr1.tv360.vn/image1/2025/03/24/23/1742835081398/4e6776be1efd_640_360.png
@@ -427,6 +375,13 @@ Name: Top News (720p)
 URL: https://live.topnews.co.th/hls/topnews_a_720.m3u8
 Logo: https://i.imgur.com/tRFnV9M.png
 Source: https://iptv-org.github.io/iptv/countries/th.m3u
+--------------------------------------------------
+
+Group: Quốc Tế
+Name: Cartoonito
+URL: https://hls.mskycdn.online/tv/cartoonito/index.m3u8
+Logo: https://hls.mskycdn.online/logo/cartoonito.png
+Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
 --------------------------------------------------
 
 Group: Quốc tế
@@ -510,16 +465,6 @@ URL: https://freem3u.xyz/api/live/play.mpd?vid=99
 Logo: https://freem3u.xyz/static/images/global/hgtv.png
 Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
 --------------------------------------------------
-Name: National Geographic
-URL: https://fl5.moveonjoy.com/National_Geographic/index.m3u8
-Logo: https://freem3u.xyz/static/images/global/nat_geo.png
-Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
---------------------------------------------------
-Name: National Geographic Wild
-URL: https://fl5.moveonjoy.com/Nat_Geo_Wild/index.m3u8
-Logo: https://freem3u.xyz/static/images/global/nat_geo_wild.png
-Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
---------------------------------------------------
 Name: History
 URL: https://xem.hoiquan.Click/CoBan/history-hd/TuyetDoiKhongKinhDoanh.m3u8
 Logo: https://i.ibb.co/41wJdvL/history.png
@@ -578,11 +523,6 @@ Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
 Name: Deutsche Welle English
 URL: https://live.fptplay53.net/fnxhd2/dwenglish_hls.smil/chunklist.m3u8
 Logo: https://i.imgur.com/A1xzjOI.png
-Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
---------------------------------------------------
-Name: EURONEWS English
-URL: https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/LC35/index.m3u8
-Logo: https://i.imgur.com/0iOuMds.png
 Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
 --------------------------------------------------
 Name: France 24 English
@@ -1205,11 +1145,6 @@ Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
 Name: KTV | TH Khánh Hòa 1
 URL: https://60acee235f4d5.streamlock.net/live/mystream/playlist.m3u8
 Logo: https://i.imgur.com/N2gUYoh.png
-Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
---------------------------------------------------
-Name: QBTV | TH Quảng Bình
-URL: https://live.fptplay53.net/epzsd1/quangbinh_hls.smil/chunklist.m3u8
-Logo: https://i.imgur.com/JCFsITk.png
 Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
 --------------------------------------------------
 Name: QNgTV | TH Quảng Ngãi
