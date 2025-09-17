@@ -1,5 +1,5 @@
 {
-  "date": "2025-09-16 21:51:55",
+  "date": "2025-09-17 06:47:15",
   "channels": {
     "Uncategorized": [
       {
@@ -1346,11 +1346,11 @@
     ],
     "Movies": [
       {
-        "name": "AXN Asia (576p)",
+        "name": "AXN Vietnam (1080p)",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/512px-AXN_logo_%282015%29.svg.png",
         "group": "Movies",
         "source": "https://iptv-org.github.io/iptv/countries/vn.m3u",
-        "url": "http://125hvt.ddns.net:21585/axn/index.m3u8"
+        "url": "https://tv.ddns.vn/tv/axnhd/index.m3u8"
       },
       {
         "name": "CinemaWorld Vietnam (1080p)",
@@ -1413,6 +1413,15 @@
         "group": "Kids",
         "source": "https://iptv-org.github.io/iptv/countries/vn.m3u",
         "url": "https://hls.mskycdn.online/tv/bbccbb/index.m3u8"
+      }
+    ],
+    "Education": [
+      {
+        "name": "Da Vinci Vietnam (1080p)",
+        "logo": "https://i.imgur.com/iBx7K1M.png",
+        "group": "Education",
+        "source": "https://iptv-org.github.io/iptv/countries/vn.m3u",
+        "url": "https://hls.mskycdn.online/tv/davinci/index.m3u8"
       }
     ],
     "Entertainment;Sports": [
