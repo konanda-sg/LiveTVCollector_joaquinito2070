@@ -1,5 +1,5 @@
 {
-  "date": "2025-09-19 06:45:26",
+  "date": "2025-09-19 13:51:22",
   "channels": {
     "General": [
       {
@@ -63816,8 +63816,8 @@
         "url": "https://euronews-live-spa-es.fast.rakuten.tv/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6571/bitok/eyJzdGlkIjoiMDA0YjY0NTMtYjY2MC00ZTZkLTlkNzEtMTk3YTM3ZDZhZWIxIiwibWt0IjoiZXMiLCJjaCI6NjU3MSwicHRmIjoxfQ==/26034/euronews-es.m3u8"
       },
       {
-        "name": "324",
-        "logo": "https://graph.facebook.com/324cat/picture?width=200&height=200",
+        "name": "3Cat Info",
+        "logo": "https://pbs.twimg.com/profile_images/1968163923477098496/blka6O_j_200x200.jpg",
         "group": "Informativos",
         "source": "https://www.tdtchannels.com/lists/tvradio_mpd.m3u8",
         "url": "https://directes-tv-int.3catdirectes.cat/live-content/canal324-hls/master.m3u8"
@@ -66029,7 +66029,7 @@
       },
       {
         "name": "Venus Media Paraguay",
-        "logo": "https://pbs.twimg.com/profile_images/1962584716537671680/19TGYVeA_200x200.jpg",
+        "logo": "https://pbs.twimg.com/profile_images/1966112431907688448/baEVDeYo_200x200.jpg",
         "group": "Musicales",
         "source": "https://www.tdtchannels.com/lists/tvradio_mpd.m3u8",
         "url": "https://tigocloud.desdeparaguay.net/venusmedia/venusmedia/playlist.m3u8"
@@ -66169,7 +66169,7 @@
         "logo": "https://graph.facebook.com/ondacero/picture?width=200&height=200",
         "group": "Radio_Populares",
         "source": "https://www.tdtchannels.com/lists/tvradio_mpd.m3u8",
-        "url": "https://atres-live.ondacero.es/live/ondacero/master.m3u8"
+        "url": "https://radio-atres-live.ondacero.es/api/livestream-redirect/OCAAC.aac"
       },
       {
         "name": "Onda Cero",
@@ -66198,6 +66198,13 @@
         "group": "Radio_Populares",
         "source": "https://www.tdtchannels.com/lists/tvradio_mpd.m3u8",
         "url": "https://libertaddigital-radio-live1.flumotion.com/libertaddigital/ld-live1-high.mp3"
+      },
+      {
+        "name": "Radio Marca",
+        "logo": "https://graph.facebook.com/RadioMARCA/picture?width=200&height=200",
+        "group": "Radio_Populares",
+        "source": "https://www.tdtchannels.com/lists/tvradio_mpd.m3u8",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOMARCA_NACIONALAAC.aac"
       },
       {
         "name": "Radio Marca",
@@ -66276,7 +66283,21 @@
         "logo": "https://graph.facebook.com/los40/picture?width=200&height=200",
         "group": "Radio_Musicales",
         "source": "https://www.tdtchannels.com/lists/tvradio_mpd.m3u8",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40AAC.aac"
+      },
+      {
+        "name": "LOS40",
+        "logo": "https://graph.facebook.com/los40/picture?width=200&height=200",
+        "group": "Radio_Musicales",
+        "source": "https://www.tdtchannels.com/lists/tvradio_mpd.m3u8",
         "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/Los40.mp3"
+      },
+      {
+        "name": "LOS40 Classic",
+        "logo": "https://graph.facebook.com/Los40Classic.Oficial/picture?width=200&height=200",
+        "group": "Radio_Musicales",
+        "source": "https://www.tdtchannels.com/lists/tvradio_mpd.m3u8",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_CLASSICAAC.aac"
       },
       {
         "name": "LOS40 Classic",
@@ -66290,7 +66311,21 @@
         "logo": "https://graph.facebook.com/los40urban/picture?width=200&height=200",
         "group": "Radio_Musicales",
         "source": "https://www.tdtchannels.com/lists/tvradio_mpd.m3u8",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_URBANAAC.aac"
+      },
+      {
+        "name": "LOS40 Urban",
+        "logo": "https://graph.facebook.com/los40urban/picture?width=200&height=200",
+        "group": "Radio_Musicales",
+        "source": "https://www.tdtchannels.com/lists/tvradio_mpd.m3u8",
         "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_URBAN.mp3"
+      },
+      {
+        "name": "LOS40 Dance",
+        "logo": "https://graph.facebook.com/los40dance/picture?width=200&height=200",
+        "group": "Radio_Musicales",
+        "source": "https://www.tdtchannels.com/lists/tvradio_mpd.m3u8",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/LOS40_DANCEAAC.aac"
       },
       {
         "name": "LOS40 Dance",
@@ -66318,6 +66353,13 @@
         "logo": "https://graph.facebook.com/cadenadial/picture?width=200&height=200",
         "group": "Radio_Musicales",
         "source": "https://www.tdtchannels.com/lists/tvradio_mpd.m3u8",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIALAAC.aac"
+      },
+      {
+        "name": "Cadena Dial",
+        "logo": "https://graph.facebook.com/cadenadial/picture?width=200&height=200",
+        "group": "Radio_Musicales",
+        "source": "https://www.tdtchannels.com/lists/tvradio_mpd.m3u8",
         "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL.mp3"
       },
       {
@@ -66332,7 +66374,7 @@
         "logo": "https://graph.facebook.com/tueuropafm/picture?width=200&height=200",
         "group": "Radio_Musicales",
         "source": "https://www.tdtchannels.com/lists/tvradio_mpd.m3u8",
-        "url": "https://atres-live.europafm.com/live/europafm/master.m3u8"
+        "url": "https://radio-atres-live.ondacero.es/api/livestream-redirect/EFMAAC.aac"
       },
       {
         "name": "Radio 3 RNE",
@@ -66340,6 +66382,13 @@
         "group": "Radio_Musicales",
         "source": "https://www.tdtchannels.com/lists/tvradio_mpd.m3u8",
         "url": "https://rtvelivestream.rtve.es/rtvesec/rne/rne_r3_main.m3u8"
+      },
+      {
+        "name": "Radiolé",
+        "logo": "https://graph.facebook.com/radiole/picture?width=200&height=200",
+        "group": "Radio_Musicales",
+        "source": "https://www.tdtchannels.com/lists/tvradio_mpd.m3u8",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOLEAAC.aac"
       },
       {
         "name": "Radiolé",
@@ -66367,7 +66416,7 @@
         "logo": "https://graph.facebook.com/tumelodiafm/picture?width=200&height=200",
         "group": "Radio_Musicales",
         "source": "https://www.tdtchannels.com/lists/tvradio_mpd.m3u8",
-        "url": "https://atres-live.melodia-fm.com/live/melodiafm/master.m3u8"
+        "url": "https://radio-atres-live.ondacero.es/api/livestream-redirect/MELODIA_FMAAC.aac"
       },
       {
         "name": "Canal Fiesta Radio",
@@ -66388,6 +66437,13 @@
         "logo": "https://recursosweb.prisaradio.com/fotos/dest/010002743853.jpg",
         "group": "Radio_Musicales",
         "source": "https://www.tdtchannels.com/lists/tvradio_mpd.m3u8",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL_03AAC.aac"
+      },
+      {
+        "name": "Dial Baladas",
+        "logo": "https://recursosweb.prisaradio.com/fotos/dest/010002743853.jpg",
+        "group": "Radio_Musicales",
+        "source": "https://www.tdtchannels.com/lists/tvradio_mpd.m3u8",
         "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL_03.mp3"
       },
       {
@@ -66395,7 +66451,14 @@
         "logo": "https://recursosweb.prisaradio.com/fotos/dest/010002743851.jpg",
         "group": "Radio_Musicales",
         "source": "https://www.tdtchannels.com/lists/tvradio_mpd.m3u8",
-        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL_02AAC_SC"
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL_02AAC.aac"
+      },
+      {
+        "name": "Dial Latino",
+        "logo": "https://recursosweb.prisaradio.com/fotos/dest/010002743851.jpg",
+        "group": "Radio_Musicales",
+        "source": "https://www.tdtchannels.com/lists/tvradio_mpd.m3u8",
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL_02.mp3"
       },
       {
         "name": "Flaix FM",
@@ -66416,7 +66479,7 @@
         "logo": "https://graph.facebook.com/rac105/picture?width=200&height=200",
         "group": "Radio_Musicales",
         "source": "https://www.tdtchannels.com/lists/tvradio_mpd.m3u8",
-        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RAC105AAC.m3u8"
+        "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RAC105AAC.aac"
       },
       {
         "name": "RAC 105",
@@ -69209,8 +69272,8 @@
     ],
     "Radio_Cataluña": [
       {
-        "name": "Catalunya Informació",
-        "logo": "https://pbs.twimg.com/profile_images/1172550299585847302/cqJkGqw7_200x200.png",
+        "name": "3CAT Info",
+        "logo": "https://pbs.twimg.com/profile_images/1968163923477098496/blka6O_j_200x200.jpg",
         "group": "Radio_Cataluña",
         "source": "https://www.tdtchannels.com/lists/tvradio_mpd.m3u8",
         "url": "https://directes-radio-int.3catdirectes.cat/live-content/catalunya-informacio-hls/master.m3u8"
@@ -70095,6 +70158,13 @@
         "url": "https://atres-live.ondacero.es/live/delegaciones/oc/alcala/master.m3u8"
       },
       {
+        "name": "Onda Cero Madrid",
+        "logo": "https://graph.facebook.com/ondacero/picture?width=200&height=200",
+        "group": "Radio_C. de Madrid",
+        "source": "https://www.tdtchannels.com/lists/tvradio_mpd.m3u8",
+        "url": "https://atres-live.ondacero.es/live/ondacero/master.m3u8"
+      },
+      {
         "name": "Onda Cero Madrid Sur",
         "logo": "https://graph.facebook.com/ondaceromadridsur/picture?width=200&height=200",
         "group": "Radio_C. de Madrid",
@@ -70971,21 +71041,21 @@
         "logo": "https://graph.facebook.com/motivafm/picture?width=200&height=200",
         "group": "Radio_C. Valenciana",
         "source": "https://www.tdtchannels.com/lists/tvradio_mpd.m3u8",
-        "url": "https://stream.emisorasmusicales.net/radio/8120/motiva.mp3"
+        "url": "https://stream.mediasector.es/radio/8120/motiva.mp3"
       },
       {
         "name": "Motiva",
         "logo": "https://graph.facebook.com/motivafm/picture?width=200&height=200",
         "group": "Radio_C. Valenciana",
         "source": "https://www.tdtchannels.com/lists/tvradio_mpd.m3u8",
-        "url": "https://stream.emisorasmusicales.net/listen/motiva_rocks/motivarocks.mp3"
+        "url": "https://stream.motivafm.com/listen/motiva_rocks/motivarocks.mp3"
       },
       {
         "name": "Motiva",
         "logo": "https://graph.facebook.com/motivafm/picture?width=200&height=200",
         "group": "Radio_C. Valenciana",
         "source": "https://www.tdtchannels.com/lists/tvradio_mpd.m3u8",
-        "url": "https://stream.emisorasmusicales.net/radio/8480/motiva-dance.mp3"
+        "url": "https://stream.motivafm.com/listen/motiva_dance/motiva-dance.mp3"
       },
       {
         "name": "Motiva",
@@ -71174,7 +71244,7 @@
         "logo": "https://media.emisorasmusicales.net/wp-content/uploads/2021/05/11022133/Cassette-200x200.png",
         "group": "Radio_C. Valenciana",
         "source": "https://www.tdtchannels.com/lists/tvradio_mpd.m3u8",
-        "url": "https://stream.emisorasmusicales.net/listen/cassete_fm/cassettefm.mp3"
+        "url": "https://stream.costafm.es/listen/cassettefm/radio.mp3"
       },
       {
         "name": "Radio 90FM",
@@ -72009,6 +72079,13 @@
         "group": "Radio_La Rioja",
         "source": "https://www.tdtchannels.com/lists/tvradio_mpd.m3u8",
         "url": "https://atres-live.europafm.com/live/delegaciones/efm/logrono/master.m3u8"
+      },
+      {
+        "name": "Melodía FM Rioja",
+        "logo": "https://graph.facebook.com/tumelodiafm/picture?width=200&height=200",
+        "group": "Radio_La Rioja",
+        "source": "https://www.tdtchannels.com/lists/tvradio_mpd.m3u8",
+        "url": "https://atres-live.melodia-fm.com/live/melodiafm/master.m3u8"
       },
       {
         "name": "esRadio Arnedo",
