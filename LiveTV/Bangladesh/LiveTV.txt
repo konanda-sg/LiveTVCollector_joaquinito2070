@@ -447,6 +447,11 @@ URL: https://tvsen6.aynaott.com/somoytv/index.m3u8
 Logo: https://s3.aynaott.com/storage/cbadf009eebf7506c7633b3a98a2f042
 Source: https://raw.githubusercontent.com/MohammadJoyChy/BDIXTV/refs/heads/main/Aynaott
 --------------------------------------------------
+Name: T Sports HD
+URL: https://tvsen5.aynaott.com/tsports/index.m3u8
+Logo: https://s3.aynaott.com/storage/9fbf3e9ed22c8cc71c93f25d6cb9be32
+Source: https://raw.githubusercontent.com/MohammadJoyChy/BDIXTV/refs/heads/main/Aynaott
+--------------------------------------------------
 Name: Gazi TV
 URL: https://tvsen5.aynaott.com/Ravc7gPCZpxk/index.m3u8
 Logo: https://s3.aynaott.com/storage/0b4d83d0baf7513beae135e134fced2c
@@ -683,8 +688,18 @@ URL: https://tvsen6.aynaott.com/discovery_hd_bangla/index.m3u8
 Logo: https://bdiptv.stream/uploads/tv_image/discovery.png
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
+Name: Discovery Hindi
+URL: http://103.179.182.117:6768/hls/65/65.m3u8
+Logo: https://bdiptv.stream/uploads/tv_image/discovery.png
+Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
+--------------------------------------------------
 Name: Discovery Engliah HD
 URL: http://fl1.moveonjoy.com/Discovery_Channel/index.m3u8
+Logo: https://bdiptv.stream/uploads/tv_image/discovery.png
+Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
+--------------------------------------------------
+Name: Discovery Science SD
+URL: http://103.179.182.117:6768/hls/14/14.m3u8
 Logo: https://bdiptv.stream/uploads/tv_image/discovery.png
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
@@ -709,7 +724,7 @@ Logo: https://photos.prnewswire.com/prnfull/20150515/10122924
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
 Name: Love nature
-URL: https://cdn1.logichost.in/ajmantv/live/playlist.m3u8
+URL: http://103.179.182.117:6768/hls/75/75.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
@@ -824,6 +839,11 @@ URL: http://89.187.189.98/MOVIESNOWHD/index.m3u8
 Logo: https://i.ibb.co/Ns62bY2/2021-04-22-10-24-01.png
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
+Name: AXN
+URL: http://103.179.182.117:6768/hls/64/64.m3u8
+Logo: https://i.ibb.co/Ns62bY2/2021-04-22-10-24-01.png
+Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
+--------------------------------------------------
 Name: Lotus
 URL: https://shls-live-ak.akamaized.net/out/v1/22a1fb00da8a4b1fb15cbd70b8b59856/index_2.m3u8
 Logo: https://i.ibb.co/Ns62bY2/2021-04-22-10-24-01.png
@@ -845,13 +865,23 @@ Logo: https://i.ibb.co/Ns62bY2/2021-04-22-10-24-01.png
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
 Name: HBO
-URL: http://93.184.10.248/MBCBollywood/index.m3u8
+URL: http://103.179.182.117:6768/hls/27/27.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/2560px-HBO_logo.svg.png
+Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
+--------------------------------------------------
+Name: KIX
+URL: http://93.184.10.248/MBCBollywood/index.m3u8
+Logo: https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/1200px-KIX_logo.svg.png
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
 Name: My Cinema
 URL: https://mytime-tcl.amagi.tv/playlist.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png
+Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
+--------------------------------------------------
+Name: MNX-HD
+URL: http://103.179.182.117:6768/hls/26/26.m3u8
+Logo: https://s4.gifyu.com/images/image8c255c8f4e981429.png
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
 Name: Netflix Movies
@@ -1157,6 +1187,11 @@ Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
 Name: Zee Cinema
 URL: http://195.181.169.162/ZEE_CINEMA_HD/index.m3u8?token=test
+Logo: https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecinemahd/list/09zeecinemahdzeecinemahd.jpg
+Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
+--------------------------------------------------
+Name: Zee Cinema HD
+URL: http://103.179.182.117:6768/hls/32/32.m3u8
 Logo: https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecinemahd/list/09zeecinemahdzeecinemahd.jpg
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
@@ -2014,17 +2049,17 @@ Source: https://raw.githubusercontent.com/mr-masudrana/LiveTV/refs/heads/main/Ba
 
 Group: SPORTS
 Name: Live Sports-1
-URL: http://178.217.72.66:8080/Eurosport_HD/video.m3u8
+URL: http://103.179.182.117:6768/hls/66/66.m3u8
 Logo: http://dds.oncast.me/img/logo/sp1.png
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
 Name: Live Sports-2
-URL: http://46.105.71.222:8080/btsport2/index.m3u8
+URL: http://103.179.182.117:6768/hls/88/88.m3u8
 Logo: http://dds.oncast.me/img/logo/sp2.png
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
 Name: Live Sports-3
-URL: http://46.105.71.222:8080/btsport3/index.m3u8
+URL: http://103.179.182.117:6768/hls/62/62.m3u8
 Logo: http://dds.oncast.me/img/logo/sp3.png
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
@@ -2038,17 +2073,12 @@ URL: http://app-plus.live/live/4qoq1y7yu4/j4wtif2te5/280825.m3u8
 Logo: http://dds.oncast.me/img/logo/sp5.png
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
+Name: Live Sports-6
+URL: http://103.179.182.117:6768/hls/2/2.m3u8
+Logo: http://dds.oncast.me/img/logo/sp6.png
+Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
+--------------------------------------------------
 Name: T-Sports [1]
-URL: https://tvsen5.aynaott.com/tsports/index.m3u8
-Logo: https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png
-Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
---------------------------------------------------
-Name: T-Sports [2]
-URL: http://103.15.140.138/tsports/index.m3u8
-Logo: https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png
-Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
---------------------------------------------------
-Name: T-Sports [3]
 URL: https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8
 Logo: https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
@@ -2180,6 +2210,16 @@ Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------
 Name: Raching.com
 URL: https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
+--------------------------------------------------
+Name: FIFA+
+URL: http://103.179.182.117:6768/hls/25/25.m3u8
+Logo: https://buddytv.netlify.app/img/no-logo.png
+Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
+--------------------------------------------------
+Name: Video
+URL: http://103.179.182.117:6768/hls/94/94.m3u8
 Logo: https://buddytv.netlify.app/img/no-logo.png
 Source: https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my
 --------------------------------------------------

@@ -342,9 +342,21 @@
     "img": "https://bdiptv.stream/uploads/tv_image/discovery.png"
   },
   {
+    "name": "Discovery Hindi",
+    "type": "Documentary",
+    "url": "http://103.179.182.117:6768/hls/65/65.m3u8",
+    "img": "https://bdiptv.stream/uploads/tv_image/discovery.png"
+  },
+  {
     "name": "Discovery Engliah HD",
     "type": "Documentary",
     "url": "http://fl1.moveonjoy.com/Discovery_Channel/index.m3u8",
+    "img": "https://bdiptv.stream/uploads/tv_image/discovery.png"
+  },
+  {
+    "name": "Discovery Science SD",
+    "type": "Documentary",
+    "url": "http://103.179.182.117:6768/hls/14/14.m3u8",
     "img": "https://bdiptv.stream/uploads/tv_image/discovery.png"
   },
   {
@@ -374,7 +386,7 @@
   {
     "name": "Love nature",
     "type": "Documentary",
-    "url": "https://cdn1.logichost.in/ajmantv/live/playlist.m3u8",
+    "url": "http://103.179.182.117:6768/hls/75/75.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/en/1/1d/Love_Nature_TV.png"
   },
   {
@@ -762,6 +774,12 @@
     "img": "https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecinemahd/list/09zeecinemahdzeecinemahd.jpg"
   },
   {
+    "name": "Zee Cinema HD",
+    "type": "Hindi",
+    "url": "http://103.179.182.117:6768/hls/32/32.m3u8",
+    "img": "https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecinemahd/list/09zeecinemahdzeecinemahd.jpg"
+  },
+  {
     "name": "Zee Amol Cinema",
     "type": "Hindi",
     "url": "https://live.relentlessinnovations.net:1936/afghannobel/afghannobel/chunklist_w1694401036.m3u8",
@@ -828,6 +846,12 @@
     "img": "https://i.ibb.co/Ns62bY2/2021-04-22-10-24-01.png"
   },
   {
+    "name": "AXN",
+    "type": "English Movie",
+    "url": "http://103.179.182.117:6768/hls/64/64.m3u8",
+    "img": "https://i.ibb.co/Ns62bY2/2021-04-22-10-24-01.png"
+  },
+  {
     "name": "Lotus",
     "type": "English Movie",
     "url": "https://shls-live-ak.akamaized.net/out/v1/22a1fb00da8a4b1fb15cbd70b8b59856/index_2.m3u8",
@@ -854,14 +878,26 @@
   {
     "name": "HBO",
     "type": "English Movie",
-    "url": "http://93.184.10.248/MBCBollywood/index.m3u8",
+    "url": "http://103.179.182.117:6768/hls/27/27.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/2560px-HBO_logo.svg.png"
+  },
+  {
+    "name": "KIX",
+    "type": "English Movie",
+    "url": "http://93.184.10.248/MBCBollywood/index.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/1200px-KIX_logo.svg.png"
   },
   {
     "name": "My Cinema",
     "type": "English Movie",
     "url": "https://mytime-tcl.amagi.tv/playlist.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png"
+  },
+  {
+    "name": "MNX-HD",
+    "type": "English Movie",
+    "url": "http://103.179.182.117:6768/hls/26/26.m3u8",
+    "img": "https://s4.gifyu.com/images/image8c255c8f4e981429.png"
   },
   {
     "name": "Netflix Movies",
@@ -872,19 +908,19 @@
   {
     "name": "Live Sports-1",
     "type": "SPORTS",
-    "url": "http://178.217.72.66:8080/Eurosport_HD/video.m3u8",
+    "url": "http://103.179.182.117:6768/hls/66/66.m3u8",
     "img": "http://dds.oncast.me/img/logo/sp1.png"
   },
   {
     "name": "Live Sports-2",
     "type": "SPORTS",
-    "url": "http://46.105.71.222:8080/btsport2/index.m3u8",
+    "url": "http://103.179.182.117:6768/hls/88/88.m3u8",
     "img": "http://dds.oncast.me/img/logo/sp2.png"
   },
   {
     "name": "Live Sports-3",
     "type": "SPORTS",
-    "url": "http://46.105.71.222:8080/btsport3/index.m3u8",
+    "url": "http://103.179.182.117:6768/hls/62/62.m3u8",
     "img": "http://dds.oncast.me/img/logo/sp3.png"
   },
   {
@@ -900,19 +936,13 @@
     "img": "http://dds.oncast.me/img/logo/sp5.png"
   },
   {
+    "name": "Live Sports-6",
+    "type": "SPORTS",
+    "url": "http://103.179.182.117:6768/hls/2/2.m3u8",
+    "img": "http://dds.oncast.me/img/logo/sp6.png"
+  },
+  {
     "name": "T-Sports [1]",
-    "type": "SPORTS",
-    "url": "https://tvsen5.aynaott.com/tsports/index.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png"
-  },
-  {
-    "name": "T-Sports [2]",
-    "type": "SPORTS",
-    "url": "http://103.15.140.138/tsports/index.m3u8",
-    "img": "https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png"
-  },
-  {
-    "name": "T-Sports [3]",
     "type": "SPORTS",
     "url": "https://live.tsports.com/mobile_hls/tsports_live_1/playlist.m3u8",
     "img": "https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png"
@@ -1071,6 +1101,18 @@
     "name": "Raching.com",
     "type": "SPORTS",
     "url": "https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "FIFA+",
+    "type": "SPORTS",
+    "url": "http://103.179.182.117:6768/hls/25/25.m3u8",
+    "img": "https://buddytv.netlify.app/img/no-logo.png"
+  },
+  {
+    "name": "Video",
+    "type": "SPORTS",
+    "url": "http://103.179.182.117:6768/hls/94/94.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -6610,6 +6652,12 @@
     "type": "Channels",
     "url": "https://tvsen6.aynaott.com/somoytv/index.m3u8",
     "img": "https://s3.aynaott.com/storage/cbadf009eebf7506c7633b3a98a2f042"
+  },
+  {
+    "name": "T Sports HD",
+    "type": "Channels",
+    "url": "https://tvsen5.aynaott.com/tsports/index.m3u8",
+    "img": "https://s3.aynaott.com/storage/9fbf3e9ed22c8cc71c93f25d6cb9be32"
   },
   {
     "name": "Gazi TV",
