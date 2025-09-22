@@ -5559,8 +5559,12 @@ https://av-ch-cdn.mncnow.id/live/eds/rcti-2/sa_dash/rcti-2.mpd
 https://av-ch-cdn.mncnow.id/live/eds/GTV-HD/sa_dash/GTV-HD.mpd
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/MNCTV.png" group-title="NasioNaL DiGitaL 📡",MncTV
 https://av-ch-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash/MNCTV-HD.mpd
+#EXTINF:-1 tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqVcxXdXG3cgK8Y7Nz6dMc0w.png" group-title="NasioNaL DiGitaL 📡",TRANS 7*
+http://103.179.182.117:6768/hls/42/42.m3u8
 #EXTINF:-1 tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqVcxXdXG3cgK8Y7Nz6dMc0w.png" group-title="NasioNaL DiGitaL 📡",TRANS 7
 http://aromatv.co:80/Enjy3637/4JFEBAs359/444141
+#EXTINF:-1 tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqKbturk6jSmHYzuGh2xw7Qw.png" group-title="NasioNaL DiGitaL 📡",TRANS TV*
+http://103.179.182.117:6768/hls/43/43.m3u8
 #EXTINF:-1 tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqKbturk6jSmHYzuGh2xw7Qw.png" group-title="NasioNaL DiGitaL 📡",TRANS TV
 http://aromatv.co:80/Enjy3637/4JFEBAs359/444143
 #EXTINF:-1 tvg-logo="http://home-tv.online:80/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqCgvgmgsaZSOoak053U9erwi-WW-AM5FjVHDSwcFEabU.png" group-title="NasioNaL DiGitaL 📡",INDOSIAR
@@ -5701,6 +5705,8 @@ http://013tv.com:8080/friptv/AwWjvV6QuXDY84xR5meJhk/162141
 https://smart.pendy.dpdns.org/Smart.php?id=Indosiarhttp://filex.me:8080/live/@B1gM0/qsavC6NPSm/302264.ts
 #EXTINF:-1 tvg-logo="https://iili.io/JMp3wV1.png" group-title="NasioNaL DiGitaL 📡",Indosiar Digital 2
 http://filex.me:8080/live/@B1gM0/qsavC6NPSm/302264.ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cMxwK50.jpg" group-title="DIGITAL CHANNEL",ANTV
+http://103.179.182.117:6768/hls/45/45.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RJ31qhO.png" group-title="Nasional 🇮🇩",Antv ⁱ
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000022/1024.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/54/BN_Channel.png" group-title="Nasional 🇮🇩",BN Channel
@@ -5713,14 +5719,18 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/index.m3u8
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_kamiselaluada_b384000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aKmRvdb.png" group-title="Nasional 🇮🇩",Garuda TV
 https://hgmtv.com:19360/garudatvlivestreaming/1080p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z1M2Avx.png" group-title="Nasional 🇮🇩",GTV
+https://allcutv.rctiplus.id/gtv2023.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1zcrM6F.png" group-title="Nasional 🇮🇩",IDX
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000019/1024.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cNj0zNL.png" group-title="Nasional 🇮🇩",iNews
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
+https://inews-cutv.rctiplus.id/inews-sdi.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nV1ay96.png" group-title="Nasional 🇮🇩",mdTV
 https://wahyu1ptv.pages.dev/MDTV-HD.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ynGX4PT.png" group-title="Nasional 🇮🇩",Metro TV
 http://op-group1-swiftservehd-1.dens.tv/h/h12/02.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7AX2huE.png" group-title="Nasional 🇮🇩",MNCTV
+https://allcutv.rctiplus.id/mnctv2023.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lZO4muM.png" group-title="Nasional 🇮🇩",Nusantara TV
 https://op-group1-swiftservehd-1.dens.tv/h/h37/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/R6mBUa1.png" group-title="Nasional 🇮🇩",SCTV
@@ -7811,6 +7821,8 @@ https://liveaneviadev.mncnow.id/live/eds/iNewsTV-HDD/sa_dash/iNewsTV-HDD.mpd
 http://melon-live-cdn.mncnow.id/live/eds/inews-hdd/sa_hls/inews-hdd.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d6sfBLj/inews.png" group-title="TV BackUP",INEWS
 https://streaming.indihometv.com/atm/DASH/inews/manifest.mpd
+#EXTINF:-1 tvg-logo="https://i.ibb.co/d6sfBLj/inews.png" group-title="TV BackUP",INEWS (R+)
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MR6fmDw/kompastv.png" group-title="TV BackUP",KOMPAS TV
 https://cempedak-cdn-fly.mncnow.id/live/eds/KompasTV/sa_dash/KompasTV.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MR6fmDw/kompastv.png" group-title="TV BackUP",KOMPAS TV
