@@ -1,5 +1,5 @@
 {
-  "date": "2025-09-22 06:42:21",
+  "date": "2025-09-22 13:50:41",
   "channels": {
     "BANGLA": [
       {
@@ -359,6 +359,13 @@
         "url": "http://158.160.149.81:8080/520/tracks-v1a2/mono.m3u8"
       },
       {
+        "name": "Sony YAY",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Sony_YAY%21_logo_%282017-present%29.png",
+        "group": "Kids",
+        "source": "https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my",
+        "url": "https://live.dinesh29.com.np/stream/jiotv/sonicbangla/stream_0.m3u8?uid=1629808248"
+      },
+      {
         "name": "Pogo",
         "logo": "https://i.imgur.com/chT8xP5.png",
         "group": "Kids",
@@ -507,21 +514,21 @@
         "logo": "https://static.wikia.nocookie.net/logopedia/images/3/3c/Star_Jalsha_HD.png/revision/latest/scale-to-width-down/250?cb=20180908084350",
         "group": "Indian-Bangla",
         "source": "https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my",
-        "url": "https://live.dinesh29.com.np/stream/jiotvplus/jalshamovieshd/master.m3u8"
+        "url": "https://live.dinesh29.com.np/stream/jiotvplus/starjalshahd/stream_0.m3u8?uid="
       },
       {
         "name": "Jalsha Movies HD",
         "logo": "https://static.wikia.nocookie.net/logopedia/images/0/04/Jalsha_Movies_HD.png/revision/latest?cb=20190806073703",
         "group": "Indian-Bangla",
         "source": "https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my",
-        "url": "https://server.zillarbarta.com/ZBCINEMA/tracks-v1a1/mono.m3u8"
+        "url": "https://live.dinesh29.com.np/stream/jiotvplus/jalshamovieshd/stream_0.m3u8?uid="
       },
       {
         "name": "Jalsha Movies SD",
         "logo": "https://static.wikia.nocookie.net/logopedia/images/0/04/Jalsha_Movies_HD.png/revision/latest?cb=20190806073703",
         "group": "Indian-Bangla",
         "source": "https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my",
-        "url": "https://cloudfrontnet.vercel.app/tplay/playout/209627/master.m3u8"
+        "url": "https://live.dinesh29.com.np/stream/jiotvplus/jalshamovies/stream_0.m3u8?uid=3443014649"
       },
       {
         "name": "Zee Bangla HD",
@@ -563,7 +570,7 @@
         "logo": "https://buddytv.netlify.app/img/no-logo.png",
         "group": "Indian-Bangla",
         "source": "https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my",
-        "url": "http://103.122.252.100:8080/SUN-BANGLA/index.m3u8"
+        "url": "https://live.dinesh29.com.np/stream/jiotvplus/sunbangla/stream_0.m3u8?uid=827691936"
       },
       {
         "name": "Sony Aath",
@@ -684,7 +691,7 @@
         "logo": "https://static.wikia.nocookie.net/logopedia/images/1/1f/Sangeet_Bangla.jpg/revision/latest?cb=20200804091515",
         "group": "MUSIC",
         "source": "https://raw.githubusercontent.com/sydul104/main04/refs/heads/main/my",
-        "url": "https://tvsen6.aynaott.com/SangeetBangla/index.m3u8"
+        "url": "https://live.dinesh29.com.np/stream/jiotvplus/sangeetbangla/stream_0.m3u8?uid=3571565213"
       },
       {
         "name": "Zoom",
@@ -8079,6 +8086,13 @@
         "group": "Movies",
         "source": "https://raw.githubusercontent.com/MohammadJoyChy/BDIXTV/refs/heads/main/Aynaott",
         "url": "https://live.dinesh29.com.np/stream/jiotvplus/stargoldhd/master.m3u8"
+      },
+      {
+        "name": "Jalsha Movies HD",
+        "logo": "https://live.dinesh29.com.np/logos/jiotvplus/jalshamovieshd.png",
+        "group": "Movies",
+        "source": "https://raw.githubusercontent.com/MohammadJoyChy/BDIXTV/refs/heads/main/Aynaott",
+        "url": "https://live.dinesh29.com.np/stream/jiotvplus/jalshamovieshd/master.m3u8"
       }
     ],
     "Infotainment": [
