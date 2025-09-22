@@ -23,6 +23,14 @@ https://live.fptplay53.net/epzhd1/vtv8hd_vhls.smil/chunklist.m3u8
 https://live.fptplay53.net/fnxhd1/vtv9_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://vnepg.site/logos/176.png" group-title="VTV",VietNam Today
 https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://hls.mskycdn.online/logo/kcinehd.png" group-title="K+",K+ Cine
+https://hls.mskycdn.online/tv/kcinehd/index.m3u8
+#EXTINF:-1 tvg-logo="https://hls.mskycdn.online/logo/kaction.png" group-title="K+",K+ Action
+https://hls.mskycdn.online/tv/kaction/index.m3u8
+#EXTINF:-1 tvg-logo="https://hls.mskycdn.online/logo/ksport1hd.png" group-title="K+",K+ Sport 1
+https://hls.mskycdn.online/tv/ksport1hd/index.m3u8
+#EXTINF:-1 tvg-logo="https://hls.mskycdn.online/logo/ksport2hd.png" group-title="K+",K+ Sport 2
+https://hls.mskycdn.online/tv/ksport2hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7GSKm46.png" group-title="VTVcab HD",ON Vie Giải Trí
 https://cloud.sgchill.io.vn/v1/tools/getlink/television/source/coban1/180/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MPNlpzb.png" group-title="VTVcab HD",ON Phim Việt
@@ -269,10 +277,16 @@ https://xem.hoiquan.click/CoBan/planet-earth-hd/TuyetDoiKhongKinhDoanh.m3u8
 https://xem.hoiquan.click/CoBan/woman-hd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wcT2VqP/man.png" group-title="In The Box",Man
 https://xem.hoiquan.click/CoBan/man/TuyetDoiKhongKinhDoanh.m3u8
+#EXTINF:-1 tvg-logo="https://hls.mskycdn.online/logo/spotv.png" group-title="Quốc tế",SPOTV1
+https://hls.mskycdn.online/tv/spotv/index.m3u8
+#EXTINF:-1 tvg-logo="https://hls.mskycdn.online/logo/spotv2.png" group-title="Quốc tế",SPOTV2
+https://hls.mskycdn.online/tv/spotv2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iBx7K1M.png" group-title="Quốc tế",Da Vinci
 https://live.fptplay53.net/fnxhd2/davincihd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://freem3u.xyz/static/images/global/cartoon-network.png" group-title="Quốc tế",Cartoon Network
 https://hls.mskycdn.online/tv/cartoonhd/index.m3u8
+#EXTINF:-1 tvg-logo="https://hls.mskycdn.online/logo/cartoonito.png" group-title="Quốc tế",Cartoonito
+https://hls.mskycdn.online/tv/cartoonito/index.m3u8
 #EXTINF:-1 tvg-logo="https://hls.mskycdn.online/logo/dreamworks.png" group-title="Quốc tế",Dreamworks
 https://hls.mskycdn.online/tv/dreamworks/index.m3u8
 #EXTINF:-1 tvg-logo="https://hls.mskycdn.online/logo/bbccbb.png" group-title="Quốc tế",BBC CbeeBies
@@ -299,6 +313,8 @@ https://hls.mskycdn.online/tv/bbcearth/index.m3u8
 https://hls.mskycdn.online/tv/bbclifestyle/index.m3u8
 #EXTINF:-1 tvg-logo="https://hls.mskycdn.online/logo/animalhd.png" group-title="Quốc tế",Animal Planet
 https://hls.mskycdn.online/tv/animalhd/index.m3u8
+#EXTINF:-1 tvg-logo="https://hls.mskycdn.online/logo/dmax.png" group-title="Quốc tế",DMAX
+https://hls.mskycdn.online/tv/dmax/index.m3u8
 #EXTINF:-1 tvg-logo="https://freem3u.xyz/static/images/global/hgtv.png" group-title="Quốc tế",HGTV
 https://freem3u.xyz/api/live/play.mpd?vid=99
 #EXTINF:-1 tvg-logo="https://i.ibb.co/41wJdvL/history.png" group-title="Quốc tế",History
@@ -333,6 +349,10 @@ https://live.france24.com/hls/live/2037179-b/F24_FR_HI_HLS/master_5000.m3u8
 https://linear417-gb-hls3-prd-ak.cdn.skycdp.com/100e/Content/HLS_004_1080_30/Live/channel(skynews)/index_mob.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FRsRXRR.png" group-title="Quốc tế",TV5Monde ASIE
 https://live.fptplay53.net/fnxhd2/tv5_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://hls.mskycdn.online/logo/rt.png" group-title="Quốc tế",RT News
+https://hls.mskycdn.online/tv/rt/index.m3u8
+#EXTINF:-1 tvg-logo="https://hls.mskycdn.online/logo/rtd.png" group-title="Quốc tế",RT Documentary English
+https://hls.mskycdn.online/tv/rtd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Et3vExm.png" group-title="Quốc tế",NHK WORLD JAPAN
 https://hls.mskycdn.online/tv/nhkworld/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nbzwz4w/arirang.jpg" group-title="Quốc tế",Arirang
@@ -341,8 +361,6 @@ https://live.fptplay53.net/fnxhd2/arirang_hls.smil/chunklist.m3u8
 https://live.fptplay53.net/epzhd2/kbs_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6u4tZn6.png" group-title="Quốc tế",Fashion TV
 https://hls.mskycdn.online/tv/fashionhd/index.m3u8
-#EXTINF:-1 tvg-logo="https://hls.mskycdn.online/logo/cartoonito.png" group-title="Quốc Tế",Cartoonito
-https://hls.mskycdn.online/tv/cartoonito/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YRiulCU.png" group-title="General",3HD
 https://lb1-live-mv.v2h-cdn.com/hls/ffae/muulk/muulk.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wOIaqg7.png" group-title="General",Channel 5 (1080p)

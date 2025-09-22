@@ -295,6 +295,28 @@ Logo: https://i.ibb.co/wcT2VqP/man.png
 Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
 --------------------------------------------------
 
+Group: K+
+Name: K+ Cine
+URL: https://hls.mskycdn.online/tv/kcinehd/index.m3u8
+Logo: https://hls.mskycdn.online/logo/kcinehd.png
+Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
+--------------------------------------------------
+Name: K+ Action
+URL: https://hls.mskycdn.online/tv/kaction/index.m3u8
+Logo: https://hls.mskycdn.online/logo/kaction.png
+Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
+--------------------------------------------------
+Name: K+ Sport 1
+URL: https://hls.mskycdn.online/tv/ksport1hd/index.m3u8
+Logo: https://hls.mskycdn.online/logo/ksport1hd.png
+Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
+--------------------------------------------------
+Name: K+ Sport 2
+URL: https://hls.mskycdn.online/tv/ksport2hd/index.m3u8
+Logo: https://hls.mskycdn.online/logo/ksport2hd.png
+Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
+--------------------------------------------------
+
 Group: Legislative
 Name: Thai Parliament TV (1080p) [Not 24/7]
 URL: https://tv-live.tpchannel.org/live/tv.m3u8
@@ -370,14 +392,17 @@ Logo: https://i.imgur.com/tRFnV9M.png
 Source: https://iptv-org.github.io/iptv/countries/th.m3u
 --------------------------------------------------
 
-Group: Quốc Tế
-Name: Cartoonito
-URL: https://hls.mskycdn.online/tv/cartoonito/index.m3u8
-Logo: https://hls.mskycdn.online/logo/cartoonito.png
+Group: Quốc tế
+Name: SPOTV1
+URL: https://hls.mskycdn.online/tv/spotv/index.m3u8
+Logo: https://hls.mskycdn.online/logo/spotv.png
 Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
 --------------------------------------------------
-
-Group: Quốc tế
+Name: SPOTV2
+URL: https://hls.mskycdn.online/tv/spotv2/index.m3u8
+Logo: https://hls.mskycdn.online/logo/spotv2.png
+Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
+--------------------------------------------------
 Name: Da Vinci
 URL: https://live.fptplay53.net/fnxhd2/davincihd_vhls.smil/chunklist.m3u8
 Logo: https://i.imgur.com/iBx7K1M.png
@@ -386,6 +411,11 @@ Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
 Name: Cartoon Network
 URL: https://hls.mskycdn.online/tv/cartoonhd/index.m3u8
 Logo: https://freem3u.xyz/static/images/global/cartoon-network.png
+Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
+--------------------------------------------------
+Name: Cartoonito
+URL: https://hls.mskycdn.online/tv/cartoonito/index.m3u8
+Logo: https://hls.mskycdn.online/logo/cartoonito.png
 Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
 --------------------------------------------------
 Name: Dreamworks
@@ -451,6 +481,11 @@ Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
 Name: Animal Planet
 URL: https://hls.mskycdn.online/tv/animalhd/index.m3u8
 Logo: https://hls.mskycdn.online/logo/animalhd.png
+Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
+--------------------------------------------------
+Name: DMAX
+URL: https://hls.mskycdn.online/tv/dmax/index.m3u8
+Logo: https://hls.mskycdn.online/logo/dmax.png
 Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
 --------------------------------------------------
 Name: HGTV
@@ -536,6 +571,16 @@ Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
 Name: TV5Monde ASIE
 URL: https://live.fptplay53.net/fnxhd2/tv5_hls.smil/chunklist.m3u8
 Logo: https://i.imgur.com/FRsRXRR.png
+Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
+--------------------------------------------------
+Name: RT News
+URL: https://hls.mskycdn.online/tv/rt/index.m3u8
+Logo: https://hls.mskycdn.online/logo/rt.png
+Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
+--------------------------------------------------
+Name: RT Documentary English
+URL: https://hls.mskycdn.online/tv/rtd/index.m3u8
+Logo: https://hls.mskycdn.online/logo/rtd.png
 Source: https://raw.githubusercontent.com/kupjta/iptv/refs/heads/main/kupjtv.m3u
 --------------------------------------------------
 Name: NHK WORLD JAPAN
