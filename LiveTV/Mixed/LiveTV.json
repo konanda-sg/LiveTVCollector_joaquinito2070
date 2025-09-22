@@ -1,5 +1,5 @@
 {
-  "date": "2025-09-21 21:31:04",
+  "date": "2025-09-22 06:11:40",
   "channels": {
     "STREAMING": [
       {
@@ -911,13 +911,6 @@
         "group": "Entertainment",
         "source": "https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u",
         "url": "https://test02.mdn.ors.at/orf/orfk/qxa/manifest.m3u8"
-      },
-      {
-        "name": "like Gecko) Chrome/81.0.4044.138 Safari/537.36\",ProSieben",
-        "logo": "https://i.imgur.com/72cqcuv.png",
-        "group": "Entertainment",
-        "source": "https://raw.githubusercontent.com/zagomedia/televizor/refs/heads/main/iptvlist.m3u",
-        "url": "http://85.187.13.40:18000/ProSieben"
       },
       {
         "name": "RTL (DE)",
@@ -2896,6 +2889,13 @@
         "url": "http://xcm.budtv-ultra.com:9000/budtv/budtvline/8Y3ymUpJESps/278469.m3u8"
       },
       {
+        "name": "CINE DINAMITA",
+        "logo": "https://pbs.twimg.com/media/CKoz2slVAAAaSEB.png",
+        "group": "CINE Y SERIES",
+        "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
+        "url": "http://tvhomesmart.xyz:8080/951242681tv/s2vJW967/116"
+      },
+      {
         "name": "CINE LATINO",
         "logo": "https://yt3.googleusercontent.com/NKN8usqtQbTO_GNLIgyHfU1MYfBnxkirUKXkpJER1ALWrp8HoeSKJt1MwdU-pshOCwvTsAwYAA=s900-c-k-c0x00ffffff-no-rj",
         "group": "CINE Y SERIES",
@@ -3099,6 +3099,13 @@
         "url": "http://179.49.163.34:45000/play/a03o/index.m3u8"
       },
       {
+        "name": "CINE PARODY",
+        "logo": "https://www.fmh.la/images/team/logo_rewind.png",
+        "group": "CINE Y SERIES",
+        "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
+        "url": "http://tvhomesmart.xyz:8080/951242681tv/s2vJW967/54945"
+      },
+      {
         "name": "PARAMOUNT CHANNEL",
         "logo": "https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/638e597d941bc3acf1bdcdf9_paramount.png",
         "group": "CINE Y SERIES",
@@ -3167,6 +3174,13 @@
         "group": "CINE Y SERIES",
         "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
         "url": "http://200.60.124.19:29000/play/a01s/index.m3u8"
+      },
+      {
+        "name": "OLD",
+        "logo": "https://miplay.cl/wp-content/uploads/2022/01/OLD-FONDO-2-300x169.jpg",
+        "group": "CINE Y SERIES",
+        "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
+        "url": "http://45.184.87.142:8000/play/a03e"
       },
       {
         "name": "USA",
@@ -3618,11 +3632,11 @@
         "url": "http://tvdirecto.pro:8080/live/948068511/8noplifre/5648.m3u"
       },
       {
-        "name": "24/7 BUGS BUNNY",
-        "logo": "http://oaktvpro.club:50003/images/d0fb55f7458aab1198dab0944b0a1034.jpg",
+        "name": "El Superagente 86",
+        "logo": "http://oaktvpro.club:50003/images/db690694f7e26942e9c9feaf4427045c.jpg",
         "group": "24/7",
         "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
-        "url": "http://tvdirecto.pro:8080/live/948068511/8noplifre/5634.m3u"
+        "url": "http://tvdirecto.pro:8080/live/948068511/8noplifre/5567.m3u"
       },
       {
         "name": "The Big Bang Theory",
@@ -3707,16 +3721,16 @@
         "group": "24/7",
         "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
         "url": "http://tv.zeuspro.xyz:8080/Juan1/DPDNFED9Xr/94868"
+      },
+      {
+        "name": "DRAGON BALL",
+        "logo": "https://imgs.search.brave.com/fDsZ4jRets0bQnsgu_dCVTaa9wUKjUJkWQ-Rm0_HP58/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzg4L2Rl/L2MwLzg4ZGVjMGUy/YzZmM2YzMGJhNDE1/N2U5M2M3NWRmNzAx/LmpwZw",
+        "group": "24/7",
+        "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
+        "url": "http://45.184.87.142:8000/play/a05k"
       }
     ],
     " 24/7": [
-      {
-        "name": "El Superagente 86",
-        "logo": "http://oaktvpro.club:50003/images/db690694f7e26942e9c9feaf4427045c.jpg",
-        "group": " 24/7",
-        "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
-        "url": "http://tvdirecto.pro:8080/live/948068511/8noplifre/5567.m3u"
-      },
       {
         "name": "El Chapulín Colorado",
         "logo": "http://oaktvpro.club:50003/images/86c90219afa44b32031283a0a2382952.jpg",
@@ -3726,6 +3740,13 @@
       }
     ],
     "ADULTOS": [
+      {
+        "name": "group-title=\"ADULTOS\", PORNSTARLOVEGIRLS",
+        "logo": "https://buddytv.netlify.app/img/no-logo.png",
+        "group": "ADULTOS",
+        "source": "https://raw.githubusercontent.com/demons-777/miptv/refs/heads/main/miptv",
+        "url": "http://206.212.244.71:8080/4wVQA7/625159/159952"
+      },
       {
         "name": "PLAYBOY",
         "logo": "https://i.postimg.cc/g20rGxF9/18.png",
