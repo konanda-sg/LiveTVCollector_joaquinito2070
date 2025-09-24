@@ -6,6 +6,12 @@
     "img": "https://i.ibb.co/8YJPCnv/FB-IMG-1676125032376.jpg"
   },
   {
+    "name": "Deepto TV",
+    "type": "Live Tv",
+    "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8",
+    "img": "https://images.seeklogo.com/logo-png/51/1/deepto-tv-logo-png_seeklogo-513994.png"
+  },
+  {
     "name": "Star Jalsha HD",
     "type": "Live Tv",
     "url": "http://filex.me:8080//live/1234567890/1234567890/522665.ts",
@@ -28,12 +34,6 @@
     "type": "Live Tv",
     "url": "https://tiger-hub.vercel.app/Jalsha_movies/tracks-v1a1/mono.ts.m3u8",
     "img": "https://jiotvimages.cdn.jio.com/dare_images/images/200/-/Jalsa_Movies_HD.png"
-  },
-  {
-    "name": "Deepto TV",
-    "type": "Live Tv",
-    "url": "https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8",
-    "img": "https://images.seeklogo.com/logo-png/51/1/deepto-tv-logo-png_seeklogo-513994.png"
   },
   {
     "name": "Sun Bangla",
@@ -60,16 +60,16 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "Zee Cinema hd",
-    "type": "Live Tv",
-    "url": "https://tiger-hub.vercel.app/Zee-Cinema-__/tracks-v1a1/mono.ts.m3u8",
-    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq_a5GUKWmket0zm6U8agmoe2rAha7PFYW3JmYF_x0FhXcNiskUpKyTCka&s=10"
-  },
-  {
     "name": "Colors",
     "type": "Live Tv",
     "url": "http://filex.me:8080//live/1234567890/1234567890/499616.ts",
     "img": "https://static.wikia.nocookie.net/logopedia/images/6/63/Colors_HD.svg/revision/latest/scale-to-width-down/250?cb=20210207143514"
+  },
+  {
+    "name": "Zee Cinema hd",
+    "type": "Live Tv",
+    "url": "https://tiger-hub.vercel.app/Zee-Cinema-__/tracks-v1a1/mono.ts.m3u8",
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQq_a5GUKWmket0zm6U8agmoe2rAha7PFYW3JmYF_x0FhXcNiskUpKyTCka&s=10"
   },
   {
     "name": "& picture hd",
@@ -78,15 +78,27 @@
     "img": "https://logowik.com/content/uploads/images/pictures-hd4628.logowik.com.webp"
   },
   {
+    "name": "Colors Cineplex Bollywood",
+    "type": "Live Tv",
+    "url": "http://66.102.120.18:8000/play/a01a/index.m3u8",
+    "img": "https://jiotvimages.cdn.jio.com/dare_images/images/Colors_Cineplex_Bollywood.png"
+  },
+  {
+    "name": "Hum TV",
+    "type": "Live Tv",
+    "url": "http://app.hughag.store/api/4518a8c92f/playlist.m3u8",
+    "img": "https://upload.wikimedia.org/wikipedia/en/e/e4/Hum_TV_2013.png"
+  },
+  {
     "name": "Star Plus HD",
     "type": "Live Tv",
     "url": "https://portal-to-m3u-07.iptv07india.workers.dev/play.m3u8?id=3070",
     "img": "https://upload.wikimedia.org/wikipedia/en/d/d7/StarPlus_Logo.png"
   },
   {
-    "name": "Doreamon",
+    "name": "Tom & Jerry",
     "type": "Live Tv",
-    "url": "https://cloudfrontnet.vercel.app/tplay/playout/209902/master.m3u8",
+    "url": "https://tiger-hub.vercel.app/24×7_Tom&Jerry/tracks-v1a1/mono.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
@@ -96,9 +108,9 @@
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
-    "name": "Tom & Jerry",
+    "name": "Doreamon",
     "type": "Live Tv",
-    "url": "https://tiger-hub.vercel.app/24×7_Tom&Jerry/tracks-v1a1/mono.m3u8",
+    "url": "https://cloudfrontnet.vercel.app/tplay/playout/209902/master.m3u8",
     "img": "https://buddytv.netlify.app/img/no-logo.png"
   },
   {
